@@ -1,3 +1,19 @@
+Atbulinis lietuvių kalbos žodynas – https://atbulinis.lt
+Sudarė Algimantas Sabaliauskas, 2026.
+
+Žodžių sąrašas (atbulinis.txt, atbulinis_lygiuotas.txt, PDF ir index.html duomenys)
+platinamas pagal Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+licenciją: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Naudoti šaltiniai:
+- ispell-lt (https://github.com/ispell-lt/ispell-lt), BSD licencija – jos tekstas žemiau;
+- Universal Dependencies lietuvių tekstynai ALKSNIS ir HSE, CC BY-SA 4.0;
+- UniMorph lit (https://github.com/unimorph/lit), CC BY-SA 3.0;
+- spaCy lookups data (https://github.com/explosion/spacy-lookups-data), MIT licencija.
+
+----------------------------------------------------------------------
+ispell-lt licencija:
+
 Copyright (c) 2000-2020, Albertas Agejevas and contributors.
 All rights reserved.
 
