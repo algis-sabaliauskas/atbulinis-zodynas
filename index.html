@@ -37,6 +37,18 @@ main{max-width:1100px;margin:0 auto;padding:6px 20px 30px}
 .cols{column-width:12.5em;column-gap:2em;column-rule:1px solid var(--line)}
 .w{text-align:right;line-height:1.5;font-size:1.05rem;white-space:nowrap;break-inside:avoid}
 .w.p{color:var(--acc)}
+.w{cursor:pointer}.w:hover,.w:focus{color:var(--acc);outline:none;text-decoration:underline dotted}
+#info{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;z-index:20;padding:16px}
+#info[hidden]{display:none}
+#infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
+#infobox h3{margin:0 0 4px;font-size:1.8rem;font-weight:normal}
+#infobox .hint{color:var(--mut);font-size:.9rem;margin:0 0 14px}
+#infobox a{display:block;padding:9px 12px;margin:6px 0;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--fg)}
+#infobox a:hover{border-color:var(--acc);color:var(--acc)}
+#infobox a small{display:block;color:var(--mut);font-size:.8rem}
+#infobox .row{display:flex;justify-content:space-between;align-items:center;margin-top:12px;gap:8px}
+#infobox button{font:inherit;padding:6px 14px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:6px;cursor:pointer}
+#cpmsg{color:var(--mut);font-size:.85rem}
 .w b{font-weight:bold;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
 #more[hidden]{display:none}
 #more{display:block;margin:20px auto 0;font:inherit;padding:8px 18px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:6px;cursor:pointer}
@@ -49,7 +61,7 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 </style></head><body>
 <header>
 <h1>Atbulinis lietuvių kalbos žodynas</h1>
-<p class="sub"><span id="total"></span> <span id="tw">žodžių, surikiuotų</span> nuo galo pagal lietuvių abėcėlę. Įveskite galūnę ir pamatysite visus taip besibaigiančius žodžius.</p>
+<p class="sub"><span id="total"></span> <span id="tw">žodžių, surikiuotų</span> nuo galo pagal lietuvių abėcėlę. Įveskite galūnę ir pamatysite visus taip besibaigiančius žodžius. Paspaudę žodį, rasite jo reikšmę ir kilmę.</p>
 </header>
 <div class="ctrl"><div class="ctrlin">
 <input type="search" id="q" placeholder="pvz. ūras, ininkas, tuvas" autocomplete="off" spellcheck="false" aria-label="Paieška">
@@ -62,10 +74,21 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <div class="letters" id="letters" aria-label="Paskutinė raidė"></div>
 <div class="stat"><span id="count"></span><button id="copy" type="button">Kopijuoti sąrašą</button><span id="copied"></span></div>
 <main><noscript><p>Paieškai reikia įjungti JavaScript. Visą žodyną galite atsisiųsti: <a href="Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><button id="more" hidden>Rodyti daugiau</button></main>
+<div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
+<h3 id="iw"></h3>
+<p class="hint">Žodžio reikšmė ir kilmė kituose žodynuose:</p>
+<a id="l-en" target="_blank" rel="noopener">Wiktionary (anglų k.)<small>Dažnai su skyreliu „Etymology“ – žodžio kilme</small></a>
+<a id="l-lt" target="_blank" rel="noopener">Vikižodynas (lietuvių k.)<small>Reikšmės, formos, vertimai</small></a>
+<a id="l-et" target="_blank" rel="noopener">VU etimologinio žodyno duomenų bazė<small>Žodžio kilmė</small></a>
+<a id="l-bg" target="_blank" rel="noopener">K. Būgos etimologinio žodyno kartoteka<small>Rankraštinės kortelės apie žodžio kilmę</small></a>
+<a id="l-lkz" target="_blank" rel="noopener">Lietuvių kalbos žodynas (LKŽ)<small>Reikšmės, tarmių ir senųjų raštų pavyzdžiai</small></a>
+<div class="row"><span id="cpmsg"></span><button id="iclose" type="button">Uždaryti</button></div>
+</div></div>
 <section class="about">
 <h2>Kas yra atbulinis žodynas?</h2>
 <p><b>Atbulinis žodynas</b> dar vadinamas <b>atgaliniu</b>, <b>atvirkštiniu</b> arba <b>inversiniu</b> žodynu (angl. <i>reverse dictionary</i>). Visi šie pavadinimai reiškia tą patį.</p>
 <p>Tokiame žodyne žodžiai rikiuojami ne nuo pirmos, o nuo paskutinės raidės: pirmiausia pagal paskutinę raidę, paskui pagal priešpaskutinę ir t. t. Todėl greta atsiduria žodžiai su ta pačia galūne ar priesaga – pvz., <i>kaba, pakaba, priekaba, įkaba</i>. Žodžiai lygiuojami dešinėje, kad bendros pabaigos būtų matyti iš karto.</p>
+<p><b>Paspauskite bet kurį žodį</b> – atsidarys nuorodos į jo reikšmę ir kilmę kituose žodynuose: Wiktionary, Vikižodyne, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
 <p>Kam pravers: ieškant <b>rimų</b> eilėraščiams ir dainoms, sprendžiant <b>kryžiažodžius</b>, tyrinėjant <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), mokant ir mokantis lietuvių kalbos.</p>
 <p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas David F. Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 89 305 žodžius kartu su tikriniais vardais.</p>
 <p>Atsisiųsti visą žodyną: <a href="Atbulinis_lietuviu_zodynas.pdf">PDF spausdinimui</a> · <a href="atbulinis_lygiuotas.txt">TXT, sulygiuotas</a> · <a href="atbulinis.txt">TXT, paprastas sąrašas</a></p>
@@ -145,10 +168,26 @@ function render(){
   const out=$("out");
   if(!n){out.innerHTML='<div class="empty">Tokių žodžių nerasta.</div>';$("more").hidden=true;return;}
   let h="";const m=Math.min(n,shown);
-  for(let k=0;k<m;k++){const i=res[k];h+='<div class="w'+(P[i]?" p":"")+'">'+hl(i,q)+"</div>";}
+  for(let k=0;k<m;k++){const i=res[k];h+='<div class="w'+(P[i]?" p":"")+'" data-i="'+i+'" tabindex="0" role="button">'+hl(i,q)+"</div>";}
   out.innerHTML=h;$("more").hidden=n<=shown;
 }
 $("more").onclick=()=>{shown+=STEP*2;render();};
+let cur="";
+function openInfo(i){cur=W[i];$("iw").textContent=cur;$("cpmsg").textContent="";
+  const e=encodeURIComponent(cur);
+  $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
+  $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
+  $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
+  $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
+  $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;
+  $("info").hidden=false;$("iclose").focus();}
+function closeInfo(){$("info").hidden=true;}
+$("out").addEventListener("click",e=>{const d=e.target.closest(".w");if(d&&d.dataset.i)openInfo(+d.dataset.i);});
+$("out").addEventListener("keydown",e=>{if(e.key==="Enter"){const d=e.target.closest(".w");if(d&&d.dataset.i){e.preventDefault();openInfo(+d.dataset.i);}}});
+$("iclose").onclick=closeInfo;
+$("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
+
 let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120);});
 $("common").onchange=run;$("proper").onchange=run;
 $("copy").onclick=async()=>{
