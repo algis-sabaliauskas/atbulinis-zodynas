@@ -12,6 +12,7 @@ Sudarė **Algimantas Sabaliauskas**, 2026.
 | `Atbulinis_lietuviu_zodynas.pdf` | Visas žodynas spausdinimui (322 psl.) |
 | `atbulinis_lygiuotas.txt` | Žodžiai, sulygiuoti dešinėje (žiūrėti vienodo pločio šriftu) |
 | `atbulinis.txt` | Paprastas sąrašas, po vieną žodį eilutėje |
+| `rimai/` | Rimų paieškos duomenys: ~2,1 mln. žodžių formų (linksniai, asmenys), sugeneruotų iš ispell-lt, padalyti į 20 failų |
 | `LICENSE` | Licencija (CC BY-SA 4.0) ir šaltinių licencijos |
 | `robots.txt` | Leidžia paieškos sistemoms indeksuoti svetainę |
 
