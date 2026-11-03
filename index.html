@@ -28,6 +28,9 @@ input[type=search]:focus{outline:2px solid var(--acc);outline-offset:1px}
 .seg button+button{border-left:1px solid var(--line)}
 .seg button[aria-pressed=true]{background:var(--acc);color:#fff}
 label.chk{display:inline-flex;gap:6px;align-items:center;font-size:.95rem;cursor:pointer}
+@media (max-width:600px){.seg{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.seg button{padding:8px 4px;border-left:0!important;border-top:1px solid var(--line)}.seg button:nth-child(-n+3){border-top:0}.seg button:not(:nth-child(3n+1)){border-left:1px solid var(--line)!important}}
+.help{padding-top:0;color:var(--mut);font-size:.9rem}
+select{font:inherit;font-size:.95rem;padding:6px 6px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}
 .letters{max-width:1100px;margin:0 auto;padding:10px 20px 0;display:flex;flex-wrap:wrap;gap:4px}
 .letters button{font:inherit;min-width:2.2em;padding:4px 6px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:4px;cursor:pointer}
 .letters button:hover,.letters button.on{border-color:var(--acc);color:var(--acc)}
@@ -66,11 +69,12 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <div class="ctrl"><div class="ctrlin">
 <input type="search" id="q" placeholder="pvz. ūras, ininkas, tuvas" autocomplete="off" spellcheck="false" aria-label="Paieška">
 <div class="seg" role="group" aria-label="Paieškos būdas">
-<button data-m="end" aria-pressed="true">Baigiasi</button><button data-m="start" aria-pressed="false">Prasideda</button><button data-m="any" aria-pressed="false">Turi</button>
+<button data-m="end" aria-pressed="true">Baigiasi</button><button data-m="start" aria-pressed="false">Prasideda</button><button data-m="any" aria-pressed="false">Turi</button><button data-m="pat" aria-pressed="false" title="Kryžiažodžiams: ? – bet kuri raidė, * – bet kiek raidžių">Šablonas</button><button data-m="ana" aria-pressed="false" title="Žodžiai, kuriuos galima sudėlioti iš nurodytų raidžių">Anagramos</button>
 </div>
+<label class="chk">ilgis <select id="len" aria-label="Žodžio ilgis"><option value="">bet koks</option></select></label>
 <label class="chk"><input type="checkbox" id="common" checked> bendriniai</label>
 <label class="chk"><input type="checkbox" id="proper" checked> tikriniai vardai</label>
-</div></div>
+</div><div class="ctrlin help" id="help"></div></div>
 <div class="letters" id="letters" aria-label="Paskutinė raidė"></div>
 <div class="stat"><span id="count"></span><button id="copy" type="button">Kopijuoti sąrašą</button><span id="copied"></span></div>
 <main><noscript><p>Paieškai reikia įjungti JavaScript. Visą žodyną galite atsisiųsti: <a href="Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><button id="more" hidden>Rodyti daugiau</button></main>
@@ -89,6 +93,7 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <p><b>Atbulinis žodynas</b> dar vadinamas <b>atgaliniu</b>, <b>atvirkštiniu</b> arba <b>inversiniu</b> žodynu (angl. <i>reverse dictionary</i>). Visi šie pavadinimai reiškia tą patį.</p>
 <p>Tokiame žodyne žodžiai rikiuojami ne nuo pirmos, o nuo paskutinės raidės: pirmiausia pagal paskutinę raidę, paskui pagal priešpaskutinę ir t. t. Todėl greta atsiduria žodžiai su ta pačia galūne ar priesaga – pvz., <i>kaba, pakaba, priekaba, įkaba</i>. Žodžiai lygiuojami dešinėje, kad bendros pabaigos būtų matyti iš karto.</p>
 <p><b>Paspauskite bet kurį žodį</b> – atsidarys nuorodos į jo reikšmę ir kilmę kituose žodynuose: Wiktionary, Vikižodyne, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
+<p><b>Paieškos būdai:</b> „Baigiasi“, „Prasideda“, „Turi“; <b>„Šablonas“</b> kryžiažodžiams (<i>?</i> – bet kuri raidė, <i>*</i> – bet kiek raidžių, pvz. <i>?a?as</i>); <b>„Anagramos“</b> – žodžiai, sudėliojami iš nurodytų raidžių. Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz. <a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>.</p>
 <p>Kam pravers: ieškant <b>rimų</b> eilėraščiams ir dainoms, sprendžiant <b>kryžiažodžius</b>, tyrinėjant <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), mokant ir mokantis lietuvių kalbos.</p>
 <p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas David F. Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 89 305 žodžius kartu su tikriniais vardais.</p>
 <p>Atsisiųsti visą žodyną: <a href="Atbulinis_lietuviu_zodynas.pdf">PDF spausdinimui</a> · <a href="atbulinis_lygiuotas.txt">TXT, sulygiuotas</a> · <a href="atbulinis.txt">TXT, paprastas sąrašas</a></p>
@@ -143,26 +148,48 @@ for(const c of ALPH){const b=document.createElement("button");b.textContent="–
 lb.addEventListener("click",e=>{const c=e.target.dataset.c;if(!c)return;mode="end";setMode();$("q").value=c;run();});
 function setMode(){document.querySelectorAll(".seg button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.m===mode));}
 document.querySelectorAll(".seg button").forEach(b=>b.onclick=()=>{mode=b.dataset.m;setMode();run();});
+const HELP={end:"Rodomi žodžiai, kurie baigiasi įvestomis raidėmis.",start:"Rodomi žodžiai, kurie prasideda įvestomis raidėmis.",any:"Rodomi žodžiai, kuriuose yra įvestos raidės.",
+ pat:"Kryžiažodžiams: <b>?</b> – bet kuri viena raidė, <b>*</b> – bet kiek raidžių. Pvz. <b>?a?as</b> – penkių raidžių žodžiai, kurių antroji raidė „a“, o galas „-as“.",
+ ana:"Įveskite raides – bus rodomi žodžiai, kuriuos iš jų galima sudėlioti (ilgiausi pirmiau). <b>?</b> – bet kuri raidė. Norėdami tik tikslių anagramų, pasirinkite ilgį, lygų raidžių skaičiui."};
+const PH={end:"pvz. ūras, ininkas, tuvas",start:"pvz. kalb, nusi",any:"pvz. kalb",pat:"pvz. ?a?as, k*tuvas",ana:"pvz. sakalas"};
+const LS=$("len");for(let n=2;n<=25;n++){const o=document.createElement("option");o.value=n;o.textContent=n+" raid.";LS.appendChild(o);}
+function patRe(q){return new RegExp("^"+q.replace(/[.+^${}()|[\]\\]/g,"\\$&").replace(/\?/g,".").replace(/\*/g,".*")+"$");}
+function anaFn(q){const need={};let wild=0;for(const c of q){if(c==="?")wild++;else need[c]=(need[c]||0)+1;}
+  return l=>{if(l.length>q.length)return false;const h={};let miss=0;for(const c of l){h[c]=(h[c]||0)+1;if(h[c]>(need[c]||0))miss++;}return miss<=wild;};}
 function run(){
-  const q=$("q").value.trim().toLowerCase(),c=$("common").checked,p=$("proper").checked;
+  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,p=$("proper").checked,len=+LS.value||0;
+  $("help").innerHTML="<span>"+HELP[mode]+"</span>";$("q").placeholder=PH[mode];
+  let test=null;
+  if(q){if(mode==="end")test=l=>l.endsWith(q);else if(mode==="start")test=l=>l.startsWith(q);else if(mode==="any")test=l=>l.includes(q);
+    else if(mode==="pat"){const re=patRe(q);test=l=>re.test(l);}else test=anaFn(q);}
   res=[];
   for(let i=0;i<W.length;i++){
     if(P[i]?!p:!c)continue;
-    if(q){const l=L[i];if(mode==="end"?!l.endsWith(q):mode==="start"?!l.startsWith(q):!l.includes(q))continue;}
+    const l=L[i];
+    if(len&&l.length!==len)continue;
+    if(test&&!test(l))continue;
     res.push(i);
   }
-  if(mode==="start"&&q)res.sort((a,b)=>L[a].localeCompare(L[b],"lt")||(P[a]-P[b]));
+  if(q&&(mode==="start"||mode==="pat"))res.sort((a,b)=>L[a].localeCompare(L[b],"lt")||(P[a]-P[b]));
+  if(q&&mode==="ana")res.sort((a,b)=>(L[b].length-L[a].length)||L[a].localeCompare(L[b],"lt"));
   letter=(mode==="end"&&q.length===1)?q:"";
   lb.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.c===letter));
+  saveUrl(q,len);
   shown=STEP;render();
 }
+function saveUrl(q,len){try{const u=new URLSearchParams();if(q)u.set("q",q);if(mode!=="end")u.set("m",mode);if(len)u.set("ilgis",len);
+  if(!$("common").checked)u.set("bendriniai","ne");if(!$("proper").checked)u.set("tikriniai","ne");
+  const s=u.toString();history.replaceState(null,"",location.pathname+(s?"?"+s:""));}catch(e){}}
+function loadUrl(){try{const u=new URLSearchParams(location.search);if(u.get("q"))$("q").value=u.get("q");
+  const m=u.get("m");if(m&&HELP[m])mode=m;const l=u.get("ilgis");if(l)LS.value=l;
+  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("proper").checked=false;setMode();}catch(e){}}
 function hl(i,q){
-  const w=W[i],l=L[i];if(!q)return w;
+  const w=W[i],l=L[i];if(!q||mode==="pat"||mode==="ana")return w;
   let s=mode==="end"?w.length-q.length:mode==="start"?0:l.indexOf(q);
   return w.slice(0,s)+"<b>"+w.slice(s,s+q.length)+"</b>"+w.slice(s+q.length);
 }
 function render(){
-  const q=$("q").value.trim().toLowerCase();
+  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,"");
   const n=res.length;
   $("count").textContent=n?("Rasta: "+n.toLocaleString("lt-LT")+(n>shown?" (rodoma "+shown.toLocaleString("lt-LT")+")":"")):"";
   const out=$("out");
@@ -189,11 +216,11 @@ $("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
 
 let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120);});
-$("common").onchange=run;$("proper").onchange=run;
+$("common").onchange=run;$("proper").onchange=run;LS.onchange=run;
 $("copy").onclick=async()=>{
   try{await navigator.clipboard.writeText(res.map(i=>W[i]).join("\n"));$("copied").textContent="Nukopijuota ("+res.length.toLocaleString("lt-LT")+")";}
   catch(e){$("copied").textContent="Nepavyko nukopijuoti";}
   setTimeout(()=>$("copied").textContent="",2500);
 };
-run();
+loadUrl();run();
 </script></body></html>
