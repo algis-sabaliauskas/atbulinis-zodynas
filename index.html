@@ -100,6 +100,7 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 </section>
 <footer>
 <p>Sudarė <b>Algimantas Sabaliauskas</b>, 2026.</p>
+<p>Lankomumas ir paieškų statistika skaičiuojami anonimiškai su <a href="https://www.goatcounter.com/">GoatCounter</a> – be slapukų ir be asmens duomenų.</p>
 <p>Žodžių šaltiniai (visi su atvira licencija):</p>
 <ul>
 <li>Pagrindinis – lietuvių kalbos rašybos tikrinimo žodynas <a href="https://github.com/ispell-lt/ispell-lt">ispell-lt</a> (A. Agejevas, L. Vėbra ir kt., BSD licencija), naudojamas LibreOffice ir Firefox. Iš jo taip pat sugeneruotos priešdėlinių ir sangrąžinių veiksmažodžių bendratys (pvz., <i>sumažinti, nusišypsoti, juoktis</i>).</li>
@@ -172,6 +173,11 @@ async function runRim(q,len,c,p){
   shown=STEP;render();
 }
 let RW=null,rkey="";
+const MNAME={end:"Baigiasi",start:"Prasideda",any:"Turi",pat:"Šablonas",ana:"Anagramos",rim:"Rimai"};
+function track(path,title){try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:path.slice(0,80),title:title||path,event:true});}catch(e){}}
+let trkT,lastTrk="";
+function trackSearch(q){clearTimeout(trkT);if(!q||q.length<2)return;trkT=setTimeout(()=>{const k=mode+"|"+q;if(k===lastTrk)return;lastTrk=k;
+  track("būdas: "+MNAME[mode],"Paieškos būdas: "+MNAME[mode]);track(MNAME[mode].toLowerCase()+": "+q,MNAME[mode]+": "+q);},1500);}
 const HELP={end:"Rodomi žodžiai, kurie baigiasi įvestomis raidėmis.",start:"Rodomi žodžiai, kurie prasideda įvestomis raidėmis.",any:"Rodomi žodžiai, kuriuose yra įvestos raidės.",
  pat:"Kryžiažodžiams: <b>?</b> – bet kuri viena raidė, <b>*</b> – bet kiek raidžių. Pvz. <b>?a?as</b> – penkių raidžių žodžiai, kurių antroji raidė „a“, o galas „-as“.",
  rim:"Įveskite žodį – bus rodomi su juo besirimuojantys žodžiai su visomis linksnių ir asmenų formomis (geriausi rimai pirmiau). Kirčio žodyne nėra, todėl rimai parenkami pagal raides – patikrinkite skaitydami garsiai.",
@@ -185,7 +191,7 @@ function run(){
   const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,p=$("proper").checked,len=+LS.value||0;
   $("help").innerHTML="<span>"+HELP[mode]+"</span>";$("q").placeholder=PH[mode];
   $("sklab").hidden=mode!=="rim";
-  if(mode==="rim"){letter="";lb.querySelectorAll("button").forEach(b=>b.classList.remove("on"));saveUrl(q,len);runRim(q,len,c,p);return;}
+  if(mode==="rim"){letter="";lb.querySelectorAll("button").forEach(b=>b.classList.remove("on"));saveUrl(q,len);trackSearch(q);runRim(q,len,c,p);return;}
   RW=null;
   let test=null;
   if(q){if(mode==="end")test=l=>l.endsWith(q);else if(mode==="start")test=l=>l.startsWith(q);else if(mode==="any")test=l=>l.includes(q);
@@ -202,7 +208,7 @@ function run(){
   if(q&&mode==="ana")res.sort((a,b)=>(L[b].length-L[a].length)||L[a].localeCompare(L[b],"lt"));
   letter=(mode==="end"&&q.length===1)?q:"";
   lb.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.c===letter));
-  saveUrl(q,len);
+  saveUrl(q,len);trackSearch(q);
   shown=STEP;render();
 }
 function saveUrl(q,len){try{const u=new URLSearchParams();if(q)u.set("q",q);if(mode!=="end")u.set("m",mode);if(len)u.set("ilgis",len);if(mode==="rim"&&$("sk").value!=="2")u.set("sk",$("sk").value);
@@ -241,6 +247,7 @@ function closeInfo(){$("info").hidden=true;}
 $("out").addEventListener("click",e=>{const d=e.target.closest(".w");if(!d)return;if(d.dataset.r&&RW)openInfo(0,RW[+d.dataset.r][0]);else if(d.dataset.i)openInfo(+d.dataset.i);});
 $("out").addEventListener("keydown",e=>{if(e.key==="Enter"){const d=e.target.closest(".w");if(!d)return;e.preventDefault();if(d.dataset.r&&RW)openInfo(0,RW[+d.dataset.r][0]);else if(d.dataset.i)openInfo(+d.dataset.i);}});
 $("iclose").onclick=closeInfo;
+document.querySelectorAll("#infobox a").forEach(a=>a.addEventListener("click",()=>{const t=a.firstChild.textContent.trim();track("nuoroda: "+t,"Nuoroda: "+t);}));
 $("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
 
@@ -252,4 +259,5 @@ $("copy").onclick=async()=>{
   setTimeout(()=>$("copied").textContent="",2500);
 };
 loadUrl();run();
-</script></body></html>
+</script><script data-goatcounter="https://atbulinis.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
