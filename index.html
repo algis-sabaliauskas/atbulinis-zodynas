@@ -12,8 +12,8 @@
 <meta property="og:description" content="89 tūkst. lietuvių kalbos žodžių, surikiuotų nuo galo. Paieška pagal galūnę.">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Atbulinis lietuvių kalbos žodynas","alternateName":["Atgalinis lietuvių kalbos žodynas","Atvirkštinis lietuvių kalbos žodynas","Inversinis lietuvių kalbos žodynas","Lithuanian reverse dictionary"],"description":"Lietuvių kalbos žodžių sąrašas, surikiuotas nuo žodžio galo (atbulinis žodynas), su paieška pagal galūnę.","inLanguage":"lt","url":"https://atbulinis.lt/","creator":{"@type":"Person","name":"Algimantas Sabaliauskas"},"isBasedOn":["https://github.com/ispell-lt/ispell-lt","https://universaldependencies.org/","https://unimorph.github.io/"],"license":"https://creativecommons.org/licenses/by-sa/4.0/","keywords":["atbulinis žodynas","atgalinis žodynas","atvirkštinis žodynas","inversinis žodynas","lietuvių kalba","galūnės","rimai","kryžiažodžiai"]}</script>
 <style>
-:root{--bg:#faf8f3;--fg:#1d1b17;--mut:#6b655a;--line:#ddd6c8;--acc:#8a3b12;--card:#fff}
-@media (prefers-color-scheme:dark){:root{--bg:#1a1916;--fg:#ece7dc;--mut:#a39c8e;--line:#3a372f;--acc:#e8935f;--card:#23211d}}
+:root{--bg:#faf8f3;--fg:#1d1b17;--mut:#6b655a;--line:#ddd6c8;--acc:#8a3b12;--card:#fff;--hov:#e6eef7}
+@media (prefers-color-scheme:dark){:root{--bg:#1a1916;--fg:#ece7dc;--mut:#a39c8e;--line:#3a372f;--acc:#e8935f;--card:#23211d;--hov:#2c3540}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:Georgia,"DejaVu Serif","Times New Roman",serif}
 header{padding:28px 20px 8px;max-width:1100px;margin:0 auto}
@@ -29,6 +29,7 @@ input[type=search]:focus{outline:2px solid var(--acc);outline-offset:1px}
 .seg button[aria-pressed=true]{background:var(--acc);color:#fff}
 label.chk{display:inline-flex;gap:6px;align-items:center;font-size:.95rem;cursor:pointer}
 @media (max-width:600px){.seg{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.seg button{padding:8px 4px;border-left:0!important;border-top:1px solid var(--line)}.seg button:nth-child(-n+3){border-top:0}.seg button:not(:nth-child(3n+1)){border-left:1px solid var(--line)!important}}
+label.chk[hidden]{display:none}
 .help{padding-top:0;color:var(--mut);font-size:.9rem}
 select{font:inherit;font-size:.95rem;padding:6px 6px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}
 .letters{max-width:1100px;margin:0 auto;padding:10px 20px 0;display:flex;flex-wrap:wrap;gap:4px}
@@ -40,7 +41,7 @@ main{max-width:1100px;margin:0 auto;padding:6px 20px 30px}
 .cols{column-width:12.5em;column-gap:2em;column-rule:1px solid var(--line)}
 .w{text-align:right;line-height:1.5;font-size:1.05rem;white-space:nowrap;break-inside:avoid}
 .w.p{color:var(--acc)}
-.w{cursor:pointer}.w:hover,.w:focus{color:var(--acc);outline:none;text-decoration:underline dotted}
+.w{cursor:pointer}.w{border-radius:4px;padding:0 4px;margin:0 -4px}.w:hover,.w:focus{background:var(--hov);outline:none}
 #info{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;z-index:20;padding:16px}
 #info[hidden]{display:none}
 #infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
