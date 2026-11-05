@@ -9,6 +9,8 @@ Sudarė **Algimantas Sabaliauskas**, 2026.
 | Failas | Kas tai |
 |---|---|
 | `index.html` | Interaktyvus žodynas su paieška (atsidaro kaip svetainės pradinis puslapis) |
+| `en/index.html` | Angliška svetainės versija (atbulinis.lt/en/) |
+| `zodziai.js` | Žodžių sąrašas, kurį naudoja abi svetainės versijos |
 | `Atbulinis_lietuviu_zodynas.pdf` | Visas žodynas spausdinimui (322 psl.) |
 | `atbulinis_lygiuotas.txt` | Žodžiai, sulygiuoti dešinėje (žiūrėti vienodo pločio šriftu) |
 | `atbulinis.txt` | Paprastas sąrašas, po vieną žodį eilutėje |
