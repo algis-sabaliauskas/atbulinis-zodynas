@@ -49,7 +49,7 @@ main{max-width:1100px;margin:0 auto;padding:6px 20px 30px}
 .w{cursor:pointer}.w{border-radius:4px;padding:0 4px;margin:0 -4px}.w:hover,.w:focus{background:var(--hov);outline:none}
 #info{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;z-index:20;padding:16px}
 #info[hidden]{display:none}
-#infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
+#infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25);max-height:calc(100vh - 32px);overflow:auto}
 #infobox h3{margin:0 0 4px;font-size:1.8rem;font-weight:normal}
 #infobox .hint{color:var(--mut);font-size:.9rem;margin:0 0 14px}
 #infobox a{display:block;padding:9px 12px;margin:6px 0;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--fg)}
@@ -87,7 +87,9 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <main><noscript><p>Search requires JavaScript. You can download the full dictionary: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><button id="more" hidden>Show more</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
 <h3 id="iw"></h3>
-<p class="hint">Meaning and etymology in other dictionaries:</p>
+<p class="hint">Translation, meaning and etymology:</p>
+<a id="l-gl" target="_blank" rel="noopener">Glosbe (Lithuanian–English)<small>English translations with example sentences</small></a>
+<a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Quick English translation – works for inflected forms too</small></a>
 <a id="l-en" target="_blank" rel="noopener">Wiktionary (English)<small>Often includes an Etymology section</small></a>
 <a id="l-lt" target="_blank" rel="noopener">Vikižodynas (Lithuanian Wiktionary)<small>Meanings, forms, translations – in Lithuanian</small></a>
 <a id="l-et" target="_blank" rel="noopener">Vilnius University etymological database<small>Etymology of Lithuanian words – in Lithuanian</small></a>
@@ -98,7 +100,7 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <section class="about">
 <h2>What is a reverse dictionary?</h2>
 <p>A <b>reverse dictionary</b> (also called an <i>a tergo</i> or inverse dictionary; Lithuanian <i>atbulinis</i>, <i>atgalinis</i>, <i>atvirkštinis</i> or <i>inversinis žodynas</i>) sorts words not from the first letter but from the last: first by the final letter, then by the second-to-last, and so on. Words with the same ending or suffix therefore end up next to each other – e.g. <i>kaba, pakaba, priekaba, įkaba</i>. Words are right-aligned so that shared endings line up.</p>
-<p><b>Click any word</b> to open links to its meaning and etymology in Wiktionary, the Lithuanian Wiktionary, the Vilnius University etymological database, Kazimieras Būga’s etymological card index and the Academic Dictionary of Lithuanian.</p>
+<p><b>Click any word</b> to open links to its English translation (Glosbe, Google Translate), meaning and etymology in Wiktionary, the Lithuanian Wiktionary, the Vilnius University etymological database, Kazimieras Būga’s etymological card index and the Academic Dictionary of Lithuanian.</p>
 <p><b>Search modes:</b> “Ends with”, “Starts with”, “Contains”; <b>“Pattern”</b> for crosswords (<i>?</i> – any letter, <i>*</i> – any number of letters, e.g. <i>?a?as</i>); <b>“Anagrams”</b> – words that can be made from the given letters; <b>“Rhymes”</b> – for poets: rhymes including all case and person forms (about 2.1 million forms). You can limit the word length. Every search has its own address that you can copy and share – e.g. <a href="/en/?q=%C5%ABras">atbulinis.lt/en/?q=ūras</a>.</p>
 <p>Useful for: studying Lithuanian <b>word formation</b> (suffixes such as <i>-ininkas, -tuvas, -ybė</i>), <b>teaching and learning</b> Lithuanian, finding <b>rhymes</b> for poems and songs, and solving <b>crosswords</b>.</p>
 <p>Lithuanian reverse dictionaries have been published in print before. The first was compiled by the American linguist David F. Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), the largest by Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74,081 words). There is also Alvydas Butkus’s <i>Lietuvių pravardžių atvirkštinis žodynas</i> (dictionary of Lithuanian nicknames, 2009). This dictionary continues that tradition: it is freely available online, searchable and contains 89,305 words including proper names.</p>
@@ -246,6 +248,8 @@ function openInfo(i,word){cur=word||W[i];$("iw").textContent=cur;$("cpmsg").text
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
+  $("l-gl").href="https://glosbe.com/lt/en/"+e;
+  $("l-gt").href="https://translate.google.com/?sl=lt&tl=en&text="+e+"&op=translate";
   $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
   $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
   $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;

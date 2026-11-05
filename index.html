@@ -48,7 +48,7 @@ main{max-width:1100px;margin:0 auto;padding:6px 20px 30px}
 .w{cursor:pointer}.w{border-radius:4px;padding:0 4px;margin:0 -4px}.w:hover,.w:focus{background:var(--hov);outline:none}
 #info{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;z-index:20;padding:16px}
 #info[hidden]{display:none}
-#infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
+#infobox{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:10px;max-width:440px;width:100%;padding:22px 22px 16px;box-shadow:0 10px 40px rgba(0,0,0,.25);max-height:calc(100vh - 32px);overflow:auto}
 #infobox h3{margin:0 0 4px;font-size:1.8rem;font-weight:normal}
 #infobox .hint{color:var(--mut);font-size:.9rem;margin:0 0 14px}
 #infobox a{display:block;padding:9px 12px;margin:6px 0;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--fg)}
@@ -86,9 +86,11 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <main><noscript><p>Paieškai reikia įjungti JavaScript. Visą žodyną galite atsisiųsti: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><button id="more" hidden>Rodyti daugiau</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
 <h3 id="iw"></h3>
-<p class="hint">Žodžio reikšmė ir kilmė kituose žodynuose:</p>
+<p class="hint">Reikšmė, kilmė ir vertimas kituose žodynuose:</p>
 <a id="l-en" target="_blank" rel="noopener">Wiktionary (anglų k.)<small>Dažnai su skyreliu „Etymology“ – žodžio kilme</small></a>
 <a id="l-lt" target="_blank" rel="noopener">Vikižodynas (lietuvių k.)<small>Reikšmės, formos, vertimai</small></a>
+<a id="l-gl" target="_blank" rel="noopener">Glosbe (lietuvių–anglų)<small>Vertimai į anglų kalbą su pavyzdžiais</small></a>
+<a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small></a>
 <a id="l-et" target="_blank" rel="noopener">VU etimologinio žodyno duomenų bazė<small>Žodžio kilmė</small></a>
 <a id="l-bg" target="_blank" rel="noopener">K. Būgos etimologinio žodyno kartoteka<small>Rankraštinės kortelės apie žodžio kilmę</small></a>
 <a id="l-lkz" target="_blank" rel="noopener">Lietuvių kalbos žodynas (LKŽ)<small>Reikšmės, tarmių ir senųjų raštų pavyzdžiai</small></a>
@@ -98,7 +100,7 @@ details pre{white-space:pre-wrap;font-size:.78rem}
 <h2>Kas yra atbulinis žodynas?</h2>
 <p><b>Atbulinis žodynas</b> dar vadinamas <b>atgaliniu</b>, <b>atvirkštiniu</b> arba <b>inversiniu</b> žodynu (angl. <i>reverse dictionary</i>). Visi šie pavadinimai reiškia tą patį.</p>
 <p>Tokiame žodyne žodžiai rikiuojami ne nuo pirmos, o nuo paskutinės raidės: pirmiausia pagal paskutinę raidę, paskui pagal priešpaskutinę ir t. t. Todėl greta atsiduria žodžiai su ta pačia galūne ar priesaga – pvz., <i>kaba, pakaba, priekaba, įkaba</i>. Žodžiai lygiuojami dešinėje, kad bendros pabaigos būtų matyti iš karto.</p>
-<p><b>Paspauskite bet kurį žodį</b> – atsidarys nuorodos į jo reikšmę ir kilmę kituose žodynuose: Wiktionary, Vikižodyne, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
+<p><b>Paspauskite bet kurį žodį</b> – atsidarys nuorodos į jo reikšmę ir kilmę kituose žodynuose bei vertimą į anglų kalbą: Wiktionary, Vikižodyne, Glosbe, Google Translate, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
 <p><b>Paieškos būdai:</b> „Baigiasi“, „Prasideda“, „Turi“; <b>„Šablonas“</b> kryžiažodžiams (<i>?</i> – bet kuri raidė, <i>*</i> – bet kiek raidžių, pvz. <i>?a?as</i>); <b>„Anagramos“</b> – žodžiai, sudėliojami iš nurodytų raidžių; <b>„Rimai“</b> – poetams: rimai su visomis linksnių ir asmenų formomis (apie 2,1 mln. formų). Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz. <a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>.</p>
 <p>Kam pravers: tyrinėti <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), <b>mokyti ir mokytis</b> lietuvių kalbos, ieškoti <b>rimų</b> eilėraščiams ir dainoms, spręsti <b>kryžiažodžius</b>.</p>
 <p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas Deividas F. Robinsonas (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 89 305 žodžius kartu su tikriniais vardais.</p>
@@ -246,6 +248,8 @@ function openInfo(i,word){cur=word||W[i];$("iw").textContent=cur;$("cpmsg").text
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
+  $("l-gl").href="https://glosbe.com/lt/en/"+e;
+  $("l-gt").href="https://translate.google.com/?sl=lt&tl=en&text="+e+"&op=translate";
   $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
   $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
   $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;
