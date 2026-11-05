@@ -190,6 +190,12 @@ main{padding:2px 16px 24px}
 #info .links a{border-color:var(--ctl)}#info .links a:hover,#info .links a:focus-visible{border-color:var(--acc);background:var(--hov)}
 .about p,footer p{text-wrap:pretty}footer p{max-width:68ch}
 @media (max-width:640px){.stat button{min-height:40px;padding:0 14px}.chips button,#chips button{min-height:40px}.filters{font-size:.94rem}}
+
+#desc .dsrc{border-left:3px solid var(--acc);background:var(--bg);border-radius:0 var(--r) var(--r) 0;padding:10px 14px;margin:0 0 10px}
+#desc ol{margin:0;padding-left:1.4em;font:1rem/1.45 var(--serif)}#desc li{margin:2px 0}
+#desc .dety{font:.95rem/1.45 var(--serif);margin:8px 0 0}#desc .dety b{font:600 .78rem var(--ui);letter-spacing:.04em;text-transform:uppercase;color:var(--mut)}
+#desc .dfrom{font:.82rem var(--ui);color:var(--mut);margin:8px 0 0}#infobox #desc .dfrom a{all:unset;display:inline;color:var(--acc);text-decoration:underline;text-underline-offset:2px;cursor:pointer}#infobox #desc .dfrom a::after,#infobox #desc .dfrom a::before{content:none;display:none}#infobox #desc .dfrom a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+#desc .dmsg{font:.92rem var(--ui);color:var(--mut);margin:0}
 </style></head><body>
 <header>
 <div class="top"><h1>Lithuanian Reverse Diction<span class="end">ary</span></h1><nav class="lang" aria-label="Language"><a id="langsw" href="/" hreflang="lt" lang="lt">LT</a><b aria-current="true">EN</b></nav></div>
@@ -211,6 +217,7 @@ main{padding:2px 16px 24px}
 <main><noscript><p>Search requires JavaScript. You can download the full dictionary: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><p class="cap" id="cap" hidden></p><button id="more" hidden>Show more</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
 <div class="ihead"><h3 id="iw"></h3><button id="iclose" type="button" aria-label="Close" title="Close">×</button></div>
+<div class="grp" id="desc" hidden><h4>From open dictionaries</h4><div id="dbody" aria-live="polite"></div></div>
 <div class="grp"><h4>Translation</h4><div class="links"><a id="l-gl" target="_blank" rel="noopener">Glosbe (Lithuanian–English)<small>English translations with example sentences</small></a><a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Quick English translation – works for inflected forms too</small></a></div></div><div class="grp"><h4>Meaning</h4><div class="links"><a id="l-en" target="_blank" rel="noopener">Wiktionary (English)<small>Often includes an Etymology section</small></a><a id="l-lt" target="_blank" rel="noopener">Vikižodynas (Lithuanian Wiktionary)<small>Meanings, forms, translations – in Lithuanian</small></a><a id="l-lkz" target="_blank" rel="noopener">Academic Dictionary of Lithuanian (LKŽ)<small>Meanings, dialect and historical examples – in Lithuanian</small></a></div></div><div class="grp"><h4>Etymology</h4><div class="links"><a id="l-et" target="_blank" rel="noopener">Vilnius University etymological database<small>Etymology of Lithuanian words – in Lithuanian</small></a><a id="l-bg" target="_blank" rel="noopener">Kazimieras Būga’s etymological card index<small>Handwritten etymology cards (scanned)</small></a></div></div>
 <span id="cpmsg"></span>
 </div></div>
@@ -218,7 +225,7 @@ main{padding:2px 16px 24px}
 <div class="txt">
 <h2>What is a reverse dictionary?</h2>
 <p>A <b>reverse dictionary</b> (also called an <i>a tergo</i> or inverse dictionary; Lithuanian <i>atbulinis</i>, <i>atgalinis</i>, <i>atvirkštinis</i> or <i>inversinis žodynas</i>) sorts words not from the first letter but from the last: first by the final letter, then by the second-to-last, and so on. Words with the same ending or suffix therefore end up next to each other – e.g. <i>kaba, pakaba, priekaba, įkaba</i>. Words are right-aligned so that shared endings line up.</p>
-<p><b>Click any word</b> to open links to its English translation (Glosbe, Google Translate), meaning and etymology in Wiktionary, the Lithuanian Wiktionary, the Vilnius University etymological database, Kazimieras Būga’s etymological card index and the Academic Dictionary of Lithuanian.</p>
+<p><b>Click any word</b> to see its entry from open dictionaries (when one exists) and links to its English translation (Glosbe, Google Translate), meaning and etymology in Wiktionary, the Lithuanian Wiktionary, the Vilnius University etymological database, Kazimieras Būga’s etymological card index and the Academic Dictionary of Lithuanian.</p>
 <p><b>Search modes:</b></p>
 <ul class="modes">
 <li><b>Ends with / Starts with / Contains</b> – words with the typed letters at the end, start or anywhere (e.g. <i>-tuvas</i>).</li>
@@ -226,7 +233,7 @@ main{padding:2px 16px 24px}
 <li><b>Anagrams</b> – words that can be made from the given letters (e.g. <i>sakalas</i>).</li>
 <li><b>Rhymes</b> – for poets: rhymes including all case and person forms (about 2.1 million forms).</li>
 </ul>
-<p>You can limit the word length. Every search has its own address you can copy and share – e.g. <a href="/en/?q=%C5%ABras">atbulinis.lt/en/?q=ūras</a>. Proper names are shown in <span class="lg">blue italics</span>.</p>
+<p>You can limit the word length. Every search has its own address you can copy and share – e.g. <a href="/en/?q=%C5%ABras">atbulinis.lt/en/?q=ūras</a>. Proper names are shown in <span class="lg">blue</span> with a dot.</p>
 <p>Useful for: studying Lithuanian <b>word formation</b> (suffixes such as <i>-ininkas, -tuvas, -ybė</i>), <b>teaching and learning</b> Lithuanian, finding <b>rhymes</b> for poems and songs, and solving <b>crosswords</b>.</p>
 <p>Lithuanian reverse dictionaries have been published in print before. The first was compiled by the American linguist David F.&nbsp;Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), the largest by Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74,081 words). There is also Alvydas Butkus’s <i>Lietuvių pravardžių atvirkštinis žodynas</i> (dictionary of Lithuanian nicknames, 2009). This dictionary continues that tradition: it is freely available online, searchable and contains 89,305 words including proper names.</p>
 </div>
@@ -383,7 +390,21 @@ function render(){
 }
 $("more").onclick=()=>{shown+=STEP*2;render();};
 let cur="";
-function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";
+
+const DC=new Map();let dTok=0;
+function wkSec(h,lang){const d=new DOMParser().parseFromString(h,"text/html"),root=d.querySelector(".mw-parser-output"),out=[];if(!root)return out;let on=false;for(const e of root.children){const h2=e.matches("h2")?e:e.matches(".mw-heading2")?e.querySelector("h2"):null;if(h2){if(on)break;on=h2.textContent.trim().startsWith(lang);continue}if(on)out.push(e)}return out}
+function wkTxt(n){const c=n.cloneNode(true);c.querySelectorAll("ul,ol,dl,sup,.reference,style,.mw-editsection").forEach(x=>x.remove());return c.textContent.replace(/\s+/g," ").trim().replace(/[:;,]$/,"")}
+function wkLt(h){const defs=[],ety=[];let skip=false,inE=false;for(const e of wkSec(h,"Lietuvių")){if(e.matches(".mw-heading")){const t=e.textContent;inE=/kilmė|etimolog/i.test(t);skip=/vertim|sinonim|antonim|darin|giminingi|frazeolog|nuorod|šaltin|pastab/i.test(t);continue}if(inE){if(e.matches("p")){const t=wkTxt(e);if(t&&!ety.includes(t))ety.push(t)}continue}if(skip)continue;if(e.matches("ol"))for(const li of e.children){const t=wkTxt(li);if(t)defs.push(t)}if(e.matches("ul"))for(const li of e.children){const m=wkTxt(li).match(/^\S+(?: \([^)]*\))? [-–] (.+)/);if(m)defs.push(m[1])}}return{defs,ety}}
+function wkEn(h){const defs=[],ety=[];let inE=false;for(const e of wkSec(h,"Lithuanian")){if(e.matches(".mw-heading")){inE=/^\s*Etymology/.test(e.textContent);continue}if(inE&&e.matches("p")){const t=wkTxt(e);if(t&&!ety.includes(t))ety.push(t)}if(e.matches("ol"))for(const li of e.children){const t=wkTxt(li);if(t)defs.push(t)}}return{defs,ety}}
+async function wkGet(host,w,fn){try{const r=await fetch("https://"+host+"/w/api.php?action=parse&prop=text&formatversion=2&redirects=1&format=json&origin=*&page="+encodeURIComponent(w));if(!r.ok)return null;const j=await r.json();if(!j.parse)return null;const x=fn(j.parse.text);return x.defs.length||x.ety.length?{...x,url:"https://"+host+"/wiki/"+encodeURIComponent(j.parse.title)}:null}catch(e){return null}}
+function cut(s,n){return s.length>n?s.slice(0,n).replace(/\s+\S*$/,"")+" …":s}
+function el(t,cls,txt){const e=document.createElement(t);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
+async function loadDesc(w){const tok=++dTok,box=$("dbody");$("desc").hidden=false;box.replaceChildren(el("p","dmsg",DT.load));
+let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,s.fn)));DC.set(w,res)}if(tok!==dTok)return;box.replaceChildren();let any=false;
+res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
+if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
+const DT={load:"Looking up Wiktionary…",none:"No entry for this word in the open dictionaries – see the sources below.",from:"Source:",order:[{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary",ety:"Etymology:"},{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas (Lithuanian)",ety:"Kilmė:"}]};
+function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;

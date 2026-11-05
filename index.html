@@ -189,6 +189,12 @@ main{padding:2px 16px 24px}
 #info .links a{border-color:var(--ctl)}#info .links a:hover,#info .links a:focus-visible{border-color:var(--acc);background:var(--hov)}
 .about p,footer p{text-wrap:pretty}footer p{max-width:68ch}
 @media (max-width:640px){.stat button{min-height:40px;padding:0 14px}.chips button,#chips button{min-height:40px}.filters{font-size:.94rem}}
+
+#desc .dsrc{border-left:3px solid var(--acc);background:var(--bg);border-radius:0 var(--r) var(--r) 0;padding:10px 14px;margin:0 0 10px}
+#desc ol{margin:0;padding-left:1.4em;font:1rem/1.45 var(--serif)}#desc li{margin:2px 0}
+#desc .dety{font:.95rem/1.45 var(--serif);margin:8px 0 0}#desc .dety b{font:600 .78rem var(--ui);letter-spacing:.04em;text-transform:uppercase;color:var(--mut)}
+#desc .dfrom{font:.82rem var(--ui);color:var(--mut);margin:8px 0 0}#infobox #desc .dfrom a{all:unset;display:inline;color:var(--acc);text-decoration:underline;text-underline-offset:2px;cursor:pointer}#infobox #desc .dfrom a::after,#infobox #desc .dfrom a::before{content:none;display:none}#infobox #desc .dfrom a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+#desc .dmsg{font:.92rem var(--ui);color:var(--mut);margin:0}
 </style></head><body>
 <header>
 <div class="top"><h1>Atbulin<span class="end">is</span> lietuvių kalbos žodynas</h1><nav class="lang" aria-label="Kalba"><b aria-current="true">LT</b><a id="langsw" href="/en/" hreflang="en" lang="en">EN</a></nav></div>
@@ -210,6 +216,7 @@ main{padding:2px 16px 24px}
 <main><noscript><p>Paieškai reikia įjungti JavaScript. Visą žodyną galite atsisiųsti: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><p class="cap" id="cap" hidden></p><button id="more" hidden>Rodyti daugiau</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
 <div class="ihead"><h3 id="iw"></h3><button id="iclose" type="button" aria-label="Uždaryti" title="Uždaryti">×</button></div>
+<div class="grp" id="desc" hidden><h4>Aprašas laisvuosiuose žodynuose</h4><div id="dbody" aria-live="polite"></div></div>
 <div class="grp"><h4>Reikšmė</h4><div class="links"><a id="l-en" target="_blank" rel="noopener">Wiktionary (anglų k.)<small>Dažnai su skyreliu „Etymology“ – žodžio kilme</small></a><a id="l-lt" target="_blank" rel="noopener">Vikižodynas (lietuvių k.)<small>Reikšmės, formos, vertimai</small></a><a id="l-lkz" target="_blank" rel="noopener">Lietuvių kalbos žodynas (LKŽ)<small>Reikšmės, tarmių ir senųjų raštų pavyzdžiai</small></a></div></div><div class="grp"><h4>Vertimas į anglų kalbą</h4><div class="links"><a id="l-gl" target="_blank" rel="noopener">Glosbe (lietuvių–anglų)<small>Vertimai į anglų kalbą su pavyzdžiais</small></a><a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small></a></div></div><div class="grp"><h4>Kilmė</h4><div class="links"><a id="l-et" target="_blank" rel="noopener">VU etimologinio žodyno duomenų bazė<small>Žodžio kilmė</small></a><a id="l-bg" target="_blank" rel="noopener">K. Būgos etimologinio žodyno kartoteka<small>Rankraštinės kortelės apie žodžio kilmę</small></a></div></div>
 <span id="cpmsg"></span>
 </div></div>
@@ -218,7 +225,7 @@ main{padding:2px 16px 24px}
 <h2>Kas yra atbulinis žodynas?</h2>
 <p><b>Atbulinis žodynas</b> dar vadinamas <b>atgaliniu</b>, <b>atvirkštiniu</b> arba <b>inversiniu</b> žodynu (angl.&nbsp;<i>reverse dictionary</i>). Visi šie pavadinimai reiškia tą patį.</p>
 <p>Tokiame žodyne žodžiai rikiuojami ne nuo pirmos, o nuo paskutinės raidės: pirmiausia pagal paskutinę raidę, paskui pagal priešpaskutinę ir t.&nbsp;t. Todėl greta atsiduria žodžiai su ta pačia galūne ar priesaga – pvz., <i>kaba, pakaba, priekaba, įkaba</i>. Žodžiai lygiuojami dešinėje, kad bendros pabaigos būtų matyti iš karto.</p>
-<p><b>Paspauskite bet kurį žodį</b> – atsidarys nuorodos į jo reikšmę ir kilmę kituose žodynuose bei vertimą į anglų kalbą: Wiktionary, Vikižodyne, Glosbe, Google Translate, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
+<p><b>Paspauskite bet kurį žodį</b> – pamatysite jo aprašą iš laisvųjų žodynų (jei jis ten yra) ir nuorodos į jo reikšmę ir kilmę kituose žodynuose bei vertimą į anglų kalbą: Wiktionary, Vikižodyne, Glosbe, Google Translate, Vilniaus universiteto etimologinio žodyno duomenų bazėje, Kazimiero Būgos etimologinio žodyno kartotekoje ir Lietuvių kalbos žodyne.</p>
 <p><b>Paieškos būdai:</b></p>
 <ul class="modes">
 <li><b>Baigiasi / Prasideda / Turi</b> – žodžiai su įvestomis raidėmis gale, pradžioje ar viduryje (pvz.&nbsp;<i>-tuvas</i>).</li>
@@ -226,7 +233,7 @@ main{padding:2px 16px 24px}
 <li><b>Anagramos</b> – žodžiai, sudėliojami iš nurodytų raidžių (pvz.&nbsp;<i>sakalas</i>).</li>
 <li><b>Rimai</b> – poetams: rimai su visomis linksnių ir asmenų formomis (apie 2,1 mln. formų).</li>
 </ul>
-<p>Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz.&nbsp;<a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>. Tikriniai vardai rodomi <span class="lg">pasvirusiu mėlynu šriftu</span>.</p>
+<p>Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz.&nbsp;<a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>. Tikriniai vardai rodomi <span class="lg">mėlynai</span> ir pažymėti tašku.</p>
 <p>Kam pravers: tyrinėti <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), <b>mokyti ir mokytis</b> lietuvių kalbos, ieškoti <b>rimų</b> eilėraščiams ir dainoms, spręsti <b>kryžiažodžius</b>.</p>
 <p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas Deividas F.&nbsp;Robinsonas (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 89 305 žodžius kartu su tikriniais vardais.</p>
 </div>
@@ -384,7 +391,21 @@ function render(){
 }
 $("more").onclick=()=>{shown+=STEP*2;render();};
 let cur="";
-function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";
+
+const DC=new Map();let dTok=0;
+function wkSec(h,lang){const d=new DOMParser().parseFromString(h,"text/html"),root=d.querySelector(".mw-parser-output"),out=[];if(!root)return out;let on=false;for(const e of root.children){const h2=e.matches("h2")?e:e.matches(".mw-heading2")?e.querySelector("h2"):null;if(h2){if(on)break;on=h2.textContent.trim().startsWith(lang);continue}if(on)out.push(e)}return out}
+function wkTxt(n){const c=n.cloneNode(true);c.querySelectorAll("ul,ol,dl,sup,.reference,style,.mw-editsection").forEach(x=>x.remove());return c.textContent.replace(/\s+/g," ").trim().replace(/[:;,]$/,"")}
+function wkLt(h){const defs=[],ety=[];let skip=false,inE=false;for(const e of wkSec(h,"Lietuvių")){if(e.matches(".mw-heading")){const t=e.textContent;inE=/kilmė|etimolog/i.test(t);skip=/vertim|sinonim|antonim|darin|giminingi|frazeolog|nuorod|šaltin|pastab/i.test(t);continue}if(inE){if(e.matches("p")){const t=wkTxt(e);if(t&&!ety.includes(t))ety.push(t)}continue}if(skip)continue;if(e.matches("ol"))for(const li of e.children){const t=wkTxt(li);if(t)defs.push(t)}if(e.matches("ul"))for(const li of e.children){const m=wkTxt(li).match(/^\S+(?: \([^)]*\))? [-–] (.+)/);if(m)defs.push(m[1])}}return{defs,ety}}
+function wkEn(h){const defs=[],ety=[];let inE=false;for(const e of wkSec(h,"Lithuanian")){if(e.matches(".mw-heading")){inE=/^\s*Etymology/.test(e.textContent);continue}if(inE&&e.matches("p")){const t=wkTxt(e);if(t&&!ety.includes(t))ety.push(t)}if(e.matches("ol"))for(const li of e.children){const t=wkTxt(li);if(t)defs.push(t)}}return{defs,ety}}
+async function wkGet(host,w,fn){try{const r=await fetch("https://"+host+"/w/api.php?action=parse&prop=text&formatversion=2&redirects=1&format=json&origin=*&page="+encodeURIComponent(w));if(!r.ok)return null;const j=await r.json();if(!j.parse)return null;const x=fn(j.parse.text);return x.defs.length||x.ety.length?{...x,url:"https://"+host+"/wiki/"+encodeURIComponent(j.parse.title)}:null}catch(e){return null}}
+function cut(s,n){return s.length>n?s.slice(0,n).replace(/\s+\S*$/,"")+" …":s}
+function el(t,cls,txt){const e=document.createElement(t);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
+async function loadDesc(w){const tok=++dTok,box=$("dbody");$("desc").hidden=false;box.replaceChildren(el("p","dmsg",DT.load));
+let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,s.fn)));DC.set(w,res)}if(tok!==dTok)return;box.replaceChildren();let any=false;
+res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
+if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
+const DT={load:"Ieškoma Vikižodyne ir Wiktionary…",none:"Laisvuosiuose žodynuose šio žodžio aprašo nėra – žr. šaltinius žemiau.",from:"Šaltinis:",order:[{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas",ety:"Kilmė:"},{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary (anglų k.)",ety:"Kilmė (angl.):"}]};
+function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
