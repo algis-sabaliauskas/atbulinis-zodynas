@@ -195,6 +195,10 @@ main{padding:2px 16px 24px}
 #desc .dety{font:.95rem/1.45 var(--serif);margin:8px 0 0}#desc .dety b{font:600 .78rem var(--ui);letter-spacing:.04em;text-transform:uppercase;color:var(--mut)}
 #desc .dfrom{font:.82rem var(--ui);color:var(--mut);margin:8px 0 0}#infobox #desc .dfrom a{all:unset;display:inline;color:var(--acc);text-decoration:underline;text-underline-offset:2px;cursor:pointer}#infobox #desc .dfrom a::after,#infobox #desc .dfrom a::before{content:none;display:none}#infobox #desc .dfrom a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 #desc .dmsg{font:.92rem var(--ui);color:var(--mut);margin:0}
+
+.w.f{font-weight:700}
+#out .rh{column-span:all;font:700 .8rem var(--ui);letter-spacing:.07em;text-transform:uppercase;color:var(--mut);margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule)}#out .rh:first-child{margin-top:0}
+#out .rh.nr{color:var(--acc);margin-top:28px}#out .rh small{font:400 .85rem var(--ui);letter-spacing:0;text-transform:none;color:var(--mut);margin-left:.6em}
 </style></head><body>
 <header>
 <div class="top"><h1>Atbulin<span class="end">is</span> lietuvių kalbos žodynas</h1><nav class="lang" aria-label="Kalba"><b aria-current="true">LT</b><a id="langsw" href="/en/" hreflang="en" lang="en">EN</a></nav></div>
@@ -207,6 +211,8 @@ main{padding:2px 16px 24px}
 <button data-m="end" aria-pressed="true">Baigiasi</button><button data-m="start" aria-pressed="false">Prasideda</button><button data-m="any" aria-pressed="false">Turi</button><button data-m="pat" aria-pressed="false" title="Kryžiažodžiams: ? – bet kuri raidė, * – bet kiek raidžių">Šablonas</button><button data-m="ana" aria-pressed="false" title="Žodžiai, kuriuos galima sudėlioti iš nurodytų raidžių">Anagramos</button><button data-m="rim" aria-pressed="false" title="Rimai poetams – su visomis linksnių ir asmenų formomis">Rimai</button>
 </div></div>
 <div class="filters"><label class="chk" id="sklab" hidden>rimas iš <select id="sk" aria-label="Kiek skiemenų rimuoti"><option value="1">1 skiemens</option><option value="2" selected>2 skiemenų</option><option value="3">3 skiemenų</option></select></label>
+<label class="chk" id="poslab"><span class="ln">kalbos dalis</span> <select id="pos" aria-label="Kalbos dalis"><option value="">visos</option><option value="1">daiktavardžiai</option><option value="2">būdvardžiai</option><option value="4">veiksmažodžiai</option><option value="8">kitos</option></select></label>
+<label class="chk"><span class="ln">dažnumas</span> <select id="fr" aria-label="Dažnumas"><option value="">visi žodžiai</option><option value="1">vartojami</option><option value="2">tik dažni</option></select></label>
 <label class="chk"><span class="ln">ilgis</span> <select id="len" aria-label="ilgis"><option value="">bet kokio ilgio</option></select></label>
 <span class="cbg"><label class="chk"><input type="checkbox" id="common" checked> bendriniai</label><label class="chk"><input type="checkbox" id="proper" checked> <span><span class="lg">tikriniai</span> vardai</span></label></span></div>
 <div class="chips" id="chips">Pavyzdžiai: <button type="button" data-m="end" data-q="tuvas"><i>Baigiasi</i><span>tuvas</span></button><button type="button" data-m="end" data-q="ininkas"><i>Baigiasi</i><span>ininkas</span></button><button type="button" data-m="rim" data-q="meilė"><i>Rimai</i><span>meilė</span></button><button type="button" data-m="pat" data-q="?a?as"><i>Šablonas</i><span>?a?as</span></button><button type="button" data-m="ana" data-q="sakalas"><i>Anagramos</i><span>sakalas</span></button></div>
@@ -231,8 +237,9 @@ main{padding:2px 16px 24px}
 <li><b>Baigiasi / Prasideda / Turi</b> – žodžiai su įvestomis raidėmis gale, pradžioje ar viduryje (pvz.&nbsp;<i>-tuvas</i>).</li>
 <li><b>Šablonas</b> – kryžiažodžiams: <i>?</i> – bet kuri raidė, <i>*</i> – bet kiek raidžių (pvz.&nbsp;<i>?a?as</i>).</li>
 <li><b>Anagramos</b> – žodžiai, sudėliojami iš nurodytų raidžių (pvz.&nbsp;<i>sakalas</i>).</li>
-<li><b>Rimai</b> – poetams: rimai su visomis linksnių ir asmenų formomis (apie 2,1 mln. formų).</li>
+<li><b>Rimai</b> – poetams: rimai su visomis linksnių ir asmenų formomis (apie 2,1 mln. formų), sugrupuoti pagal skiemenis, ir beveik rimai.</li>
 </ul>
+<p>Žodžius galima atrinkti pagal <b>kalbos dalį</b> ir <b>dažnumą</b>: dažnai vartojami žodžiai rodomi ryškiau. Dažnumas apskaičiuotas pagal atvirą <a href="https://github.com/rspeer/wordfreq" target="_blank" rel="noopener">wordfreq</a> duomenų rinkinį (CC BY-SA 4.0).</p>
 <p>Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz.&nbsp;<a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>. Tikriniai vardai rodomi <span class="lg">mėlynai</span> ir pažymėti tašku.</p>
 <p>Kam pravers: tyrinėti <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), <b>mokyti ir mokytis</b> lietuvių kalbos, ieškoti <b>rimų</b> eilėraščiams ir dainoms, spręsti <b>kryžiažodžius</b>.</p>
 <p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas Deividas F.&nbsp;Robinsonas (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 89 305 žodžius kartu su tikriniais vardais.</p>
@@ -283,10 +290,12 @@ SUCH DAMAGE.
 </pre></details>
 </footer>
 <script src="/zodziai.js"></script>
+<script src="/meta.js"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
-const P=W.map(w=>w[0]!==w[0].toLowerCase());
+const P=W.map(w=>w[0]!==w[0].toLowerCase())
+const MA="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKL",MV=new Uint8Array(W.length);if(window.WM)for(let i=0;i<W.length;i++)MV[i]=MA.indexOf(WM[i]);;
 const ALPH="aąbcčdeęėfghiįyjklmnoprsštuųūvzž";
 const RKL="Rimuojama galūnė:",STEP=1500,LANGALT="/en/";
 let mode="end",shown=STEP,res=[],letter="";
@@ -303,20 +312,35 @@ function rimKey(w,n){const l=w.toLowerCase();let i=l.length-1,cnt=0,start=-1;
   while(i>=0){if(VOW.includes(l[i])){let j=i;while(j>0&&VOW.includes(l[j-1]))j--;cnt++;start=j;if(cnt===n)break;i=j-1;}else i--;}
   return start<0?l:l.slice(start);}
 let rimTok=0;
-async function runRim(q,len,c,p){
+let FF=null;
+function freqLoad(){if(!FF)FF=fetch("/rimai/dazni.txt").then(r=>r.ok?r.text():"").then(t=>{const m=new Map();for(const x of t.split("\n"))if(x)x.endsWith("*")?m.set(x.slice(0,-1),2):m.set(x,1);return m;}).catch(()=>new Map());return FF;}
+function sylN(l){let n=0,v=false;for(const ch of l){const iv=VOW.includes(ch);if(iv&&!v)n++;v=iv;}return n;}
+const VN={"ą":"a","ę":"e","į":"i","y":"i","ų":"u","ū":"u"};
+function skel(k){const p=[];let cur="",isV=null;for(const ch of k){const v=VOW.includes(ch);if(isV===null||v!==isV){if(cur)p.push(cur);cur="";isV=v;}cur+=v?(VN[ch]||ch):ch;}p.push(cur);return p;}
+const CC=["lrmnjv","bp","dt","gk","zs","žš","cč","fh"];
+function cSim(a,b){if(a===b)return 2;if(a.length===1&&b.length===1&&CC.some(g=>g.includes(a)&&g.includes(b)))return 1;return 0;}
+function sylTxt(n){const a=n%10,b=n%100;return n+" "+(a===1&&b!==11?"skiemuo":(b>=10&&b<=20)||a===0?"skiemenų":"skiemenys");}
+let RX=0;
+async function runRim(q,len,c,p,ff){
   const tok=++rimTok,n=+$("sk").value||2;const key=rimKey(q,n);
   if(!q){res=[];RW=null;$("help").innerHTML="<span>"+HELP.rim+"</span>";render();return;}
   $("count").textContent="Ieškoma rimų…";
-  const files=[...new Set(Object.keys(RMAN).filter(k=>key.endsWith(k)||k.endsWith(key)).map(k=>RMAN[k]))];
-  let data;try{data=await Promise.all(files.map(rimFile));}catch(e){if(tok!==rimTok)return;$("count").textContent="";$("out").innerHTML='<div class="empty">Nepavyko įkelti rimų duomenų. Rimų paieška veikia tik svetainėje internete.</div>';return;}
+  const ql=q.toLowerCase(),qs=skel(key),finRaw=rimKey(key,1);
+  const keys=Object.keys(RMAN),files=[...new Set(keys.filter(k=>key.endsWith(k)||k.endsWith(key)||(n>1&&(finRaw.endsWith(k)||k.endsWith(finRaw)))).map(k=>RMAN[k]))];
+  let data,fm;try{[data,fm]=await Promise.all([Promise.all(files.map(rimFile)),freqLoad()]);}catch(e){if(tok!==rimTok)return;$("count").textContent="";$("out").innerHTML='<div class="empty">Nepavyko įkelti rimų duomenų. Rimų paieška veikia tik svetainėje internete.</div>';return;}
   if(tok!==rimTok)return;
-  const ql=q.toLowerCase(),items=[];
-  for(const d of data)for(let i=0;i<d.w.length;i++){const l=d.l[i];if(!l.endsWith(key)||l===ql)continue;if(len&&l.length!==len)continue;
-    const pr=d.w[i][0]!==l[0];if(pr?!p:!c)continue;
-    let k=key.length;while(k<l.length&&k<ql.length&&l[l.length-1-k]===ql[ql.length-1-k])k++;
-    const same=l.endsWith(ql);items.push([d.w[i],pr,same?-1:k,l]);}
-  items.sort((a,b)=>(b[2]-a[2])||(Math.abs(a[3].length-ql.length)-Math.abs(b[3].length-ql.length))||a[3].localeCompare(b[3],"lt"));
-  RW=items;res=items.map((_,i)=>i);rkey=key;
+  const items=[],near=[],seen=new Set(),qsj=qs.join("|");
+  for(const d of data)for(let i=0;i<d.w.length;i++){const l=d.l[i];if(l===ql||seen.has(l))continue;if(len&&l.length!==len)continue;
+    const pr=d.w[i][0]!==l[0];if(pr?!p:!c)continue;const fq=fm.get(l)||0;if(ff&&fq<ff)continue;
+    if(l.endsWith(key)){seen.add(l);let k=key.length;while(k<l.length&&k<ql.length&&l[l.length-1-k]===ql[ql.length-1-k])k++;
+      const same=l.endsWith(ql);items.push([d.w[i],pr,same?-1:k,l,sylN(l),fq,0]);continue;}
+    if(n<2||!l.endsWith(finRaw))continue;
+    const lk=rimKey(l,n),ls=skel(lk);if(ls.length!==qs.length||ls.join("|")===qsj)continue;
+    let ok=true,sc=0;for(let j=0;j<qs.length;j++){const vq=VOW.includes(qs[j][0]);if(vq){if(ls[j]!==qs[j]){ok=false;break;}}else if(j===qs.length-1){if(ls[j]!==qs[j]){ok=false;break;}}else sc+=cSim(ls[j],qs[j]);}
+    if(!ok)continue;seen.add(l);near.push([d.w[i],pr,sc,l,sylN(l),fq,1]);}
+  const cmp=(a,b)=>(a[4]-b[4])||(b[2]-a[2])||(b[5]-a[5])||(Math.abs(a[3].length-ql.length)-Math.abs(b[3].length-ql.length))||a[3].localeCompare(b[3],"lt");
+  items.sort(cmp);near.sort((a,b)=>(b[5]-a[5])||(b[2]-a[2])||(a[4]-b[4])||a[3].localeCompare(b[3],"lt"));
+  RX=items.length;RW=items.concat(near.slice(0,300));res=RW.map((_,i)=>i);rkey=key;
   $("help").innerHTML="<span>"+HELP.rim+(items.length<10&&n>1?" <b>Rasta mažai – pabandykite rimą iš "+(n-1)+" skiemens.</b>":"")+"</span>";
   shown=STEP;render();
 }
@@ -328,7 +352,7 @@ function trackSearch(q){clearTimeout(trkT);if(!q||q.length<2)return;trkT=setTime
   track("būdas: "+MNAME[mode],"Paieškos būdas: "+MNAME[mode]);track(MNAME[mode].toLowerCase()+": "+q,MNAME[mode]+": "+q);},1500);}
 const HELP={end:"Rodomi žodžiai, kurie baigiasi įvestomis raidėmis.",start:"Rodomi žodžiai, kurie prasideda įvestomis raidėmis.",any:"Rodomi žodžiai, kuriuose yra įvestos raidės.",
  pat:"Kryžiažodžiams: <b>?</b> – bet kuri viena raidė, <b>*</b> – bet kiek raidžių. Pvz. <b>?a?as</b> – penkių raidžių žodžiai, kurių antroji raidė „a“, o galas „-as“.",
- rim:"Įveskite žodį – pamatysite su juo besirimuojančius žodžius su visomis linksnių ir asmenų formomis (geriausi rimai pirmiau). Kirčių žodyne nėra, todėl rimą patikrinkite perskaitę garsiai.",
+ rim:"Įveskite žodį – pamatysite rimus su visomis linksnių ir asmenų formomis, sugrupuotus pagal skiemenų skaičių (geriausi ir dažnesni – pirmiau), o žemiau – <b>beveik rimus</b>. Kirčių žodyne nėra, todėl rimą patikrinkite perskaitę garsiai.",
  ana:"Įveskite raides – bus rodomi žodžiai, kuriuos iš jų galima sudėlioti (ilgiausi pirmiau). <b>?</b> – bet kuri raidė. Norėdami tik tikslių anagramų, pasirinkite ilgį, lygų raidžių skaičiui."};
 const PH={rim:"pvz. širdis, dainuoja",end:"pvz. ūras, ininkas, tuvas",start:"pvz. kalb, nusi",any:"pvz. kalb",pat:"pvz. ?a?as, k*tuvas",ana:"pvz. sakalas"};
 const LS=$("len");for(let n=2;n<=25;n++){const o=document.createElement("option");o.value=n;o.textContent=n+" raid.";LS.appendChild(o);}
@@ -336,11 +360,11 @@ function patRe(q){return new RegExp("^"+q.replace(/[.+^${}()|[\]\\]/g,"\\$&").re
 function anaFn(q){const need={};let wild=0;for(const c of q){if(c==="?")wild++;else need[c]=(need[c]||0)+1;}
   return l=>{if(l.length>q.length)return false;const h={};let miss=0;for(const c of l){h[c]=(h[c]||0)+1;if(h[c]>(need[c]||0))miss++;}return miss<=wild;};}
 function run(){
-  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,p=$("proper").checked,len=+LS.value||0;
+  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,p=$("proper").checked,len=+LS.value||0,pf=+$("pos").value||0,ff=+$("fr").value||0;
   $("chips").hidden=!!q;$("rk").innerHTML="";
   $("help").innerHTML="<span>"+HELP[mode]+"</span>";$("help").hidden=!!q&&(mode==="end"||mode==="start"||mode==="any");$("q").placeholder=PH[mode];
-  $("sklab").hidden=mode!=="rim";
-  if(mode==="rim"){letter="";lb.querySelectorAll("button").forEach(b=>b.classList.remove("on"));saveUrl(q,len);trackSearch(q);runRim(q,len,c,p);return;}
+  $("sklab").hidden=mode!=="rim";$("poslab").hidden=mode==="rim";
+  if(mode==="rim"){letter="";lb.querySelectorAll("button").forEach(b=>b.classList.remove("on"));saveUrl(q,len);trackSearch(q);runRim(q,len,c,p,ff);return;}
   RW=null;
   let test=null;
   if(q){if(mode==="end")test=l=>l.endsWith(q);else if(mode==="start")test=l=>l.startsWith(q);else if(mode==="any")test=l=>l.includes(q);
@@ -350,6 +374,7 @@ function run(){
     if(P[i]?!p:!c)continue;
     const l=L[i];
     if(len&&l.length!==len)continue;
+    if(pf&&!(MV[i]&pf))continue;if(ff&&(MV[i]>>4)<ff)continue;
     if(test&&!test(l))continue;
     res.push(i);
   }
@@ -361,11 +386,11 @@ function run(){
   shown=STEP;render();
 }
 function saveUrl(q,len){try{const u=new URLSearchParams();if(q)u.set("q",q);if(mode!=="end")u.set("m",mode);if(len)u.set("ilgis",len);if(mode==="rim"&&$("sk").value!=="2")u.set("sk",$("sk").value);
-  if(!$("common").checked)u.set("bendriniai","ne");if(!$("proper").checked)u.set("tikriniai","ne");
+  if(!$("common").checked)u.set("bendriniai","ne");if(!$("proper").checked)u.set("tikriniai","ne");if($("pos").value&&mode!=="rim")u.set("kd",$("pos").value);if($("fr").value)u.set("dazn",$("fr").value);
   const s=u.toString();history.replaceState(null,"",location.pathname+(s?"?"+s:""));const ls=$("langsw");if(ls)ls.href=LANGALT+(s?"?"+s:"");}catch(e){}}
 function loadUrl(){try{const u=new URLSearchParams(location.search);if(u.get("q"))$("q").value=u.get("q");
   const m=u.get("m");if(m&&HELP[m])mode=m;const l=u.get("ilgis");if(l)LS.value=l;const k=u.get("sk");if(k)$("sk").value=k;
-  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("proper").checked=false;setMode();}catch(e){}}
+  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("proper").checked=false;if(u.get("kd"))$("pos").value=u.get("kd");if(u.get("dazn"))$("fr").value=u.get("dazn");setMode();}catch(e){}}
 function hl(i,q){
   const w=W[i],l=L[i];if(!q||mode==="pat"||mode==="ana")return w;
   let s=mode==="end"?w.length-q.length:mode==="start"?0:l.indexOf(q);
@@ -373,7 +398,7 @@ function hl(i,q){
 }
 function wForm(n){const a=n%10,b=n%100;return (b>=10&&b<=20)||a===0?"žodžių":a===1?"žodis":"žodžiai";}
 function cntTxt(n,q){const N="<strong>"+n.toLocaleString("lt-LT")+"</strong> ";
-  if(RW){const a=n%10,b=n%100;return N+((b>=10&&b<=20)||a===0?"rimų":a===1?"rimas":"rimai")+' · rimuojama galūnė <span class="end">\u2011'+rkey+"</span>";}
+  if(RW){const ne=RX,a=ne%10,b=ne%100,x=n-ne;return "<strong>"+ne.toLocaleString("lt-LT")+"</strong> "+((b>=10&&b<=20)||a===0?"rimų":a===1?"rimas":"rimai")+(x?" · "+x.toLocaleString("lt-LT")+" beveik rimų":"")+' · rimuojama galūnė <span class="end">\u2011'+rkey+"</span>";}
   if(q&&mode==="end")return N+wForm(n)+(n%10===1&&n%100!==11?", kuris baigiasi":", kurie baigiasi")+' <span class="end">\u2011'+q+"</span>";
   if(q&&mode==="start")return N+wForm(n)+(n%10===1&&n%100!==11?", kuris prasideda":", kurie prasideda")+' <span class="end">'+q+"\u2011</span>";
   return N+wForm(n);}
@@ -384,8 +409,9 @@ function render(){
   const out=$("out");
   if(!n){$("cap").hidden=true;$("tip").textContent="";out.innerHTML='<div class="empty">Tokių žodžių nerasta.</div>';$("more").hidden=true;return;}
   let h="";const m=Math.min(n,shown);
-  if(RW){for(let k=0;k<m;k++){const it=RW[k],w=it[0],s=w.length-rkey.length;h+='<div class="w'+(it[1]?" p":"")+'" data-r="'+k+'" tabindex="0" role="button">'+w.slice(0,s)+"<b>"+w.slice(s)+"</b></div>";}}
-  else{let lastE="";const grp=!q&&mode==="end";for(let k=0;k<m;k++){const i=res[k];if(grp){const e=L[i].slice(-2);if(e!==lastE){lastE=e;h+='<div class="gh">\u2011'+e+"</div>";}}h+='<div class="w'+(P[i]?" p":"")+'" data-i="'+i+'" tabindex="0" role="button">'+hl(i,q)+"</div>";}}
+  if(RW){let g="";for(let k=0;k<m;k++){const it=RW[k],w=it[0];const gg=it[6]?"n":"s"+it[4];if(gg!==g){if(it[6]&&g[0]!=="n")h+='<div class="rh nr">Beveik rimai<small>tie patys balsiai, kiti priebalsiai</small></div>';else if(!it[6])h+='<div class="rh">'+sylTxt(it[4])+'</div>';g=gg;}
+      const ln=it[6]?(()=>{const e=rimKey(it[3],1).length;return e;})():rkey.length,s=w.length-ln;h+='<div class="w'+(it[1]?" p":"")+(it[5]===2?" f":"")+'" data-r="'+k+'" tabindex="0" role="button">'+w.slice(0,s)+"<b>"+w.slice(s)+"</b></div>";}}
+  else{let lastE="";const grp=!q&&mode==="end";for(let k=0;k<m;k++){const i=res[k];if(grp){const e=L[i].slice(-2);if(e!==lastE){lastE=e;h+='<div class="gh">\u2011'+e+"</div>";}}h+='<div class="w'+(P[i]?" p":"")+((MV[i]>>4)===2?" f":"")+'" data-i="'+i+'" tabindex="0" role="button">'+hl(i,q)+"</div>";}}
   const fc=n<40?Math.max(1,Math.ceil(n/8)):0;out.style.columns=fc?fc+" 10.5em":"";out.style.maxWidth=fc?(fc*15)+"em":"";out.style.marginInline=fc?"auto":"";$("tip").textContent="Spustelėkite žodį – reikšmė, vertimas ir kilmė";
   out.innerHTML=h;$("more").hidden=n<=shown;
 }
@@ -425,7 +451,7 @@ $("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
 
 let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120);});
-$("common").onchange=run;$("proper").onchange=run;LS.onchange=run;$("sk").onchange=run;
+$("common").onchange=run;$("pos").onchange=run;$("fr").onchange=run;$("proper").onchange=run;LS.onchange=run;$("sk").onchange=run;
 $("copy").onclick=async()=>{
   try{await navigator.clipboard.writeText(RW?RW.map(x=>x[0]).join("\n"):res.map(i=>W[i]).join("\n"));$("copied").textContent="Nukopijuota ("+res.length.toLocaleString("lt-LT")+")";}
   catch(e){$("copied").textContent="Nepavyko nukopijuoti";}
