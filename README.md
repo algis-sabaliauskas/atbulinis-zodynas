@@ -1,6 +1,6 @@
 # Atbulinis lietuvių kalbos žodynas
 
-89 305 lietuvių kalbos žodžių (bendrinių ir tikrinių vardų), surikiuotų nuo žodžio galo pagal lietuvių abėcėlę, su paieška pagal galūnę.
+89 162 lietuvių kalbos žodžių (bendrinių ir tikrinių vardų), surikiuotų nuo žodžio galo pagal lietuvių abėcėlę, su paieška pagal galūnę.
 
 Sudarė **Algimantas Sabaliauskas**, 2026.
 
