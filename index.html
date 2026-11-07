@@ -341,7 +341,7 @@ async function runRim(q,len,c,p,ff){
   const cmp=(a,b)=>(a[4]-b[4])||(b[2]-a[2])||(b[5]-a[5])||(Math.abs(a[3].length-ql.length)-Math.abs(b[3].length-ql.length))||a[3].localeCompare(b[3],"lt");
   items.sort(cmp);near.sort((a,b)=>(b[5]-a[5])||(b[2]-a[2])||(a[4]-b[4])||a[3].localeCompare(b[3],"lt"));
   RX=items.length;RW=items.concat(near.slice(0,300));res=RW.map((_,i)=>i);rkey=key;
-  $("help").innerHTML="<span>"+HELP.rim+(items.length<10&&n>1?" <b>Rasta mažai – pabandykite rimą iš "+(n-1)+" skiemens.</b>":"")+"</span>";
+  $("help").innerHTML="<span>"+HELP.rim+(items.length<10&&n>1?" <b>Rasta mažai – pabandykite rimą iš "+(n-1===1?"vieno skiemens":(n-1)+" skiemenų")+".</b>":"")+"</span>";
   shown=STEP;render();
 }
 let RW=null,rkey="";
