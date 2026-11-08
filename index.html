@@ -352,7 +352,7 @@ function track(path,title){try{if(window.goatcounter&&window.goatcounter.count)w
 let trkT,lastTrk="";
 function trackSearch(q){clearTimeout(trkT);if(!q||q.length<2)return;trkT=setTimeout(()=>{const k=mode+"|"+q;if(k===lastTrk)return;lastTrk=k;
   track("būdas: "+MNAME[mode],"Paieškos būdas: "+MNAME[mode]);track(MNAME[mode].toLowerCase()+": "+q,MNAME[mode]+": "+q);},1500);}
-const HELP={end:"Rodomi žodžiai, kurie baigiasi įvestomis raidėmis.",start:"Rodomi žodžiai, kurie prasideda įvestomis raidėmis.",any:"Rodomi žodžiai, kuriuose yra įvestos raidės.",
+const HELP={end:"Rodomi žodžiai, kurie baigiasi įvestomis raidėmis.",start:"Rodomi žodžiai, kurie prasideda įvestomis raidėmis, surikiuoti nuo galo – taip vienos šaknies žodžiai susigrupuoja pagal priesagas ir galūnes.",any:"Rodomi žodžiai, kuriuose yra įvestos raidės.",
  pat:"Kryžiažodžiams: <b>?</b> – bet kuri viena raidė, <b>*</b> – bet kiek raidžių. Pvz. <b>?a?as</b> – penkių raidžių žodžiai, kurių antroji raidė „a“, o galas „-as“.",
  rim:"Įveskite žodį – pamatysite rimus su visomis linksnių ir asmenų formomis, sugrupuotus pagal skiemenų skaičių (geriausi ir dažnesni – pirmiau), o žemiau – <b>beveik rimus</b>. Kirčių žodyne nėra, todėl rimą patikrinkite perskaitę garsiai.",
  ana:"Įveskite raides – bus rodomi žodžiai, kuriuos iš jų galima sudėlioti (ilgiausi pirmiau). <b>?</b> – bet kuri raidė. Norėdami tik tikslių anagramų, pasirinkite ilgį, lygų raidžių skaičiui."};
@@ -380,7 +380,6 @@ function run(){
     if(test&&!test(l))continue;
     res.push(i);
   }
-  if(q&&(mode==="start"||mode==="pat"))res.sort((a,b)=>L[a].localeCompare(L[b],"lt")||(P[a]-P[b]));
   if(q&&mode==="ana")res.sort((a,b)=>(L[b].length-L[a].length)||L[a].localeCompare(L[b],"lt"));
   letter=(mode==="end"&&q.length===1)?q:"";
   lb.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.c===letter));

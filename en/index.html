@@ -352,7 +352,7 @@ function track(path,title){try{if(window.goatcounter&&window.goatcounter.count)w
 let trkT,lastTrk="";
 function trackSearch(q){clearTimeout(trkT);if(!q||q.length<2)return;trkT=setTimeout(()=>{const k=mode+"|"+q;if(k===lastTrk)return;lastTrk=k;
   track("būdas: "+MNAME[mode],"Paieškos būdas: "+MNAME[mode]);track(MNAME[mode].toLowerCase()+": "+q,MNAME[mode]+": "+q);},1500);}
-const HELP={end:"Shows words that end with the letters you type.",start:"Shows words that start with the letters you type.",any:"Shows words that contain the letters you type.",
+const HELP={end:"Shows words that end with the letters you type.",start:"Shows words that start with the letters you type, sorted from the end – so words with the same root group by suffix and ending.",any:"Shows words that contain the letters you type.",
  pat:"For crosswords: <b>?</b> – any single letter, <b>*</b> – any number of letters. E.g. <b>?a?as</b> – five-letter words whose second letter is “a” and that end in “-as”.",
  rim:"Type a word to see rhymes, including all case and person forms, grouped by syllable count (best and most common first), followed by <b>near rhymes</b>. The dictionary has no stress marks, so check each rhyme by reading it aloud.",
  ana:"Type letters to see words that can be made from them (longest first). <b>?</b> – any letter. For exact anagrams only, choose a length equal to the number of letters."};
@@ -380,7 +380,6 @@ function run(){
     if(test&&!test(l))continue;
     res.push(i);
   }
-  if(q&&(mode==="start"||mode==="pat"))res.sort((a,b)=>L[a].localeCompare(L[b],"lt")||(P[a]-P[b]));
   if(q&&mode==="ana")res.sort((a,b)=>(L[b].length-L[a].length)||L[a].localeCompare(L[b],"lt"));
   letter=(mode==="end"&&q.length===1)?q:"";
   lb.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.c===letter));
