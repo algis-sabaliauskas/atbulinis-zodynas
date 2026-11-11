@@ -246,7 +246,7 @@ main{padding:2px 16px 24px}
 <p>You can filter words by <b>part of speech</b> and <b>frequency</b>; common words are shown in a heavier weight. Frequencies come from CLARIN-LT frequency lists: V.&nbsp;Dadurkevičius’s <a href="https://hdl.handle.net/20.500.11821/41" target="_blank" rel="noopener">Wordlist of Lemmas from the Joint Corpus of Lithuanian</a> (Vilnius University, 2020; 1.3 billion words) and the wordform list of VDU’s Corpus of Contemporary Lithuanian (2025).</p>
 <p>You can limit the word length. Every search has its own address you can copy and share – e.g. <a href="/en/?q=%C5%ABras">atbulinis.lt/en/?q=ūras</a>. Proper names are shown in <span class="lg">blue</span> with a dot; the “proper names” filter lets you show only first names, surnames or place names, and clicking a word shows what kind of word it is.</p>
 <p>Useful for: studying Lithuanian <b>word formation</b> (suffixes such as <i>-ininkas, -tuvas, -ybė</i>), <b>teaching and learning</b> Lithuanian, finding <b>rhymes</b> for poems and songs, and solving <b>crosswords</b>.</p>
-<p>Lithuanian reverse dictionaries have been published in print before. The first was compiled by the American linguist David F.&nbsp;Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), the largest by Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74,081 words). There is also Alvydas Butkus’s <i>Lietuvių pravardžių atvirkštinis žodynas</i> (dictionary of Lithuanian nicknames, 2009). This dictionary continues that tradition: it is freely available online, searchable and contains 201,832 words including proper names.</p>
+<p>Lithuanian reverse dictionaries have been published in print before. The first was compiled by the American linguist David F.&nbsp;Robinson (<i>Lithuanian Reverse Dictionary</i>, 1976), the largest by Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74,081 words). There is also Alvydas Butkus’s <i>Lietuvių pravardžių atvirkštinis žodynas</i> (dictionary of Lithuanian nicknames, 2009). This dictionary continues that tradition: it is freely available online, searchable and contains 202,780 words including proper names.</p>
 </div>
 <aside class="side">
 <h3>Download</h3>
@@ -261,8 +261,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/en/apie.html">About</a> · <a href="/en/apie.html#saltiniai">Sources</a> · <a href="/en/apie.html#licencijos">Licences</a></p>
 <p class="meta">Built from open data: ispell-lt, VDU Semantika2, the VDU morphemics dictionary (with permission), UETK, the Centre of Registers and others. Visits are counted anonymously with <a href="https://www.goatcounter.com/">GoatCounter</a> – no cookies, no personal data.</p>
 </footer>
-<script src="/zodziai.js?v=20261111f"></script>
-<script src="/meta.js?v=20261111f"></script>
+<script src="/zodziai.js?v=20261111g"></script>
+<script src="/meta.js?v=20261111g"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -409,7 +409,7 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Looking up Wiktionary…",none:"No entry for this word in the open dictionaries – see the sources below.",from:"Source:",order:[{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary",ety:"Etymology:"},{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas (Lithuanian)",ety:"Kilmė:"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111f").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111g").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morphemes: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Database of Lithuanian Morphemics";a.title="Source: VDU Database of Lithuanian Morphemics";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
 function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);

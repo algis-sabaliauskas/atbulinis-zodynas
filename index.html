@@ -248,7 +248,7 @@ main{padding:2px 16px 24px}
 <p>Žodžius galima atrinkti pagal <b>kalbos dalį</b> ir <b>dažnumą</b>: dažnai vartojami žodžiai rodomi ryškiau. Dažnumas apskaičiuotas pagal CLARIN-LT dažnumo sąrašus: V.&nbsp;Dadurkevičiaus <a href="https://hdl.handle.net/20.500.11821/41" target="_blank" rel="noopener">Jungtinio lietuvių kalbos tekstyno lemų sąrašą</a> (VU, 2020; 1,3 mlrd. žodžių) ir VDU Dabartinės lietuvių kalbos tekstyno žodžių formų sąrašą (2025).</p>
 <p>Galima riboti žodžio ilgį. Paieškos adresą galima nukopijuoti ir nusiųsti kitiems – pvz.&nbsp;<a href="/?q=%C5%ABras">atbulinis.lt/?q=ūras</a>. Tikriniai vardai rodomi <span class="lg">mėlynai</span> ir pažymėti tašku; filtru „tikriniai“ galima rinktis tik vardus, pavardes, vietovardžius ar vandenvardžius (upes, ežerus), o spustelėjus žodį matyti, kas tai per žodis.</p>
 <p>Kam pravers: tyrinėti <b>žodžių darybą</b> (priesagas <i>-ininkas, -tuvas, -ybė</i>), <b>mokyti ir mokytis</b> lietuvių kalbos, ieškoti <b>rimų</b> eilėraščiams ir dainoms, spręsti <b>kryžiažodžius</b>.</p>
-<p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas Deividas F.&nbsp;Robinsonas (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 201 832 žodžius kartu su tikriniais vardais.</p>
+<p>Lietuvių kalbos atbulinių žodynų jau yra išleista knygomis. Pirmąjį sudarė amerikiečių kalbininkas Deividas F.&nbsp;Robinsonas (<i>Lithuanian Reverse Dictionary</i>, 1976), didžiausią – Vida Žilinskienė (<i>Atgalinis dabartinės lietuvių kalbos žodynas</i>, 1995; 74 081 žodis). Taip pat yra Alvydo Butkaus <i>Lietuvių pravardžių atvirkštinis žodynas</i> (2009). Šis žodynas tęsia jų tradiciją: jis laisvai prieinamas internete, turi paiešką ir apima 202 780 žodžius kartu su tikriniais vardais.</p>
 </div>
 <aside class="side">
 <h3>Atsisiųsti žodyną</h3>
@@ -263,8 +263,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/apie.html">Apie žodyną</a> · <a href="/apie.html#saltiniai">Šaltiniai</a> · <a href="/apie.html#licencijos">Licencijos</a></p>
 <p class="meta">Žodynas sudarytas iš atvirų duomenų: ispell-lt, VDU „Semantika2“, VDU morfemikos žodyno (autorių leidimu), UETK, Registrų centro ir kt. Lankomumas skaičiuojamas anonimiškai su <a href="https://www.goatcounter.com/">GoatCounter</a> – be slapukų ir be asmens duomenų.</p>
 </footer>
-<script src="/zodziai.js?v=20261111f"></script>
-<script src="/meta.js?v=20261111f"></script>
+<script src="/zodziai.js?v=20261111g"></script>
+<script src="/meta.js?v=20261111g"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -412,7 +412,7 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Ieškoma Vikižodyne ir Wiktionary…",none:"Laisvuosiuose žodynuose šio žodžio aprašo nėra – žr. šaltinius žemiau.",from:"Šaltinis:",order:[{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas",ety:"Kilmė:"},{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary (anglų k.)",ety:"Kilmė (angl.):"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111f").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111g").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morfemos: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Lietuvių kalbos morfemikos duomenų bazė";a.title="Šaltinis: VDU Lietuvių kalbos morfemikos duomenų bazė";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
 function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
