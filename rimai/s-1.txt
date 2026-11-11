@@ -45265,6 +45265,7 @@ ascitinis
 ascitinėmis
 aseksualais
 aseksualumais
+asekventinis
 asembleriais
 asembleriniais
 asemblerinis
@@ -56439,6 +56440,7 @@ aštuonbriaunėmis
 aštuondantis
 aštuondantėmis
 aštuondančiais
+aštuondienis
 aštuonergiais
 aštuonergis
 aštuonergėmis
@@ -62028,6 +62030,7 @@ blusinėmis
 blusinėsis
 blusinėtis
 blusinėtumeis
+bluskaimietis
 blusomis
 blusynėmis
 blusytėmis
@@ -66903,6 +66906,7 @@ dafnijomis
 dafnis
 dagerotipais
 dagerotipijomis
+dagerotipinis
 dagestanietis
 dagestanietėmis
 dagestaniečiais
@@ -69659,6 +69663,7 @@ daugiabučiais
 daugiacilindriais
 daugiacilindris
 daugiacilindrėmis
+daugiadaiktis
 daugiadaliais
 daugiadalis
 daugiadalėmis
@@ -71737,6 +71742,7 @@ delfinariumais
 delfiniukais
 delfinukais
 delfistais
+deliapsinis
 delikatesais
 delikatesiniais
 delikatesinis
@@ -73427,6 +73433,7 @@ detonacinėmis
 detonatoriais
 detonavimais
 detritais
+detruzinis
 deucijomis
 deuteris
 devalvacijomis
@@ -80870,6 +80877,7 @@ egzorcistinėmis
 egzoskeletais
 egzostozėmis
 egzotais
+egzotektoninis
 egzoteriniais
 egzoterinis
 egzoterinėmis
@@ -87995,6 +88003,7 @@ galininkinėmis
 galinis
 galinčiais
 galinėmis
+galinėtis
 galiojimais
 galiomis
 galionais
@@ -90429,6 +90438,7 @@ gitalinais
 gitaristais
 gitaristėmis
 gitaromis
+gizelis
 gižekliais
 gižeklis
 gižeklėmis
@@ -90576,6 +90586,7 @@ glebiomis
 glebnais
 glebnomis
 glegėjimais
+gleivagrybis
 gleiviabudėmis
 gleiviagrybiais
 gleiviagrybis
@@ -93863,6 +93874,7 @@ gvaltavotinosiomis
 gvaltavotomis
 gvaltavotosiomis
 gvaraniais
+gvaranis
 gvardietis
 gvardietėmis
 gvardiečiais
@@ -95166,6 +95178,7 @@ hermetiškais
 hermetiškomis
 hermetiškumais
 hermomis
+hernhuteris
 heroikomis
 heroinais
 heroizavusiais
@@ -96916,6 +96929,7 @@ honkongiečiais
 honorarais
 hoperiais
 hoperis
+hopis
 horeljefais
 horeljefiniais
 horeljefinis
@@ -99448,6 +99462,7 @@ insekticidais
 insekticidiniais
 insekticidinis
 insekticidinėmis
+insekventinis
 insignijomis
 insinavusiais
 insinavusiaisiais
@@ -100759,6 +100774,7 @@ islandinis
 islandinėmis
 islandėmis
 ispanais
+ispanakalbis
 ispanikais
 ispaniniais
 ispaninis
@@ -120111,6 +120127,7 @@ kalinimais
 kaliningradietis
 kaliningradietėmis
 kaliningradiečiais
+kalinis
 kalintojais
 kalinėjimais
 kalinėmis
@@ -121838,6 +121855,7 @@ karolis
 karoliukais
 karoliuotais
 karoliuotomis
+karolėlis
 karosais
 karosiukais
 karotidiniais
@@ -122977,6 +122995,7 @@ kaukštelėjusiosiomis
 kaukštelėjusis
 kaukštelėjusysis
 kaukšėjimais
+kauladumblis
 kaulais
 kaulaligėmis
 kaulamilčiais
@@ -126743,6 +126762,7 @@ klientūrinis
 klientūrinėmis
 klientūromis
 klierikais
+klierikutis
 klierikėliais
 klierikėlis
 klifais
@@ -128390,6 +128410,7 @@ koliotumeis
 kolis
 kolistinais
 kolitais
+koliuvis
 kolizijomis
 koliziniais
 kolizinis
@@ -132241,6 +132262,7 @@ kreiserinėmis
 kreiseris
 kreisvėmis
 kreivabudėmis
+kreivaburnis
 kreivaeigiais
 kreivaeigis
 kreivaeigėmis
@@ -139199,6 +139221,7 @@ likerinėmis
 likeris
 likeriukais
 likimais
+likiminis
 likiniais
 likinėjimais
 likis
@@ -142873,6 +142896,7 @@ manytumeis
 manžetais
 manžetėmis
 maoriais
+maoris
 maprotilinais
 marabutais
 marais
@@ -148874,6 +148898,7 @@ motinomis
 motinystėmis
 motinytėmis
 motinėlėmis
+motis
 motobolais
 motobolininkais
 motociklais
@@ -150449,6 +150474,7 @@ namiūkščiais
 namordnikais
 namsargis
 namsargėmis
+namtvartis
 namudiniais
 namudininkais
 namudininkėmis
@@ -168513,6 +168539,7 @@ neoficioziniais
 neoficiozinis
 neoficiozinėmis
 neofitais
+neogeotektoninis
 neogotikiniais
 neogotikinis
 neogotikinėmis
@@ -202019,6 +202046,7 @@ padalbis
 padalijimais
 padaliniais
 padalinimais
+padalinis
 padalinkis
 padalinsis
 padalintis
@@ -208230,6 +208258,7 @@ palopytis
 palopytumeis
 paloskėmis
 paloviais
+palovinis
 palovis
 palovėmis
 palošimais
@@ -226219,6 +226248,7 @@ patriūštančiaisiais
 patriūštančiomis
 patriūštančiosiomis
 patrobiais
+patrografinis
 patrolinamais
 patrolinamaisiais
 patrolinamasis
@@ -226849,6 +226879,7 @@ pauostytumeis
 pauperiais
 pauperis
 paupiais
+paupietis
 paupiniais
 paupinis
 paupinėmis
@@ -228918,6 +228949,7 @@ pašomis
 pašoniniais
 pašoninis
 pašoninėmis
+pašonkaulis
 pašonėmis
 pašovimais
 pašpilkavusiais
@@ -245162,6 +245194,7 @@ podagriniais
 podagrinis
 podagrinėmis
 podagromis
+podangtis
 podestomis
 podiafragminiais
 podiafragminis
@@ -245189,6 +245222,7 @@ podurpiais
 podurpis
 podėliais
 podėlis
+podėris
 podūkiais
 podūkis
 poelgiais
@@ -245198,6 +245232,7 @@ poemėlėmis
 poerdviais
 poerdvis
 poetais
+poetapis
 poetikomis
 poetiniais
 poetinimais
@@ -246061,6 +246096,7 @@ polonocentristiniais
 polonocentristinis
 polonocentristinėmis
 poltergeistais
+polydis
 polygiais
 polygis
 polygėmis
@@ -246122,6 +246158,7 @@ poniatkėmis
 ponijomis
 poniomis
 ponis
+ponitelis
 poničkomis
 poniškais
 poniškomis
@@ -246452,6 +246489,7 @@ portfelinis
 portfelinėmis
 portfelis
 portfeliukais
+portfolis
 portikais
 portiniais
 portinis
@@ -246833,6 +246871,7 @@ poterėlis
 potiesiais
 potiesis
 potiesėmis
+potikslis
 potinkliais
 potinkliniais
 potinklinis
@@ -247127,6 +247166,7 @@ požievinėmis
 požievis
 požiūriais
 požiūris
+požvilgis
 požymiais
 požymis
 praaimanavimais
@@ -248414,6 +248454,7 @@ prakaitintumeis
 prakaitinėmis
 prakaituotais
 prakaituotomis
+prakaitėlis
 prakalais
 prakalbimais
 prakalbinimais
@@ -265820,6 +265861,7 @@ prolimfocitinis
 prolimfocitinėmis
 prolinais
 prolintanais
+proliuvis
 prologais
 prolongavusiais
 prolongavusiaisiais
@@ -267602,6 +267644,7 @@ pusbliūdis
 pusbliūdžiais
 pusbonkiais
 pusbonkis
+pusbonkutis
 pusbrangiais
 pusbrangis
 pusbrangėmis
@@ -282249,6 +282292,7 @@ skalpais
 skalpavimais
 skalpeliais
 skalpelis
+skalsiagrūdis
 skalsiais
 skalsinimais
 skalsiomis
@@ -285641,6 +285685,7 @@ smulkiadančiais
 smulkiadispersiniais
 smulkiadispersinis
 smulkiadispersinėmis
+smulkiafrakcinis
 smulkiagrūdis
 smulkiagrūdėmis
 smulkiagrūdžiais
@@ -286271,6 +286316,7 @@ sociopatiškėlesniosiomis
 sociopatiškėlesnis
 sociopatiškėlesnysis
 sociopatiškėlesnėmis
+sociopolitinis
 sociopsichologiniais
 sociopsichologinis
 sociopsichologinėmis
@@ -287530,6 +287576,7 @@ spiritistinėmis
 spiritistėmis
 spiritizmais
 spiritometrais
+spiritualistinis
 spirituotais
 spirituotomis
 spiričiuelais
@@ -288882,6 +288929,7 @@ stamantriomis
 stamantrumais
 stamantrėjimais
 stambais
+stambiafrakcinis
 stambiagabaritis
 stambiagabaritėmis
 stambiagabaričiais
@@ -289104,6 +289152,7 @@ statoriais
 statramstis
 statramsčiais
 statulomis
+statulėlis
 statulėlėmis
 statumomis
 statusais
@@ -311482,6 +311531,7 @@ svetimais
 svetimautojais
 svetimautojomis
 svetimavimais
+svetimgentis
 svetimkalbiais
 svetimkalbis
 svetimkalbėmis
@@ -328891,6 +328941,7 @@ tėpliojimais
 tėptelėjimais
 tėtis
 tėtukais
+tėtulis
 tėtušiais
 tėtušis
 tėtušėlis
@@ -341097,6 +341148,7 @@ vakcininėmis
 vakcinomis
 vakuolizacijomis
 vakuolėmis
+vakuteineris
 vakuumais
 vakuumavusiais
 vakuumavusiaisiais
@@ -342969,6 +343021,7 @@ veloergometrinėmis
 velomaratonais
 velomobiliais
 velomobilis
+velsietis
 velsiečiais
 velsis
 veltais
@@ -343716,6 +343769,7 @@ vežiminėmis
 vežimukais
 vežimusis
 vežimėliais
+vežimėlinis
 vežimėlis
 vežiniais
 vežinėjimais
@@ -343989,6 +344043,7 @@ vienabėgėmis
 vienadaigiais
 vienadaigis
 vienadaigėmis
+vienadaiktis
 vienadantis
 vienadantysis
 vienadančiais
@@ -345621,6 +345676,7 @@ virtinėjimais
 virtinėlėmis
 virtinėmis
 virtis
+virtualeris
 virtualiais
 virtualiniais
 virtualinis
@@ -361658,6 +361714,7 @@ zūzinimais
 šitais
 šitokiais
 šitokiomis
+šitokis
 šitomis
 šiugždantis
 šiugždenimais
@@ -364370,6 +364427,7 @@ zūzinimais
 šukėtėmis
 šukėčiais
 šulais
+šulelis
 šuleriais
 šuleris
 šuliniais
@@ -365728,9 +365786,11 @@ zūzinimais
 šėtonais
 šėtonbaravykiais
 šėtonbaravykis
+šėtonistinis
 šėtoniukais
 šėtoniškais
 šėtoniškomis
+šėtonpalaikis
 šėtromis
 šėveliais
 šėvelis
@@ -367405,6 +367465,7 @@ zūzinimais
 žalsvėjimais
 žaltiniais
 žaltinis
+žaltinėlis
 žaltinėmis
 žaltiškais
 žaltiškomis
@@ -368244,6 +368305,7 @@ zūzinimais
 žiemažydėmis
 žiemažydžiais
 žiemgaliais
+žiemgalis
 žiemgališkais
 žiemgališkaisiais
 žiemgališkasis
@@ -368483,6 +368545,7 @@ zūzinimais
 žilumais
 žilumomis
 žilviais
+žilvinis
 žilvis
 žilvitiniais
 žilvitinis

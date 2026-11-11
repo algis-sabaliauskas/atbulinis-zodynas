@@ -14148,6 +14148,7 @@ akmenuotas
 akmenuotumas
 akmenynas
 akmenėjimas
+akmenėtas
 akmenširdiškumas
 akmigranas
 akomodacijas
@@ -14865,6 +14866,7 @@ anilinas
 animacijas
 animavimas
 animizmas
+animuotas
 aniuoliukas
 anizometropijas
 anizotropinas
@@ -19110,6 +19112,7 @@ askorbatas
 askorbinas
 aslas
 asmenavimas
+asmeningumas
 asmeniškas
 asmeniškumas
 asmenybiškumas
@@ -23467,6 +23470,7 @@ baudas
 baudavimas
 baudimas
 baudėjas
+baudžiamas
 baudžiamumas
 baudžiamąsias
 baudžiauninkas
@@ -24119,6 +24123,7 @@ bijojimas
 bijūnas
 bikalutamidas
 bikarbonatas
+biksas
 bildenimas
 bildinimas
 bildukas
@@ -24228,6 +24233,7 @@ biomedicinas
 biometrijas
 biomikroskopijas
 biomimikas
+bionautas
 bionikas
 biontas
 biopolimeras
@@ -25634,6 +25640,7 @@ būtiškumas
 būtiškąsias
 būtiškėlesniąsias
 būvėjimas
+būžiukas
 cackinimas
 caknojimas
 caksėjimas
@@ -27554,6 +27561,7 @@ datrauktinąsias
 datrauktąsias
 datraukusias
 datraukusiąsias
+datyvas
 daubas
 daubimas
 daubotas
@@ -29450,6 +29458,7 @@ dirbdinimas
 dirbimas
 dirbinimas
 dirbinėjimas
+dirbtinas
 dirbtinokas
 dirbtinokąsias
 dirbtinumas
@@ -29789,6 +29798,7 @@ distiliuojas
 distiliuotas
 distiliuotąsias
 distinkcijas
+distinktyvumas
 distocijas
 distonijas
 distopijas
@@ -31433,6 +31443,7 @@ eismas
 eismininkas
 eiženas
 eižėjimas
+eižėtumas
 ejakuliatas
 ekgoninas
 ekipas
@@ -31530,6 +31541,7 @@ ekskomunikuotąsias
 ekskomunistas
 ekskrecijas
 ekskretas
+ekskultininkas
 ekskursantas
 ekskursas
 ekskursavimas
@@ -32154,6 +32166,7 @@ epoksipropanas
 eponimas
 epopėjas
 epopėjiškas
+eprinas
 eprosartanas
 epsomitas
 epušynas
@@ -32378,6 +32391,7 @@ estrogenas
 estronas
 estuarijas
 estukas
+esėjas
 etabonatas
 etalonas
 etamivanas
@@ -32552,6 +32566,7 @@ eurocentriškiausiąsias
 eurocentriškąsias
 eurocentriškėlesniąsias
 eurofederalizmas
+euroinfocentras
 eurokolaboravimas
 eurokomisaras
 eurokomunizmas
@@ -32586,6 +32601,7 @@ eutrofikacijas
 eutrofizacijas
 evakavimas
 evakuacijas
+evakuavimas
 evangelijas
 evangelikas
 evangelistas
@@ -33148,6 +33164,7 @@ finiškiausiąsias
 finiškąsias
 finiškėlesniąsias
 finliandizacijas
+finougras
 finougriškas
 finougriškesniąsias
 finougriškiausias
@@ -33440,6 +33457,7 @@ foras
 fordas
 fordekas
 fordevindas
+fordizmas
 fordukas
 forintas
 formacijas
@@ -34198,6 +34216,7 @@ ganytojiškąsias
 ganytojiškėlesniąsias
 ganėjimas
 ganėtinas
+gaprinas
 garankštėjimas
 garankštėtas
 garankščiavimas
@@ -34488,6 +34507,7 @@ genplanas
 genprokuroras
 gentamicinas
 gentiškas
+gentomicinas
 genėjimas
 genėtojas
 genėtuvas
@@ -34943,6 +34963,7 @@ gliomas
 glipizidas
 glisavusias
 glisavusiąsias
+glismas
 glisuodamas
 glisuodavusias
 glisuodavusiąsias
@@ -35950,6 +35971,7 @@ guodžiojimas
 guoliukas
 guotas
 guralas
+guras
 gurbas
 gurbimas
 gurdinimas
@@ -36826,6 +36848,7 @@ higroskopiškėlesniąsias
 himenėjas
 himnas
 hinajanas
+hindas
 hinduistas
 hinduistiškas
 hinduistiškesniąsias
@@ -36834,6 +36857,7 @@ hinduistiškiausiąsias
 hinduistiškąsias
 hinduistiškėlesniąsias
 hinduizmas
+hindusas
 hiosciaminas
 hioscinas
 hiperaktyvesniąsias
@@ -36936,6 +36960,7 @@ hipnotikas
 hipnotizavimas
 hipnotizuojas
 hipnotizuotojas
+hipocentras
 hipochloritas
 hipochondrijas
 hipochondrikas
@@ -37215,6 +37240,7 @@ ibuprofenas
 ichneumonas
 ichtiofagas
 ichtiofaunas
+ichtiolas
 ichtiologas
 ichtiologijas
 ichtiozauras
@@ -45598,6 +45624,7 @@ karotinoidas
 karpas
 karpavimas
 karpininkas
+karpinukas
 karpinėjimas
 karpiukas
 karpiškas
@@ -46137,6 +46164,7 @@ keblumas
 keblėjimas
 kebėkštelėjimas
 kebėžas
+kedas
 kedenas
 kedenimas
 kedras
@@ -46837,6 +46865,7 @@ kirpimas
 kirpinėjimas
 kirptelėjimas
 kirpyklas
+kirpčiukas
 kirpėjas
 kirsdinimas
 kirslas
@@ -48128,6 +48157,7 @@ kompulsyviausias
 kompulsyviausiąsias
 kompulsyviąsias
 kompulsyvėlesniąsias
+komsorgas
 komtūras
 komtūrijas
 komunalininkas
@@ -48711,6 +48741,7 @@ kontuzijimas
 kontūras
 kontūzijas
 kontūzijimas
+konungas
 konusas
 konvalijas
 konvekcijas
@@ -49399,6 +49430,7 @@ kriokliukas
 krioksmas
 krioktelėjimas
 kriolitas
+krioprecipitatas
 krioskopas
 kriostatas
 kriošimas
@@ -49788,6 +49820,7 @@ kulonas
 kulsnojimas
 kulstymas
 kultas
+kultininkas
 kultivavimas
 kultūras
 kultūrbolševizmas
@@ -50143,6 +50176,7 @@ kutuotas
 kuvaldas
 kuvasas
 kuzovas
+kušlas
 kušnojimas
 kušteldamas
 kušteldavusias
@@ -50699,6 +50733,7 @@ labirintiškėlesniąsias
 laborantas
 laboratorijas
 labradoras
+labumas
 lachudras
 lacidipinas
 lafetas
@@ -52124,6 +52159,7 @@ logometras
 logopedas
 logopedijas
 logorėjas
+logosas
 logoterapijas
 logotipas
 lojalias
@@ -52203,6 +52239,7 @@ lotyniškas
 lovas
 lovastatinas
 lovelasas
+lovingas
 lozoraitiškas
 lozoraitiškesniąsias
 lozoraitiškiausias
@@ -53381,6 +53418,7 @@ mažokas
 mažoras
 mažuliukas
 mažumas
+mažutukas
 mažučiukas
 mažvaikiškumas
 mažyliukas
@@ -53471,6 +53509,7 @@ medininkas
 medinukas
 meditacijas
 meditavimas
+medituotojas
 mediumas
 medlievas
 medpunktas
@@ -53683,6 +53722,7 @@ mepakrinas
 mepartricinas
 mepiraminas
 mepivakainas
+meprinas
 meprobamatas
 meras
 merdėjimas
@@ -54026,6 +54066,7 @@ midazolamas
 midelšpantas
 midijas
 midodrinas
+miegamas
 miegas
 miegojimas
 mieguistas
@@ -54647,6 +54688,7 @@ mizeriškiausias
 mizeriškiausiąsias
 mizeriškąsias
 mizeriškėlesniąsias
+mizernas
 mizgimas
 mizoginizmas
 mičiurininkas
@@ -55711,6 +55753,7 @@ naudotąsias
 naudotėlesniąsias
 naudočiausias
 naudočiausiąsias
+naujaamžininkas
 naujadaras
 naujamadiškas
 naujamadiškumas
@@ -56813,6 +56856,7 @@ nebemodernias
 nebemoderniąsias
 nebemokias
 nebemokiąsias
+nebemylėjimas
 nebemąstymas
 nebemėgiamas
 nebemėgiamąsias
@@ -61009,6 +61053,7 @@ neomicinas
 neonacizmas
 neonas
 neonatologas
+neopagonizmas
 neopagoniškas
 neopagoniškąsias
 neoperatyvesniąsias
@@ -61086,6 +61131,7 @@ neorėlesniąsias
 neostigminas
 neotomizmas
 neovaskuliarizacijas
+neošėtoniškas
 nepaaiškinimas
 nepaaugliškas
 nepaaugliškąsias
@@ -65399,6 +65445,7 @@ neįtikimas
 neįtikimesniąsias
 neįtikimiausias
 neįtikimiausiąsias
+neįtikimumas
 neįtikimąsias
 neįtikimėlesniąsias
 neįtikinamas
@@ -66177,6 +66224,7 @@ normalinimas
 normalizacijas
 normalizavimas
 normalizuojas
+normalizuotas
 normalumas
 normalėjimas
 normanas
@@ -75723,6 +75771,7 @@ paprezidentavusiąsias
 papriekaištavimas
 paprieštaravimas
 paprikas
+paprinas
 paprodiusavimas
 paprognozavusias
 paprognozavusiąsias
@@ -76564,6 +76613,7 @@ parlamentiškiausias
 parlamentiškiausiąsias
 parlamentiškąsias
 parlamentiškėlesniąsias
+parlatoriumas
 parlingavimas
 parlipimas
 parlydėjimas
@@ -87552,6 +87602,7 @@ poliuretanas
 polivinilacetatas
 polivinilas
 polivinilchloridas
+polivitaminas
 poliškas
 poliškesniąsias
 poliškiausias
@@ -93926,6 +93977,7 @@ protonotaras
 protoplastas
 protoplazmas
 prototipas
+prototipavimas
 protriptilinas
 protrombinas
 protruzijas
@@ -94161,6 +94213,7 @@ pudeliukas
 pudingas
 pudras
 pudravimas
+pudrinimas
 pueblas
 puerarijas
 puertorikietiškas
@@ -97577,6 +97630,7 @@ samstinėjimas
 samstymas
 samsčiojimas
 samtukas
+samumas
 sanacijas
 sanatorijas
 sanavimas
@@ -98604,6 +98658,7 @@ sikstilijonas
 silanas
 silantas
 silantavimas
+silenciumas
 silfonas
 silicidas
 silicingas
@@ -99443,6 +99498,7 @@ skirstyklas
 skirstymas
 skirstytojas
 skirstytuvas
+skirtas
 skirtinas
 skirtinesniąsias
 skirtingas
@@ -99851,6 +99907,7 @@ slaptindamas
 slaptindavusias
 slaptindavusiąsias
 slaptingas
+slaptingumas
 slaptinsiančias
 slaptinsiančiąsias
 slaptinsimas
@@ -100065,6 +100122,7 @@ smaksojimas
 smaktelėjimas
 smalas
 smalavimas
+smalininkas
 smaližiautojas
 smaližiavimas
 smalkas
@@ -100365,6 +100423,7 @@ snigčiojimas
 snobas
 snobizmas
 snobiškas
+snobiškumas
 snopinėjimas
 snopsojimas
 snudas
@@ -101477,6 +101536,7 @@ stapelijas
 stapinimas
 staptelėjimas
 staras
+starkas
 startas
 startavimas
 startininkas
@@ -101699,6 +101759,7 @@ stiliovas
 stiliovąsias
 stilistas
 stilistikas
+stilistiškas
 stilitas
 stiliukas
 stilizacijas
@@ -101842,6 +101903,7 @@ strapinėjimas
 strapsėjimas
 straptelėjimas
 strapčiojimas
+strarkas
 strategas
 strategavusias
 strategavusiąsias
@@ -108495,6 +108557,7 @@ sutamsėjimas
 sutanas
 sutankinimas
 sutankėjimas
+sutanotas
 sutapatinimas
 sutapdinimas
 sutapenimas
@@ -109487,6 +109550,7 @@ sveikavimas
 sveikimas
 sveikinimas
 sveikintojas
+sveikokas
 sveikumas
 sveikuoliškas
 sveikėjimas
@@ -113639,6 +113703,7 @@ tercinas
 tereikalingas
 tereikalingąsias
 terfenadinas
+terikonas
 teriparatidas
 teritorijas
 teritoriškumas
@@ -114226,6 +114291,7 @@ titruotąsias
 titulas
 titulavimas
 tituluojas
+tituluotas
 tiulenimas
 tiuningas
 tiuningavusias
@@ -114259,6 +114325,7 @@ tiškimas
 tižias
 tižimas
 tižinimas
+tlingitas
 toboganas
 tobramicinas
 tobulas
@@ -121040,6 +121107,7 @@ vienodėjimas
 vienokias
 vienopas
 vienprasmiškas
+vienprasmiškumas
 vienpusiškas
 vienpusiškumas
 vienspalviškas
@@ -121589,6 +121657,7 @@ voliuntaristiškėlesniąsias
 voliuntarizmas
 voliutas
 voljeras
+volofas
 voltametras
 voltamperas
 voltas
@@ -122026,6 +122095,7 @@ zelotizmas
 zembimas
 zemliakas
 zemstvas
+zenbudizmas
 zengimas
 zenitas
 zenitininkas
@@ -123103,6 +123173,7 @@ zūzinimas
 įdėvėjimas
 įdūkimas
 įdūkinimas
+įdūlėjimas
 įdūmijimas
 įdūmimas
 įdūrimas
@@ -126462,6 +126533,7 @@ zūzinimas
 šablonėjimas
 šachas
 šachavimas
+šachidas
 šachmatininkas
 šachtas
 šachtininkas
@@ -126571,6 +126643,7 @@ zūzinimas
 šamaniškėlesniąsias
 šamarliakas
 šamas
+šamiokas
 šamotas
 šampanas
 šampaniukas
@@ -127999,6 +128072,7 @@ zūzinimas
 štampas
 štampavimas
 štampukas
+štampuotas
 štampuotojas
 štancas
 štangas
@@ -128480,7 +128554,9 @@ zūzinimas
 šėryklas
 šėrėjas
 šėtonas
+šėtonistas
 šėtoniukas
+šėtonizmas
 šėtoniškas
 šėtras
 šūbas

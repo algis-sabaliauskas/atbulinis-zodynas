@@ -38236,6 +38236,7 @@ frontus
 frotinius
 fruktus
 frustracinius
+frustratorius
 frustravus
 frustravusiuosius
 frustravusius
@@ -38737,6 +38738,7 @@ garliavinius
 garliaviškius
 garmėjimus
 garnelius
+garnitorius
 garnitūrus
 garnius
 garnizonus
@@ -42919,6 +42921,7 @@ injekcinius
 injektavus
 injektavusiuosius
 injektavusius
+injektorius
 injektuodavus
 injektuodavusiuosius
 injektuodavusius
@@ -52732,6 +52735,7 @@ komunikabilaus
 komunikabilius
 komunikabilus
 komunikacinius
+komunikatorius
 komunikatus
 komunikatyvinius
 komuninius
@@ -54124,6 +54128,7 @@ kriauklus
 kriaukučius
 kriaukšlius
 kriaukšlus
+kriaučius
 kriaušingus
 kriaušinius
 kriaušiuotus
@@ -61357,6 +61362,7 @@ narinius
 nariuotakojus
 nariuotus
 narius
+narkobiznierius
 narkobiznius
 narkodylerius
 narkologinius
@@ -102050,6 +102056,7 @@ rašytinius
 rašytojus
 rašytojėlius
 raščiukus
+ražančius
 raženius
 ražieninius
 ražinius
@@ -120612,6 +120619,7 @@ tobramicinus
 tobulintojus
 tobulus
 tocharus
+todėlčius
 toiterjerus
 tojaus
 tojus
@@ -134227,6 +134235,7 @@ zyzlius
 švarutėlius
 švaručius
 švebeldžiavimus
+švebeldžius
 šveblenamuosius
 šveblenamus
 šveblenančiuosius

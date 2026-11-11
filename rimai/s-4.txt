@@ -174577,6 +174577,7 @@ krabždesys
 kraikys
 kraipys
 kraitvežys
+kraičvežys
 krakmolinantys
 krakmolinsiantys
 krakmolinusys
@@ -176107,6 +176108,7 @@ oksidinantys
 oksidinsiantys
 oksidinusys
 omenys
+ošesys
 ošlys
 ožinantys
 ožinsiantys
@@ -181347,6 +181349,7 @@ svirtys
 svyrulys
 svėrinys
 sąnarys
+sąsiuvinys
 sėdmenys
 sėmenys
 sėslys
@@ -184094,6 +184097,7 @@ zyzlys
 žiemmitys
 žiemrytys
 žiemys
+žigulys
 žildinys
 žildys
 žilpulys
@@ -184257,6 +184261,7 @@ apderindavęs
 apderinęs
 apdiskutavęs
 apdiskutuodavęs
+apdriskęs
 apdurnindavęs
 apdurninęs
 apdūmindavęs
@@ -202063,3 +202068,6 @@ karts
 pats
 ts
 viešpats
+Harrods
+berods
+rods

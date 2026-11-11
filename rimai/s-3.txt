@@ -59733,6 +59733,7 @@ maigytumėmės
 maigytumės
 maigytumėtės
 maigytutės
+maigytuvės
 maigėmės
 maigėtės
 maikės
@@ -217358,6 +217359,7 @@ nebesijuoks
 nekoks
 nesijuoks
 niauks
+nieks
 niks
 niuks
 niurks
@@ -218672,7 +218674,4 @@ Krauss
 Lyoness
 Zeiss
 pss
-Harrods
-berods
-rods
 s
