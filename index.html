@@ -453,7 +453,7 @@ function openInfo(i,word){lastFocus=document.activeElement&&document.activeEleme
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
   $("l-gl").href="https://glosbe.com/lt/en/"+e;
   $("l-gt").href="https://translate.google.com/?sl=lt&tl=en&text="+e+"&op=translate";
-  {const pi=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);const gt=$("l-gt");if(pi!=null&&P[pi]&&(WT[pi]&4)){gt.href="https://vietovardziai.lki.lt/?zodis="+e;gt.innerHTML="Lietuvos vietovardžių žodynas<small>Lietuvių kalbos instituto žodynas – vietovardžio kilmė ir vartosena</small>";}else{gt.innerHTML="Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small>";}}
+  {const pi=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);const gt=$("l-gt");if(pi!=null&&P[pi]&&(WT[pi]&4)){gt.href="http://vietovardziai.lki.lt/?zodis="+e;gt.innerHTML="Lietuvos vietovardžių žodynas<small>Lietuvių kalbos instituto žodynas – vietovardžio kilmė ir vartosena</small>";}else{gt.innerHTML="Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small>";}}
   $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
   $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
   $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;

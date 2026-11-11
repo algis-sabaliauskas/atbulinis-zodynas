@@ -450,7 +450,7 @@ function openInfo(i,word){lastFocus=document.activeElement&&document.activeEleme
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
   $("l-gl").href="https://glosbe.com/lt/en/"+e;
   $("l-gt").href="https://translate.google.com/?sl=lt&tl=en&text="+e+"&op=translate";
-  {const pi=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);const gt=$("l-gt");if(pi!=null&&P[pi]&&(WT[pi]&4)){gt.href="https://vietovardziai.lki.lt/?zodis="+e;gt.innerHTML="Dictionary of Lithuanian Place Names<small>Institute of the Lithuanian Language – origin and usage of the place name</small>";}else{gt.innerHTML="Google Translate<small>Quick English translation – works for inflected forms too</small>";}}
+  {const pi=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);const gt=$("l-gt");if(pi!=null&&P[pi]&&(WT[pi]&4)){gt.href="http://vietovardziai.lki.lt/?zodis="+e;gt.innerHTML="Dictionary of Lithuanian Place Names<small>Institute of the Lithuanian Language – origin and usage of the place name</small>";}else{gt.innerHTML="Google Translate<small>Quick English translation – works for inflected forms too</small>";}}
   $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
   $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
   $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;
