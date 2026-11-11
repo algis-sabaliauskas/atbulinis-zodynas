@@ -293,14 +293,14 @@ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
 </pre></details>
 </footer>
-<script src="/zodziai.js"></script>
-<script src="/meta.js"></script>
+<script src="/zodziai.js?v=20261111"></script>
+<script src="/meta.js?v=20261111"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
 const P=W.map(w=>w[0]!==w[0].toLowerCase())
 const MA="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKL",MV=new Uint8Array(W.length);if(window.WM)for(let i=0;i<W.length;i++)MV[i]=MA.indexOf(WM[i]);
-const WT=new Uint8Array(W.length);if(window.WT)for(let i=0;i<W.length;i++)WT[i]=parseInt(window.WT[i],16);
+const WT=new Uint8Array(W.length);if(!window.WT){const ps=document.getElementById("prop");if(ps)[...ps.options].forEach(o=>{if(o.value&&o.value!=="0")o.disabled=true;});}if(window.WT)for(let i=0;i<W.length;i++)WT[i]=parseInt(window.WT[i],16);
 const KN={1:"first name",2:"surname",4:"place name",8:"proper name"},PN={1:"noun",2:"adjective",4:"verb"};
 let PT=null,WI=null;function ptMap(){if(!PT){PT=new Map();for(let i=0;i<W.length;i++)if(P[i])PT.set(W[i],WT[i]);}return PT;}
 function wIdx(w){if(!WI){WI=new Map();W.forEach((x,i)=>WI.set(x,i));}return WI.get(w);}
