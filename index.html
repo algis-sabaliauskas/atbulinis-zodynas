@@ -298,8 +298,8 @@ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
 </pre></details>
 </footer>
-<script src="/zodziai.js?v=20261111b"></script>
-<script src="/meta.js?v=20261111b"></script>
+<script src="/zodziai.js?v=20261111c"></script>
+<script src="/meta.js?v=20261111c"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -445,7 +445,7 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Ieškoma Vikižodyne ir Wiktionary…",none:"Laisvuosiuose žodynuose šio žodžio aprašo nėra – žr. šaltinius žemiau.",from:"Šaltinis:",order:[{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas",ety:"Kilmė:"},{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary (anglų k.)",ety:"Kilmė (angl.):"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111b").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111c").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morfemos: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Lietuvių kalbos morfemikos duomenų bazė";a.title="Šaltinis: VDU Lietuvių kalbos morfemikos duomenų bazė";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
 function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
@@ -453,6 +453,7 @@ function openInfo(i,word){lastFocus=document.activeElement&&document.activeEleme
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
   $("l-gl").href="https://glosbe.com/lt/en/"+e;
   $("l-gt").href="https://translate.google.com/?sl=lt&tl=en&text="+e+"&op=translate";
+  {const pi=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);const gt=$("l-gt");if(pi!=null&&P[pi]&&(WT[pi]&4)){gt.href="https://vietovardziai.lki.lt/?zodis="+e;gt.innerHTML="Lietuvos vietovardžių žodynas<small>Lietuvių kalbos instituto žodynas – vietovardžio kilmė ir vartosena</small>";}else{gt.innerHTML="Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small>";}}
   $("l-et").href="https://etimologija.baltnexus.lt/?w="+e;
   $("l-bg").href="https://ekalba.lt/BugosEtimologinioZodynoKartoteka/?paieska="+e;
   $("l-lkz").href="https://ekalba.lt/lietuviu-kalbos-zodynas/?paieska="+e;
