@@ -527,6 +527,7 @@ Nausėda
 išėda
 maitėda
 gyvėda
+govėda
 Magda
 Bogda
 Vologda
@@ -1625,6 +1626,7 @@ grabnyčia
 Pėdnyčia
 Vilkinyčia
 Smalinyčia
+dūminyčia
 Bilsinyčia
 Kalnyčia
 Palnyčia
@@ -1973,6 +1975,7 @@ užgrobėja
 gerbėja
 dirbėja
 apdirbėja
+perdirbėja
 panacėja
 teodicėja
 radėja
@@ -2205,6 +2208,7 @@ nešėja
 pranešėja
 pernešėja
 plėšėja
+panėšėja
 kišėja
 rišėja
 tranšėja
@@ -2908,6 +2912,7 @@ mitologizacija
 demitologizacija
 katechizacija
 katekizacija
+fizikizacija
 globalizacija
 verbalizacija
 idealizacija
@@ -3280,6 +3285,7 @@ perprodukcija
 postprodukcija
 introdukcija
 transdukcija
+solifliukcija
 obstrukcija
 destrukcija
 savidestrukcija
@@ -3298,6 +3304,7 @@ ignorancija
 monstrancija
 Kastancija
 substancija
+konsubstancija
 distancija
 instancija
 Konstancija
@@ -3774,6 +3781,7 @@ narkologija
 edukologija
 angelologija
 filologija
+koagulologija
 islamologija
 epistemologija
 etimologija
@@ -3880,6 +3888,7 @@ perinatologija
 neonatologija
 patologija
 hepatologija
+telepatologija
 psichopatologija
 imunopatologija
 neuropatologija
@@ -4044,6 +4053,7 @@ augalija
 Portugalija
 kalija
 pasakalija
+fekalija
 alalija
 tachilalija
 dislalija
@@ -4898,6 +4908,7 @@ buhalterija
 galanterija
 dizenterija
 loterija
+egzoterija
 arterija
 Asterija
 isterija
@@ -6466,6 +6477,7 @@ Velička
 Vilička
 ponička
 Pimpička
+brička
 električka
 Strička
 Tička
@@ -6563,6 +6575,7 @@ fonoteka
 hipoteka
 fototeka
 kartoteka
+nuoteka
 Apteka
 dėka
 padėka
@@ -7155,6 +7168,7 @@ helenistika
 marinistika
 bonistika
 polonistika
+japonistika
 memuaristika
 ekvilibristika
 eristika
@@ -7724,6 +7738,7 @@ knopka
 Vairopka
 Visopka
 Nastopka
+klaupka
 Žiupka
 Lankupka
 Alupka
@@ -7873,6 +7888,7 @@ Oliska
 Pliska
 piska
 driska
+nuodriska
 Priska
 sasiska
 sosiska
@@ -9193,6 +9209,7 @@ timpanograma
 rentgenograma
 elektrorentgenograma
 stenograma
+mašinograma
 fonograma
 telefonograma
 monograma
@@ -9500,6 +9517,7 @@ forma
 reforma
 uniforma
 homoforma
+mikroforma
 presforma
 platforma
 norma
@@ -11857,6 +11875,7 @@ grasa
 atgrasa
 trasa
 Kinšasa
+dvasa
 padvasa
 nuodvasa
 išdvasa
@@ -12174,6 +12193,7 @@ Ramša
 Tamša
 Demša
 Dimša
+kimša
 Rimša
 Šimša
 zomša
@@ -13854,6 +13874,7 @@ Nyžuva
 Gryžuva
 balžuva
 krūva
+kraujosrūva
 Aza
 Gaza
 Plaza
@@ -14663,6 +14684,7 @@ svetimybė
 atsakomybė
 neatsakomybė
 privalomybė
+neįmanomybė
 nežinomybė
 priklausomybė
 nepriklausomybė
@@ -14758,6 +14780,7 @@ atvirybė
 tikrybė
 dorybė
 nedorybė
+išorybė
 stiprybė
 Trybė
 kantrybė
@@ -14765,6 +14788,7 @@ kantrybė
 aštrybė
 žiaurybė
 bjaurybė
+vidurybė
 esybė
 šviesybė
 baisybė
@@ -14798,6 +14822,7 @@ retybė
 konkretybė
 žemaitybė
 aukštaitybė
+kitybė
 abstraktybė
 daiktybė
 piktybė
@@ -15043,6 +15068,7 @@ menadė
 papadė
 Ilgabradė
 Pabradė
+pirmapradė
 Josadė
 Tadė
 vadė
@@ -15175,6 +15201,7 @@ gidė
 Eigidė
 Kolchidė
 žvakidė
+viščiukidė
 Lidė
 šalidė
 invalidė
@@ -15337,6 +15364,7 @@ minakandė
 makštikandė
 balandė
 Balandė
+normavalandė
 ampervalandė
 kilovatvalandė
 Koglandė
@@ -15600,6 +15628,7 @@ Užprūdė
 Trūdė
 Lyksūdė
 vairalazdė
+vairolazdė
 Pastrazdė
 gvaizdė
 kiauražaizdė
@@ -15768,6 +15797,7 @@ vyžligė
 velniapinigė
 bepinigė
 didžpinigė
+kunigė
 Pakunigė
 Brigė
 Jorigė
@@ -16505,6 +16535,7 @@ išdavikė
 apgavikė
 bolševikė
 menševikė
+galvikė
 plovikė
 krovikė
 šovikė
@@ -17067,6 +17098,7 @@ kraštotyrininkė
 tautotyrininkė
 cukrininkė
 folklorininkė
+porininkė
 ekskavatorininkė
 traktorininkė
 gaisrininkė
@@ -17363,6 +17395,7 @@ trečiokė
 prasčiokė
 viliokė
 vidutiniokė
+grupiokė
 kambariokė
 klasiokė
 kursiokė
@@ -18615,6 +18648,7 @@ broškė
 troškė
 mandavoškė
 varškė
+čirškė
 niektauškė
 raskladuškė
 Sirguškė
@@ -18714,6 +18748,7 @@ dundukė
 juodukė
 širdukė
 rudukė
+bombiukė
 čiukė
 gyvačiukė
 viečiukė
@@ -18975,6 +19010,7 @@ negalė
 Pagaigalė
 Notigalė
 Strygalė
+žiemgalė
 bengalė
 piemengalė
 Vengalė
@@ -19338,6 +19374,7 @@ trinkelė
 pageležinkelė
 bonkelė
 Runkelė
+tokelė
 kuokelė
 pypkelė
 Karkelė
@@ -19504,6 +19541,7 @@ liepelė
 Liepelė
 kilpelė
 tulpelė
+kampelė
 lempelė
 klumpelė
 opelė
@@ -19913,6 +19951,7 @@ prisiplakėlė
 apakėlė
 patrakėlė
 pasakėlė
+ašakėlė
 puodkėlė
 Polekėlė
 Versekėlė
@@ -20049,6 +20088,7 @@ aukštumėlė
 mažumėlė
 garbanėlė
 raganėlė
+pleiskanėlė
 samanėlė
 prasimanėlė
 neišmanėlė
@@ -20316,6 +20356,7 @@ Brigitėlė
 Sigitėlė
 Jurgitėlė
 Jolitėlė
+ponitėlė
 Jovitėlė
 koplytėlė
 Ulytėlė
@@ -20858,6 +20899,7 @@ džiovyklė
 plovyklė
 rovyklė
 braižyklė
+kranklė
 minklė
 rinklė
 daboklė
@@ -21338,6 +21380,7 @@ piršlė
 uršlė
 ulė
 Ulė
+aulė
 Bredaulė
 Gaulė
 pagaulė
@@ -21697,6 +21740,7 @@ Pabradumė
 Užbradumė
 odgumė
 puslygumė
+mediumė
 reziumė
 Kumė
 pusdykumė
@@ -36521,6 +36565,7 @@ Alendatorienė
 Zalatorienė
 imperatorienė
 Tatorienė
+sekretorienė
 Vektorienė
 Diktorienė
 Kuktorienė
@@ -41727,6 +41772,7 @@ kakarinė
 vakarinė
 Vakarinė
 Keimarinė
+visaparinė
 vasarinė
 pašarinė
 Makšarinė
@@ -42135,6 +42181,7 @@ laidynė
 palaidynė
 klaidynė
 Naidynė
+žaidynė
 slidynė
 lakdynė
 šokdynė
@@ -43685,6 +43732,7 @@ egzekutorė
 uorė
 įvorė
 spygliatvorė
+patvorė
 gyvatvorė
 sniegtvorė
 šalitvorė
@@ -43909,6 +43957,7 @@ izohipsė
 Kalipsė
 apokalipsė
 elipsė
+puselipsė
 liaupsė
 Garsė
 skersė
@@ -56195,6 +56244,7 @@ Mierkytė
 Merkytė
 Goerkytė
 Verkytė
+zacirkytė
 Borkytė
 Morkytė
 Urkytė
@@ -58777,6 +58827,7 @@ Liepinytė
 Lipinytė
 Pipinytė
 Stripinytė
+kempinytė
 Štuopinytė
 Kaupinytė
 Šiupinytė
@@ -63074,6 +63125,7 @@ betėvystė
 blaivystė
 žygeivystė
 keleivystė
+upeivystė
 kareivystė
 oreivystė
 jūreivystė
@@ -63151,6 +63203,7 @@ Grūstė
 paraštė
 mažaraštė
 beraštė
+šlaitkraštė
 poraštė
 antraštė
 paantraštė
@@ -63832,6 +63885,7 @@ eilutė
 meilutė
 Meilutė
 Šilutė
+vilutė
 bylutė
 skylutė
 zylutė
@@ -67551,6 +67605,7 @@ Gadvė
 Jadvė
 Radvė
 erdvė
+kibererdvė
 Debalcevė
 bedievė
 Daržiapievė
@@ -68078,6 +68133,8 @@ kancerogenezė
 spermatogenezė
 patogenezė
 teratogenezė
+litogenezė
+tektogenezė
 ontogenezė
 histogenezė
 ovogenezė
@@ -68279,6 +68336,7 @@ riketsiozė
 ichtiozė
 babeziozė
 mejozė
+chlamidijozė
 silikozė
 mikozė
 kandidamikozė
@@ -68531,6 +68589,7 @@ puodlaižė
 batlaižė
 plytlaižė
 Graižė
+eižė
 ližė
 Ližė
 smaližė
@@ -70614,6 +70673,7 @@ Linksmučiai
 Ašmučiai
 Ginučiai
 Linučiai
+pinučiai
 Kalnučiai
 Pakalnučiai
 Jonučiai
@@ -74158,6 +74218,7 @@ Spuliai
 Špuliai
 Paupuliai
 Skaruliai
+pragiedruliai
 Geruliai
 Keruliai
 Ciruliai
@@ -75495,6 +75556,7 @@ Sauseriai
 Keteriai
 Skėteriai
 Panoteriai
+poteriai
 Skaisteriai
 Midveriai
 Veiveriai
@@ -75794,6 +75856,7 @@ pezesiai
 spragėsiai
 Degėsiai
 žalėsiai
+dūlėsiai
 Rudmėsiai
 putėsiai
 vėsiai
@@ -76824,6 +76887,7 @@ Jakai
 Majakai
 Skakai
 Valakai
+pasturlakai
 karakalpakai
 Rakai
 Barakai
@@ -79209,6 +79273,7 @@ Pylimai
 Polimai
 tolimai
 netolimai
+atsiminimai
 Skynimai
 Gedrimai
 Baltrimai
@@ -83578,6 +83643,7 @@ patikėti
 pasitikėti
 tenesitikėti
 įsitikėti
+atsitikėti
 įtikėti
 puikėti
 išpuikėti
@@ -85983,6 +86049,7 @@ nučiužinėti
 žiužinėti
 pužinėti
 gūžinėti
+pačiūžinėti
 lūžinėti
 aplūžinėti
 išlūžinėti
@@ -86199,6 +86266,7 @@ klūpėti
 paklūpėti
 rūpėti
 parūpėti
+aprūpėti
 pasūpėti
 paarėti
 stabarėti
@@ -87122,6 +87190,7 @@ tintėti
 protėti
 susiprotėti
 išprotėti
+nuprotėti
 suprotėti
 artėti
 priartėti
@@ -87606,6 +87675,7 @@ paslėgti
 prislėgti
 susislėgti
 perslėgti
+išslėgti
 atslėgti
 nuslėgti
 suslėgti
@@ -89875,6 +89945,7 @@ pasiskiepyti
 įskiepyti
 perskiepyti
 suskiepyti
+nepyti
 klaipyti
 išsiklaipyti
 susiklaipyti
@@ -90013,6 +90084,7 @@ uždaryti
 žagaryti
 praryti
 tenepraryti
+taryti
 varyti
 davaryti
 pavaryti
@@ -91304,6 +91376,7 @@ išsivyti
 atsivyti
 nusivyti
 susivyti
+užsivyti
 įvyti
 besijovyti
 nebesijovyti
@@ -92499,6 +92572,7 @@ susišaukti
 užsišaukti
 įšaukti
 apšaukti
+paršaukti
 peršaukti
 iššaukti
 atšaukti
@@ -92700,6 +92774,7 @@ atkalti
 nukalti
 sukalti
 užkalti
+lalti
 malti
 pamalti
 pramalti
@@ -95024,6 +95099,7 @@ prisišnekinti
 užšnekinti
 žnekinti
 krekinti
+apsiprekinti
 sekinti
 išsekinti
 tekinti
@@ -95325,6 +95401,7 @@ pablyškinti
 išblyškinti
 pyškinti
 išpyškinti
+nupyškinti
 supyškinti
 užpyškinti
 ryškinti
@@ -101032,6 +101109,7 @@ virduliuoti
 svirduliuoti
 įsvirduliuoti
 išsvirduliuoti
+atsvirduliuoti
 nusvirduliuoti
 susvirduliuoti
 urduliuoti
@@ -101364,6 +101442,7 @@ apsimuturiuoti
 apmuturiuoti
 kiūturiuoti
 siūturiuoti
+apmūturiuoti
 susibūriuoti
 padebesiuoti
 besivaisiuoti
@@ -101497,6 +101576,7 @@ išsidiferencijuoti
 išdiferencijuoti
 asocijuoti
 disocijuoti
+iradijuoti
 medijuoti
 ekspedijuoti
 subsidijuoti
@@ -102884,6 +102964,7 @@ pafiltruoti
 prafiltruoti
 prasifiltruoti
 prisifiltruoti
+įsifiltruoti
 persifiltruoti
 atsifiltruoti
 nusifiltruoti
@@ -103395,6 +103476,7 @@ perasfaltuoti
 išasfaltuoti
 nuasfaltuoti
 užasfaltuoti
+egzaltuoti
 geltuoti
 pageltuoti
 miltuoti
@@ -104005,6 +104087,7 @@ demilitarizuoti
 remilitarizuoti
 dispečerizuoti
 buferizuoti
+konvejerizuoti
 polimerizuoti
 dispanserizuoti
 kateterizuoti
@@ -105627,6 +105710,7 @@ užsviesti
 šviesti
 pašviesti
 prašviesti
+prišviesti
 pasišviesti
 prasišviesti
 apsišviesti
@@ -110724,6 +110808,7 @@ pano
 Terrano
 Cinzano
 kieno
+niekieno
 kažkieno
 domino
 Casino
@@ -111210,6 +111295,7 @@ limbas
 įsklimbas
 nimbas
 rimbas
+klombas
 Kolombas
 aplombas
 rombas
@@ -111662,6 +111748,7 @@ Susiedas
 žiedas
 Žiedas
 darmajedas
+kedas
 ledas
 Ledas
 Toledas
@@ -111793,6 +111880,7 @@ gidas
 Egidas
 Eigidas
 lizergidas
+šachidas
 aldehidas
 salicilaldehidas
 akrilaldehidas
@@ -112207,6 +112295,7 @@ baldas
 Arčibaldas
 Teobaldas
 Ubaldas
+skaldas
 Romaldas
 Renaldas
 Reginaldas
@@ -112352,6 +112441,7 @@ Indas
 Gindas
 Vygindas
 Jaugindas
+hindas
 vunderkindas
 galindas
 Galindas
@@ -112902,6 +112992,7 @@ Kirchhofas
 Zamenhofas
 Renhofas
 Štuthofas
+volofas
 profas
 apostrofas
 istoriosofas
@@ -113976,6 +114067,7 @@ nespalvingas
 pilvingas
 kovingas
 nekovingas
+lovingas
 šlovingas
 nešlovingas
 drovingas
@@ -114027,6 +114119,7 @@ Jungas
 nibelungas
 Nibelungas
 mungas
+konungas
 rungas
 Babrungas
 Dausprungas
@@ -114267,6 +114360,7 @@ Vyborgas
 Georgas
 morgas
 sorgas
+komsorgas
 Vajantorgas
 partorgas
 Zalcburgas
@@ -114726,6 +114820,7 @@ bendraįkūrėjas
 atkūrėjas
 sukūrėjas
 kasėjas
+esėjas
 tiesėjas
 tęsėjas
 Odisėjas
@@ -115498,6 +115593,7 @@ interpretuotojas
 frachtuotojas
 fechtuotojas
 kaituotojas
+medituotojas
 agituotojas
 glituotojas
 trimituotojas
@@ -117735,6 +117831,7 @@ galininkas
 augalininkas
 Kalininkas
 sakalininkas
+smalininkas
 signalininkas
 finalininkas
 superfinalininkas
@@ -118205,6 +118302,8 @@ skiltininkas
 šiltininkas
 tiltininkas
 viltininkas
+kultininkas
+ekskultininkas
 gamtininkas
 šimtininkas
 dešimtininkas
@@ -118372,6 +118471,7 @@ Muižininkas
 kryžininkas
 vyžininkas
 amžininkas
+naujaamžininkas
 rožininkas
 daržininkas
 Diržininkas
@@ -118514,6 +118614,7 @@ Guliokas
 Matuliokas
 Mažliokas
 namiokas
+šamiokas
 Maniokas
 Staniokas
 Grabniokas
@@ -118555,6 +118656,7 @@ Bujokas
 kokas
 Kokas
 Hičkokas
+sveikokas
 nykokas
 pilkokas
 smulkokas
@@ -118819,6 +118921,8 @@ parkas
 lunaparkas
 Eparkas
 autoparkas
+strarkas
+starkas
 Niuarkas
 Podvarkas
 palivarkas
@@ -122476,6 +122580,7 @@ neplatoniškas
 feljetoniškas
 smetoniškas
 šėtoniškas
+neošėtoniškas
 chtoniškas
 kitoniškas
 puritoniškas
@@ -123382,6 +123487,7 @@ internacionalistiškas
 paternalistiškas
 natūralistiškas
 nihilistiškas
+stilistiškas
 monopolistiškas
 populistiškas
 nepopulistiškas
@@ -123796,6 +123902,7 @@ bunčiukas
 Pagedočiukas
 klapčiukas
 laipčiukas
+kirpčiukas
 Barčiukas
 karčiukas
 Vakarčiukas
@@ -124705,6 +124812,7 @@ diržiukas
 laužiukas
 drabužiukas
 gegužiukas
+būžiukas
 tramvajukas
 aliejukas
 motiejukas
@@ -124863,6 +124971,7 @@ delninukas
 alksninukas
 lapinukas
 kepinukas
+karpinukas
 kaspinukas
 trupinukas
 darinukas
@@ -125307,6 +125416,7 @@ aklutukas
 mamutukas
 truputukas
 riešutukas
+mažutukas
 liūtukas
 megztukas
 regztukas
@@ -125369,6 +125479,7 @@ kažkas
 Las
 balas
 gabalas
+kabalas
 skrabalas
 sabalas
 Sabalas
@@ -125537,6 +125648,7 @@ užminkalas
 bokalas
 Kokalas
 vokalas
+apkalas
 karkalas
 Karkalas
 kvarkalas
@@ -126346,6 +126458,7 @@ Birgiolas
 Oriolas
 asiolas
 mišiolas
+ichtiolas
 jolas
 Palajolas
 pajolas
@@ -126497,6 +126610,7 @@ mėšlas
 reikšlas
 kriaukšlas
 pošlas
+kušlas
 Sietlas
 bitlas
 Ulas
@@ -126621,6 +126735,7 @@ Amsterdamas
 Potsdamas
 nejudamas
 acesulfamas
+miegamas
 Bakingamas
 apgamas
 Bergamas
@@ -126688,6 +126803,7 @@ geidžiamas
 negeidžiamas
 leidžiamas
 sprendžiamas
+baudžiamas
 nepalaužiamas
 Chajamas
 atspėjamas
@@ -128111,6 +128227,7 @@ sublizgėjimas
 urzgėjimas
 burzgėjimas
 niurzgėjimas
+dūzgėjimas
 priėjimas
 nepriėjimas
 apsiėjimas
@@ -128507,6 +128624,7 @@ pagilėjimas
 pakylėjimas
 mylėjimas
 pamylėjimas
+nebemylėjimas
 pasimylėjimas
 įsimylėjimas
 susimylėjimas
@@ -128547,6 +128665,7 @@ liulėjimas
 gyvulėjimas
 sugyvulėjimas
 dūlėjimas
+įdūlėjimas
 sudūlėjimas
 apsiūlėjimas
 atsiūlėjimas
@@ -128653,6 +128772,7 @@ slidinėjimas
 paslidinėjimas
 neslidinėjimas
 ridinėjimas
+skridinėjimas
 klydinėjimas
 puldinėjimas
 nepuldinėjimas
@@ -129467,6 +129587,7 @@ pavėžėjimas
 aižėjimas
 suaižėjimas
 eižėjimas
+sueižėjimas
 pasigrožėjimas
 užėjimas
 neužėjimas
@@ -130050,6 +130171,7 @@ suklojimas
 užklojimas
 plojimas
 paplojimas
+susiplojimas
 išplojimas
 nuplojimas
 suplojimas
@@ -130276,6 +130398,7 @@ papizdavojimas
 pyzdavojimas
 papyzdavojimas
 šleivojimas
+išsikreivojimas
 nakvojimas
 pernakvojimas
 eikvojimas
@@ -130612,6 +130735,7 @@ pririnkimas
 pasirinkimas
 nepasirinkimas
 išsirinkimas
+atsirinkimas
 susirinkimas
 nesusirinkimas
 aprinkimas
@@ -130789,6 +130913,7 @@ triauškimas
 tauškimas
 bliūškimas
 subliūškimas
+bliaukimas
 miaukimas
 niaukimas
 kniaukimas
@@ -131284,6 +131409,7 @@ krebždenimas
 šiugždenimas
 gagenimas
 klegenimas
+gurgenimas
 vizgenimas
 dūzgenimas
 mekenimas
@@ -131643,6 +131769,7 @@ pradeginimas
 nedeginimas
 prideginimas
 apsideginimas
+nusideginimas
 susideginimas
 įdeginimas
 apdeginimas
@@ -132127,6 +132254,7 @@ drausminimas
 sudrausminimas
 vienareikšminimas
 susireikšminimas
+nureikšminimas
 sureikšminimas
 nesureikšminimas
 atminimas
@@ -132294,6 +132422,7 @@ audrinimas
 įaudrinimas
 jaudrinimas
 suaudrinimas
+pudrinimas
 derinimas
 paderinimas
 nederinimas
@@ -132301,6 +132430,7 @@ priderinimas
 prisiderinimas
 susiderinimas
 nesusiderinimas
+perderinimas
 išderinimas
 suderinimas
 nesuderinimas
@@ -133681,6 +133811,7 @@ prilietimas
 prisilietimas
 susilietimas
 spietimas
+susispietimas
 suspietimas
 rietimas
 parietimas
@@ -134018,6 +134149,7 @@ transkribavimas
 netranskribavimas
 grybavimas
 pagrybavimas
+čiulbavimas
 plombavimas
 neplombavimas
 užplombavimas
@@ -134981,6 +135113,7 @@ deklamavimas
 reklamavimas
 nereklamavimas
 nesireklamavimas
+išsireklamavimas
 išreklamavimas
 proklamavimas
 programavimas
@@ -135188,6 +135321,7 @@ etapavimas
 kvėpavimas
 pakvėpavimas
 fenotipavimas
+prototipavimas
 cypavimas
 rypavimas
 krypavimas
@@ -135332,6 +135466,7 @@ dekoravimas
 chloravimas
 ignoravimas
 poravimas
+susiporavimas
 inkorporavimas
 suporavimas
 titravimas
@@ -135766,6 +135901,7 @@ subankrutavimas
 riešutavimas
 tūtavimas
 eliuavimas
+evakuavimas
 alavavimas
 laivavimas
 kultivavimas
@@ -136027,6 +136163,7 @@ bolševizavimas
 objektyvizavimas
 kolektyvizavimas
 rekvizavimas
+jarovizavimas
 improvizavimas
 pervizavimas
 recenzavimas
@@ -136388,6 +136525,7 @@ nugraibymas
 sugraibymas
 besugraibymas
 nesugraibymas
+skvarbymas
 adymas
 badymas
 pabadymas
@@ -138234,6 +138372,7 @@ stūgsmas
 eismas
 geismas
 teismas
+glismas
 slysmas
 lėksmas
 rėksmas
@@ -138299,6 +138438,7 @@ gabumas
 negabumas
 priekabumas
 sankabumas
+labumas
 negrabumas
 pastabumas
 nepastabumas
@@ -138636,6 +138776,7 @@ vieningumas
 nevieningumas
 peleningumas
 akmeningumas
+asmeningumas
 raumeningumas
 ugningumas
 dainingumas
@@ -138749,6 +138890,7 @@ išmintingumas
 neišmintingumas
 protingumas
 neprotingumas
+slaptingumas
 paslaptingumas
 kryptingumas
 nekryptingumas
@@ -138817,6 +138959,7 @@ saugumas
 nesaugumas
 džiugumas
 blizgumas
+silenciumas
 sociumas
 konsorciumas
 čiumas
@@ -138851,6 +138994,7 @@ serpentariumas
 vivariumas
 akvariumas
 magisteriumas
+parlatoriumas
 krematoriumas
 moratoriumas
 kuratoriumas
@@ -138982,6 +139126,7 @@ dvikalbiškumas
 bobiškumas
 hidrofobiškumas
 beglobiškumas
+snobiškumas
 tuščiagarbiškumas
 liurbiškumas
 tradiciškumas
@@ -139236,6 +139381,7 @@ vienaprasmiškumas
 beprasmiškumas
 dviprasmiškumas
 nedviprasmiškumas
+vienprasmiškumas
 esmiškumas
 savaveiksmiškumas
 saviveiksmiškumas
@@ -140060,6 +140206,7 @@ neapmokestinamumas
 įsisavinamumas
 ramumas
 neramumas
+samumas
 išsamumas
 neišsamumas
 suprantamumas
@@ -140096,6 +140243,7 @@ tikimumas
 patikimumas
 nepatikimumas
 įtikimumas
+neįtikimumas
 ištikimumas
 neištikimumas
 galimumas
@@ -140543,6 +140691,7 @@ orėtumas
 teisėtumas
 neteisėtumas
 rievėtumas
+eižėtumas
 prislėgtumas
 baigtumas
 nebaigtumas
@@ -140853,6 +141002,7 @@ kolektyvumas
 perspektyvumas
 neperspektyvumas
 fiktyvumas
+distinktyvumas
 instinktyvumas
 induktyvumas
 produktyvumas
@@ -140962,7 +141112,9 @@ chasidizmas
 hermafrodizmas
 metodizmas
 avangardizmas
+fordizmas
 budizmas
+zenbudizmas
 dzenbudizmas
 talmudizmas
 nudizmas
@@ -141182,6 +141334,7 @@ kalvinizmas
 darvinizmas
 lotynizmas
 hedonizmas
+neopagonizmas
 antagonizmas
 epigonizmas
 žargonizmas
@@ -141223,6 +141376,7 @@ parkinsonizmas
 platonizmas
 neoplatonizmas
 mahometonizmas
+šėtonizmas
 puritonizmas
 daltonizmas
 modernizmas
@@ -142948,6 +143102,7 @@ klaritromicinas
 eritromicinas
 azitromicinas
 mitomicinas
+gentomicinas
 streptomicinas
 dihidrostreptomicinas
 sizomicinas
@@ -143730,6 +143885,7 @@ trometaminas
 benetaminas
 mechloretaminas
 vitaminas
+polivitaminas
 hidroksivitaminas
 dihidroksivitaminas
 multivitaminas
@@ -144143,6 +144299,10 @@ cefalosporinas
 ciklosporinas
 Viktorinas
 Zorinas
+gaprinas
+paprinas
+eprinas
+meprinas
 azatioprinas
 izokssuprinas
 vigabatrinas
@@ -144311,6 +144471,7 @@ rozuvastatinas
 nistatinas
 somatostatinas
 pentostatinas
+dirbtinas
 triacetinas
 fenacetinas
 framicetinas
@@ -145477,6 +145638,7 @@ anglikonas
 silikonas
 dominikonas
 amerikonas
+terikonas
 leksikonas
 meksikonas
 simetikonas
@@ -146121,6 +146283,7 @@ Kruzenšternas
 Vernas
 skvernas
 Žvernas
+mizernas
 firnas
 Skirnas
 svirnas
@@ -146158,6 +146321,7 @@ glotnas
 daunas
 Daunas
 nokdaunas
+faunas
 Torshaunas
 Čiaunas
 Kiaunas
@@ -147670,6 +147834,7 @@ Mizaras
 Belozaras
 Puzaras
 Pūzaras
+žaras
 adžaras
 Kilimandžaras
 išžaras
@@ -147894,6 +148059,7 @@ Tigras
 vengras
 Vingras
 ugras
+finougras
 Kairas
 Blairas
 šnairas
@@ -148441,8 +148607,10 @@ telecentras
 epicentras
 koncentras
 infocentras
+euroinfocentras
 Radiocentras
 Pienocentras
+hipocentras
 autocentras
 prescentras
 Piotras
@@ -148530,6 +148698,7 @@ plūduras
 euras
 tegafuras
 ceftiofuras
+guras
 Smaguras
 bachuras
 biuras
@@ -148924,6 +149093,7 @@ verteksas
 bifšteksas
 romšteksas
 iksas
+biksas
 Diksas
 Kadiksas
 apendiksas
@@ -149088,6 +149258,7 @@ chlorofosas
 profosas
 nitrofosas
 Lagosas
+logosas
 Burgosas
 liosas
 Gliosas
@@ -149233,6 +149404,7 @@ Kotbusas
 dusas
 likvidusas
 indusas
+hindusas
 modusas
 Mordusas
 Dzeusas
@@ -150092,6 +150264,7 @@ tolnaftatas
 palmitatas
 monopalmitatas
 precipitatas
+krioprecipitatas
 laktatas
 traktatas
 diktatas
@@ -150495,6 +150668,7 @@ nepažymėtas
 nežymėtas
 ūksmėtas
 versmėtas
+akmenėtas
 naginėtas
 marškinėtas
 kailinėtas
@@ -150759,6 +150933,7 @@ džigitas
 trombangitas
 limfangitas
 cholangitas
+tlingitas
 meningitas
 pachimeningitas
 salpingitas
@@ -152420,6 +152595,7 @@ neūkanotas
 kamanotas
 samanotas
 nesamanotas
+sutanotas
 hugenotas
 blakstienotas
 Ignotas
@@ -152729,8 +152905,10 @@ tešluotas
 mėšluotas
 gurguluotas
 viesuluotas
+tituluotas
 apgamuotas
 plėmuotas
+animuotas
 rimuotas
 šalmuotas
 kelmuotas
@@ -152811,6 +152989,7 @@ snapuotas
 šypuotas
 kampuotas
 nekampuotas
+štampuotas
 korumpuotas
 nebekorumpuotas
 nekorumpuotas
@@ -152976,6 +153155,7 @@ negazuotas
 laicizuotas
 technologizuotas
 komercializuotas
+normalizuotas
 stilizuotas
 civilizuotas
 necivilizuotas
@@ -152991,6 +153171,7 @@ tipizuotas
 poliarizuotas
 kompiuterizuotas
 struktūrizuotas
+robotizuotas
 guzuotas
 dažuotas
 niežuotas
@@ -153226,6 +153407,7 @@ Girtas
 nebegirtas
 negirtas
 Staigirtas
+skirtas
 atkirtas
 flirtas
 tvirtas
@@ -153285,6 +153467,7 @@ spurtas
 turtas
 neturtas
 Astas
+radastas
 Belfastas
 ekleziastas
 entuziastas
@@ -153571,6 +153754,7 @@ iliuzionistas
 kolonistas
 polonistas
 feljetonistas
+šėtonistas
 modernistas
 postmodernistas
 valtornistas
@@ -153946,6 +154130,7 @@ akvanautas
 Einautas
 ufonautas
 argonautas
+bionautas
 kosmonautas
 puponautas
 aeronautas
@@ -154629,6 +154814,7 @@ abesyvas
 kursyvas
 šyvas
 falšyvas
+datyvas
 sedatyvas
 kreatyvas
 negatyvas
@@ -156227,6 +156413,7 @@ netikęs
 nutikęs
 vykęs
 nevykęs
+apdriskęs
 padūkęs
 pašėlęs
 manęs
@@ -157822,6 +158009,7 @@ išlydėtuvės
 baigtuvės
 pabaigtuvės
 jungtuvės
+maigytuvės
 žvalgytuvės
 varžytuvės
 sukaktuvės
@@ -158010,6 +158198,7 @@ mėšlagrybis
 Pagrybis
 šašagrybis
 pievagrybis
+gleivagrybis
 beržagrybis
 papėdgrybis
 juodgrybis
@@ -158042,6 +158231,7 @@ niekakalbis
 lenkakalbis
 anglakalbis
 neanglakalbis
+ispanakalbis
 vienakalbis
 nevienakalbis
 bendrakalbis
@@ -158497,6 +158687,7 @@ purvaskydis
 lydis
 saulėlydis
 Dailydis
+polydis
 nuolydis
 slydis
 šonaslydis
@@ -158889,6 +159080,7 @@ stambiagrūdis
 daugiagrūdis
 smulkiagrūdis
 žaliagrūdis
+skalsiagrūdis
 aklagrūdis
 kietagrūdis
 raudongrūdis
@@ -159255,6 +159447,7 @@ Smilgis
 poilgis
 pusilgis
 žvilgis
+požvilgis
 atžvilgis
 Pavolgis
 Fulgis
@@ -160189,6 +160382,7 @@ trumpalaikis
 netrumpalaikis
 senpalaikis
 ponpalaikis
+šėtonpalaikis
 šunpalaikis
 vyrpalaikis
 bajorpalaikis
@@ -160641,6 +160835,7 @@ pašokis
 priešokis
 peršokis
 iššokis
+šitokis
 Guokis
 piktjuokis
 Ruokis
@@ -163275,6 +163470,7 @@ Grygalis
 Luokgalis
 Šilgalis
 Šatilgalis
+žiemgalis
 žemgalis
 pirmgalis
 diengalis
@@ -163545,6 +163741,7 @@ Bumblis
 dumblis
 Dumblis
 valkčiadumblis
+kauladumblis
 priedumblis
 menturdumblis
 Grenoblis
@@ -164096,6 +164293,7 @@ piršlelis
 kaulelis
 Paulelis
 Saulelis
+šulelis
 siūlelis
 kūlelis
 Amelis
@@ -164474,6 +164672,7 @@ osvaboditelis
 Keitelis
 naujitelis
 kitelis
+ponitelis
 kapitelis
 epitelis
 Skritelis
@@ -164685,6 +164884,7 @@ Endzelis
 Vendzelis
 Kvezelis
 Gaizelis
+gizelis
 Kizelis
 Knizelis
 dyzelis
@@ -165060,6 +165260,7 @@ paminklėlis
 girtuoklėlis
 Mykolėlis
 Rapolėlis
+karolėlis
 obuolėlis
 branduolėlis
 kamuolėlis
@@ -165075,6 +165276,7 @@ spindulėlis
 gumulėlis
 šipulėlis
 ryšulėlis
+statulėlis
 skritulėlis
 rutulėlis
 dievulėlis
@@ -165185,6 +165387,7 @@ katinėlis
 patinėlis
 ritinėlis
 šaltinėlis
+žaltinėlis
 antinėlis
 siuntinėlis
 Martinėlis
@@ -165461,6 +165664,7 @@ poetėlis
 nuskretėlis
 suskretėlis
 išsiskėtėlis
+prakaitėlis
 prisiskaitėlis
 našlaitėlis
 Našlaitėlis
@@ -166419,6 +166623,7 @@ borneolis
 kaptafolis
 propofolis
 fospropofolis
+portfolis
 Golis
 Grigolis
 Algolis
@@ -167011,6 +167216,7 @@ nebetikslis
 savitikslis
 nesavitikslis
 apytikslis
+potikslis
 įvairiamokslis
 pradžiamokslis
 bendramokslis
@@ -167082,6 +167288,7 @@ stipinkaulis
 krūtinkaulis
 sėdynkaulis
 šonkaulis
+pašonkaulis
 tarpšonkaulis
 alkūnkaulis
 nugarkaulis
@@ -167375,6 +167582,7 @@ Kratulis
 Tratulis
 Tatulis
 Letulis
+tėtulis
 apskritulis
 pusskritulis
 Baltulis
@@ -167970,6 +168178,7 @@ germanis
 Veismanis
 Pirosmanis
 Ausmanis
+gvaranis
 plačiaekranis
 Pranis
 Šanis
@@ -168092,6 +168301,7 @@ apydienis
 nešiandienis
 viendienis
 devyndienis
+aštuondienis
 vidurdienis
 keturdienis
 kasdienis
@@ -169112,6 +169322,8 @@ neredakcinis
 neakcinis
 reakcinis
 frakcinis
+stambiafrakcinis
+smulkiafrakcinis
 nefrakcinis
 refrakcinis
 difrakcinis
@@ -169809,6 +170021,7 @@ spirografinis
 mikrografinis
 fluorografinis
 reprografinis
+patrografinis
 petrografinis
 elektrografinis
 spektrografinis
@@ -170899,6 +171112,7 @@ nebeverbalinis
 neverbalinis
 virbalinis
 dalinis
+padalinis
 penktadalinis
 nedalinis
 pedalinis
@@ -170981,6 +171195,7 @@ memorialinis
 ventrikuloatrialinis
 aksialinis
 koaksialinis
+kalinis
 užpakalinis
 torakalinis
 intratorakalinis
@@ -171412,6 +171627,7 @@ nepriešdėlinis
 gėlinis
 dilgėlinis
 Mėlinis
+vežimėlinis
 kirmėlinis
 smėlinis
 Smėlinis
@@ -172116,6 +172332,7 @@ priešuždegiminis
 parenchiminis
 intraparenchiminis
 mezenchiminis
+likiminis
 rinkiminis
 nerinkiminis
 ikirinkiminis
@@ -173107,7 +173324,9 @@ retroperitoninis
 tektoninis
 architektoninis
 geotektoninis
+neogeotektoninis
 neotektoninis
+egzotektoninis
 planktoninis
 kantoninis
 sintoninis
@@ -173284,6 +173503,7 @@ nestereotipinis
 idiotipinis
 fenotipinis
 genotipinis
+dagerotipinis
 neurotipinis
 stratotipinis
 fototipinis
@@ -174570,6 +174790,7 @@ nekrosinis
 trosinis
 zoobentosinis
 uosinis
+deliapsinis
 rapsinis
 katalepsinis
 epilepsinis
@@ -175285,6 +175506,7 @@ politinis
 apolitinis
 nepolitinis
 geopolitinis
+sociopolitinis
 kosmopolitinis
 nekosmopolitinis
 etnopolitinis
@@ -175729,6 +175951,8 @@ stentinis
 eliuentinis
 adventinis
 sugyventinis
+asekventinis
+insekventinis
 konsekventinis
 delinkventinis
 šventinis
@@ -176220,6 +176444,7 @@ nedualistinis
 individualistinis
 neindividualistinis
 homoseksualistinis
+spiritualistinis
 klientelistinis
 nihilistinis
 stilistinis
@@ -176286,6 +176511,7 @@ revizionistinis
 iliuzionistinis
 kolonistinis
 monistinis
+šėtonistinis
 modernistinis
 postmodernistinis
 faunistinis
@@ -176824,6 +177050,7 @@ Gelvinis
 pilvinis
 Pilvinis
 papilvinis
+žilvinis
 bulvinis
 palydovinis
 nepalydovinis
@@ -176839,6 +177066,7 @@ nekovinis
 dvikovinis
 rankovinis
 lovinis
+palovinis
 Gelovinis
 plovinis
 samplovinis
@@ -177156,6 +177384,7 @@ inkliuzinis
 okliuzinis
 neokliuzinis
 šliuzinis
+detruzinis
 ekstruzinis
 pustuzinis
 kukurūzinis
@@ -178167,6 +178396,7 @@ paburnis
 auksaburnis
 paleistaburnis
 nepraustaburnis
+kreivaburnis
 didburnis
 apyburnis
 pienburnis
@@ -178514,6 +178744,7 @@ Papis
 didžiapapis
 meškakrapis
 Šapis
+poetapis
 gardžiakvapis
 bekvapis
 priekvapis
@@ -178634,6 +178865,7 @@ apytrumpis
 potrumpis
 pustrumpis
 Tumpis
+hopis
 daugiapakopis
 bepakopis
 dvipakopis
@@ -179366,6 +179598,7 @@ Maleris
 špaleris
 traleris
 taleris
+virtualeris
 Kebleris
 asembleris
 vobleris
@@ -179505,6 +179738,7 @@ Golovčineris
 kamerdineris
 seineris
 konteineris
+vakuteineris
 Plineris
 Voložineris
 Bikneris
@@ -179730,6 +179964,7 @@ Tiauteris
 elektrokauteris
 Tauteris
 deuteris
+hernhuteris
 liuteris
 Liuteris
 kompiuteris
@@ -179856,6 +180091,7 @@ juodbėris
 Skebėris
 šviesbėris
 sandėris
+podėris
 gėris
 gergėris
 Šklėris
@@ -179970,6 +180206,7 @@ požanris
 priešžanris
 henris
 Henris
+maoris
 užkaboris
 Šamboris
 nilsboris
@@ -181860,6 +182097,7 @@ bohemietis
 žiemietis
 žemietis
 kaimietis
+bluskaimietis
 Rimietis
 kelmietis
 stokholmietis
@@ -181965,6 +182203,7 @@ neeuropietis
 indoeuropietis
 proeuropietis
 priešpietis
+paupietis
 juodupietis
 užupietis
 rietis
@@ -182007,6 +182246,7 @@ zarasietis
 odesietis
 Vaisietis
 tbilisietis
+velsietis
 marsietis
 bangladešietis
 telšietis
@@ -182360,6 +182600,7 @@ tvarkinėtis
 pirkinėtis
 braukinėtis
 sukinėtis
+galinėtis
 valinėtis
 bylinėtis
 gulinėtis
@@ -182495,6 +182736,7 @@ dangtis
 krosniadangtis
 puoddangtis
 akidangtis
+podangtis
 uždangtis
 dengtis
 rengtis
@@ -184079,6 +184321,8 @@ netektis
 lėktis
 šlėktis
 rėktis
+daugiadaiktis
+vienadaiktis
 sendaiktis
 keiktis
 prakeiktis
@@ -184245,6 +184489,14 @@ prigimtis
 apimtis
 rimtis
 juodašimtis
+dešimtis
+dvidešimtis
+penkiasdešimtis
+devyniasdešimtis
+aštuoniasdešimtis
+keturiasdešimtis
+šešiasdešimtis
+trisdešimtis
 išimtis
 nuošimtis
 pusšimtis
@@ -184320,6 +184572,7 @@ krebždentis
 gentis
 pusinteligentis
 Grigentis
+svetimgentis
 viengentis
 pogentis
 stekentis
@@ -185042,6 +185295,7 @@ viršplotis
 gyslotis
 purslotis
 tūlotis
+motis
 vienamotis
 Paramotis
 žiemotis
@@ -185867,6 +186121,7 @@ svartis
 tvartis
 kiauliatvartis
 prietvartis
+namtvartis
 anttvartis
 užvartis
 bertis
@@ -186739,6 +186994,7 @@ Kikutis
 likutis
 Mikutis
 Pikutis
+klierikutis
 tikutis
 Tikutis
 zuikutis
@@ -186748,6 +187004,7 @@ Lankutis
 lenkutis
 Lenkutis
 menkutis
+pusbonkutis
 juokutis
 Markutis
 Kirkutis
@@ -187400,6 +187657,8 @@ Maučiuvis
 aliuvis
 eliuvis
 deliuvis
+koliuvis
+proliuvis
 pusgriuvis
 Pūdžiuvis
 linkuvis
@@ -188762,6 +189021,7 @@ nuodėgulys
 svaigulys
 eigulys
 žvigulys
+žigulys
 dygulys
 žemgulys
 Žemgulys
@@ -189346,6 +189606,7 @@ Dratvinys
 Dretvinys
 kliuvinys
 siuvinys
+sąsiuvinys
 puvinys
 džiūvinys
 Žvinys
@@ -190505,6 +190766,7 @@ cypesys
 švilpesys
 virpesys
 šnaresys
+ošesys
 Atesys
 tratesys
 kritesys
@@ -190967,6 +191229,7 @@ Knežys
 Terpežys
 šiukšliavežys
 mėšlavežys
+kraičvežys
 malkvežys
 vandenvežys
 pienvežys
@@ -191041,6 +191304,7 @@ Gūžys
 Lūžys
 faks
 Interfaks
+nieks
 Litimpeks
 Euroniks
 šioks
@@ -191185,6 +191449,7 @@ kopėčios
 Mašnyčios
 magaryčios
 Gryčios
+patyčios
 Maskvyčios
 Ančios
 Varčios
@@ -191406,6 +191671,7 @@ Grikienos
 žalienos
 krekenos
 didmenos
+mažmenos
 skutenos
 Skutenos
 Buenos
@@ -194832,6 +195098,7 @@ stalčius
 Gelčius
 pakelčius
 Zelčius
+todėlčius
 Bilčius
 milčius
 Milčius
@@ -194850,6 +195117,7 @@ Milančius
 Mančius
 Žymančius
 Stančius
+ražančius
 rožančius
 Enčius
 Garbenčius
@@ -194982,6 +195250,7 @@ Gaučius
 Liaučius
 Karaliaučius
 Muliaučius
+kriaučius
 Laučius
 Suraučius
 Taučius
@@ -195110,6 +195379,7 @@ Anelius
 Danelius
 Aurelius
 Bagatelius
+prietelius
 Zobėlius
 smirdėlius
 kirmėlius
@@ -195185,6 +195455,7 @@ Vylius
 Kivylius
 Povylius
 Žylius
+aklius
 špaklius
 priteklius
 nepriteklius
@@ -195435,6 +195706,7 @@ brakonierius
 kanonierius
 Kisnierius
 biznierius
+narkobiznierius
 popierius
 fotopopierius
 režisierius
@@ -195617,6 +195889,7 @@ gazifikatorius
 aplikatorius
 multiplikatorius
 demultiplikatorius
+komunikatorius
 lubrikatorius
 rubrikatorius
 eksikatorius
@@ -195715,6 +195988,7 @@ registratorius
 administratorius
 demonstratorius
 iliustratorius
+frustratorius
 restauratorius
 karbiuratorius
 kuratorius
@@ -195812,6 +196086,7 @@ trinitorius
 monitorius
 kardiomonitorius
 hidromonitorius
+garnitorius
 repetitorius
 korepetitorius
 investitorius
@@ -195833,6 +196108,7 @@ ekstraktorius
 kontaktorius
 efektorius
 dezinfektorius
+injektorius
 projektorius
 diaprojektorius
 stereoprojektorius
@@ -196146,6 +196422,7 @@ Lydžius
 baldžius
 Baldžius
 Maldžius
+švebeldžius
 Peldžius
 Vildžius
 Rimdžius
@@ -196279,6 +196556,7 @@ sajus
 Kasajus
 Lisajus
 atsajus
+tajus
 Karatajus
 Šabtajus
 Altajus
