@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://atbulinis.lt/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <xhtml:link rel="alternate" hreflang="lt" href="https://atbulinis.lt/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/"/>
   </url>
   <url>
     <loc>https://atbulinis.lt/en/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <xhtml:link rel="alternate" hreflang="lt" href="https://atbulinis.lt/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/"/>
+  </url>
+  <url>
+    <loc>https://atbulinis.lt/apie.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://atbulinis.lt/apie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/apie.html"/>
+  </url>
+  <url>
+    <loc>https://atbulinis.lt/en/apie.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://atbulinis.lt/apie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/apie.html"/>
   </url>
 </urlset>

@@ -133,6 +133,7 @@ drožyba
 alba
 Alba
 dalba
+Galba
 pagalba
 savipagalba
 savigalba
@@ -162,6 +163,7 @@ Pragulba
 bamba
 Lobamba
 damba
+Damba
 bliamba
 Glamba
 mamba
@@ -195,6 +197,7 @@ chruščioba
 trioba
 Žioba
 zajoba
+Loba
 globa
 priegloba
 proba
@@ -240,6 +243,7 @@ Bauba
 dauba
 Dauba
 įdauba
+Viešdauba
 išdauba
 Gauba
 įgauba
@@ -285,6 +289,7 @@ haubica
 Barodica
 Leica
 Benfica
+Alica
 Celica
 Mecelica
 Metelica
@@ -307,6 +312,7 @@ Delnica
 Vengelnica
 Dolnica
 Britannica
+Zvonica
 Pokunica
 Znica
 pica
@@ -352,6 +358,7 @@ Ada
 Slabada
 lambada
 intifada
+Pagada
 brigada
 agitbrigada
 Vigada
@@ -470,6 +477,7 @@ Visgeda
 Augeda
 Liaugeda
 Jaugeda
+Žaugeda
 Sugeda
 Bugieda
 Kieda
@@ -479,6 +487,7 @@ Nieda
 savirieda
 Pajeda
 Keda
+Leda
 Meda
 Rimeda
 Nomeda
@@ -504,6 +513,7 @@ skruzdėda
 gėda
 negėda
 Dalgėda
+Žaugėda
 saviėda
 Pajėda
 kalėda
@@ -515,8 +525,10 @@ Kolėda
 Kraulėda
 pėda
 Klaipėda
+Taipėda
 Rėda
 grėda
+Sėda
 nepasėda
 namisėda
 dvisėda
@@ -528,6 +540,7 @@ išėda
 maitėda
 gyvėda
 govėda
+Uvėda
 Magda
 Bogda
 Vologda
@@ -619,6 +632,7 @@ Dzemyda
 gnyda
 tryda
 Vyda
+Savyda
 Radvyda
 Žadvyda
 Gedvyda
@@ -803,6 +817,7 @@ legenda
 skenda
 kalenda
 Kalenda
+Blenda
 arenda
 Pogarenda
 Grenda
@@ -825,6 +840,7 @@ Gerlinda
 auslinda
 grinda
 Grinda
+Pečiagrinda
 Peliagrinda
 Pagrinda
 kūlgrinda
@@ -857,6 +873,7 @@ Sigizmunda
 jerunda
 Grunda
 Skrunda
+Trunda
 rotunda
 zunda
 Zunda
@@ -958,6 +975,8 @@ Daugirda
 Saugirda
 Vizgirda
 Kirda
+Lapirda
+Virda
 Galvirda
 Tulvirda
 Jovirda
@@ -972,6 +991,7 @@ morda
 Burda
 Alaburda
 Galaburda
+Gasda
 bauda
 pabauda
 Prabauda
@@ -1018,6 +1038,7 @@ nuoskauda
 glauda
 prieglauda
 sanglauda
+Inglauda
 užuoglauda
 užglauda
 mauda
@@ -1095,6 +1116,7 @@ nuobrozda
 barzda
 Barzda
 blauzda
+Blauzda
 bruzda
 Strūzda
 Rėbžda
@@ -1168,6 +1190,7 @@ Zalaga
 Pelaga
 naga
 Naga
+Minaga
 Šopaga
 špaga
 raga
@@ -1175,6 +1198,7 @@ Braga
 Kveraga
 Tviraga
 spraga
+Astraga
 saga
 pasaga
 sąsaga
@@ -1314,6 +1338,7 @@ Veselga
 Viselga
 Vaišelga
 vertelga
+Ilga
 smilga
 Smilga
 pavilga
@@ -1390,9 +1415,11 @@ Drilinga
 Klinga
 Liolinga
 kuolinga
+Sulinga
 Minga
 dieninga
 tešmeninga
+Ringa
 Skaringa
 Neringa
 ėringa
@@ -1449,11 +1476,13 @@ išdarga
 Saudarga
 kačiarga
 Skarga
+Marga
 pasarga
 atsarga
 žarga
 pajodžarga
 išžarga
+Kačerga
 merga
 Mirga
 išspirga
@@ -1612,39 +1641,52 @@ Strėčia
 vežėčia
 bėgčia
 vogčia
+Vaičia
 šičia
+Šakyčia
 Šarkyčia
 Akalyčia
 Karalyčia
 telyčia
+Ylyčia
 seklyčia
+Lolyčia
 koplyčia
 ulyčia
 Kiaulyčia
 Samanyčia
 grabnyčia
 Pėdnyčia
+Sienyčia
 Vilkinyčia
 Smalinyčia
 dūminyčia
 Bilsinyčia
 Kalnyčia
 Palnyčia
+Kubilnyčia
+Simnyčia
 Aviernyčia
 Dusnyčia
+Mašnyčia
 Ratnyčia
 Pėtnyčia
+Plitnyčia
 Plytnyčia
 Rieznyčia
 bažnyčia
 Bažnyčia
+Derėžnyčia
+Skaryčia
 gryčia
+Voryčia
 Bistryčia
 Alšyčia
 tyčia
 patyčia
 netyčia
 Svetyčia
+Vartyčia
 garstyčia
 Skirvyčia
 Virvyčia
@@ -1656,8 +1698,10 @@ delčia
 Ančia
 kančia
 Gramančia
+Enčia
 Nemenčia
 Ošvenčia
+Lilinčia
 Minčia
 Paminčia
 Visinčia
@@ -1666,11 +1710,13 @@ niekočia
 močia
 Ramočia
 Nočia
+Soročia
 Uročia
 svočia
 slapčia
 paslapčia
 neslapčia
+Barčia
 Paparčia
 varčia
 Varčia
@@ -1692,6 +1738,7 @@ kūlvirsčia
 Plūsčia
 Pūsčia
 Apaščia
+Kraščia
 nėščia
 nenėščia
 ujobiščia
@@ -1700,6 +1747,8 @@ Staviščia
 kurviščia
 Rakščia
 Šalčykščia
+Dringykščia
+Dysnykščia
 plokščia
 virkščia
 atvirkščia
@@ -1761,6 +1810,7 @@ pislia
 Grybaulia
 Daulia
 chulia
+Rulia
 Drulia
 chūlia
 liūlia
@@ -1778,6 +1828,7 @@ Gelednia
 Rudnia
 Parudnia
 Pienia
+Lakmenia
 gavėnia
 fignia
 fygnia
@@ -1811,9 +1862,11 @@ viešnia
 vyšnia
 Viekšnia
 Pošnia
+Glušnia
 kaniūšnia
 Lūšnia
 liutnia
+Vardaunia
 Galaunia
 Lunia
 Punia
@@ -1836,6 +1889,7 @@ dvasia
 Jiesia
 Olesia
 Sensia
+Virsia
 labiausia
 greičiausia
 prasčiausia
@@ -1861,6 +1915,7 @@ Alšia
 Galšia
 Nalšia
 Tumulšia
+Kamšia
 Mošia
 Aluošia
 dūšia
@@ -1875,6 +1930,7 @@ Vilkalažia
 pradžia
 ėdžia
 pėdžia
+Rėdžia
 sėdžia
 Nevėdžia
 Palaidžia
@@ -1883,6 +1939,7 @@ atidžia
 pavydžia
 valdžia
 standžia
+Grendžia
 Stundžia
 Rodžia
 gardžia
@@ -1921,6 +1978,8 @@ sąlaja
 prielaja
 įlaja
 nuolaja
+Slaja
+Uslaja
 išlaja
 atlaja
 užlaja
@@ -1945,6 +2004,7 @@ svaja
 Svaja
 pasvaja
 atvaja
+Vazaja
 dešiniąja
 paskutiniąja
 šiąja
@@ -1958,8 +2018,10 @@ deja
 Veracieja
 atlieja
 Rasieja
+Aleja
 treja
 veja
+Veja
 dveja
 Asveja
 žveja
@@ -1983,6 +2045,7 @@ išradėja
 atradėja
 Medėja
 palamedėja
+Nedėja
 vedėja
 idėja
 žaidėja
@@ -2005,6 +2068,7 @@ skundėja
 elodėja
 skrodėja
 guodėja
+Juodėja
 skerdėja
 audėja
 baudėja
@@ -2098,6 +2162,7 @@ vėlėja
 Galilėja
 pylėja
 puolėja
+Kumpuolėja
 užpuolėja
 kūlėja
 žlėja
@@ -2203,6 +2268,7 @@ klausėja
 apklausėja
 rausėja
 prausėja
+Susėja
 piešėja
 nešėja
 pranešėja
@@ -2261,6 +2327,7 @@ krovėja
 pakrovėja
 užuovėja
 Užuovėja
+Kryžovėja
 pribuvėja
 siuvėja
 užvėja
@@ -3468,6 +3535,7 @@ aneuploidija
 klostridija
 subsidija
 balantidija
+Baldija
 eldija
 gildija
 Joldija
@@ -3510,8 +3578,10 @@ Gamsachurdija
 Klaudija
 Gudija
 preliudija
+Rudija
 studija
 Rūdija
+Vizdija
 mafija
 narkomafija
 rafija
@@ -3992,6 +4062,7 @@ Valakija
 leukoplakija
 Karakalpakija
 rakija
+Rakija
 Trakija
 Latakija
 Slovakija
@@ -4544,6 +4615,7 @@ zinija
 Žinija
 Virdžinija
 kaimynija
+Vynija
 Apvynija
 Juodkalnija
 Vilnija
@@ -4792,6 +4864,7 @@ distopija
 utopija
 antiutopija
 harpija
+Tarpija
 Kaspija
 vyskupija
 arkivyskupija
@@ -5336,6 +5409,7 @@ Aukštaitija
 trichofitija
 rubrofitija
 Skitija
+Snitija
 forsitija
 forzitija
 agalaktija
@@ -5409,6 +5483,7 @@ kareivija
 išeivija
 ateivija
 Livija
+Glivija
 Olivija
 Bolivija
 Apivija
@@ -5420,10 +5495,12 @@ Silvija
 Šilvija
 Mordovija
 Govija
+Sengovija
 sinovija
 Monrovija
 Mazovija
 apvija
+Cirvija
 Ašvija
 uošvija
 Latvija
@@ -5842,6 +5919,7 @@ braižytoja
 varžytoja
 biržytoja
 laužytoja
+Šaltoja
 gabentoja
 purentoja
 kūrentoja
@@ -6317,6 +6395,7 @@ Suoja
 Šuoja
 Knituoja
 Kertuoja
+Beržuoja
 Graužuoja
 Savoja
 sekvoja
@@ -6327,6 +6406,7 @@ Syrdarja
 Amudarja
 Vidauja
 indauja
+Lazdauja
 gauja
 Gauja
 jauja
@@ -6335,6 +6415,7 @@ Lauja
 Paplauja
 Breslauja
 Brėslauja
+Pienauja
 Pynauja
 įsnauja
 šunauja
@@ -6354,6 +6435,7 @@ dachuja
 nachuja
 nichuja
 aleliuja
+Pijuja
 skuja
 Skuja
 Luja
@@ -6376,6 +6458,7 @@ makaka
 Titikaka
 laka
 Malaka
+Salaka
 blaka
 prieplaka
 saviplaka
@@ -6403,8 +6486,10 @@ Lusaka
 Šaka
 ašaka
 Ašaka
+Juodšaka
 atšaka
 ataka
+Ataka
 pataka
 prataka
 kontrataka
@@ -6420,10 +6505,12 @@ kraujotaka
 protaka
 atotaka
 nuotaka
+Nuotaka
 aptaka
 plaštaka
 Plaštaka
 ištaka
+Tūtaka
 mazgajobka
 najobka
 podjobka
@@ -6517,6 +6604,7 @@ lipūčka
 sūčka
 Slabadka
 Vigadka
+Nedzviadka
 Valadka
 Dailidka
 Gvidka
@@ -6531,6 +6619,7 @@ Budka
 Slabudka
 Dudka
 Novogrudka
+Neprudka
 Rebeka
 Šebeka
 Vaiceka
@@ -6552,12 +6641,14 @@ vandentieka
 Motieka
 Utieka
 Rijeka
+Peleka
 Oleka
 Meka
 Seneka
 šneka
 pašneka
 apšneka
+Liepeka
 Trepeka
 eureka
 seka
@@ -6565,6 +6656,7 @@ paseka
 Verseka
 mediateka
 pateka
+Vateka
 videoteka
 audioteka
 biblioteka
@@ -6576,6 +6668,7 @@ hipoteka
 fototeka
 kartoteka
 nuoteka
+Nuoteka
 Apteka
 dėka
 padėka
@@ -6583,6 +6676,7 @@ Lėka
 blėka
 spėka
 Zarėka
+Asėka
 pasėka
 Kafka
 Joshka
@@ -6608,6 +6702,7 @@ atlaika
 Jamaika
 Kamaika
 Manaika
+Dunaika
 Lapaika
 draika
 padraika
@@ -6648,10 +6743,12 @@ Dubeika
 Ūbeika
 Maceika
 Miceika
+Kuceika
 Čeika
 Mačeika
 tyčeika
 Deika
+Gadeika
 Sadeika
 Vadeika
 Žadeika
@@ -6663,6 +6760,7 @@ Lideika
 Šideika
 Videika
 Lydeika
+Vydeika
 Rimdeika
 Mandeika
 Mendeika
@@ -6728,6 +6826,7 @@ Bruneika
 kapeika
 Lapeika
 Papeika
+Liepeika
 Repeika
 Lipeika
 Stripeika
@@ -6745,10 +6844,12 @@ batareika
 Štareika
 Vareika
 Šavareika
+Dubreika
 Šadreika
 Andreika
 Indreika
 Budreika
+Judreika
 Bereika
 Sereika
 Šereika
@@ -6764,6 +6865,7 @@ Taureika
 Bureika
 Mureika
 Tureika
+Raseika
 Alekseika
 Alseika
 Dranseika
@@ -7272,13 +7374,17 @@ maršalka
 Maršalka
 Mušalka
 talka
+Natalka
 santalka
 Valka
+Bėravalka
 šavalka
 sąvalka
+Sąvalka
 Perevalka
 akivalka
 Pervalka
+Usvalka
 šašvalka
 išvalka
 Kabelka
@@ -7305,6 +7411,8 @@ Kanapelka
 Šapelka
 Pempelka
 Girelka
+Mirelka
+Katrelka
 Veselka
 Vertelka
 Brastelka
@@ -7327,6 +7435,7 @@ Vilka
 Civilka
 žemvilka
 garvilka
+Mažvilka
 žilka
 Ramygolka
 ciolka
@@ -7348,6 +7457,7 @@ Peciulka
 Čiučiulka
 Vejulka
 kulka
+Kulka
 Mikulka
 Gomulka
 Smulka
@@ -7362,12 +7472,15 @@ Karčiomka
 Komka
 Kromka
 Šomka
+Kubanka
 Mečanka
+Dvarčanka
 graždanka
 Taganka
 Kochanka
 Suchanka
 Lubianka
+Koplyčianka
 Svenčianka
 Krikianka
 Laukianka
@@ -7378,6 +7491,7 @@ Velianka
 Zelianka
 Smėlianka
 Šilianka
+Aklianka
 Podolianka
 Polianka
 Jasnopolianka
@@ -7388,6 +7502,7 @@ Pogulianka
 Pohulianka
 Varnianka
 Ausianka
+Giesvianka
 Marijanka
 Naujanka
 Kokanka
@@ -7396,6 +7511,7 @@ lanka
 Lanka
 palanka
 pralanka
+Blanka
 Kapablanka
 Kasablanka
 įlanka
@@ -7423,6 +7539,7 @@ Varanka
 Zaranka
 sąranka
 branka
+Babranka
 feranka
 neprieranka
 Franka
@@ -7438,6 +7555,7 @@ Olišanka
 Kaušanka
 tanka
 Galintanka
+Stanka
 Mūravanka
 Brusavanka
 kvanka
@@ -7451,6 +7569,7 @@ nuotvanka
 užtvanka
 Kazanka
 Lazanka
+Beržanka
 Bulbenka
 Žurbenka
 Dubenka
@@ -7499,6 +7618,7 @@ Zelenka
 Vasilenka
 Vilenka
 Jarmolenka
+Varlenka
 Paulenka
 Kamenka
 Znamenka
@@ -7555,6 +7675,7 @@ Misenka
 Lysenka
 Nosenka
 Benosenka
+Kusenka
 Lukašenka
 Alšenka
 Jermošenka
@@ -7598,6 +7719,7 @@ Utalinka
 Blinka
 Treblinka
 Smielinka
+Gėlinka
 Smėlinka
 Glinka
 Eglinka
@@ -7608,6 +7730,7 @@ Molinka
 aplinka
 makroaplinka
 mikroaplinka
+Varlinka
 Minka
 Domininka
 Šlyninka
@@ -7641,6 +7764,7 @@ kandonka
 Raudonka
 Apacionka
 Gorelčionka
+Miesčionka
 Zalionka
 Zelionka
 Vasilionka
@@ -7656,6 +7780,8 @@ Muleronka
 Cironka
 tušonka
 Tonka
+Vaitonka
+Saltonka
 Dzvonka
 džonka
 Beržonka
@@ -7663,13 +7789,18 @@ Bunka
 Funka
 Gunka
 Magunka
+Drigunka
 Čiunka
+Karačiunka
 Kliunka
 Niunka
+Petrašiunka
+Girdžiunka
 Junka
 Padleipunka
 sunka
 Zunka
+Ketūnka
 Oka
 taboka
 daugoka
@@ -7693,6 +7824,7 @@ Petroka
 tamsoka
 atšoka
 stoka
+Ištoka
 Uoka
 pajuoka
 apyjuoka
@@ -7747,6 +7879,7 @@ Zupka
 Ukazupka
 arka
 Skibarka
+Beršibarka
 Šafarka
 Igarka
 Zacharka
@@ -7792,8 +7925,10 @@ Neiberka
 pyderka
 čierka
 primierka
+Manierka
 Čemerka
 nerka
+Nerka
 Župerka
 Kvaterka
 moterka
@@ -7801,6 +7936,7 @@ Averka
 Koverka
 Zverka
 etažerka
+Venžerka
 Zvėrka
 Irka
 Čibirka
@@ -7844,6 +7980,7 @@ Nagurka
 Jasnagurka
 Lisagurka
 Padgurka
+Jasnogurka
 Krasnogurka
 čiurka
 Čičiurka
@@ -7854,6 +7991,7 @@ Niurka
 Avantiurka
 dziurka
 Jurka
+Pečiakurka
 Skurka
 Murka
 purka
@@ -7988,6 +8126,7 @@ mereška
 Vereška
 Berteška
 Ožeška
+Didėška
 Milėška
 Arėška
 Malaiška
@@ -8036,6 +8175,7 @@ garbėtroška
 valdžiotroška
 kraujotroška
 Vaitoška
+Pūstoška
 Ruoška
 Ivoška
 Pabarška
@@ -8053,6 +8193,7 @@ niekatauška
 patauška
 Buška
 Barbuška
+Dubuška
 Kaduška
 Baguška
 Sanguška
@@ -8083,6 +8224,7 @@ Okuška
 Aluška
 Veseluška
 Sluška
+Čeimuška
 Jarmuška
 Januška
 dainuška
@@ -8214,6 +8356,7 @@ Kozelauka
 Milauka
 Danilauka
 Kirilauka
+Olauka
 prieplauka
 šoniplauka
 įplauka
@@ -8275,9 +8418,11 @@ Tamašauka
 sąšauka
 Viekšauka
 Varšauka
+Lietauka
 Kitauka
 Mikitauka
 Plentauka
+Čertauka
 Mastauka
 Feklistauka
 Kvauka
@@ -8291,14 +8436,17 @@ Baliuka
 Riuka
 striuka
 juka
+Luka
 Muka
 Chanuka
+Svinuka
 Cemnuka
 suka
 įsuka
 štuka
 bazuka
 Suzuka
+Būka
 nuorūka
 įtrūka
 sūka
@@ -8449,7 +8597,9 @@ Ala
 bala
 zajabala
 kabala
+Sabala
 Tabala
+Vabala
 zajebala
 Šambala
 Bubala
@@ -8549,6 +8699,7 @@ grynšala
 sausšala
 Snietala
 Vala
+Pravala
 Kalevala
 nevala
 Apyvala
@@ -8616,6 +8767,7 @@ Pela
 kapela
 Žvirela
 Aurela
+Detela
 Zietela
 tarantela
 stela
@@ -8627,6 +8779,7 @@ Venesuela
 favela
 Šavela
 Ševela
+Nasėvela
 Kirvela
 Kazela
 Kozela
@@ -8646,6 +8799,7 @@ Vogėla
 Nargėla
 Birgėla
 Dirgėla
+Sirgėla
 Norgėla
 Jurgėla
 sausgėla
@@ -8771,6 +8925,7 @@ Magila
 Mogila
 augila
 Jaugila
+Krakila
 rasakila
 tekila
 Burkila
@@ -8789,6 +8944,7 @@ Strumila
 Danila
 Manila
 Zanila
+Vainila
 Karnila
 Šipila
 Rila
@@ -8812,6 +8968,7 @@ Ustila
 Samuila
 vila
 Avila
+Davila
 radvila
 Radvila
 Gedvila
@@ -8827,6 +8984,7 @@ Daugvila
 Norvila
 Survila
 Svila
+Sąsvila
 Susvila
 Vaišvila
 Garšvila
@@ -8892,6 +9050,7 @@ tvyla
 Mažvyla
 Zyla
 pekla
+Pekla
 Patekla
 Mėkla
 šmėkla
@@ -8970,6 +9129,7 @@ perykla
 šėrykla
 virykla
 Korykla
+Jaurykla
 kūrykla
 kasykla
 lesykla
@@ -9015,6 +9175,7 @@ melžykla
 laužykla
 gunkla
 dvokla
+Karkla
 Vorskla
 saviaukla
 Rukla
@@ -9050,6 +9211,7 @@ pianola
 Šapola
 Kopola
 Motorola
+Tola
 ajatola
 magnetola
 automagnetola
@@ -9058,6 +9220,8 @@ uola
 Uola
 Griguola
 Šašuola
+Šešuola
+Tuola
 Zola
 Cepla
 Cėpla
@@ -9093,6 +9257,7 @@ tešla
 Šišla
 nevėkšla
 murkšla
+Kušla
 aula
 Maraula
 Bula
@@ -9112,6 +9277,7 @@ nuogula
 apgula
 išgula
 hula
+Mačiula
 Raišiula
 Bakula
 pakula
@@ -9139,6 +9305,7 @@ Kazla
 Kvėzla
 Kizla
 Tuzla
+Užla
 Alabama
 Obama
 dama
@@ -9370,6 +9537,7 @@ Anzelma
 Ilma
 Gilma
 Vilma
+Žilma
 Šulma
 koloboma
 Doma
@@ -9549,6 +9717,7 @@ gūduma
 glūduma
 guma
 lyguma
+Lyguma
 ilguma
 branguma
 bloguma
@@ -9558,6 +9727,7 @@ dauguma
 Diuma
 didžiuma
 šakuma
+Šakuma
 trišakuma
 dvišakuma
 nuotakuma
@@ -9630,6 +9800,7 @@ tamsuma
 sausuma
 viešuma
 platuma
+Platuma
 statuma
 kietuma
 retuma
@@ -9698,6 +9869,7 @@ strazdana
 gana
 Gana
 ragana
+Ragana
 hiragana
 nebegana
 priegana
@@ -9801,6 +9973,7 @@ Zuzana
 Žana
 Grečna
 Zavadna
+Miedna
 echidna
 abydna
 Bena
@@ -9861,6 +10034,7 @@ naujiena
 Naujiena
 Dačnaujiena
 Keturnaujiena
+Sakiena
 grikiena
 zuikiena
 vikiena
@@ -9902,11 +10076,13 @@ stumbriena
 dachriena
 nachriena
 nichriena
+Kiriena
 puriena
 siena
 Siena
 žąsiena
 mėnesiena
+Susiena
 Krašiena
 paršiena
 veršiena
@@ -9963,6 +10139,7 @@ Madlena
 Elena
 Helena
 Jelena
+Zelena
 sėlena
 euglena
 asilena
@@ -10130,7 +10307,9 @@ Ravena
 atgyvena
 galvena
 novena
+Novena
 karvena
+Urvena
 griuvena
 siuvena
 pjuvena
@@ -10139,6 +10318,7 @@ Zena
 ežena
 čežena
 ižena
+Ižena
 aižena
 eižena
 Lyžena
@@ -10150,6 +10330,7 @@ lūžena
 velėna
 Šlėna
 Kanapėna
+Ašarėna
 Varėna
 krėna
 Alšėna
@@ -10202,6 +10383,7 @@ tercina
 Liucina
 Kunčina
 Saročina
+Perčina
 Varaščina
 Vereščina
 kiseliovščina
@@ -10262,6 +10444,7 @@ Burkina
 Kasatkina
 Lina
 Alina
+Balina
 Zabalina
 Dalina
 afalina
@@ -10300,6 +10483,7 @@ Dolina
 Adolina
 mandolina
 Cholina
+Molina
 Anolina
 Polina
 Karolina
@@ -10426,6 +10610,7 @@ karboplatina
 cisplatina
 skarlatina
 sonatina
+Vatina
 Elzbietina
 brigantina
 Konstantina
@@ -10514,6 +10699,7 @@ Juzina
 Puzina
 Gražina
 Katažina
+Greižina
 savižina
 sprenžina
 stibyna
@@ -10535,16 +10721,21 @@ sampyna
 spyna
 Upyna
 lupyna
+Ryna
 čiupryna
 Katryna
 Kotryna
 nuotryna
 Lauryna
+Vasyna
+Dusyna
 tyna
 skatyna
+Piltyna
 lentyna
 Martyna
 Dukstyna
+Dūkstyna
 Navyna
 Gatavyna
 Marvyna
@@ -10561,16 +10752,21 @@ Stokna
 maukna
 Jukna
 Lukna
+Palukna
 Mukna
 Mažukna
 rūkna
 Alna
 šalna
 Šalna
+Elna
 Kilna
+Akilna
 vilna
 Zvilna
 Džiulna
+Žulna
+Žiežulna
 Razumna
 Madonna
 Ona
@@ -10648,11 +10844,14 @@ duona
 Lazduona
 aguona
 Veliuona
+Agliuona
 Piliuona
 Vejuona
 Sakuona
 Aluona
 Agluona
+Ąžuoluona
+Cedruona
 Ežeruona
 Apsuona
 Krašuona
@@ -10693,6 +10892,7 @@ kaverna
 taverna
 Dreverna
 ževerna
+Žverna
 girna
 Kirna
 Skirna
@@ -10724,6 +10924,7 @@ mesna
 slėsna
 pisna
 Dysna
+Skerdyksna
 Alksna
 malksna
 dulksna
@@ -10743,6 +10944,7 @@ Krišna
 Pyšna
 Šlapakšna
 Rudekšna
+Latekšna
 Šatekšna
 Švėkšna
 šikšna
@@ -10753,6 +10955,7 @@ vinkšna
 Peršokšna
 šerkšna
 purkšna
+Medukšna
 Armukšna
 rukšna
 Rukšna
@@ -10791,6 +10994,7 @@ Laluna
 komuna
 runa
 Druna
+Kruna
 suna
 Futuna
 tribūna
@@ -10924,6 +11128,7 @@ Ksantipa
 Počiuipa
 Puipa
 Švipa
+Cypa
 Pilypa
 Klypa
 krypa
@@ -10960,6 +11165,7 @@ atatampa
 įtampa
 atotampa
 lempa
+Krempa
 timpa
 Timpa
 pompa
@@ -11156,7 +11362,9 @@ Nautara
 užtara
 Navara
 pavara
+Pavara
 sąvara
+Bevara
 Gevara
 Miglovara
 elektrovara
@@ -11187,6 +11395,7 @@ abrakadabra
 Sidabra
 algebra
 chebra
+Žežiebra
 zebra
 vėbra
 Vėbra
@@ -11223,6 +11432,7 @@ saidra
 Geidra
 hidra
 Vidra
+Svidra
 Gydra
 Vydra
 žydra
@@ -11255,6 +11465,7 @@ lijundra
 Kundra
 tundra
 Sodra
+Abisdra
 Udra
 audra
 Audra
@@ -11857,9 +12068,12 @@ savicenzūra
 menzūra
 Mozūra
 klauzūra
+Nizra
 hidžra
 sa
+Svėdasa
 kasa
+Pakasa
 Mikasa
 sankasa
 perkasa
@@ -11885,6 +12099,7 @@ nedrąsa
 tąsa
 pratąsa
 Žąsa
+Grambesa
 Gubesa
 Bradesa
 Vedesa
@@ -11895,6 +12110,7 @@ Kiesa
 tiesa
 netiesa
 Netiesa
+Viesa
 šviesa
 Vilkesa
 Lankesa
@@ -11920,10 +12136,12 @@ Pačėsa
 Laukėsa
 mėsa
 vėsa
+Vėsa
 išdvėsa
 plevėsa
 baisa
 pabaisa
+Saisa
 taisa
 pataisa
 ištaisa
@@ -11934,10 +12152,12 @@ savivaisa
 prošvaisa
 atvaisa
 Žaisa
+Bisa
 Likisa
 Alisa
 melisa
 misa
+Misa
 premisa
 išknisa
 Moisa
@@ -11949,12 +12169,14 @@ Beatrisa
 automotrisa
 Tisa
 patisa
+Kuisa
 visa
 išvisa
 tįsa
 pertįsa
 Dubysa
 Knysa
+Lavysa
 Tvysa
 taksa
 Aleksa
@@ -11995,6 +12217,7 @@ Mardosa
 Mordosa
 Lifosa
 Saragosa
+Aliosa
 glosa
 izoglosa
 Tumosa
@@ -12053,6 +12276,7 @@ Maša
 naša
 panaša
 sąnaša
+Sąnaša
 apnaša
 pernaša
 išnaša
@@ -12076,15 +12300,18 @@ trąša
 Kulieša
 pieša
 priešprieša
+Baltieša
 Vieša
 Gaileša
 Kuleša
+Kemeša
 petneša
 kuodpeša
 depeša
 Peteša
 varnalėša
 plėša
+Žemėplėša
 akiplėša
 įplėša
 proplėša
@@ -12121,6 +12348,7 @@ Jovaiša
 Narvaiša
 Norvaiša
 Diša
+Juodiša
 Beiša
 Vadeiša
 geiša
@@ -12224,6 +12452,7 @@ tarša
 užtarša
 Praperša
 širdperša
+Žemoperša
 properša
 Girša
 Kirša
@@ -12236,6 +12465,7 @@ Striauša
 Lokauša
 Alauša
 Pauša
+Miliuša
 Myliuša
 Vaniuša
 Šiuša
@@ -12258,6 +12488,7 @@ Babrūša
 krūša
 ta
 Drabata
+Robata
 izobata
 arbata
 Subata
@@ -12377,6 +12608,7 @@ Henrieta
 Vaisieta
 vieta
 Vieta
+Pečvieta
 Žardvieta
 nevieta
 savišvieta
@@ -12417,6 +12649,7 @@ Baltneta
 skepeta
 Šnepeta
 Šepeta
+Šipeta
 lopeta
 Lopeta
 šerpeta
@@ -12451,6 +12684,7 @@ Pucėta
 Čečėta
 Pučėta
 perdėta
+Raukėta
 Plėta
 mėta
 Mėta
@@ -12465,6 +12699,7 @@ Kašėta
 Vašėta
 Vėta
 Birvėta
+Sirvėta
 afta
 nafta
 solventnafta
@@ -12573,8 +12808,10 @@ Rasvita
 apšvita
 Rozvita
 Zita
+Izita
 Rozita
 byta
+Mikyta
 lyta
 Lyta
 Alyta
@@ -12608,6 +12845,7 @@ vienuolikta
 Pikta
 penkta
 Okta
+Tverkta
 Bukta
 Kukta
 Balta
@@ -12618,6 +12856,8 @@ Elta
 delta
 gelta
 Velta
+Nodavelta
+Gumilta
 Pustilta
 Eivilta
 Dovilta
@@ -12688,6 +12928,7 @@ Regimanta
 Algimanta
 Akmanta
 Almanta
+Vismanta
 Žvaranta
 įranta
 išranta
@@ -12757,6 +12998,7 @@ Barkinta
 Darkinta
 Daukinta
 Vilinta
+Uolinta
 Aminta
 Raminta
 Gedminta
@@ -12784,6 +13026,8 @@ Barinta
 Darinta
 Virinta
 Orinta
+Aisinta
+Uosinta
 Vosinta
 Viešinta
 akvatinta
@@ -12805,6 +13049,7 @@ chunta
 siunta
 Alunta
 Valunta
+Punta
 aštunta
 Fortūnta
 Vaidota
@@ -12827,6 +13072,7 @@ Baniota
 Treniota
 Toyota
 Kajota
+Vajota
 Daujota
 Dakota
 terakota
@@ -12933,6 +13179,7 @@ Grabasta
 radasta
 kasta
 klasta
+Vuolasta
 Plasta
 paplasta
 Kamasta
@@ -12957,6 +13204,8 @@ Celesta
 Ernesta
 Resta
 Vesta
+Ježesta
+Malkėsta
 Aista
 Abista
 Gubista
@@ -12989,6 +13238,8 @@ Alūksta
 tamsta
 Drumsta
 Kosta
+Taurosta
+Grabuosta
 Aviniuosta
 juosta
 Juosta
@@ -13047,6 +13298,7 @@ Kniukšta
 Šiukšta
 Jukšta
 Kukšta
+Lukšta
 Šmukšta
 Pukšta
 Šukšta
@@ -13109,6 +13361,7 @@ termoputa
 Jaruta
 Biruta
 Boruta
+Noruta
 Voruta
 batuta
 Levuta
@@ -13121,6 +13374,7 @@ Miciūta
 Mačiūta
 Liūta
 Mikūta
+Gilūta
 Senūta
 vėjapūta
 rūta
@@ -13129,6 +13383,7 @@ Grūta
 Turūta
 tūta
 važta
+Griežta
 gūžta
 Gargantiua
 amplua
@@ -13151,6 +13406,7 @@ Ražancava
 Adincava
 Koncava
 Rucava
+Gaspadava
 Naradava
 Ledava
 Vaišvydava
@@ -13184,6 +13440,7 @@ Lingava
 Margava
 išgava
 Plačiava
+Adinčiava
 Puščiava
 lygiava
 Liškiava
@@ -13198,6 +13455,7 @@ Seliava
 Prendzeliava
 vėliava
 Diliava
+Liliava
 Kamiliava
 Emiliava
 Piliava
@@ -13213,10 +13471,12 @@ Tysliava
 tvarsliava
 rašliava
 krušliava
+Kuliava
 Suliava
 mezliava
 vežliava
 ganiava
+Ganiava
 Kaniava
 Staniava
 Seniava
@@ -13256,6 +13516,7 @@ Leckava
 Mockava
 Veličkava
 Zajančkava
+Bikava
 Domeikava
 Andrikava
 Šalkava
@@ -13271,6 +13532,7 @@ Leskava
 Diskava
 Truskava
 Raškava
+Patkava
 Santkava
 Šaukava
 Valiukava
@@ -13308,6 +13570,7 @@ Bratislava
 Verslava
 Svetlava
 Mava
+Samava
 Jerenimava
 Adomava
 nava
@@ -13363,6 +13626,7 @@ Tylinava
 Teklinava
 Čeplinava
 Paulinava
+Minava
 Raminava
 Jazminava
 Antaninava
@@ -13435,12 +13699,14 @@ Beinorava
 Daunorava
 Viktorava
 Anuprava
+Eisrava
 atrava
 Astrava
 Ostrava
 Gurava
 Murava
 Jūrava
+Sūrava
 Tūrava
 sava
 Sava
@@ -13513,7 +13779,9 @@ Terentjeva
 Leontjeva
 Leva
 Seleva
+Želeva
 Šileva
+Kleva
 Jakovleva
 neva
 Neva
@@ -13606,6 +13874,7 @@ votyva
 ofenzyva
 kva
 antikva
+Okva
 Maskva
 Alva
 galva
@@ -13615,6 +13884,7 @@ kalva
 Kalva
 Skalva
 Amalva
+Smalva
 spalva
 Salva
 Žalva
@@ -13746,6 +14016,7 @@ sparva
 Sarva
 Šarva
 derva
+Šederva
 stierva
 lerva
 šlerva
@@ -13788,6 +14059,7 @@ zemstva
 lištva
 irštva
 graižtva
+Biržtva
 Sobuva
 Guobuva
 Žerbuva
@@ -13811,6 +14083,7 @@ eiguva
 žvalguva
 Ilguva
 Ringuva
+Merguva
 Dauguva
 Padauguva
 Plačiuva
@@ -13821,6 +14094,7 @@ nuogriuva
 apsiuva
 Čėkuva
 Rėkuva
+Lankuva
 Linkuva
 Krokuva
 Šarkuva
@@ -13831,6 +14105,7 @@ Gėluva
 Vėluva
 Šiluva
 Varluva
+Kamuva
 Ramuva
 romuva
 Romuva
@@ -13845,6 +14120,7 @@ Oruva
 kraujosruva
 šuva
 Šešuva
+Raišuva
 Pašimšuva
 Karšuva
 Varšuva
@@ -13857,6 +14133,7 @@ Sietuva
 Dituva
 Mituva
 Knituva
+Tytuva
 Gavaltuva
 Deltuva
 Bartuva
@@ -13873,6 +14150,7 @@ Maižuva
 Nyžuva
 Gryžuva
 balžuva
+Veržuva
 krūva
 kraujosrūva
 Aza
@@ -13995,6 +14273,8 @@ Mūza
 Karmūza
 drūza
 Motūza
+Lakštalaža
+Malmaža
 pavaža
 Pravaža
 prievaža
@@ -14032,6 +14312,7 @@ Grieža
 Kemeža
 kebėža
 kemėža
+Nemėža
 Urnėža
 Pėža
 rėža
@@ -14067,6 +14348,7 @@ Aviža
 saulėgrįža
 dyža
 Blyža
+Gumyža
 sankryža
 vyža
 balža
@@ -14097,6 +14379,7 @@ išvarža
 užvarža
 Berža
 Zaberža
+Verža
 birža
 Kirža
 Nevirža
@@ -14132,6 +14415,7 @@ nuograuža
 išgrauža
 išduža
 raiguža
+Gniuža
 Geluža
 Charuža
 Karuža
@@ -14537,6 +14821,10 @@ Palabė
 arabė
 saudoarabė
 Grabė
+Gervingrabė
+Mutergrabė
+Didžgrabė
+Stabė
 Zabė
 Biebė
 Skrebė
@@ -14904,10 +15192,13 @@ bekalbė
 prokalbė
 puskalbė
 Elbė
+Velbė
 Gvelbė
 Dilbė
 astilbė
+Vilbė
 gulbė
+Gulbė
 stulbė
 Padambė
 zambė
@@ -14919,6 +15210,7 @@ Gumbė
 žliumbė
 gelumbė
 rumbė
+Grumbė
 Dušanbė
 Obė
 didbobė
@@ -14981,7 +15273,11 @@ liurbė
 lesbė
 Aišbė
 Daubė
+Velniadaubė
+Malūndaubė
+Geišdaubė
 dubė
+Dubė
 Padubė
 Svėdubė
 Pagubė
@@ -15133,6 +15429,7 @@ barvedė
 karvedė
 chorvedė
 švedė
+Švedė
 raštvedė
 dėdė
 begėdė
@@ -15169,6 +15466,7 @@ Klaidė
 garlaidė
 orlaidė
 raidė
+Saidė
 Gedvaidė
 Minvaidė
 Dovaidė
@@ -15200,6 +15498,7 @@ silfidė
 gidė
 Eigidė
 Kolchidė
+Kidė
 žvakidė
 viščiukidė
 Lidė
@@ -15329,6 +15628,7 @@ Gražvydė
 žydė
 Pažydė
 Aldė
+Pabaldė
 angliaskaldė
 akmenskaldė
 saldė
@@ -15389,6 +15689,7 @@ galindė
 Galindė
 blindė
 glindė
+Rindė
 atžindė
 Londė
 Jaundė
@@ -15408,6 +15709,8 @@ juodaodė
 baltaodė
 juododė
 skriodė
+Skriodė
+Jodė
 Balodė
 Surglodė
 paklodė
@@ -15472,7 +15775,10 @@ Apyvardė
 Gelvardė
 Milvardė
 Jovardė
+Gervardė
+Piktvardė
 Antvardė
+Čyžvardė
 Žardė
 pažardė
 Erdė
@@ -15552,6 +15858,7 @@ Liaudė
 Paliaudė
 Gliaudė
 Vyliaudė
+Šiaudė
 Joskaudė
 naudė
 savanaudė
@@ -15564,6 +15871,7 @@ plokščiaspaudė
 giliaspaudė
 iškiliaspaudė
 paspaudė
+Paspaudė
 vynspaudė
 raudė
 Paraudė
@@ -15591,6 +15899,7 @@ peludė
 namudė
 snudė
 rudė
+Rudė
 pašarudė
 Grudė
 amplitudė
@@ -15610,6 +15919,7 @@ keistabūdė
 lengvabūdė
 Beržinbūdė
 Graižbūdė
+Liūdė
 plūdė
 Plūdė
 rūdė
@@ -15630,6 +15940,7 @@ Lyksūdė
 vairalazdė
 vairolazdė
 Pastrazdė
+Žiezdė
 gvaizdė
 kiauražaizdė
 piktžaizdė
@@ -15854,8 +16165,10 @@ išangė
 notangė
 Notangė
 Stangė
+Vangė
 stogdengė
 kengė
+Rengė
 Ingė
 klibingė
 Padubingė
@@ -15890,6 +16203,7 @@ jungė
 volungė
 Plungė
 spungė
+Drungė
 vėtrungė
 dogė
 pedagogė
@@ -16082,6 +16396,7 @@ Palūgė
 metūgė
 tinklamezgė
 Vėzgė
+Braizgė
 blizgė
 Blizgė
 Pablizgė
@@ -16185,11 +16500,14 @@ auksaakė
 skersaakė
 Bakė
 žlibakė
+Dubakė
 įdubakė
+Blidakė
 maniakė
 koriakė
 triakė
 dviakė
+Dindžiakė
 penkakė
 kraujalakė
 putralakė
@@ -16216,6 +16534,7 @@ Tudorakė
 srakė
 trakė
 Patrakė
+Mergutrakė
 paniurakė
 keturakė
 sakė
@@ -16228,6 +16547,8 @@ pašakė
 gyvašakė
 šešakė
 eglišakė
+Dvišakė
+Narmanšakė
 šienšakė
 vynšakė
 sausšakė
@@ -16237,6 +16558,7 @@ išvarvėtakė
 išdegtakė
 išsprogtakė
 Itakė
+Naktakė
 baltakė
 apželtakė
 dešimtakė
@@ -16301,10 +16623,12 @@ vynkekė
 Svanekė
 prekė
 pėdsekė
+Nesekė
 actekė
 pelėkė
 Papelėkė
 Peršėkė
+Vėkė
 kafkė
 grafkė
 sofkė
@@ -16323,6 +16647,7 @@ vėjavaikė
 bevaikė
 mažvaikė
 prozaikė
+Grabikė
 griebikė
 Sribikė
 žibikė
@@ -16359,6 +16684,8 @@ nakleikė
 atbuleikė
 Nomeikė
 Apeikė
+Vedreikė
+Šalteikė
 Deveikė
 grafikė
 Gikė
@@ -16388,6 +16715,7 @@ katalikė
 nekatalikė
 italikė
 Pastalikė
+Žalikė
 evangelikė
 strėlikė
 melancholikė
@@ -16405,6 +16733,7 @@ akademikė
 chemikė
 alchemikė
 ėmikė
+Žeimikė
 komikė
 Varmikė
 Laukodumikė
@@ -16439,12 +16768,15 @@ Plytnikė
 troikė
 stoikė
 lipikė
+Žalpikė
 švilpikė
+Triumpikė
 trumpikė
 kaupikė
 lupikė
 tupikė
 rikė
+Lendrikė
 cholerikė
 venerikė
 isterikė
@@ -16557,6 +16889,7 @@ mužikė
 velykė
 kumykė
 nabašnykė
+Sykė
 zanavykė
 dvojkė
 balkė
@@ -16643,6 +16976,7 @@ Lenkė
 Medžialenkė
 Palenkė
 Karalenkė
+Užlenkė
 menkė
 Renkė
 Titarenkė
@@ -17384,12 +17718,14 @@ Stonkė
 Zvonkė
 naprežonkė
 Bunkė
+Plunkė
 slunkė
 forsunkė
 karaokė
 vilktabokė
 laidokė
 juodokė
+Čiokė
 stačiokė
 trečiokė
 prasčiokė
@@ -17402,6 +17738,7 @@ kursiokė
 gašiokė
 pijokė
 naujokė
+Kokė
 lokė
 Lokė
 pirmokė
@@ -17464,13 +17801,16 @@ Gerkė
 Gierkė
 pravierkė
 klerkė
+Verkė
 Dirkė
 kirkė
 Stirkė
 sborkė
 uborkė
 razborkė
+Morkė
 kliurkė
+Kliurkė
 Mišiurkė
 tiurkė
 žiurkė
@@ -17612,6 +17952,7 @@ pabradiškė
 Diediškė
 Briediškė
 Žiediškė
+Mediškė
 serediškė
 sediškė
 Pelėdiškė
@@ -17730,6 +18071,7 @@ Juodkiškė
 Čekiškė
 Lekiškė
 Pelekiškė
+Vekiškė
 Lėkiškė
 Blėkiškė
 Bikiškė
@@ -17743,6 +18085,7 @@ Medeikiškė
 Kirdeikiškė
 Mieleikiškė
 Šileikiškė
+Domeikiškė
 Šeikiškė
 Mateikiškė
 Gaveikiškė
@@ -17907,6 +18250,8 @@ Kereliškė
 Skireliškė
 Oreliškė
 Jureliškė
+Miseliškė
+Aukseliškė
 Akšeliškė
 Aušeliškė
 Kušeliškė
@@ -17923,12 +18268,14 @@ Kalveliškė
 Gerveliškė
 Važeliškė
 Čiželiškė
+Oželiškė
 Darželiškė
 Gedėliškė
 Vanagėliškė
 Bingėliškė
 Ringėliškė
 Daugėliškė
+Kirmėliškė
 švenčionėliškė
 Degliškė
 Žvengliškė
@@ -17983,6 +18330,7 @@ Masliškė
 žasliškė
 Kusliškė
 tirkšliškė
+Kiauliškė
 šiauliškė
 Bumbuliškė
 Skiduliškė
@@ -18017,6 +18365,7 @@ Butrimiškė
 Simiškė
 Naikmiškė
 kelmiškė
+Gedinmiškė
 Adomiškė
 Abromiškė
 Baltromiškė
@@ -18040,6 +18389,7 @@ Simaniškė
 Antaniškė
 Staniškė
 Krikštaniškė
+Ageniškė
 Vargeniškė
 Merlieniškė
 prieniškė
@@ -18065,6 +18415,7 @@ Cicėniškė
 Kačėniškė
 Gudėniškė
 Dūdėniškė
+Barzdėniškė
 Lingėniškė
 taujėniškė
 Šukėniškė
@@ -18203,6 +18554,7 @@ Flerijoniškė
 Tverijoniškė
 Kakoniškė
 marcinkoniškė
+Karloniškė
 Ramoniškė
 Gudmoniškė
 Simoniškė
@@ -18218,6 +18570,7 @@ Tranšoniškė
 Geršoniškė
 Saltoniškė
 Stoniškė
+Lestoniškė
 birštoniškė
 Sabutoniškė
 veliuoniškė
@@ -18231,6 +18584,7 @@ Varniškė
 dreverniškė
 Burniškė
 Kurniškė
+Turniškė
 Liesniškė
 Beresniškė
 Čėsniškė
@@ -18248,9 +18602,11 @@ Stauniškė
 Kastauniškė
 panemuniškė
 užnemuniškė
+Zuniškė
 Sadūniškė
 Miciūniškė
 Kačiūniškė
+Pačiūniškė
 Karačiūniškė
 Mančiūniškė
 Zasčiūniškė
@@ -18274,6 +18630,7 @@ Perkūniškė
 Morkūniškė
 Petkūniškė
 Ritkūniškė
+Marūniškė
 Nakrūniškė
 Eitūniškė
 Baltūniškė
@@ -18290,6 +18647,8 @@ Kumpiškė
 Ropiškė
 Karpiškė
 Šiurpiškė
+Kiaupiškė
+Višiupiškė
 Kazlupiškė
 Pupiškė
 Drupiškė
@@ -18422,6 +18781,7 @@ Daukšiškė
 Lukšiškė
 Rukšiškė
 telšiškė
+Rimšiškė
 Rumšiškė
 Adošiškė
 Alijošiškė
@@ -18502,6 +18862,7 @@ užventiškė
 kintiškė
 Daukintiškė
 širvintiškė
+Glambotiškė
 Glumbotiškė
 Legotiškė
 Toliotiškė
@@ -18544,6 +18905,7 @@ Getautiškė
 Bytautiškė
 Vytautiškė
 Butiškė
+Nabutiškė
 Gembutiškė
 Narbutiškė
 Vidutiškė
@@ -18588,6 +18950,7 @@ astraviškė
 saviškė
 taviškė
 rietaviškė
+Rietaviškė
 vieviškė
 Pažieviškė
 Rėviškė
@@ -18616,6 +18979,7 @@ dotnuviškė
 kulautuviškė
 Žuviškė
 Kaziškė
+Brindziškė
 Remeziškė
 Karkažiškė
 Mažiškė
@@ -18665,6 +19029,7 @@ parnuškė
 pornuškė
 Leipuškė
 mikruškė
+Petruškė
 Teledūškė
 psichūškė
 psihūškė
@@ -18700,6 +19065,7 @@ Pributkė
 skydliaukė
 pienliaukė
 Kniaukė
+Kriaukė
 kaukė
 dujokaukė
 laukė
@@ -18851,6 +19217,7 @@ premijukė
 plukė
 mamukė
 kalmukė
+Krienukė
 vienukė
 asmenukė
 senukė
@@ -18926,6 +19293,7 @@ pečiūkė
 valiūkė
 žaliūkė
 Žaliūkė
+Kliūkė
 Pakaniūkė
 kūkė
 Mūkė
@@ -18962,28 +19330,38 @@ Barčiabalė
 Lygiabalė
 Velniabalė
 Didžiabalė
+Plynabalė
 Šlapabalė
 Liepabalė
 grabalė
 Skersabalė
 Klišabalė
 Baltabalė
+Tiltabalė
 Vabalė
 žabalė
 Briedbalė
 Juodbalė
 Dūdbalė
+Ežerėbalė
 Uogbalė
 kanibalė
+Vilkbalė
+Rūkbalė
 bambalė
 drambalė
 Klimbalė
 Paplimbalė
 Vimbalė
 Raudonbalė
+Gerbalė
 Reisbalė
+Gausbalė
 Vileišbalė
 Čerkšbalė
+Rytbalė
+Daubalė
+Dubalė
 Vidubalė
 Meškubalė
 Dalė
@@ -19008,6 +19386,7 @@ legalė
 nelegalė
 negalė
 Pagaigalė
+Vaigalė
 Notigalė
 Strygalė
 žiemgalė
@@ -19015,6 +19394,7 @@ bengalė
 piemengalė
 Vengalė
 Kretingalė
+Maišiogalė
 nuogalė
 gargalė
 pergalė
@@ -19036,6 +19416,7 @@ poliakalė
 viniakalė
 ginklakalė
 auksakalė
+Šakalė
 kalstakalė
 Užbaikalė
 radikalė
@@ -19058,6 +19439,7 @@ Lieplaukalė
 rūkalė
 Balalė
 Šilalė
+Peklalė
 Erslalė
 Eulalė
 Amalė
@@ -19068,18 +19450,22 @@ ekstremalė
 Kaimalė
 skarmalė
 marmalė
+Marmalė
 pipirmalė
 normalė
+Purmalė
 mėsmalė
 bienalė
 trienalė
 Kartenalė
 Gavėnalė
 marginalė
+Upynalė
 Luknalė
 Bonalė
 profesionalė
 neprofesionalė
+Švėkšnalė
 Palė
 krapalė
 sapalė
@@ -19097,12 +19483,14 @@ ultraliberalė
 socialliberalė
 kolateralė
 Giralė
+Skiralė
 spiralė
 moralė
 ekstemporalė
 litoralė
 pastoralė
 teatralė
+Aitralė
 magistralė
 automagistralė
 australė
@@ -19126,6 +19514,7 @@ Patausalė
 pašalė
 kitašalė
 abišalė
+Šyšalė
 svetimšalė
 nuošalė
 talė
@@ -19139,6 +19528,7 @@ mikrodetalė
 autodetalė
 italė
 orbitalė
+Leitalė
 Vitalė
 Smeltalė
 horizontalė
@@ -19161,6 +19551,8 @@ savavalė
 Bažavalė
 savivalė
 žiovalė
+Gervalė
+Svalė
 sauvalė
 Vaiguvalė
 Jeruzalė
@@ -19176,6 +19568,7 @@ dumblė
 Dumblė
 Padumblė
 Groblė
+Skroblė
 sterblė
 burblė
 Siurblė
@@ -19191,6 +19584,7 @@ kudlė
 Elė
 Rafaelė
 kabelė
+Grabelė
 mirabelė
 Zabelė
 Izabelė
@@ -19213,12 +19607,14 @@ luobelė
 terbelė
 verbelė
 daubelė
+Daubelė
 Bubelė
 Čubelė
 Padubelė
 gubelė
 sriubelė
 tūbelė
+Vazbelė
 celė
 Celė
 micelė
@@ -19235,6 +19631,7 @@ cistocelė
 Marcelė
 parcelė
 Miečelė
+Svinčelė
 violončelė
 Kručelė
 Adelė
@@ -19282,6 +19679,7 @@ baudelė
 Liaudelė
 budelė
 Gudelė
+Rudelė
 būdelė
 Būdelė
 dūdelė
@@ -19289,6 +19687,7 @@ plūdelė
 Rūdelė
 lazdelė
 žaizdelė
+Bizdelė
 pyzdelė
 barzdelė
 blauzdelė
@@ -19348,8 +19747,10 @@ gijelė
 sijelė
 kojelė
 gaujelė
+Sraujelė
 saujelė
 akelė
+Akelė
 pakelė
 šakelė
 Šakelė
@@ -19361,7 +19762,10 @@ priekelė
 kekelė
 šalikelė
 brikelė
+Zvikelė
+Vykelė
 malkelė
+Valkelė
 Pelkelė
 silkelė
 bulkelė
@@ -19412,8 +19816,10 @@ paralelė
 salelė
 Salelė
 šalelė
+Lielelė
 sielelė
 vielelė
+Šakelelė
 gėlelė
 vėlelė
 eglelė
@@ -19424,10 +19830,12 @@ kvailelė
 Meilelė
 Šilelė
 skylelė
+Peklelė
 šmėklelė
 sėklelė
 gerklelė
 kriauklelė
+Ruklelė
 skolelė
 žolelė
 gyslelė
@@ -19485,9 +19893,11 @@ dainelė
 Dainelė
 rainelė
 trichinelė
+Kinelė
 Linelė
 vinelė
 žinelė
+Gynelė
 pynelė
 spynelė
 skrynelė
@@ -19506,6 +19916,7 @@ duonelė
 vonelė
 Šarnelė
 varnelė
+Varnelė
 žarnelė
 girnelė
 stirnelė
@@ -19528,17 +19939,21 @@ briaunelė
 kriaunelė
 šlaunelė
 Punelė
+Krunelė
 Šunelė
 gūnelė
+Strūnelė
 Jieznelė
 pelė
 miegapelė
 Grikiapelė
 lapelė
 Lapelė
+Šapelė
 Čepelė
 liepelė
 Liepelė
+Šalpelė
 kilpelė
 tulpelė
 kampelė
@@ -19555,8 +19970,11 @@ kurpelė
 smiltpelė
 putpelė
 upelė
+Upelė
+Snaigupelė
 pupelė
 grupelė
+Pašupelė
 lūpelė
 relė
 karelė
@@ -19637,6 +20055,7 @@ kekšelė
 kulšelė
 košelė
 tošelė
+Kuršelė
 kriaušelė
 šiušelė
 pušelė
@@ -19660,6 +20079,7 @@ kanitelė
 Ritelė
 Zitelė
 plytelė
+Knytelė
 grytelė
 vytelė
 kaktelė
@@ -19695,6 +20115,7 @@ Mortelė
 Urtelė
 Astelė
 pastelė
+Brastelė
 ląstelė
 piestelė
 Aistelė
@@ -19710,6 +20131,7 @@ juostelė
 mikrojuostelė
 fotojuostelė
 šluostelė
+Apstelė
 Žarstelė
 Justelė
 rūgštelė
@@ -19758,10 +20180,12 @@ kalvelė
 spalvelė
 milvelė
 bulvelė
+Griovelė
 lovelė
 novelė
 Novelė
 srovelė
+Karvelė
 Marvelė
 smarvelė
 gervelė
@@ -19770,6 +20194,7 @@ Gervelė
 dirvelė
 Dirvelė
 virvelė
+Purvelė
 lysvelė
 viksvelė
 Želsvelė
@@ -19782,6 +20207,7 @@ gazelė
 frazelė
 madmuazelė
 vazelė
+Nizelė
 krizelė
 pauzelė
 bliuzelė
@@ -19812,6 +20238,7 @@ siurbėlė
 abėcėlė
 Domicėlė
 Ūlyčėlė
+Melnyčėlė
 Ratnyčėlė
 dėlė
 Slabadėlė
@@ -19819,6 +20246,7 @@ išbadėlė
 cikadėlė
 kaladėlė
 pirmadėlė
+Imbradėlė
 seradėlė
 antradėlė
 pagedėlė
@@ -19857,7 +20285,9 @@ Pasodėlė
 pajuodėlė
 Pajuodėlė
 užjuodėlė
+Alsuodėlė
 smirdėlė
+Smirdėlė
 pasmirdėlė
 nuskurdėlė
 prieglaudėlė
@@ -19916,6 +20346,7 @@ pastogėlė
 žemuogėlė
 pavargėlė
 suvargėlė
+Vilkmergėlė
 Norgėlė
 apsmurgėlė
 nusmurgėlė
@@ -19928,6 +20359,7 @@ suaugėlė
 papūgėlė
 surūgėlė
 birzgėlė
+Strauzgėlė
 išbadėjėlė
 nusidėjėlė
 audėjėlė
@@ -19945,14 +20377,17 @@ raudojėlė
 išsižiojėlė
 Ramojėlė
 apdujėlė
+Kėlė
 Valakėlė
 prasilakėlė
 prisiplakėlė
+Marnakėlė
 apakėlė
 patrakėlė
 pasakėlė
 ašakėlė
 puodkėlė
+Tauriekėlė
 Polekėlė
 Versekėlė
 bibliotekėlė
@@ -20023,6 +20458,7 @@ nuotraukėlė
 pertraukėlė
 ištraukėlė
 apsišaukėlė
+Lietaukėlė
 atbukėlė
 nusmukėlė
 susmukėlė
@@ -20068,6 +20504,7 @@ nupuolėlė
 gražuolėlė
 statulėlė
 įžūlėlė
+Taramėlė
 programėlė
 atramėlė
 problemėlė
@@ -20080,6 +20517,7 @@ išsigimėlė
 užkimėlė
 Aurimėlė
 laukymėlė
+Pagromėlė
 kirmėlė
 Pasmėlė
 medumėlė
@@ -20095,11 +20533,14 @@ neišmanėlė
 Gitanėlė
 Antanėlė
 dovanėlė
+Dubenėlė
+Audenėlė
 vargdienėlė
 Naujienėlė
 blakstienėlė
 rankenėlė
 liemenėlė
+Žeimenėlė
 Akmenėlė
 smulkmenėlė
 Ašmenėlė
@@ -20117,6 +20558,7 @@ Pelėvenėlė
 nusigyvenėlė
 Opstainėlė
 Albinėlė
+Gulbinėlė
 Nemenčinėlė
 Medinėlė
 grandinėlė
@@ -20154,6 +20596,7 @@ Gražinėlė
 Geležinėlė
 nežinėlė
 daržinėlė
+Daržinėlė
 puodynėlė
 kaimynėlė
 šeimynėlė
@@ -20171,17 +20614,25 @@ benzokolonėlė
 Simonėlė
 Šimonėlė
 įmonėlė
+Baronėlė
 Petronėlė
 pūronėlė
 ulbuonėlė
 čiulbuonėlė
 aguonėlė
+Veliuonėlė
+Vajuonėlė
 pilkuonėlė
 verkuonėlė
+Agluonėlė
 svyruonėlė
+Svyruonėlė
 Kretuonėlė
+Irtuonėlė
+Dirvonėlė
 vyresnėlė
 Šetekšnėlė
+Kriaunėlė
 jaunėlė
 Gešiunėlė
 ramunėlė
@@ -20213,6 +20664,7 @@ pastipėlė
 sustipėlė
 išklypėlė
 suklypėlė
+Paskrypėlė
 iškrypėlė
 nukrypėlė
 sukrypėlė
@@ -20243,6 +20695,7 @@ operėlė
 seserėlė
 moterėlė
 išgverėlė
+Ežerėlė
 Paežerėlė
 pasigėrėlė
 prasigėrėlė
@@ -20276,6 +20729,7 @@ agentūrėlė
 skulptūrėlė
 Sėlė
 terasėlė
+Gubesėlė
 Rudesėlė
 staltiesėlė
 Teresėlė
@@ -20315,6 +20769,7 @@ pasišiaušėlė
 įkaušėlė
 išaušėlė
 užaušėlė
+Miliušėlė
 motušėlė
 arbatėlė
 adatėlė
@@ -20324,6 +20779,7 @@ Kamatėlė
 Renatėlė
 Donatėlė
 daratėlė
+Karatėlė
 susipratėlė
 nesusipratėlė
 Jūratėlė
@@ -20365,6 +20821,7 @@ Melnytėlė
 Pamelnytėlė
 bažnytėlė
 Marytėlė
+Ažytėlė
 Ežytėlė
 prasikaltėlė
 nusikaltėlė
@@ -20382,6 +20839,7 @@ Vilmantėlė
 Jomantėlė
 Šlavantėlė
 Ramintėlė
+Viržintėlė
 Jūžintėlė
 užduotėlė
 Kampuotėlė
@@ -20400,7 +20858,9 @@ prijuostėlė
 Pakruostėlė
 Augustėlė
 Apaštėlė
+Ankštėlė
 kibirkštėlė
+Medūkštėlė
 šnypštėlė
 utėlė
 apkiautėlė
@@ -20413,13 +20873,16 @@ išputėlė
 Birutėlė
 mažutėlė
 pasipūtėlė
+Svaitūtėlė
 vėlė
 Gubavėlė
 parsidavėlė
 Plačiavėlė
 vėliavėlė
 rinkliavėlė
+Suliavėlė
 Kaniavėlė
+Mockavėlė
 Dainavėlė
 Konstantinavėlė
 Kernavėlė
@@ -20427,6 +20890,7 @@ Labūnavėlė
 Aleksandravėlė
 Aristavėlė
 sąvėlė
+Šešėvėlė
 negyvėlė
 pagalvėlė
 sengalvėlė
@@ -20443,6 +20907,7 @@ Ringuvėlė
 Padauguvėlė
 sugriuvėlė
 Linkuvėlė
+Dotnuvėlė
 papuvėlė
 išpuvėlė
 supuvėlė
@@ -20496,6 +20961,7 @@ Deglė
 juodeglė
 spieglė
 žvieglė
+Reteglė
 balteglė
 bėglė
 Preiglė
@@ -20505,6 +20971,7 @@ Miglė
 Yglė
 dyglė
 anglė
+Viranglė
 snarglė
 paauglė
 Pakrauglė
@@ -20587,6 +21054,7 @@ idilė
 Vaidilė
 Jundilė
 Gaudilė
+Nezdilė
 eilė
 meilė
 Meilė
@@ -20655,6 +21123,7 @@ Jorilė
 asilė
 Klausilė
 šilė
+Šilė
 pašilė
 Pašilė
 Žalšilė
@@ -20676,6 +21145,7 @@ postilė
 Rūtilė
 rubuilė
 Vilė
+Avilė
 Radvilė
 Žadvilė
 Gedvilė
@@ -20770,6 +21240,7 @@ kurčnebylė
 pusnebylė
 gražbylė
 gylė
+Gylė
 skylė
 nosiaskylė
 šiknaskylė
@@ -20786,6 +21257,7 @@ Svylė
 zylė
 Žylė
 mažylė
+Bražylė
 aklė
 Aklė
 nuogakaklė
@@ -20899,6 +21371,7 @@ džiovyklė
 plovyklė
 rovyklė
 braižyklė
+Garanklė
 kranklė
 minklė
 rinklė
@@ -20908,6 +21381,7 @@ Raudoklė
 karčioklė
 vilioklė
 vynioklė
+Krioklė
 medžioklė
 klajoklė
 skrajoklė
@@ -20971,6 +21445,7 @@ turklė
 auklė
 kniauklė
 kriauklė
+Kriauklė
 kauklė
 rauklė
 Aizkrauklė
@@ -21015,6 +21490,7 @@ Mikolė
 Mykolė
 kaukolė
 molė
+Molė
 Tamolė
 Balemolė
 senolė
@@ -21051,6 +21527,7 @@ diastolė
 sistolė
 ekstrasistolė
 antstolė
+Uolė
 buolė
 raibuolė
 Žibuolė
@@ -21106,6 +21583,7 @@ komjaunuolė
 Apuolė
 Prapuolė
 pašaipuolė
+Kumpuolė
 opuolė
 stropuolė
 maruolė
@@ -21294,15 +21772,19 @@ varlė
 medvarlė
 žalvarlė
 piktvarlė
+Berlė
 terlė
 sterlė
 durlė
 skurlė
+Murlė
+Purlė
 tieslė
 kvieslė
 muskrėslė
 bitkrėslė
 sėslė
+Paislė
 veislė
 Rodomislė
 Dobromislė
@@ -21322,6 +21804,7 @@ savamokslė
 mažamokslė
 bemokslė
 pusmokslė
+Krimslė
 Zaroslė
 uoslė
 suoslė
@@ -21346,6 +21829,7 @@ kvėkšlė
 krenkšlė
 šniokšlė
 Krokšlė
+Pakrokšlė
 putokšlė
 švokšlė
 tarkšlė
@@ -21415,6 +21899,7 @@ drobulė
 Duobulė
 Paduobulė
 burbulė
+Dubulė
 Mičulė
 Padulė
 Niedulė
@@ -21440,6 +21925,7 @@ bičiulė
 piliulė
 kaniulė
 Šiulė
+Radziulė
 mažiulė
 Julė
 trijulė
@@ -21451,11 +21937,13 @@ Priekulė
 molekulė
 biomolekulė
 makromolekulė
+Nekulė
 Mikulė
 pikulė
 vezikulė
 Porciunkulė
 Virkulė
+Kurkulė
 mulė
 mamulė
 Samulė
@@ -21470,6 +21958,7 @@ ampulė
 pupulė
 Arulė
 Jarulė
+Karulė
 gerulė
 birulė
 morulė
@@ -21483,6 +21972,7 @@ kapsulė
 Uršulė
 Tulė
 datulė
+Skatulė
 Patulė
 tetulė
 mitulė
@@ -21507,6 +21997,7 @@ siūlė
 kūlė
 paiškūlė
 špūlė
+Kerūlė
 krivūlė
 urgzlė
 niurgzlė
@@ -21524,6 +22015,7 @@ poveržlė
 pusveržlė
 antveržlė
 ūžlė
+Pėdamė
 veldamė
 Gamė
 Pagamė
@@ -21540,12 +22032,14 @@ Ramė
 paprogramė
 kramė
 Patramė
+Samė
 pradmė
 Erdmė
 pudmė
 rudmė
 Vilkakarčemė
 socdemė
+Degemė
 pakiemė
 Mickiemė
 šalikiemė
@@ -21641,6 +22135,7 @@ tuštymė
 žymė
 sakmė
 pasekmė
+Tekmė
 įtekmė
 sėkmė
 nesėkmė
@@ -21684,6 +22179,7 @@ Tomė
 anatomė
 suomė
 pragarmė
+Karmė
 tarmė
 patarmė
 pratarmė
@@ -21720,6 +22216,7 @@ Lauksmė
 paūksmė
 Žosmė
 versmė
+Versmė
 bausmė
 drausmė
 savidrausmė
@@ -21749,11 +22246,14 @@ mažumė
 Dūmė
 padūmė
 Padūmė
+Skerdūmė
+Rūmė
 pakrūmė
 prizmė
 gręžmė
 Pažižmė
 kryžmė
+Šlūžmė
 nė
 Anė
 Mbabanė
@@ -21767,6 +22267,7 @@ kiauliaganė
 žąsiaganė
 ožkaganė
 raganė
+Raganė
 galeganė
 veganė
 afganė
@@ -21776,6 +22277,7 @@ Astrachanė
 Polianė
 Kantvianė
 Janė
+Kanė
 dekanė
 prodekanė
 pleiskanė
@@ -21824,10 +22326,12 @@ partizanė
 kurtizanė
 Dembnė
 Ariadnė
+Galadnė
 Gelednė
 Benė
 Pabenė
 gebenė
+Gebenė
 gumbenė
 Gedenė
 kedenė
@@ -21857,6 +22361,7 @@ Dargenė
 Augenė
 Daugenė
 Eugenė
+Bienė
 Arcabienė
 Kudabienė
 Gabienė
@@ -36764,6 +37269,7 @@ Kurpuvesienė
 Pačėsienė
 Degėsienė
 Kėsienė
+Dvėsienė
 vaisienė
 Bilvaisienė
 Remeisienė
@@ -39223,6 +39729,7 @@ Uždravienė
 Astravienė
 Savienė
 Nesavienė
+Šavienė
 Kuzavienė
 Bužavienė
 Bidvienė
@@ -41060,6 +41567,7 @@ Sėmenė
 drėgmenė
 kaimenė
 Pažeimenė
+Limenė
 akmenė
 Akmenė
 Paakmenė
@@ -41085,12 +41593,14 @@ viešuomenė
 prastuomenė
 aukštuomenė
 barmenė
+Vermenė
 Užvermenė
 unksmenė
 ūksmenė
 rusmenė
 Pajiešmenė
 rietmenė
+Straumenė
 Tiumenė
 Tenenė
 pilvapenė
@@ -41106,6 +41616,7 @@ taurenė
 senė
 prosenė
 Klausenė
+Krešenė
 kišenė
 plaušenė
 šatenė
@@ -41133,6 +41644,7 @@ Tautenė
 Butenė
 Venė
 ravenė
+Savenė
 Palėvenė
 Gaivenė
 Draivenė
@@ -41196,8 +41708,11 @@ Ragainė
 jėgainė
 uogainė
 grikainė
+Rukainė
 makalainė
+Gėlainė
 dyglainė
+Uoglainė
 šilainė
 Šilainė
 tinklainė
@@ -41260,6 +41775,7 @@ Jauvainė
 Buvainė
 Suvainė
 įstrižainė
+Vižainė
 buožainė
 kebabinė
 Skrabinė
@@ -41282,11 +41798,13 @@ Lobinė
 Luobinė
 kirbinė
 Burbinė
+Dubinė
 sriubinė
 subinė
 jokūbinė
 rūbinė
 operacinė
+Gracinė
 dekoracinė
 kapucinė
 Melnyčinė
@@ -41312,6 +41830,7 @@ skydinė
 Pavydinė
 valdinė
 pavaldinė
+Meldinė
 Pagramdinė
 samdinė
 užkandinė
@@ -41341,6 +41860,7 @@ Paraudinė
 Gudinė
 etiudinė
 rudinė
+Rudinė
 Parudinė
 Lazdinė
 Palazdinė
@@ -41406,6 +41926,7 @@ Pabunginė
 junginė
 Plunginė
 Usioginė
+Ūsioginė
 Joginė
 stoginė
 pastoginė
@@ -41448,14 +41969,17 @@ parakinė
 abrakinė
 Trakinė
 Patrakinė
+Šakinė
 Pašakinė
 Jautakinė
 žvakinė
 Klevečkinė
 lydekinė
 Lydekinė
+Sliekinė
 Vesiekinė
 Dabikinė
+Ceikinė
 Paceikinė
 devyniolikinė
 technikinė
@@ -41463,6 +41987,7 @@ Rikinė
 zuikinė
 Zuikinė
 Liudvikinė
+Žvikinė
 velykinė
 šašlykinė
 Čeverykinė
@@ -41486,8 +42011,10 @@ penkinė
 junkinė
 Tabokinė
 Liubokinė
+Burčiokinė
 Lokinė
 mokinė
+Cimokinė
 Špokinė
 Kazokinė
 Šarkinė
@@ -41516,14 +42043,19 @@ Palaukinė
 taukinė
 Dukinė
 Šeidukinė
+Pukinė
+Krasukinė
 Barsukinė
 pieštukinė
 Žukinė
+Dūkinė
 pūkinė
+Pūkinė
 Lapūkinė
 Ožkinė
 Linė
 alinė
+Balinė
 Babalinė
 Pabalinė
 žibalinė
@@ -41575,13 +42107,17 @@ vytelinė
 Vytelinė
 Vartelinė
 Kervelinė
+Dėlinė
 Padėlinė
 dilgėlinė
+Mėlinė
 Kirmėlinė
 strėlinė
+Utėlinė
 vaflinė
 Naglinė
 Eglinė
+Vyglinė
 anglinė
 Paanglinė
 Skirgailinė
@@ -41589,12 +42125,14 @@ kailinė
 Bimbilinė
 Dobilinė
 eilinė
+Gilinė
 spragilinė
 milinė
 Šilinė
 Pašilinė
 katilinė
 muilinė
+Muilinė
 kaklinė
 Teklinė
 sėklinė
@@ -41629,9 +42167,11 @@ Cibulinė
 Bundulinė
 Gudulinė
 Pečiulinė
+Kulinė
 Liūlinė
 Minė
 naminė
+Šaminė
 Pašaminė
 Antašaminė
 Radminė
@@ -41732,6 +42272,7 @@ kepsninė
 vyšninė
 Vinkšninė
 šermukšninė
+Yžninė
 Kapinė
 Pakapinė
 lapinė
@@ -41788,6 +42329,7 @@ sidabrinė
 Sidabrinė
 Bebrinė
 precerebrinė
+Nibrinė
 stumbrinė
 Stumbrinė
 Stuobrinė
@@ -41817,6 +42359,7 @@ girinė
 Girinė
 pagirinė
 pipirinė
+Širinė
 cukrinė
 gaspadorinė
 sporinė
@@ -41826,9 +42369,11 @@ operatorinė
 Viktorinė
 Totorinė
 Ąžuorinė
+Pivorinė
 kuprinė
 gaisrinė
 dešrinė
+Makšrinė
 Mekšrinė
 Vikšrinė
 aušrinė
@@ -41849,6 +42394,8 @@ keturinė
 Mūrinė
 Pamūrinė
 sūrinė
+Trasinė
+Matrasinė
 Stasinė
 mėsinė
 Mėsinė
@@ -41884,6 +42431,7 @@ užrašinė
 Patašinė
 dešinė
 riešinė
+Kriešinė
 Maižiešinė
 Maišinė
 Lašišinė
@@ -41901,6 +42449,7 @@ Bogušinė
 Lušinė
 Kermušinė
 Pušinė
+Papušinė
 Užpušinė
 Prušinė
 arbatinė
@@ -41922,6 +42471,7 @@ Sietinė
 vietinė
 Avietinė
 Šukvietinė
+Meletinė
 skepetinė
 Kupetinė
 osetinė
@@ -41931,11 +42481,13 @@ numylėtinė
 auklėtinė
 degtinė
 Stirbaitinė
+Pranaitinė
 Giedraitinė
 Vėžaitinė
 išeitinė
 Ritinė
 muitinė
+Gilvitinė
 ugdytinė
 samdytinė
 mazgytinė
@@ -41967,6 +42519,7 @@ suktinė
 pakeltinė
 veltinė
 giltinė
+Giltinė
 miltinė
 Smiltinė
 Piltinė
@@ -42011,9 +42564,11 @@ sutartinė
 Užvertinė
 virtinė
 kurtinė
+Kastinė
 Agrastinė
 liestinė
 užmiestinė
+Piestinė
 kviestinė
 sviestinė
 išmestinė
@@ -42025,6 +42580,7 @@ Raistinė
 vaistinė
 Eurovaistinė
 skleistinė
+Pagrįstinė
 vilkstinė
 Verkstinė
 gulstinė
@@ -42060,6 +42616,7 @@ Barštinė
 karštinė
 pirštinė
 Muštinė
+Vilkiautinė
 Vytautinė
 Vidutinė
 degutinė
@@ -42085,6 +42642,7 @@ medvinė
 Eidvinė
 Gaudvinė
 Gudvinė
+Jievinė
 Kievinė
 Pajevinė
 Klevinė
@@ -42158,6 +42716,7 @@ beržinė
 Beržinė
 Paberžinė
 Biržinė
+Graužinė
 drabužinė
 gegužinė
 Gegužinė
@@ -42189,9 +42748,11 @@ Pameldynė
 šildynė
 grumdynė
 landynė
+Blendynė
 lindynė
 Sodynė
 Uodynė
+Juodynė
 puodynė
 šiaudynė
 maudynė
@@ -42236,6 +42797,7 @@ sraujynė
 blakynė
 Krakynė
 Trakynė
+Šakynė
 Šaltakynė
 Austakynė
 Šlekynė
@@ -42296,6 +42858,7 @@ Dzerkalynė
 barškalynė
 tarškalynė
 tauškalynė
+Malynė
 marmalynė
 plepalynė
 pliurpalynė
@@ -42386,6 +42949,7 @@ akmenynė
 Akmenynė
 velėnynė
 kiminynė
+Akminynė
 šlynynė
 Šlynynė
 kmynynė
@@ -42427,10 +42991,12 @@ plerpynė
 čirpynė
 durpynė
 Durpynė
+Supynė
 vyžpynė
 padarynė
 perdarynė
 žagarynė
+Žagarynė
 vakarynė
 Jovarynė
 Sidabrynė
@@ -42449,6 +43015,7 @@ Girynė
 žvyrynė
 Dūdorynė
 Žikorynė
+Vikšrynė
 trynė
 Trynė
 šeivatrynė
@@ -42487,6 +43054,7 @@ Katynė
 Gyvatynė
 Elzbietynė
 Avietynė
+Šepetynė
 verpetynė
 Retynė
 Erškėtynė
@@ -42528,6 +43096,7 @@ varputynė
 šutynė
 dvynė
 ievynė
+Jevynė
 Klevynė
 tėvynė
 protėvynė
@@ -42542,6 +43111,7 @@ purvynė
 Purvynė
 viksvynė
 uošvynė
+Žvynė
 žynė
 Gargažynė
 driežynė
@@ -42573,6 +43143,7 @@ meknė
 Rezeknė
 Rėzeknė
 miknė
+Galarknė
 Verknė
 Paverknė
 Luknė
@@ -42619,6 +43190,7 @@ baltakelnė
 bekelnė
 nusmuktkelnė
 baltkelnė
+Tapelnė
 rankpelnė
 dienpelnė
 duonpelnė
@@ -42628,10 +43200,12 @@ Vilnė
 pavilnė
 medvilnė
 štolnė
+Kulnė
 Meškakulnė
 pakulnė
 Onė
 faraonė
+Bonė
 Donė
 makedonė
 nevidonė
@@ -42647,6 +43221,7 @@ Bezdonė
 Leonė
 Persefonė
 pagonė
+Cigonė
 čigonė
 ligonė
 arkligonė
@@ -42691,12 +43266,15 @@ dejonė
 klejonė
 dvejonė
 žvejonė
+Žvejonė
 Kastiljonė
 makonė
+Čekonė
 respublikonė
 anglikonė
 dominikonė
 amerikonė
+Senkonė
 gaskonė
 pranciškonė
 Leiškonė
@@ -42744,6 +43322,7 @@ didponė
 Steponė
 Vaiponė
 dvarponė
+Luponė
 didžponė
 Pabaronė
 Garonė
@@ -42761,6 +43340,7 @@ patronė
 Petronė
 Ustronė
 niūronė
+Sasonė
 Suosonė
 Gersonė
 pašonė
@@ -42798,6 +43378,7 @@ ruonė
 Kruonė
 Pakretuonė
 Baltuonė
+Pašaltuonė
 Paberžuonė
 Budavonė
 pizdavonė
@@ -42808,6 +43389,7 @@ amazonė
 Amazonė
 keverzonė
 Džordžonė
+Paberžonė
 sapnė
 Šafarnė
 Smoliarnė
@@ -42828,11 +43410,13 @@ Gamernė
 šernė
 eksternė
 Edirnė
+Kirnė
 Pakirnė
 pipirnė
 Stirnė
 Avirnė
 pasvirnė
+Dzirnė
 Špižiornė
 plačiaburnė
 auksaburnė
@@ -42864,11 +43448,13 @@ verksnė
 šauksnė
 pensnė
 bosnė
+Malkosnė
 aukštakrosnė
 lydkrosnė
 šalikrosnė
 striepsnė
 virsnė
+Virsnė
 Pusnė
 Antapusnė
 Rusnė
@@ -42893,7 +43479,9 @@ Taurokšnė
 Čerkšnė
 Šerkšnė
 Pašerkšnė
+Širkšnė
 Vardukšnė
+Palūkšnė
 Roskošnė
 puošnė
 Lūšnė
@@ -42901,6 +43489,7 @@ Lūšnė
 Unė
 daunė
 Ragaunė
+Lugaunė
 Pačiaunė
 kiaunė
 Kiaunė
@@ -42910,12 +43499,14 @@ Striaunė
 pažiaunė
 jaunė
 Jaunė
+Pjaunė
 Pakaunė
 Šaukaunė
 Galaunė
 zaunė
 hunė
 niunė
+Pakamunė
 Pamunė
 ramunė
 Ramunė
@@ -42963,6 +43554,7 @@ smilgūnė
 Augūnė
 staugūnė
 džiugūnė
+Klačiūnė
 Liūnė
 galiūnė
 paliūnė
@@ -42975,6 +43567,7 @@ Pastasiūnė
 didžiūnė
 babajūnė
 klajūnė
+Nemajūnė
 rajūnė
 skrajūnė
 Svajūnė
@@ -42984,6 +43577,7 @@ išėjūnė
 atėjūnė
 Vėjūnė
 rijūnė
+Vijūnė
 lakūnė
 česnakūnė
 rėkūnė
@@ -42998,6 +43592,7 @@ dykūnė
 rykūnė
 alkūnė
 valkūnė
+Minkūnė
 virkūnė
 draskūnė
 Paeiškūnė
@@ -43030,6 +43625,7 @@ Arūnė
 narūnė
 vasarūnė
 Šarūnė
+Babrūnė
 chebrūnė
 Giedrūnė
 ėdrūnė
@@ -43053,6 +43649,7 @@ plėšrūnė
 mišrūnė
 Pastrūnė
 baisūnė
+Alsūnė
 smalsūnė
 tamsūnė
 plėšūnė
@@ -43084,6 +43681,7 @@ Laisvūnė
 palaižūnė
 rožūnė
 Pevnė
+Grivnė
 Puznė
 mižnė
 Yžnė
@@ -43107,6 +43705,7 @@ Kanapė
 pasnapė
 geltonsnapė
 Papė
+Krapė
 Čepė
 Paliepė
 duonkepė
@@ -43121,6 +43720,7 @@ Džiuzepė
 palėpė
 Kaipė
 knaipė
+Cipė
 uolalipė
 šnipė
 kripė
@@ -43128,6 +43728,7 @@ Misisipė
 Prinsipė
 cypė
 vienstypė
+Kalpė
 Šalpė
 Žalpė
 Velpė
@@ -43148,6 +43749,8 @@ Pakrempė
 Pimpė
 pliumpė
 Pliumpė
+Kumpė
+Lumpė
 klumpė
 Klumpė
 trumpė
@@ -43169,6 +43772,7 @@ perkūnropė
 filantropė
 mizantropė
 sopė
+Varpė
 kietavarpė
 apyvarpė
 čerpė
@@ -43182,31 +43786,53 @@ geltonkerpė
 terpė
 durpė
 šiurpė
+Šiurpė
 kurpė
 Kurpė
 medkurpė
 upė
+Upė
+Viliaupė
+Šilaupė
 Paupė
 Plasaupė
+Grabupė
+Pečupė
+Žadupė
+Žiedupė
+Vidupė
 Geldupė
 Vandupė
+Mindupė
 Juodupė
 Pajuodupė
+Skardupė
 Audupė
 Prūdupė
 Kregždupė
+Žvirgždupė
 Vanagupė
 Snaigupė
+Dargupė
 Žirgupė
+Milčiupė
 Koliupė
 Moliupė
 Striupė
+Beržiupė
 kupė
 Bekupė
 Lydekupė
+Meldikupė
 Noreikupė
+Vilkupė
+Lankupė
+Lokupė
+Meškupė
 Šeškupė
+Aukupė
 Laukupė
+Drukupė
 Alupė
 kailialupė
 varlialupė
@@ -43218,46 +43844,82 @@ Lielupė
 Milupė
 Šilupė
 šunlupė
+Tolupė
+Varlupė
+Kiaulupė
 Prienupė
 Nenupė
+Senupė
 Bėnupė
+Medinupė
 Vynupė
 Varnupė
 Šernupė
+Versnupė
+Šunupė
 arkliapupė
+Kapupė
+Lapupė
+Liepupė
 Barupė
 Pabarupė
+Narupė
 Parupė
 Vebrupė
+Berupė
+Gerupė
 Kerupė
+Verupė
+Žvėrupė
 grupė
 serogrupė
 popgrupė
+Airupė
 Girupė
 Gorupė
+Timsrupė
 trupė
 akmentrupė
+Taurupė
+Vėsupė
+Kisupė
+Vaksupė
 Palsupė
+Uosupė
 Pauosupė
+Narsupė
 sausupė
 Šešupė
+Kišupė
+Klišupė
 Mišupė
 Tupė
 Vilkatupė
 Ratupė
+Ditupė
+Piktupė
 Šaltupė
+Želtupė
 Antupė
 Šventupė
 Pašventupė
 Bartupė
+Bendostupė
+Barzupė
+Zurzupė
+Župė
 Mažupė
+Ražupė
 Palaižupė
+Dryžupė
 Rožupė
+Paviržupė
 Užupė
 Laužupė
 Pagraužupė
 ilgalūpė
 vambralūpė
+Klūpė
 Barė
 pabarė
 Pabarė
@@ -43309,6 +43971,7 @@ balkarė
 kaklaskarė
 tarpukarė
 Marė
+Žiežmarė
 narė
 kulinarė
 veterinarė
@@ -43364,6 +44027,7 @@ Cezarė
 Žarė
 adžarė
 Gabrė
+Bebrė
 žebrė
 sėbrė
 Kembrė
@@ -43391,8 +44055,10 @@ bendrė
 Bendrė
 Gendrė
 lendrė
+Lendrė
 smiltlendrė
 nendrė
+Nendrė
 cukranendrė
 Vendrė
 švendrė
@@ -43401,6 +44067,7 @@ Indrė
 Paindrė
 miškatundrė
 kalnatundrė
+Asdrė
 Audrė
 Gaudrė
 Budrė
@@ -43415,6 +44082,7 @@ Azdrė
 Žiezdrė
 Žaizdrė
 Žyzdrė
+Žeberė
 iberė
 bemberė
 berberė
@@ -43601,6 +44269,7 @@ ikrė
 sukrė
 Sukrė
 orė
+Orė
 dorė
 Dorė
 ambasadorė
@@ -43628,6 +44297,7 @@ daugnorė
 Vainorė
 Einorė
 Beinorė
+Kalnorė
 donorė
 Vaitnorė
 Butnorė
@@ -43746,6 +44416,7 @@ Padneprė
 Žiprė
 Kumprė
 kuprė
+Kuprė
 Kūprė
 žiovanasrė
 Imsrė
@@ -43790,6 +44461,8 @@ Taurė
 Liutaurė
 burė
 didburė
+Padumburė
+Duburė
 Vidurė
 skudurė
 smagurė
@@ -43801,6 +44474,7 @@ ugniakurė
 krosniakurė
 naujakurė
 senakurė
+Vinkurė
 purė
 kepurė
 žaliakepurė
@@ -43819,6 +44493,7 @@ išverstaskūrė
 raudonskūrė
 pamūrė
 puspūrė
+Tūrė
 mažatūrė
 puskultūrė
 mozūrė
@@ -43875,6 +44550,7 @@ lovatiesė
 staltiesė
 Šviesė
 pjesė
+Kesė
 čerkesė
 Zalesė
 grūdlesė
@@ -43886,9 +44562,12 @@ kinesė
 medresė
 Teresė
 sesė
+Atesė
 mėsė
 rudmėsė
 gyvmėsė
+Kapėsė
+Upėsė
 mirėsė
 gyvėsė
 spygsė
@@ -43917,6 +44596,7 @@ Neksė
 apomiksė
 ortodoksė
 Auksė
+Alsė
 balsė
 Balsė
 antrabalsė
@@ -43925,8 +44605,10 @@ devynbalsė
 pusbalsė
 skalsė
 Bulsė
+Tamsė
 Semsė
 Tromsė
+Dumsė
 Gansė
 Odensė
 ekstrasensė
@@ -44049,6 +44731,7 @@ Zacišė
 Začišė
 saldišė
 godišė
+Toleišė
 tuteišė
 vagišė
 nuogišė
@@ -44059,8 +44742,10 @@ vienišė
 Lapišė
 pėdarišė
 knygrišė
+Zetišė
 Puišė
 Dyšė
+Eglyšė
 kvakšė
 liekšė
 niekšė
@@ -44081,6 +44766,7 @@ palšė
 trobelšė
 kumelšė
 Pelšė
+Telšė
 gilšė
 Gilšė
 Kulšė
@@ -44093,11 +44779,15 @@ košė
 skystakošė
 karštakošė
 Šošė
+Tošė
 Patošė
 luošė
+Rimuošė
 Apšė
 šnapšė
+Kliepšė
 lepšė
+Juodlepšė
 šepšė
 Palipšė
 Krupšė
@@ -44126,6 +44816,7 @@ Pakaušė
 Maušė
 Taušė
 Bušė
+Blandušė
 ingušė
 triušė
 Šiušė
@@ -44347,6 +45038,7 @@ pilietė
 Avilietė
 viešvilietė
 černobylietė
+Klietė
 neapolietė
 vilijampolietė
 marijampolietė
@@ -44678,6 +45370,7 @@ kušetė
 tetė
 estetė
 krevetė
+Tervetė
 korvetė
 biuvetė
 kiuvetė
@@ -45311,6 +46004,7 @@ Smilgaitė
 Šulgaitė
 Stulgaitė
 Langaitė
+Virangaitė
 Pačengaitė
 Magalengaitė
 Šalengaitė
@@ -52062,6 +52756,7 @@ Piktūrnaitė
 Čiesnaitė
 Čėsnaitė
 Ščėsnaitė
+Rusnaitė
 vyšnaitė
 Šikšnaitė
 Vikšnaitė
@@ -52995,6 +53690,7 @@ Neveraitė
 Overaitė
 Koveraitė
 voveraitė
+Voveraitė
 Skindzeraitė
 Mizeraitė
 Puzeraitė
@@ -53620,6 +54316,7 @@ Jevaltaitė
 Štongvaltaitė
 Osvaltaitė
 Usvaltaitė
+Smeltaitė
 Amboltaitė
 Ambultaitė
 Eidimtaitė
@@ -54326,6 +55023,7 @@ Vetoševaitė
 Gongapševaitė
 Kniazevaitė
 Kniaževaitė
+Gynėvaitė
 Dragvaitė
 Drėgvaitė
 Laivaitė
@@ -54938,6 +55636,7 @@ Servaitė
 Tirvaitė
 Vapsvaitė
 Garšvaitė
+Šušvaitė
 Verėduvaitė
 Bliuvaitė
 lietuvaitė
@@ -55125,6 +55824,7 @@ Afroditė
 hermafroditė
 eruditė
 Eitė
+Leitė
 akišveitė
 salafitė
 skitė
@@ -55165,6 +55865,7 @@ Skrabytė
 Skrebytė
 Raibytė
 Preibytė
+Skribytė
 Tribytė
 Stribytė
 Ruibytė
@@ -58842,6 +59543,7 @@ Vietrinytė
 Taurinytė
 Zaurinytė
 Sinytė
+Zasinytė
 nosinytė
 Lašinytė
 mašinytė
@@ -59622,6 +60324,7 @@ Ritmejarytė
 Žakarytė
 Kaikarytė
 skarytė
+Skarytė
 Marytė
 Padkamarytė
 Zamarytė
@@ -61383,6 +62086,7 @@ Grigentytė
 Diementytė
 Aksentytė
 Ventytė
+Šventytė
 Labžentytė
 Judžentytė
 Baležentytė
@@ -61696,6 +62400,7 @@ Pudževytė
 Plėvytė
 Šlėvytė
 Krėvytė
+Strėvytė
 Lengvytė
 Laivytė
 Skeivytė
@@ -61748,6 +62453,7 @@ Pavirvytė
 Burvytė
 Purvytė
 Užpurvytė
+Parsvytė
 gatvytė
 Latvytė
 Džiuvytė
@@ -61974,6 +62680,7 @@ Eidimtė
 Rimtė
 Eirimtė
 juodašimtė
+Antė
 bantė
 Dantė
 kapliadantė
@@ -62260,6 +62967,7 @@ pusšventė
 tarpušventė
 Užventė
 recenzentė
+Birbintė
 Eidintė
 Gintė
 Medgintė
@@ -62323,6 +63031,8 @@ Gražmintė
 plutpintė
 Barintė
 didstintė
+Žuvintė
+Ažvintė
 Paažvintė
 pafrontė
 užfrontė
@@ -62352,6 +63062,7 @@ Skiriotė
 patriotė
 ultrapatriotė
 nešiotė
+Medžiotė
 Bijotė
 Daujotė
 dakotė
@@ -62387,6 +63098,7 @@ Vainotė
 Sinotė
 Antnotė
 Daunotė
+Kumpotė
 despotė
 Pakerotė
 frotė
@@ -62549,6 +63261,7 @@ Vaištartė
 Dautartė
 Žutartė
 pavartė
+Lapavartė
 prievartė
 Prievartė
 Govartė
@@ -62606,6 +63319,7 @@ pasėstė
 Aistė
 Skaistė
 paraistė
+Paraistė
 skraistė
 poraistė
 užraistė
@@ -62630,6 +63344,7 @@ deistė
 Geistė
 skleistė
 indoeuropeistė
+Veiseistė
 ateistė
 panteistė
 monoteistė
@@ -63215,6 +63930,7 @@ pusvištė
 smiltvištė
 prikyštė
 lapamakštė
+Šiekštė
 lėkštė
 puslėkštė
 Šėkštė
@@ -63235,7 +63951,9 @@ plokštė
 puokštė
 Pabirkštė
 Suvirkštė
+Baukštė
 Pliaukštė
+Čeriaukštė
 Pačeriaukštė
 Pašeriaukštė
 plynaukštė
@@ -63372,6 +64090,7 @@ Tvirbutė
 Korbutė
 Urbutė
 Josbutė
+Daubutė
 Acutė
 Šicutė
 Adutė
@@ -63448,6 +64167,7 @@ Dangutė
 Ingutė
 Bingutė
 Neringutė
+Vingutė
 margutė
 Virgutė
 Jurgutė
@@ -63465,6 +64185,7 @@ gryčiutė
 Končiutė
 močiutė
 marčiutė
+Paliutė
 Piepaliutė
 Baniutė
 Vainiutė
@@ -63972,6 +64693,7 @@ Barutė
 Darutė
 vakarutė
 skarutė
+Babrutė
 Zubrutė
 Giedrutė
 Skaidrutė
@@ -64050,6 +64772,7 @@ Kristutė
 Austutė
 Vieštutė
 lakštutė
+Lakštutė
 lėkštutė
 aikštutė
 Nikštutė
@@ -64062,6 +64785,7 @@ Ievutė
 pievutė
 Daivutė
 Vaivutė
+Kreivutė
 galvutė
 lovutė
 karvutė
@@ -67214,6 +67938,7 @@ Mačerniūtė
 Irniūtė
 Girniūtė
 Gurniūtė
+Sniūtė
 Šikšniūtė
 Grušniūtė
 Jauniūtė
@@ -67577,16 +68302,20 @@ grįžtė
 Milžtė
 laužtė
 gniūžtė
+Vadavė
 darbdavė
 moldavė
 Grendavė
 duondavė
+Rudavė
 Pagavė
 Antagavė
+Liškiavė
 Pagerniavė
 kujavė
 slavė
 pravoslavė
+Šlavė
 skandinavė
 Karnavė
 Kernavė
@@ -67622,6 +68351,7 @@ Pagernevė
 brevė
 drevė
 indėvė
+Kėvė
 plėvė
 Plėvė
 žarnaplėvė
@@ -67666,6 +68396,7 @@ krivė
 gimdyvė
 žindyvė
 mirštgyvė
+Kyvė
 dalyvė
 knyvė
 šyvė
@@ -67706,6 +68437,7 @@ kopūstgalvė
 pramuštgalvė
 kalvė
 plokščiakalvė
+Rupkalvė
 Skalvė
 šaltkalvė
 tarpukalvė
@@ -67718,6 +68450,7 @@ Trispalvė
 salvė
 Zalvė
 žalvė
+Žalvė
 Gelvė
 Zelvė
 Pazelvė
@@ -67732,6 +68465,7 @@ storapilvė
 baltapilvė
 storpilvė
 bulvė
+Kulvė
 kalbovė
 Dovė
 vadovė
@@ -67778,6 +68512,7 @@ mokovė
 tvarkovė
 ieškovė
 dešimtkovė
+Raukovė
 Alovė
 Jalovė
 palovė
@@ -67815,6 +68550,7 @@ mangrovė
 įvairovė
 kūgiakrovė
 tikrovė
+Borovė
 dorovė
 nedorovė
 srovė
@@ -67849,6 +68585,7 @@ gervė
 Gervė
 Pagervė
 šnervė
+Tetervė
 sendirvė
 širvė
 virvė
@@ -67868,6 +68605,7 @@ lysvė
 skerslysvė
 šiltlysvė
 Reksvė
+Viksvė
 gelsvė
 melsvė
 Nosvė
@@ -67918,6 +68656,7 @@ Džiuvė
 linkuvė
 Palinkuvė
 Palieluvė
+Giluvė
 miegpuvė
 juodbruvė
 Druvė
@@ -67926,6 +68665,7 @@ Aldruvė
 Audruvė
 Paudruvė
 Struvė
+Pakaršuvė
 srėbtuvė
 skalbtuvė
 dirbtuvė
@@ -67978,6 +68718,7 @@ verstuvė
 siaustuvė
 spaustuvė
 praustuvė
+Praustuvė
 pūstuvė
 grūstuvė
 plautuvė
@@ -68011,6 +68752,7 @@ taukžuvė
 mėnulžuvė
 bizonžuvė
 ešeržuvė
+Biržuvė
 katžuvė
 lentpjūvė
 bazė
@@ -68183,6 +68925,7 @@ spondilolistezė
 retrolistezė
 irokėzė
 Bizė
+Vilbizė
 frančizė
 diafizė
 metafizė
@@ -68231,6 +68974,7 @@ antreprizė
 franšizė
 ekspertizė
 Luizė
+Puizė
 pyzė
 fryzė
 Elzė
@@ -68546,7 +69290,9 @@ drūzė
 valkatūzė
 veltūzė
 pilvūzė
+Labažė
 mildažė
+Girdažė
 gargažė
 mažė
 dražė
@@ -68578,6 +69324,7 @@ trąšadėžė
 luitadėžė
 prekydėžė
 popierdėžė
+Nemėžė
 Ymėžė
 vėžė
 Nevėžė
@@ -68595,13 +69342,17 @@ Ližė
 smaližė
 negližė
 tižė
+Kukuižė
 Muižė
+Vižė
 avižė
+Avižė
 poavižė
 žižė
 Paryžė
 Pakryžė
 vyžė
+Balžė
 Gelžė
 Ilžė
 Tilžė
@@ -68625,6 +69376,7 @@ kinrožė
 Zaporožė
 alprožė
 erškėtrožė
+Taurožė
 ožrožė
 Pasožė
 buožė
@@ -68658,6 +69410,7 @@ Graužė
 plunksnagraužė
 Pagraužė
 vaisgraužė
+Duobužė
 Paduobužė
 Verbužė
 Gužė
@@ -68668,6 +69421,7 @@ mergužė
 draugužė
 kiužė
 aniužė
+Šiužė
 žiužė
 Pagelužė
 meilužė
@@ -68690,8 +69444,10 @@ Gūžė
 čiūžė
 šliūžė
 bakūžė
+Gelūžė
 Išlūžė
 rupūžė
+Rūžė
 Brūžė
 drūžė
 Josef
@@ -69797,8 +70553,10 @@ Galaičiai
 Grigalaičiai
 Daugalaičiai
 Mikalaičiai
+Salaičiai
 Gintalaičiai
 Valaičiai
+Dumblaičiai
 Žvirblaičiai
 Obelaičiai
 Agelaičiai
@@ -71048,6 +71806,7 @@ Paukštakiai
 Jautakiai
 Ožtakiai
 Mackiai
+Karackiai
 Breckiai
 Mickiai
 Žumbrickiai
@@ -71322,6 +72081,7 @@ palankiai
 nepalankiai
 blankiai
 neblankiai
+Juodlankiai
 prielankiai
 neprielankiai
 nuolankiai
@@ -72441,6 +73201,7 @@ Storiškiai
 Šiuoriškiai
 Muoriškiai
 Prazoriškiai
+Vepriškiai
 Kupriškiai
 Petriškiai
 Zaltriškiai
@@ -73362,6 +74123,7 @@ Sipeliai
 Stropeliai
 Kruopeliai
 Daupeliai
+Paupeliai
 Pupeliai
 Krupeliai
 Kiūpeliai
@@ -73579,6 +74341,7 @@ Baibokėliai
 Lamokėliai
 Zamokėliai
 Rumokėliai
+Bružokėliai
 Rupinskėliai
 Žėbiškėliai
 Duobiškėliai
@@ -73630,6 +74393,7 @@ Pažižmėliai
 Balanėliai
 Antanėliai
 Kaštanėliai
+Kibenėliai
 Juodenėliai
 Bugenėliai
 Sėlenėliai
@@ -73884,6 +74648,7 @@ giliai
 Dagiliai
 nebegiliai
 negiliai
+Davigiliai
 Jaugiliai
 pakiliai
 nepakiliai
@@ -74404,6 +75169,7 @@ Pajiešmeniai
 Teneniai
 Liepeniai
 plaučkepeniai
+Šiupeniai
 Dreniai
 Bereniai
 seniai
@@ -75521,6 +76287,7 @@ Judriai
 nejudriai
 Kudriai
 Mudriai
+Kūdriai
 Žiezdriai
 Žaizdriai
 Žiegždriai
@@ -75541,6 +76308,7 @@ Mikieriai
 Skieriai
 Maštalieriai
 Laplieriai
+Akulieriai
 Nevieriai
 Svieriai
 Bizieriai
@@ -75667,6 +76435,7 @@ Liūdoriai
 neoriai
 Stalioriai
 Kazaklioriai
+Akulioriai
 Zakoriai
 Pučkoriai
 Pūčkoriai
@@ -75824,6 +76593,7 @@ Masiai
 Rasiai
 atgrasiai
 neatgrasiai
+Baltasiai
 drąsiai
 Drąsiai
 nebedrąsiai
@@ -76281,6 +77051,7 @@ Kalviai
 Rupkalviai
 skalviai
 Aukštkalviai
+Delviai
 Šelviai
 Želviai
 Paželviai
@@ -77024,6 +77795,7 @@ naručnikai
 Sienikai
 Skorenikai
 Vainikai
+Aleinikai
 pinikai
 Jonikai
 Salonikai
@@ -77101,6 +77873,7 @@ Aukštelkai
 pilkai
 nepilkai
 Vilkai
+Eržvilkai
 Midolkai
 norfolkai
 sufolkai
@@ -80283,6 +81056,7 @@ geltonai
 negeltonai
 Stonai
 Birštonai
+Beduonai
 Galuonai
 Geluonai
 Agluonai
@@ -80900,6 +81674,7 @@ Vigarai
 Maugarai
 Nugarai
 fokoliarai
+Okuliarai
 Jarai
 vakarai
 Vakarai
@@ -81089,6 +81864,7 @@ konfitūrai
 Mozūrai
 Čedasai
 Svėdasai
+Juodasai
 Jasai
 Čerkasai
 Perkasai
@@ -81995,10 +82771,12 @@ treji
 dveji
 Juodoji
 mirtingoji
+Dubioji
 karčioji
 neįgalioji
 Žalioji
 Pažalioji
+Gilioji
 dešinioji
 paskutinioji
 vyresnioji
@@ -82019,12 +82797,15 @@ mylimoji
 Linksmoji
 anoji
 manoji
+Treinoji
 dvėstinoji
 kruvinoji
 Raudonoji
 jaunoji
+Klampoji
 Bendroji
 pasviroji
+Pasausoji
 toji
 greitoji
 piktoji
@@ -110967,6 +111748,7 @@ stuomuo
 armuo
 tarmuo
 svarmuo
+Girmuo
 stormuo
 asmuo
 juosmuo
@@ -110974,6 +111756,7 @@ skersmuo
 ašmuo
 Lašmuo
 rašmuo
+Jiešmuo
 viešmuo
 nešmuo
 tešmuo
@@ -110988,8 +111771,10 @@ putmuo
 aumuo
 maumuo
 raumuo
+Graumuo
 sraumuo
 važmuo
+Žiežmuo
 vežmuo
 kryžmuo
 nuo
@@ -110998,6 +111783,7 @@ sesuo
 šuo
 tuo
 Lėvuo
+Dratvuo
 bravo
 savo
 tavo
@@ -111389,6 +112175,7 @@ Zubas
 Bezubas
 ūbas
 šliūbas
+Driūbas
 Jokūbas
 rūbas
 tūbas
@@ -111663,6 +112450,7 @@ Baradas
 faradas
 maskaradas
 paradas
+Bradas
 atabradas
 Imbradas
 atbradas
@@ -112371,6 +113159,7 @@ Vitoldas
 Bertoldas
 Revoldas
 kvoldas
+Pagramdas
 džiazbandas
 gandas
 Gandas
@@ -112548,6 +113337,7 @@ cestodas
 kustodas
 uodas
 juodas
+Juodas
 nejuodas
 kuodas
 Skuodas
@@ -112570,6 +113360,7 @@ Godardas
 gardas
 Hagardas
 pagardas
+Sągardas
 Edgardas
 Raigardas
 Vygardas
@@ -112621,6 +113412,7 @@ bastardas
 Eduardas
 stiuardas
 vardas
+Vardas
 Labvardas
 Edvardas
 Gedvardas
@@ -112631,6 +113423,7 @@ Gelvardas
 Milvardas
 Hovardas
 Jovardas
+Apvardas
 Harvardas
 vizardas
 žardas
@@ -112757,6 +113550,7 @@ Juoskaudas
 Perskaudas
 daunlaudas
 Maudas
+Imaudas
 apmaudas
 nenaudas
 Jonaudas
@@ -112809,6 +113603,7 @@ gūdas
 Mičiūdas
 pričiūdas
 bliūdas
+Verbliūdas
 kūdas
 blūdas
 snūdas
@@ -112843,6 +113638,7 @@ Gruzdas
 grūzdas
 gargždas
 bergždas
+Gergždas
 girgždas
 žvirgždas
 Žvirgždas
@@ -113021,11 +113817,14 @@ Dalibagas
 lumbagas
 Tobagas
 ubagas
+Dagas
 Padagas
+Pradagas
 įdagas
 rigsdagas
 Riksdagas
 išdagas
+Išdagas
 fagas
 polifagas
 oligofagas
@@ -114348,6 +115147,7 @@ Venzbergas
 vergas
 Četvergas
 lizergas
+Kirgas
 spirgas
 Spirgas
 Virgas
@@ -114432,6 +115232,7 @@ Būgas
 lenciūgas
 žemčiūgas
 liūgas
+Liūgas
 seiliūgas
 viliūgas
 moliūgas
@@ -114530,6 +115331,7 @@ trečias
 svečias
 šalčias
 mulčias
+Enčias
 basnirčias
 kurčias
 nekurčias
@@ -114610,6 +115412,7 @@ jas
 achajas
 Ohajas
 karačiajas
+Lakajas
 Menelajas
 majas
 Almajas
@@ -115879,6 +116682,7 @@ vandenlakas
 etodolakas
 ketorolakas
 nitrolakas
+Erlakas
 šlakas
 kišlakas
 Bulakas
@@ -115921,9 +116725,11 @@ sandarakas
 Skamarakas
 Narakas
 parakas
+Sarakas
 Patarakas
 Brakas
 abrakas
+Dabrakas
 Čeberakas
 Skagerakas
 Skamerakas
@@ -115977,6 +116783,7 @@ vilktakas
 pirmtakas
 Santakas
 intakas
+Intakas
 nuotakas
 Suotakas
 aptakas
@@ -116542,6 +117349,7 @@ Liubekas
 Kazbekas
 uzbekas
 Jacekas
+Salcekas
 Vincekas
 cucekas
 čekas
@@ -116793,6 +117601,7 @@ skleidikas
 Kidikas
 ridikas
 Ridikas
+Tidikas
 Vidikas
 Tydikas
 Galdikas
@@ -116804,6 +117613,7 @@ lindikas
 kondikas
 skundikas
 skrodikas
+Juodikas
 skerdikas
 skriaudikas
 spaudikas
@@ -116827,6 +117637,7 @@ Dreikas
 streikas
 šeikas
 steikas
+Veikas
 Loveikas
 sveikas
 nebesveikas
@@ -116903,6 +117714,7 @@ Milikas
 Cvilikas
 svilikas
 bazilikas
+Aklikas
 Riklikas
 Dzidolikas
 melancholikas
@@ -117134,6 +117946,7 @@ verpikas
 kirpikas
 forpikas
 kurpikas
+Upikas
 kaupikas
 lupikas
 nelupikas
@@ -117151,6 +117964,7 @@ Lebrikas
 Albrikas
 Obrikas
 Dobrikas
+Bubrikas
 kubrikas
 padrikas
 nepadrikas
@@ -117171,6 +117985,7 @@ derikas
 Frederikas
 Gerikas
 klierikas
+Šventalerikas
 cholerikas
 Emerikas
 limerikas
@@ -117214,6 +118029,7 @@ eurikas
 surikas
 kūrikas
 kasikas
+Kasikas
 klasikas
 Rasikas
 Siesikas
@@ -117343,6 +118159,7 @@ agnostikas
 diagnostikas
 Liustikas
 Šustikas
+Gakštikas
 Rakštikas
 vaikštikas
 Leikštikas
@@ -117465,6 +118282,7 @@ kūrvinykas
 Lynykas
 verslynykas
 Stadalnykas
+Mučelnykas
 Melnykas
 piernykas
 Dornykas
@@ -117493,12 +118311,14 @@ alkas
 Alkas
 katafalkas
 malkas
+Tramalkas
 talkas
 valkas
 kavalkas
 pavalkas
 apvalkas
 pervalkas
+Pratvalkas
 užvalkas
 Elkas
 Velkas
@@ -117516,6 +118336,7 @@ pakolkas
 Volkas
 pulkas
 Kozamkas
+Kuzamkas
 zomkas
 bankas
 Bundesbankas
@@ -117604,6 +118425,7 @@ darbininkas
 nedarbininkas
 dubininkas
 Dubininkas
+Dūbininkas
 rūbininkas
 radiolokacininkas
 farmacininkas
@@ -118048,6 +118870,7 @@ duonininkas
 sapnininkas
 barnininkas
 parasparnininkas
+Bernininkas
 valtornininkas
 sieksnininkas
 vilksnininkas
@@ -118198,6 +119021,7 @@ pensininkas
 bosininkas
 kontrabosininkas
 šposininkas
+Karosininkas
 motokrosininkas
 popsininkas
 arsininkas
@@ -118485,6 +119309,7 @@ trobelninkas
 aukštielninkas
 Melninkas
 grytelninkas
+Karvelninkas
 Kabilninkas
 vargoninkas
 pramoninkas
@@ -118492,8 +119317,10 @@ Limarninkas
 kepurninkas
 pasninkas
 Trasninkas
+Karosninkas
 nabašninkas
 šerdešninkas
+Lapušninkas
 Plytninkas
 Bartninkas
 Sadauninkas
@@ -118552,6 +119379,7 @@ nedidokas
 Breidokas
 slidokas
 Puidokas
+Baldokas
 saldokas
 Žaldokas
 Bindokas
@@ -118604,7 +119432,9 @@ Valiokas
 Bieliokas
 Leliokas
 Seliokas
+Ėgliokas
 viliokas
+Kumpuoliokas
 burliokas
 Česliokas
 duršliokas
@@ -118834,6 +119664,7 @@ septintokas
 devintokas
 aštuntokas
 Molotokas
+Zotokas
 Bartokas
 kartokas
 Tartokas
@@ -118851,6 +119682,7 @@ ankstokas
 drumstokas
 Rostokas
 Vladivostokas
+Parstokas
 rūstokas
 štokas
 šeštokas
@@ -118877,8 +119709,10 @@ Lielkuokas
 apuokas
 Apuokas
 Petruokas
+Vašuokas
 Zuokas
 vokas
+Vokas
 paplavokas
 dvokas
 Plevokas
@@ -118970,6 +119804,7 @@ Petrozavodskas
 Kislovodskas
 Novogrudskas
 arabeskas
+Nečeskas
 Bieskas
 Zalieskas
 Čerkeskas
@@ -123661,6 +124496,7 @@ ožiškas
 rožiškas
 daržiškas
 padaužiškas
+Ūlyškas
 Myškas
 Ryškas
 Rauškas
@@ -123720,6 +124556,7 @@ Virbukas
 Norbukas
 feisbukas
 noutbukas
+Dubukas
 pacukas
 Vincukas
 Palamarčukas
@@ -123814,6 +124651,7 @@ gudukas
 Gudukas
 Liudukas
 bliūdukas
+Bliūdukas
 Bizdukas
 lizdukas
 pizdukas
@@ -123823,6 +124661,7 @@ barzdukas
 Barzdukas
 kregždukas
 girgždukas
+Žvirgždukas
 grafukas
 seifukas
 Adolfukas
@@ -123866,16 +124705,21 @@ kotlečiukas
 Pečiukas
 dangčiukas
 skaičiukas
+Salaičiukas
+Ramaičiukas
 ponaičiukas
+Karaičiukas
 Vaičiukas
 dievaičiukas
 bičiukas
+Skričiukas
 netyčiukas
 fakčiukas
 Kakčiukas
 rakčiukas
 daikčiukas
 Pikčiukas
+Balčiukas
 Karalčiukas
 stalčiukas
 Valčiukas
@@ -123908,6 +124752,7 @@ karčiukas
 Vakarčiukas
 Palamarčiukas
 Gerčiukas
+Pirčiukas
 torčiukas
 Kasčiukas
 miesčiukas
@@ -123920,13 +124765,17 @@ Chveščiukas
 Miščiukas
 Piščiukas
 viščiukas
+Vaikščiukas
 Krikščiukas
 paukščiukas
 šaukščiukas
+Šaukščiukas
 kumščiukas
 pirščiukas
+Sriaučiukas
 jaučiukas
 kaučiukas
+Maučiukas
 bučiukas
 gegučiukas
 kalakučiukas
@@ -124006,6 +124855,7 @@ Aliukas
 baliukas
 gabaliukas
 sabaliukas
+Tabaliukas
 vabaliukas
 jonvabaliukas
 riebaliukas
@@ -124020,6 +124870,7 @@ bezdaliukas
 galiukas
 pagaliukas
 gaigaliukas
+Gaigaliukas
 vaikigaliukas
 popiergaliukas
 pasturgaliukas
@@ -124029,6 +124880,7 @@ augaliukas
 blizgaliukas
 burzgaliukas
 gelžgaliukas
+Pakaliukas
 užpakaliukas
 sakaliukas
 šakaliukas
@@ -124081,6 +124933,7 @@ kabliukas
 grėbliukas
 drambliukas
 ansambliukas
+Dumbliukas
 žvirbliukas
 siurbliukas
 gaubliukas
@@ -124104,6 +124957,7 @@ geležinkeliukas
 vieškeliukas
 Leliukas
 nameliukas
+Tameliukas
 kaimeliukas
 kumeliukas
 seneliukas
@@ -124127,6 +124981,7 @@ tėveliukas
 laiveliukas
 dyzeliukas
 kočėliukas
+Dėliukas
 sandėliukas
 indėliukas
 lėliukas
@@ -124164,6 +125019,7 @@ Emiliukas
 goriliukas
 asiliukas
 katiliukas
+Katiliukas
 stiliukas
 rubuiliukas
 kuiliukas
@@ -124178,12 +125034,14 @@ braziliukas
 eržiliukas
 pedryliukas
 skryliukas
+Dvyliukas
 zyliukas
 mažyliukas
 Kliukas
 kakliukas
 antkakliukas
 spektakliukas
+Sydekliukas
 varvekliukas
 dėkliukas
 padėkliukas
@@ -124199,6 +125057,7 @@ paminkliukas
 tinkliukas
 voratinkliukas
 kriokliukas
+Kriokliukas
 stūmokliukas
 šokliukas
 vaiduokliukas
@@ -124224,7 +125083,9 @@ meduoliukas
 branduoliukas
 guoliukas
 raguoliukas
+Raguoliukas
 aniuoliukas
+Aniuoliukas
 kuoliukas
 kamuoliukas
 vienuoliukas
@@ -124238,6 +125099,7 @@ turtuoliukas
 keistuoliukas
 gražuoliukas
 ąžuoliukas
+Beržuoliukas
 voliukas
 Kavoliukas
 kapliukas
@@ -124249,6 +125111,7 @@ ropliukas
 svirpliukas
 Arliukas
 varliukas
+Varliukas
 perliukas
 Orliukas
 čiurliukas
@@ -124264,10 +125127,12 @@ moksliukas
 pamoksliukas
 narsliukas
 versliukas
+Krausliukas
 mėšliukas
 Petliukas
 skaitliukas
 auliukas
+Kiauliukas
 kauliukas
 šonkauliukas
 Pauliukas
@@ -124380,6 +125245,7 @@ baseiniukas
 delfiniukas
 banginiukas
 skiniukas
+Paliniukas
 miniukas
 kaminiukas
 kirminiukas
@@ -124389,6 +125255,7 @@ trupiniukas
 nėriniukas
 kiaušiniukas
 katiniukas
+Antiniukas
 aviniukas
 pingviniukas
 Žilviniukas
@@ -124403,9 +125270,11 @@ kalniukas
 piliakalniukas
 Pabutkalniukas
 elniukas
+Elniukas
 delniukas
 pelniukas
 velniukas
+Velniukas
 kulniukas
 Leoniukas
 telefoniukas
@@ -124431,6 +125300,7 @@ japoniukas
 Steponiukas
 Broniukas
 šoniukas
+Šoniukas
 šėtoniukas
 kaštoniukas
 geluoniukas
@@ -124442,6 +125312,7 @@ sparniukas
 malūnsparniukas
 šikšnosparniukas
 varniukas
+Varniukas
 berniukas
 Černiukas
 Sperniukas
@@ -124467,6 +125338,7 @@ brūkšniukas
 šuniukas
 koldūniukas
 svogūniukas
+Liūniukas
 Ramūniukas
 Arūniukas
 mišrūniukas
@@ -124487,6 +125359,8 @@ trikampiukas
 keturkampiukas
 pempiukas
 karpiukas
+Upiukas
+Vandupiukas
 Kristupiukas
 bariukas
 kambariukas
@@ -124523,6 +125397,7 @@ sidriukas
 žydriukas
 Andriukas
 gandriukas
+Švendriukas
 cilindriukas
 Audriukas
 felčeriukas
@@ -124553,6 +125428,8 @@ skveriukas
 serveriukas
 lazeriukas
 ežeriukas
+Ežeriukas
+Mergežeriukas
 ėriukas
 bėriukas
 žvėriukas
@@ -124592,6 +125469,7 @@ direktoriukas
 Viktoriukas
 motoriukas
 voriukas
+Dniepriukas
 Kipriukas
 kupriukas
 Anupriukas
@@ -124610,6 +125488,7 @@ pleistriukas
 meistriukas
 ministriukas
 monstriukas
+Jauriukas
 Lauriukas
 Liutauriukas
 dinozauriukas
@@ -124638,6 +125517,7 @@ dvasiukas
 tąsiukas
 žąsiukas
 debesiukas
+Ubesiukas
 Česiukas
 judesiukas
 liūdesiukas
@@ -124666,6 +125546,7 @@ Balsiukas
 valsiukas
 impulsiukas
 Kamsiukas
+Kemsiukas
 romansiukas
 Klemensiukas
 Alfonsiukas
@@ -124674,6 +125555,7 @@ termosiukas
 raganosiukas
 Rudnosiukas
 karosiukas
+Karosiukas
 krosiukas
 uosiukas
 kuosiukas
@@ -124739,6 +125621,7 @@ kalviukas
 pilviukas
 grioviukas
 poviukas
+Karviukas
 gerviukas
 šaligatviukas
 skersgatviukas
@@ -124770,6 +125653,7 @@ prancūziukas
 mažiukas
 nemažiukas
 garažiukas
+Bražiukas
 vitražiukas
 masažiukas
 peizažiukas
@@ -124777,6 +125661,7 @@ Radžiukas
 briedžiukas
 pelėdžiukas
 gaidžiukas
+Gaidžiukas
 veidžiukas
 Bildžiukas
 Bandžiukas
@@ -124789,6 +125674,7 @@ Podžiukas
 laikrodžiukas
 Juodžiukas
 Puodžiukas
+Skardžiukas
 Gudžiukas
 šūdžiukas
 strazdžiukas
@@ -124803,12 +125689,15 @@ garvežiukas
 rėžiukas
 kankorėžiukas
 vėžiukas
+Vėžiukas
 Panevėžiukas
 kryžiukas
 ožiukas
 daržiukas
 beržiukas
+Beržiukas
 diržiukas
+Pašliaužiukas
 laužiukas
 drabužiukas
 gegužiukas
@@ -124827,6 +125716,7 @@ skersvėjukas
 radijukas
 Pijukas
 Marijukas
+Vidaujukas
 kraujukas
 chujukas
 Kukas
@@ -124836,6 +125726,7 @@ Kukukas
 Lukas
 Malukas
 Karalukas
+Apvalukas
 kablukas
 Lielukas
 Dėlukas
@@ -124874,6 +125765,7 @@ Nepomukas
 Romukas
 Tomukas
 Šermukas
+Širmukas
 Smukas
 tiesmukas
 netiesmukas
@@ -124882,6 +125774,7 @@ kostiumukas
 krūmukas
 Razmukas
 Anukas
+Klanukas
 išmanukas
 Pranukas
 Antanukas
@@ -124892,9 +125785,11 @@ piemenukas
 akmenukas
 raumenukas
 senukas
+Vilbėnukas
 saldainukas
 sausainukas
 Albinukas
+Nemenčinukas
 bučinukas
 radinukas
 pradinukas
@@ -124924,7 +125819,9 @@ Lionginukas
 junginukas
 mezginukas
 sėjinukas
+Krakinukas
 sakinukas
+Šėkinukas
 vaikinukas
 grikinukas
 pelkinukas
@@ -124941,6 +125838,7 @@ traukinukas
 autotraukinukas
 sukinukas
 Linukas
+Balinukas
 padalinukas
 lopšelinukas
 darželinukas
@@ -124978,16 +125876,19 @@ darinukas
 varinukas
 nendrinukas
 derinukas
+Ešerinukas
 nėrinukas
 vėrinukas
 dykrinukas
 citrinukas
+Siaurinukas
 kūrinukas
 mūrinukas
 žąsinukas
 puvėsinukas
 auksinukas
 apelsinukas
+Karosinukas
 skersinukas
 ausinukas
 lašinukas
@@ -125088,12 +125989,15 @@ kampukas
 štampukas
 pimpukas
 Simpukas
+Trumpukas
 Karpukas
 Špukas
+Giegždupukas
 Rukas
 Sacharukas
 Jarukas
 Marukas
+Pamarukas
 Lazarukas
 Brukas
 Babrukas
@@ -125176,6 +126080,7 @@ omletukas
 pistoletukas
 kotletukas
 metukas
+Šiemetukas
 šiųmetukas
 vienetukas
 magnetukas
@@ -125324,6 +126229,7 @@ kertukas
 desertukas
 ketvertukas
 skirtukas
+Pirtukas
 paspirtukas
 ketvirtukas
 sportukas
@@ -125453,6 +126359,7 @@ Varžukas
 ūkas
 Ūkas
 pečiūkas
+Balčiūkas
 Paliūkas
 valiūkas
 žaliūkas
@@ -125469,6 +126376,7 @@ Pūkas
 Lapūkas
 rūkas
 Rūkas
+Bebrūkas
 dzūkas
 Žūkas
 Gurjazkas
@@ -125560,6 +126468,7 @@ uždangalas
 bengalas
 žvingalas
 bungalas
+Trikogalas
 sprogalas
 gargalas
 Mirgalas
@@ -125574,6 +126483,7 @@ blizgalas
 brizgalas
 birzgalas
 burzgalas
+Blauzgalas
 halas
 Halas
 kahalas
@@ -125914,6 +126824,7 @@ zirzalas
 žalas
 dažalas
 padažalas
+Grąžalas
 nežalas
 gyžalas
 myžalas
@@ -126253,6 +127164,7 @@ Totilas
 chrizotilas
 Tartilas
 Nortilas
+Inkstilas
 Siautilas
 nautilas
 butilas
@@ -126370,8 +127282,10 @@ chlorbenzilas
 žilas
 nežilas
 eržilas
+Bobylas
 akylas
 neakylas
+Nemylas
 debesylas
 ausylas
 Kaušylas
@@ -126409,6 +127323,7 @@ Damoklas
 Patroklas
 arklas
 karklas
+Pavarklas
 žeberklas
 irklas
 spirklas
@@ -126980,6 +127895,7 @@ nejuntamas
 Dotamas
 hipopotamas
 aspartamas
+Gastamas
 mėgstamas
 nemėgstamas
 lygstamas
@@ -127396,6 +128312,7 @@ užgalandimas
 skendimas
 paskendimas
 nuskendimas
+Lendimas
 sklendimas
 užsisklendimas
 neužsisklendimas
@@ -132920,6 +133837,7 @@ sulatvinimas
 patvinimas
 pritvinimas
 užtvinimas
+Užtvinimas
 sukruvinimas
 lietuvinimas
 susilietuvinimas
@@ -133683,6 +134601,7 @@ tręšimas
 patręšimas
 plėšimas
 praplėšimas
+Praplėšimas
 apiplėšimas
 atsiplėšimas
 įplėšimas
@@ -133772,6 +134691,7 @@ aušimas
 pašiaušimas
 įkaušimas
 ataušimas
+Ataušimas
 mušimas
 pamušimas
 pramušimas
@@ -133999,6 +134919,7 @@ neartimas
 kartimas
 apkartimas
 vertimas
+Vertimas
 pavertimas
 nevertimas
 privertimas
@@ -137379,6 +138300,7 @@ pasipelnymas
 nepasipelnymas
 nusipelnymas
 užpelnymas
+Lapymas
 Prapymas
 tapymas
 pertapymas
@@ -138361,6 +139283,7 @@ landšturmas
 scenedesmas
 kęsmas
 spręsmas
+Upėsmas
 žviegsmas
 bėgsmas
 sprogsmas
@@ -138549,6 +139472,7 @@ linoleumas
 petroleumas
 karbolineumas
 hemoperitoneumas
+Agumas
 dagumas
 mandagumas
 nemandagumas
@@ -140620,6 +141544,7 @@ blausumas
 paklausumas
 sausumas
 tausumas
+Šumas
 našumas
 panašumas
 nepanašumas
@@ -141645,6 +142570,7 @@ Aristofanas
 Marfanas
 dekstrometorfanas
 Reaganas
+Gaganas
 Kaganas
 balaganas
 Balaganas
@@ -142423,6 +143349,7 @@ sportsmenas
 statmenas
 nestatmenas
 Vitmenas
+Laumenas
 katechumenas
 liumenas
 noumenas
@@ -142741,6 +143668,7 @@ Lamėnas
 Mamėnas
 Samėnas
 Tamėnas
+Kiemėnas
 Semėnas
 Žemėnas
 Kimėnas
@@ -142779,6 +143707,7 @@ Kanapėnas
 Juozapėnas
 Čepėnas
 Raupėnas
+Aukupėnas
 Atstupėnas
 Barėnas
 Kukarėnas
@@ -142844,6 +143773,7 @@ Avietėnas
 tetėnas
 Vaitėnas
 Bitėnas
+Glitėnas
 Gritėnas
 Lauritėnas
 Vitėnas
@@ -142935,6 +143865,7 @@ oksibuprokainas
 novokainas
 benzokainas
 apvalainas
+Ablainas
 bromelainas
 azelainas
 draglainas
@@ -143308,6 +144239,7 @@ Speinas
 Reinas
 Bahreinas
 baseinas
+Baseinas
 oseinas
 Huseinas
 ochujiebyteinas
@@ -143449,6 +144381,7 @@ Tauginas
 Buginas
 žliuginas
 pluginas
+Puginas
 lezginas
 Mezginas
 Liauzginas
@@ -143559,6 +144492,7 @@ Traškinas
 Taškinas
 meškinas
 Tereškinas
+Brėškinas
 Čičiškinas
 Pliškinas
 Piškinas
@@ -143709,6 +144643,7 @@ Akvilinas
 Podylinas
 aklinas
 neaklinas
+Seklinas
 tetraciklinas
 oksitetraciklinas
 chlortetraciklinas
@@ -143761,6 +144696,7 @@ marlinas
 Merlinas
 Perlinas
 terlinas
+Verlinas
 Everlinas
 Meslinas
 muslinas
@@ -143918,6 +144854,7 @@ Skaudminas
 raudminas
 Gudminas
 Rudminas
+Poleminas
 Reminas
 Ereminas
 Jereminas
@@ -144054,6 +144991,7 @@ teikoplaninas
 Garaninas
 safraninas
 Poltoraninas
+Traninas
 Susaninas
 taninas
 staninas
@@ -144234,6 +145172,7 @@ dieldrinas
 aleksandrinas
 midodrinas
 ritodrinas
+Judrinas
 Berinas
 berberinas
 glicerinas
@@ -144293,6 +145232,7 @@ Orinas
 Barborinas
 Gorinas
 Bajorinas
+Korinas
 florinas
 chlorinas
 cefalosporinas
@@ -144317,6 +145257,7 @@ flumetrinas
 piretrinas
 halofantrinas
 bifentrinas
+Gentrinas
 cihalotrinas
 fenotrinas
 gastrinas
@@ -144599,6 +145540,7 @@ Mertinas
 oksipertinas
 travertinas
 skirtinas
+Skirtinas
 mirtinas
 Pirtinas
 Kastinas
@@ -144642,6 +145584,7 @@ Kopūstinas
 Mištinas
 Olkštinas
 Ulkštinas
+Burkštinas
 Olštinas
 pasikliautinas
 Butinas
@@ -144849,6 +145792,7 @@ prazozinas
 alfuzozinas
 murzinas
 nemurzinas
+Uzinas
 Buzinas
 Kuzinas
 Luzinas
@@ -144880,8 +145824,10 @@ bobynas
 lobynas
 guobynas
 virbynas
+Skurbynas
 Jakubynas
 Jokubynas
+Jėrubynas
 Solženicynas
 žiedynas
 ledynas
@@ -144891,6 +145837,7 @@ raidynas
 maldynas
 meldynas
 želdynas
+Kubuldynas
 grandynas
 Juodynas
 žodynas
@@ -144898,6 +145845,7 @@ vardynas
 aberdynas
 Gudynas
 rūdynas
+Rūdynas
 lazdynas
 Lazdynas
 vabzdynas
@@ -144966,6 +145914,7 @@ Lynas
 balynas
 Balynas
 raizgalynas
+Malynas
 Šatralynas
 salynas
 Salynas
@@ -144979,7 +145928,9 @@ myžalynas
 atžalynas
 Atžalynas
 blynas
+Bamblynas
 dumblynas
+Dumblynas
 skroblynas
 obelynas
 Obelynas
@@ -145026,6 +145977,7 @@ Kavolynas
 Žolynas
 piktžolynas
 plynas
+Plynas
 neplynas
 tramplynas
 krumplynas
@@ -145041,6 +145993,7 @@ drebulynas
 riedulynas
 Marčiulynas
 Kasiulynas
+Kukulynas
 Tamulynas
 Šimulynas
 formulynas
@@ -145051,12 +146004,14 @@ Juozulynas
 kūlynas
 pūlynas
 žemynas
+Gaimynas
 kaimynas
 klausimynas
 kmynas
 psalmynas
 kelmynas
 Adomynas
+Glasmynas
 giesmynas
 unksmynas
 ūksmynas
@@ -145086,6 +146041,7 @@ fazanynas
 vandenynas
 dienynas
 akmenynas
+Akmenynas
 raumenynas
 dainynas
 kainynas
@@ -145104,6 +146060,7 @@ bruknynas
 kalnynas
 Jonynas
 varnynas
+Varnynas
 žarnynas
 durnynas
 alksnynas
@@ -145188,6 +146145,7 @@ Pušynas
 epušynas
 valkatynas
 gyvatynas
+Gyvatynas
 elgetynas
 sietynas
 Sietynas
@@ -145199,6 +146157,7 @@ saitynas
 bitynas
 ritynas
 žilvitynas
+Šaltynas
 smiltynas
 serbentynas
 žiotynas
@@ -145247,6 +146206,7 @@ Purvynas
 viksvynas
 žvynas
 marozynas
+Ažynas
 bomžynas
 rožynas
 varžynas
@@ -145258,6 +146218,8 @@ Laužynas
 Saknas
 Vasaknas
 lieknas
+Lieknas
+Juknas
 Luknas
 Alnas
 balnas
@@ -145369,6 +146331,7 @@ neberaudonas
 neraudonas
 Gudonas
 Prudonas
+Liūdonas
 Uzdonas
 Iždonas
 eonas
@@ -145532,6 +146495,7 @@ pankrationas
 dioksationas
 piritionas
 bastionas
+Sudzionas
 divizionas
 jonas
 Jonas
@@ -145676,6 +146640,7 @@ ešelonas
 teflonas
 muflonas
 Anglonas
+Mirglonas
 nailonas
 Babilonas
 nabilonas
@@ -146249,6 +147214,7 @@ Kovzonas
 Mažonas
 Džonas
 Dižonas
+Bližonas
 donžonas
 Božonas
 Geržonas
@@ -146353,6 +147319,7 @@ Jankunas
 Markunas
 Munas
 Nemunas
+Varmunas
 rumunas
 klounas
 Silverstounas
@@ -146536,6 +147503,7 @@ Skripkiūnas
 Šarkiūnas
 Kiškiūnas
 liūnas
+Liūnas
 Baliūnas
 Sabaliūnas
 Žabaliūnas
@@ -147005,6 +147973,7 @@ sėklūnas
 veiklūnas
 stiklūnas
 gašlūnas
+Mūnas
 Ramūnas
 Laimūnas
 seimūnas
@@ -147100,6 +148069,7 @@ klastūnas
 švaistūnas
 ristūnas
 skystūnas
+Skystūnas
 lakstūnas
 palakstūnas
 Skirpstūnas
@@ -147124,6 +148094,7 @@ palaižūnas
 Talžūnas
 cekavnas
 Jaznas
+Beznas
 Jieznas
 Gnieznas
 biznas
@@ -147428,6 +148399,7 @@ Skrudupas
 Šliupas
 Striupas
 Aleksiupas
+Vykupas
 Skupas
 vyskupas
 arkivyskupas
@@ -147830,11 +148802,13 @@ Bezaras
 Cezaras
 Pezaras
 Beizaras
+Keizaras
 Mizaras
 Belozaras
 Puzaras
 Pūzaras
 žaras
+Žaras
 adžaras
 Kilimandžaras
 išžaras
@@ -148044,6 +149018,7 @@ truveras
 Mizeras
 Puzeras
 ežeras
+Ežeras
 fužeras
 ėras
 bėras
@@ -148075,6 +149050,7 @@ pabiras
 kibiras
 Sibiras
 Bimbiras
+Ciras
 ponciras
 Čiras
 Sikeiras
@@ -148344,6 +149320,7 @@ minoras
 Milnoras
 donoras
 Snoras
+Minsnoras
 Vaišnoras
 Vaikšnoras
 Vaitnoras
@@ -148688,6 +149665,7 @@ Stamburas
 bumburas
 gumburas
 Nauburas
+Duburas
 stuburas
 Macuras
 prieduras
@@ -148826,6 +149804,7 @@ Nečasas
 Čedasas
 Svėdasas
 Mordasas
+Budasas
 fasas
 Fasas
 Magasas
@@ -148848,6 +149827,7 @@ barkasas
 karkasas
 čerkasas
 perkasas
+Perkasas
 lasas
 Dalasas
 lovelasas
@@ -148964,6 +149944,7 @@ Kortesas
 Ilvesas
 Kurpuvesas
 Pačėsas
+Vaikėsas
 Higsas
 komingsas
 Fringsas
@@ -149032,6 +150013,7 @@ Deivisas
 servisas
 agroservisas
 autoservisas
+Dubysas
 Alysas
 kumysas
 Anysas
@@ -149149,6 +150131,7 @@ niuksas
 riuksas
 Ūksas
 alsas
+Alsas
 balsas
 halsas
 valsas
@@ -149270,6 +150253,7 @@ anglikosas
 katolikosas
 abrikosas
 amerikosas
+Inkosas
 kokosas
 Glosas
 silosas
@@ -149490,6 +150474,7 @@ kazusas
 ūsas
 Ūsas
 triūsas
+Miklūsas
 Mūsas
 abrūsas
 prūsas
@@ -149659,6 +150644,7 @@ punšas
 bošas
 Dlugošas
 kaliošas
+Nalošas
 Milošas
 Miklošas
 atlošas
@@ -149686,6 +150672,7 @@ Gaupšas
 Vaupšas
 Klupšas
 faršas
+Garšas
 maršas
 demaršas
 naršas
@@ -149768,6 +150755,7 @@ akrobatas
 askorbatas
 adsorbatas
 polisorbatas
+Subatas
 Sadatas
 molibdatas
 kandidatas
@@ -150743,6 +151731,7 @@ negleivėtas
 bulvėtas
 griovėtas
 Sirvėtas
+Parsvėtas
 Erzvėtas
 dryžėtas
 rožėtas
@@ -150798,6 +151787,7 @@ neraitas
 kopiraitas
 kopyraitas
 skraitas
+Išraitas
 atraitas
 užraitas
 saitas
@@ -151912,6 +152902,7 @@ magistrantas
 ministrantas
 demonstrantas
 Taurantas
+Kurantas
 obskurantas
 preiskurantas
 Surantas
@@ -152059,6 +153050,7 @@ Kentas
 Jakentas
 Jekentas
 Taškentas
+Lentas
 Galentas
 talentas
 Talentas
@@ -152455,6 +153447,7 @@ sagotas
 vagotas
 išvagotas
 uodegotas
+Miegotas
 Mėgotas
 padaigotas
 Eigotas
@@ -152532,6 +153525,7 @@ antrekotas
 Čikotas
 boikotas
 masikotas
+Talkotas
 Rinkotas
 Skotas
 škotas
@@ -152571,6 +153565,7 @@ gyslotas
 negyslotas
 tešlotas
 Bulotas
+Čiulotas
 zlotas
 Ramotas
 šamotas
@@ -152649,6 +153644,7 @@ protas
 šprotas
 kuprotas
 nekuprotas
+Kiemsrotas
 Aušrotas
 Apušrotas
 vėtrotas
@@ -152674,6 +153670,7 @@ stotas
 varstotas
 putotas
 uotas
+Klabuotas
 žambuotas
 gumbuotas
 negumbuotas
@@ -152868,6 +153865,7 @@ cinkuotas
 necinkuotas
 agurkuotas
 druskuotas
+Plaškuotas
 taškuotas
 vaškuotas
 miškuotas
@@ -153962,6 +154960,7 @@ keliaklupstas
 atatupstas
 įtūpstas
 karstas
+Paparstas
 varstas
 verstas
 kirstas
@@ -154038,6 +155037,7 @@ kėkštas
 Kėkštas
 lėkštas
 nelėkštas
+Kervėkštas
 Gaikštas
 Čikštas
 Breikštas
@@ -154116,6 +155116,7 @@ skliautas
 umliautas
 Vyniautas
 sriautas
+Sriautas
 Džiautas
 Piekautas
 lokautas
@@ -154143,6 +155144,8 @@ srautas
 Srautas
 Siesrautas
 Erentrautas
+Strautas
+Uostrautas
 šautas
 Tautas
 Gatautas
@@ -154372,8 +155375,11 @@ drūtas
 nedrūtas
 Grūtas
 krūtas
+Krūtas
 rekrūtas
 Prūtas
+Mekšrūtas
+Svaitūtas
 grąžtas
 turbogrąžtas
 griežtas
@@ -154390,6 +155396,7 @@ daužtas
 šliaužtas
 gniaužtas
 graužtas
+Gružtas
 Gliebavas
 Cibavas
 Padubavas
@@ -154422,6 +155429,7 @@ Vasiliavas
 Katiliavas
 Šliavas
 Kuliavas
+Kūliavas
 javas
 Mikalajavas
 Malajavas
@@ -154467,6 +155475,7 @@ Viačeslavas
 Boleslavas
 Ladislavas
 Vladislavas
+Promislavas
 Stanislavas
 Bronislavas
 Mstislavas
@@ -154536,6 +155545,7 @@ Juozapavas
 Liepavas
 Pilypavas
 ravas
+Ravas
 Bančiaravas
 Makaravas
 unaravas
@@ -154702,6 +155712,7 @@ Saveljevas
 Vasiljevas
 Ananjevas
 Šerstabojevas
+Dunojevas
 Novostrojevas
 Sysojevas
 Grigorjevas
@@ -154870,6 +155881,7 @@ Elvas
 pilvas
 Silvas
 celozolvas
+Dulvas
 Riabovas
 Zurabovas
 kalbovas
@@ -155691,6 +156703,7 @@ prezervas
 širvas
 urvas
 purvas
+Purvas
 kiesvas
 resvas
 laisvas
@@ -156167,6 +157180,7 @@ Martūzas
 kreivūzas
 pilvūzas
 Žas
+Labažas
 Nabažas
 bombažas
 dažas
@@ -156287,6 +157301,7 @@ ižas
 raižas
 braižas
 graižas
+Bižas
 čižas
 Čižas
 Veižas
@@ -156332,6 +157347,7 @@ Džoržas
 Baužas
 laužas
 Laužas
+Pašlaužas
 Išlaužas
 Paužas
 graužas
@@ -156444,6 +157460,7 @@ glaudės
 Strazdės
 Griauzdės
 Kagės
+Lygės
 Ilgės
 Pailgės
 Smilgės
@@ -157235,6 +158252,7 @@ Pikčiūniškės
 Balčiūniškės
 Daučiūniškės
 Liūniškės
+Baliūniškės
 Grigaliūniškės
 Valiūniškės
 Bieliūniškės
@@ -157440,6 +158458,7 @@ Liešiškės
 Pliešiškės
 Piešiškės
 Alešiškės
+Melešiškės
 Kremešiškės
 Plepešiškės
 Berešiškės
@@ -157497,6 +158516,7 @@ Vietiškės
 Meletiškės
 Miletiškės
 Šemetiškės
+Kretiškės
 Visėtiškės
 Putėtiškės
 Peškaitiškės
@@ -157763,6 +158783,7 @@ Viešintėlės
 dabartėlės
 Aknystėlės
 Utėlės
+Sietuvėlės
 džiunglės
 Agailės
 Kubilės
@@ -157947,6 +158968,7 @@ Stumbrės
 Bedrės
 Bendrės
 Lendrės
+Palendrės
 Airės
 Meirės
 Pagirės
@@ -158132,6 +159154,7 @@ Dabis
 Motgabis
 atjabis
 Patlabis
+Siengrabis
 Teletabis
 proskiebis
 riebis
@@ -158276,6 +159299,8 @@ stiebagumbis
 šakniagumbis
 žliumbis
 Lumbis
+Bobis
+Dobis
 gobis
 Gobis
 hobis
@@ -158365,6 +159390,7 @@ Bulcis
 francis
 laurencis
 stroncis
+Plocis
 Bucis
 Špucis
 Porucis
@@ -158427,6 +159453,7 @@ Kerbedis
 Subedis
 greitgedis
 Liedis
+Paliedis
 briedis
 Briedis
 Neviedis
@@ -158552,7 +159579,9 @@ Tedis
 gyvavedis
 Paiekvedis
 Vilkvedis
+Šarkvedis
 siūlvedis
+Vervedis
 ėdis
 įvairiaėdis
 vabzdžiaėdis
@@ -158606,6 +159635,7 @@ veltėdis
 gyvėdis
 Aidis
 šilagaidis
+Būdragaidis
 vištgaidis
 mažaskaidis
 daugialaidis
@@ -158633,6 +159663,7 @@ dujosvaidis
 kulkosvaidis
 minosvaidis
 liepsnosvaidis
+Pavuosvaidis
 granatsvaidis
 Užvaidis
 rubidis
@@ -158671,6 +159702,7 @@ piknidis
 Parnidis
 iridis
 Azguridis
+Tidis
 Buividis
 Galvidis
 žiemovidis
@@ -158739,6 +159771,7 @@ vienvaldis
 nevienvaldis
 tarpuvaldis
 dvigeldis
+Angeldis
 viksvameldis
 liūnmeldis
 Kibildis
@@ -158797,6 +159830,7 @@ Dubrindis
 grindis
 Pažemgrindis
 pogrindis
+Šaltgrindis
 Užgrindis
 sprindis
 Sprindis
@@ -159005,6 +160039,7 @@ benaudis
 piktnaudis
 sūrspaudis
 raudis
+Raudis
 graudis
 įraudis
 nuoraudis
@@ -159090,11 +160125,14 @@ sprūdis
 nuosprūdis
 antsprūdis
 Ažuprūdis
+Didžprūdis
 Užrūdis
 Jasūdis
+Arkliašūdis
 karvašūdis
 Pazdrazdis
 kuzbezdis
+Žiezdis
 pirmavaizdis
 gyvavaizdis
 pasaulėvaizdis
@@ -159116,6 +160154,7 @@ Suveizdis
 dulkializdis
 sėklalizdis
 varnalizdis
+Varnalizdis
 gandralizdis
 dvilizdis
 Starklizdis
@@ -159177,6 +160216,7 @@ Padagis
 piktadagis
 Šidagis
 dyguldagis
+Žirnodagis
 piktdagis
 Liaudagis
 Jaudagis
@@ -159186,12 +160226,14 @@ melagis
 apysmagis
 atgrubanagis
 ilganagis
+Kačianagis
 liekanagis
 vienanagis
 sėtanagis
 skeltanagis
 neskeltanagis
 riestanagis
+Vanagis
 balandvanagis
 širšvanagis
 maitvanagis
@@ -159251,11 +160293,13 @@ Jūragis
 gyvragis
 Kazragis
 ožragis
+Ožragis
 vagis
 daugiavagis
 penkiavagis
 arkliavagis
 miškavagis
+Mergvagis
 trivagis
 dvivagis
 vienvagis
@@ -159483,12 +160527,15 @@ Stangis
 tarpuangis
 Ingavangis
 užangis
+Drubengis
 saulėvengis
 Stabingis
 klibingis
 Kučingis
 Medingis
 Nedingis
+Verdingis
+Laudingis
 Naudingis
 Lingis
 Leipalingis
@@ -159560,6 +160607,9 @@ Gogis
 Sriogis
 tiesiogis
 netiesiogis
+Žiogis
+Marižiogis
+Tunžiogis
 pakatalogis
 virškatalogis
 blogis
@@ -159596,6 +160646,7 @@ Linamargis
 šimtamargis
 juodmargis
 rudmargis
+Buragmargis
 trimargis
 žalmargis
 šėmmargis
@@ -159717,6 +160768,7 @@ blizgis
 Blizgis
 Brizgis
 vizgis
+Bilzgis
 Bulzgis
 arachis
 amfibrachis
@@ -159730,6 +160782,7 @@ Pazirnajis
 įrajis
 Baltajis
 Vazajis
+Finagiejis
 sąskriejis
 Veisiejis
 atvejis
@@ -159747,6 +160800,7 @@ rytvėjis
 Palazdijis
 daugiagijis
 vienagijis
+Vernijis
 Seirijis
 Paašvijis
 Gudagojis
@@ -159796,6 +160850,8 @@ pilvakojis
 lepečkojis
 Jaučkojis
 medkojis
+Gaidkojis
+Šūdkojis
 bekojis
 trikojis
 Trikojis
@@ -159811,6 +160867,7 @@ tarpkojis
 Varkojis
 storkojis
 keturkojis
+Lapskojis
 Aškojis
 Baltkojis
 apželtkojis
@@ -159828,6 +160885,7 @@ perstojis
 užstojis
 Buojis
 Pakruojis
+Viksvojis
 Pagerdaujis
 pajaujis
 Pajaujis
@@ -159850,6 +160908,7 @@ pussaujis
 vidujis
 Gujis
 laukujis
+Gilujis
 Bebrujis
 orujis
 viršujis
@@ -159893,9 +160952,11 @@ Medvalakis
 pusvalakis
 Medžvalakis
 prielakis
+Pelakis
 Žilakis
 Ylakis
 Stiklakis
+Vilklakis
 vilkolakis
 plakis
 Urlakis
@@ -159928,6 +160989,7 @@ Vainatrakis
 Aukštatrakis
 Grybtrakis
 Menčtrakis
+Vilitrakis
 Baltrakis
 Viltrakis
 Plientrakis
@@ -159960,8 +161022,10 @@ sausašakis
 šimtašakis
 skėstašakis
 glaustašakis
+Juodšakis
 eglišakis
 trišakis
+Trišakis
 Višakis
 dvišakis
 Dvišakis
@@ -159976,6 +161040,7 @@ stoglatakis
 Platakis
 laiptatakis
 karvatakis
+Karvatakis
 upėtakis
 išvarvėtakis
 išdegtakis
@@ -159993,10 +161058,17 @@ dūmtakis
 antakis
 Santakis
 vandentakis
+Račintakis
+Gudintakis
+Kilintakis
+Pintakis
 kiaušintakis
+Rožintakis
 šuntakis
 bandotakis
 dujotakis
+Ežerotakis
+Girotakis
 nuotakis
 sirtakis
 ortakis
@@ -160350,6 +161422,7 @@ saulėtekis
 priešsaulėtekis
 sultekis
 ašarotekis
+Panuotekis
 užutekis
 lėkis
 neprielėkis
@@ -160460,6 +161533,7 @@ Kibeikis
 Libeikis
 Dobeikis
 Burbeikis
+Dubeikis
 Adeikis
 Gadeikis
 Madeikis
@@ -160471,6 +161545,7 @@ Bredeikis
 Vedeikis
 Gideikis
 Lideikis
+Brideikis
 Videikis
 Lydeikis
 Šydeikis
@@ -160552,6 +161627,7 @@ Buteikis
 Čiuteikis
 Puteikis
 Druteikis
+Čiūteikis
 Daveikis
 Gaveikis
 Raveikis
@@ -160604,6 +161680,7 @@ Bunikis
 pikis
 rikis
 Obrikis
+Žiobrikis
 Andrikis
 Šandrikis
 Budrikis
@@ -160630,6 +161707,7 @@ niektikis
 sentikis
 Restikis
 Raštikis
+Peštikis
 Arštikis
 Butikis
 Buikis
@@ -160640,6 +161718,7 @@ Puluikis
 puikis
 Puikis
 Ruikis
+Truikis
 zuikis
 Zuikis
 puszuikis
@@ -160650,6 +161729,7 @@ bandvikis
 Elvikis
 Urvikis
 Juzikis
+Ilžikis
 apydykis
 pusdykis
 Velykis
@@ -160668,6 +161748,7 @@ Trasykis
 santykis
 atotykis
 nuotykis
+Vykis
 kiškiabaravykis
 zuikbaravykis
 šilbaravykis
@@ -160687,6 +161768,7 @@ išalkis
 Pavalkis
 giedravalkis
 Juodvalkis
+Pajuodvalkis
 Šventvalkis
 Briežvalkis
 Abelkis
@@ -160696,6 +161778,7 @@ Gočelkis
 Apelkis
 papelkis
 Juodpelkis
+Gipelkis
 apypelkis
 Pikpelkis
 Pušinpelkis
@@ -160717,6 +161800,7 @@ Pilkis
 juodpilkis
 tamspilkis
 pusšilkis
+Vaidvilkis
 Pakolkis
 Dulkis
 kryžmadulkis
@@ -160731,14 +161815,19 @@ Pulkis
 Dankis
 ameliankis
 jankis
+Lankis
 dalgialankis
 šaltalankis
 Blankis
+Kūdlankis
+Suoklankis
 poaplankis
 viršaplankis
+Oplankis
 puslankis
 matlankis
 ratlankis
+Naulankis
 Juodžlankis
 varžlankis
 Užlankis
@@ -160775,6 +161864,7 @@ Jenkis
 Lenkis
 skerslenkis
 puslenkis
+Užlenkis
 apymenkis
 Binkis
 pakinkis
@@ -160786,6 +161876,7 @@ Skinkis
 linkis
 Linkis
 Gudlinkis
+Dvilinkis
 įlinkis
 polinkis
 nuolinkis
@@ -160839,11 +161930,13 @@ iššokis
 Guokis
 piktjuokis
 Ruokis
+Mažokis
 Kanapkis
 Knapkis
 Lipkis
 Pupkis
 smailiaarkis
+Linmarkis
 apysmarkis
 Narkis
 Šarkis
@@ -160860,9 +161953,11 @@ Vizberkis
 Gerkis
 Mierkis
 Merkis
+Kanapiamerkis
 Verkis
 Voverkis
 Mirkis
+Plaušmirkis
 išpirkis
 Borkis
 Gorkis
@@ -161531,6 +162626,7 @@ Lukauskis
 Grigalauskis
 Mikalauskis
 Valauskis
+Sablauskis
 Ožemblauskis
 Bomblauskis
 Bumblauskis
@@ -161958,6 +163054,7 @@ Norvydiškis
 Mantvydiškis
 Žydiškis
 Pabaldiškis
+Bildiškis
 Kildiškis
 Balandiškis
 Grundiškis
@@ -162002,6 +163099,7 @@ Sniegiškis
 Legiškis
 pagėgiškis
 Kligiškis
+Migiškis
 Kunigiškis
 Grigiškis
 rygiškis
@@ -162034,6 +163132,7 @@ kamajiškis
 Nadiejiškis
 veisiejiškis
 Aleksiejiškis
+Motiejiškis
 lazdijiškis
 vilkijiškis
 kalvarijiškis
@@ -162053,6 +163152,7 @@ Trakiškis
 Karsakiškis
 šakiškis
 Šakiškis
+Metakiškis
 Baltakiškis
 Vaštakiškis
 Aukštakiškis
@@ -162075,6 +163175,7 @@ Mieleikiškis
 Šileikiškis
 Vileikiškis
 Kušleikiškis
+Paneikiškis
 Peneikiškis
 Apeikiškis
 Andreikiškis
@@ -162088,6 +163189,7 @@ mažeikiškis
 Mažeikiškis
 Likiškis
 Plikiškis
+Kulikiškis
 Šeduikiškis
 Vilkiškis
 Bankiškis
@@ -162139,9 +163241,11 @@ Jukiškis
 Kukiškis
 Lukiškis
 Snukiškis
+Pukiškis
 tarpukiškis
 Rukiškis
 Petrukiškis
+Ališkis
 Sabališkis
 virbališkis
 Gražbališkis
@@ -162201,6 +163305,7 @@ Kiškeliškis
 Laukeliškis
 Taukeliškis
 Šileliškis
+Meliškis
 Gemeliškis
 Kiemeliškis
 Breimeliškis
@@ -162235,6 +163340,7 @@ Kirmėliškis
 Garbūnėliškis
 Savėliškis
 Egliškis
+Ėgliškis
 Mantagailiškis
 Strigailiškis
 Sengailiškis
@@ -162245,6 +163351,7 @@ Mikailiškis
 Smailiškis
 Sipailiškis
 Dobiliškis
+Burbiliškis
 Kubiliškis
 Dagiliškis
 Kirkiliškis
@@ -162315,6 +163422,7 @@ Tamuliškis
 Imuliškis
 Eimuliškis
 Simuliškis
+Armuliškis
 Garmuliškis
 Januliškis
 Jaruliškis
@@ -162386,6 +163494,7 @@ Vidumiškis
 Margumiškis
 tarpumiškis
 Tarpumiškis
+Tumiškis
 Ažumiškis
 Kuzmiškis
 užmiškis
@@ -162415,6 +163524,7 @@ Geniškis
 Ageniškis
 Legeniškis
 Bigeniškis
+Margeniškis
 Bugeniškis
 Rugeniškis
 prieniškis
@@ -162428,6 +163538,7 @@ Odmeniškis
 Semeniškis
 akmeniškis
 Akmeniškis
+Momeniškis
 dusmeniškis
 Neniškis
 Repeniškis
@@ -162486,6 +163597,7 @@ Vižainiškis
 Reibiniškis
 Jaciniškis
 Pulciniškis
+Perčiniškis
 Čiaučiniškis
 Mediniškis
 Maldiniškis
@@ -162517,6 +163629,7 @@ Griniškis
 Cukriniškis
 Mauriniškis
 Uosiniškis
+Patiniškis
 Kvietiniškis
 Rutiniškis
 Aviniškis
@@ -162572,6 +163685,7 @@ Zindrioniškis
 Joniškis
 Trajoniškis
 Marijoniškis
+Vakoniškis
 Zakoniškis
 marcinkoniškis
 Maloniškis
@@ -162609,6 +163723,7 @@ Lipniškis
 Barniškis
 kvėdarniškis
 varniškis
+Varniškis
 Dvarniškis
 Skerniškis
 dreverniškis
@@ -162650,6 +163765,7 @@ petrašiūniškis
 pivašiūniškis
 Vildžiūniškis
 Tijūniškis
+Juodkūniškis
 Barkūniškis
 Narkūniškis
 Perkūniškis
@@ -162760,6 +163876,7 @@ Goriškis
 Klioriškis
 Bajoriškis
 Tekoriškis
+Noriškis
 Beinoriškis
 Žalnoriškis
 Poriškis
@@ -162854,6 +163971,7 @@ gervėtiškis
 žygaitiškis
 Laitiškis
 Valaitiškis
+Namaitiškis
 juknaitiškis
 nemunaitiškis
 giedraitiškis
@@ -162912,6 +164030,7 @@ Zablotiškis
 Zamotiškis
 Klimotiškis
 Šmotiškis
+Notiškis
 Zanotiškis
 Ignotiškis
 Bernotiškis
@@ -162928,6 +164047,7 @@ Tautiškis
 Ratautiškis
 sintautiškis
 Butiškis
+Aibutiškis
 Paibutiškis
 Eibutiškis
 Tributiškis
@@ -162949,8 +164069,10 @@ Vaikutiškis
 Mikutiškis
 Pinkutiškis
 šilutiškis
+Mamutiškis
 Janutiškis
 vainutiškis
+Bernutiškis
 Treputiškis
 Pumputiškis
 Narutiškis
@@ -162973,6 +164095,7 @@ Pinkaviškis
 Šinkaviškis
 Morkaviškis
 Laviškis
+Mikalaviškis
 Salaviškis
 karmėlaviškis
 Bagaslaviškis
@@ -163005,6 +164128,7 @@ Bronisloviškis
 Versloviškis
 Roviškis
 Pastoviškis
+Purviškis
 Latviškis
 Motviškis
 šeduviškis
@@ -163047,6 +164171,8 @@ raugerškis
 ožerškis
 Murškis
 niektauškis
+Salduškis
+Ončiuškis
 Valiuškis
 pliuškis
 Joniuškis
@@ -163064,6 +164190,7 @@ Januškis
 Onuškis
 Ruškis
 Bruškis
+Rituškis
 Rotkis
 Karotkis
 Putkis
@@ -163106,6 +164233,7 @@ Pučkalaukis
 Meškalaukis
 Miškalaukis
 Stukalaukis
+Ožkalaukis
 Galalaukis
 Senalaukis
 Kalnalaukis
@@ -163117,6 +164245,7 @@ Karšūnalaukis
 Liepalaukis
 Kurpalaukis
 Dvaralaukis
+Vėtralaukis
 Tauralaukis
 Rukšalaukis
 Apytalaukis
@@ -163124,6 +164253,7 @@ Viktalaukis
 Baltalaukis
 Pūstalaukis
 Aukštalaukis
+Valaukis
 Vėžalaukis
 Karužalaukis
 Gryblaukis
@@ -163144,6 +164274,7 @@ Juodlaukis
 Gudlaukis
 Rudlaukis
 Dūdlaukis
+Obelaukis
 Saugėlaukis
 Daglaukis
 Lyglaukis
@@ -163221,6 +164352,7 @@ Būkintlaukis
 Bartlaukis
 Miestlaukis
 aulaukis
+Aulaukis
 Vidulaukis
 Galulaukis
 Užulaukis
@@ -163274,6 +164406,8 @@ persnukis
 skerssnukis
 antsnukis
 Pukis
+Rukis
+Brukis
 Užbrukis
 Krukis
 diskasukis
@@ -163304,6 +164438,7 @@ proanūkis
 autoūkis
 pūkis
 Pūkis
+Lapūkis
 baltapūkis
 Stintapūkis
 geltonpūkis
@@ -163337,7 +164472,9 @@ Gabalis
 šešiabalis
 Gaidžiabalis
 Didžiabalis
+Vikabalis
 Palkabalis
+Vainabalis
 Pabalis
 Sabalis
 Skersabalis
@@ -163368,6 +164505,7 @@ gegužvabalis
 Gudbalis
 Srėbalis
 Žibalis
+Mišeikbalis
 bambalis
 Kušlambalis
 Raudonbalis
@@ -163376,6 +164514,8 @@ Veršiobalis
 Virbalis
 akėčvirbalis
 akėtvirbalis
+Sorbalis
+Vidurbalis
 pisbalis
 Davaitbalis
 Šadubalis
@@ -163419,11 +164559,13 @@ aštuntadalis
 ketvirtadalis
 Gustadalis
 šeštadalis
+Žadalis
 trečdalis
 bedalis
 Bedalis
 medalis
 Sedalis
+Viekvedalis
 tridalis
 dvidalis
 Stendalis
@@ -163478,6 +164620,7 @@ kamiengalis
 viengalis
 Vengalis
 strėngalis
+Ringalis
 Lasongalis
 Pašongalis
 Davongalis
@@ -163552,6 +164695,7 @@ Valalis
 Žalalis
 Papilalis
 Malis
+Amalis
 Damalis
 žaliamalis
 Gramalis
@@ -163569,6 +164713,7 @@ Jarmalis
 pusmalis
 daugiakanalis
 dvikanalis
+Graumenalis
 butenalis
 Venalis
 Juvenalis
@@ -163582,6 +164727,7 @@ ketvirtfinalis
 liuminalis
 Žąsinalis
 Pluotinalis
+Obelynalis
 Kalnalis
 veronalis
 Iešnalis
@@ -163594,13 +164740,23 @@ Puskepalis
 Skripalis
 Šipalis
 Šypalis
+Topalis
 pusverpalis
 Jurpalis
 kurpalis
 spalis
 Spalis
+Žiogupalis
+Žirgupalis
+Galupalis
+Kūlupalis
+Girnupalis
+Kirnupalis
 Pupalis
+Tyrupalis
 Antupalis
+Smertupalis
+Vėžupalis
 Užpalis
 ralis
 Garalis
@@ -163613,6 +164769,7 @@ seralis
 Kanaveralis
 gralis
 Pagiralis
+Patyralis
 kralis
 chloralis
 petrichloralis
@@ -163685,6 +164842,7 @@ ementalis
 tiopentalis
 Vyzentalis
 Rozentalis
+Geniotalis
 Rotalis
 darbastalis
 Miestalis
@@ -163792,6 +164950,7 @@ Kebelis
 Grebelis
 Skrebelis
 glėbelis
+Baibelis
 Šeibelis
 Kibelis
 Ribelis
@@ -163809,16 +164968,19 @@ obelis
 Obelis
 Bobelis
 Dobelis
+Globelis
 nobelis
 Nobelis
 Drobelis
 luobelis
 darbelis
+Skarbelis
 Kerbelis
 Šperbelis
 svirbelis
 Urbelis
 Bubelis
+Dubelis
 Padubelis
 diubelis
 Liubelis
@@ -163826,6 +164988,7 @@ dziubelis
 kubelis
 Tubelis
 Zubelis
+Liūbelis
 rūbelis
 Tūbelis
 Macelis
@@ -163959,6 +165122,7 @@ strazdelis
 Strazdelis
 vaizdelis
 lizdelis
+Byzdelis
 lamzdelis
 vamzdelis
 lumzdelis
@@ -164001,6 +165165,7 @@ Bigelis
 Eigelis
 beigelis
 Breigelis
+Kigelis
 fligelis
 Migelis
 Kunigelis
@@ -164020,6 +165185,7 @@ Ilgelis
 Angelis
 langelis
 Vengelis
+Ingelis
 Bingelis
 Dingelis
 Mingelis
@@ -164060,6 +165226,7 @@ Birgelis
 Virgelis
 žirgelis
 Norgelis
+Burgelis
 Jurgelis
 spurgelis
 turgelis
@@ -164119,6 +165286,7 @@ aklakelis
 Makelis
 pakelis
 Trakelis
+Šakelis
 takelis
 Stakelis
 laivakelis
@@ -164129,6 +165297,7 @@ peckelis
 Plačkelis
 Račkelis
 Čekelis
+Čiekelis
 niekelis
 Jekelis
 Pekelis
@@ -164147,6 +165316,7 @@ artikelis
 Štikelis
 smuikelis
 zuikelis
+Vykelis
 aplinkkelis
 laukkelis
 Balkelis
@@ -164191,6 +165361,7 @@ Cirkelis
 žvyrkelis
 Torkelis
 vidurkelis
+Plaskelis
 Maskelis
 biskelis
 diskelis
@@ -164205,6 +165376,7 @@ Raškelis
 taškelis
 Vaškelis
 vieškelis
+Pavieškelis
 laiškelis
 biškelis
 kiškelis
@@ -164212,6 +165384,7 @@ miškelis
 Miškelis
 Griškelis
 Viškelis
+Barškelis
 Auškelis
 Juškelis
 Ratkelis
@@ -164255,6 +165428,7 @@ alelis
 galelis
 stalelis
 Valelis
+Žalelis
 kablelis
 grėblelis
 Dumblelis
@@ -164269,11 +165443,13 @@ Pilelis
 Šilelis
 Vilelis
 Ylelis
+Aklelis
 kaklelis
 Kaklelis
 stiklelis
 ženklelis
 tinklelis
+Oklelis
 arklelis
 karklelis
 Karklelis
@@ -164282,11 +165458,14 @@ Kolelis
 brolelis
 kuolelis
 Kuolelis
+Luolelis
 suolelis
 volelis
 žioplelis
 svirplelis
 purplelis
+Čiurlelis
+Lamėslelis
 žaislelis
 krislelis
 piršlelis
@@ -164296,6 +165475,7 @@ Saulelis
 šulelis
 siūlelis
 kūlelis
+Pūgžlelis
 Amelis
 Damelis
 hamamelis
@@ -164311,6 +165491,7 @@ Memelis
 Žemelis
 rėmelis
 Zigmelis
+Aimelis
 kaimelis
 Kaimelis
 Breimelis
@@ -164370,8 +165551,10 @@ proprosenelis
 Ignelis
 dugnelis
 būgnelis
+Būgnelis
 Juchnelis
 Dainelis
+Lainelis
 Mainelis
 Rainelis
 Cinelis
@@ -164385,6 +165568,7 @@ vynelis
 žvynelis
 Lieknelis
 Juknelis
+Luknelis
 balnelis
 kalnelis
 Kalnelis
@@ -164392,6 +165576,7 @@ delnelis
 kulnelis
 šulnelis
 himnelis
+Bonelis
 Lionelis
 Jonelis
 kolonelis
@@ -164404,6 +165589,7 @@ Bronelis
 sapnelis
 garnelis
 Garnelis
+Karnelis
 sparnelis
 Varnelis
 bernelis
@@ -164424,6 +165610,7 @@ kepsnelis
 straipsnelis
 žiupsnelis
 skirsnelis
+Mašnelis
 Šikšnelis
 Vinkšnelis
 gurkšnelis
@@ -164440,6 +165627,7 @@ Liūnelis
 Cijūnelis
 Tijūnelis
 kūnelis
+Mūnelis
 sūnelis
 Vaznelis
 biznelis
@@ -164488,7 +165676,9 @@ Zopelis
 tarpelis
 varpelis
 Dvarpelis
+Verpelis
 šiurpelis
+Šiurpelis
 Krespelis
 Knispelis
 upelis
@@ -164497,12 +165687,29 @@ Upelis
 Kaupelis
 Paupelis
 Raupelis
+Kičupelis
+Zompčupelis
+Gėdupelis
+Gudupelis
+Rudupelis
+Prūdupelis
 Mergupelis
+Vaičiupelis
 Kiupelis
 šiupelis
+Senupelis
+Medinupelis
+Raudonupelis
+Gurnupelis
 Pupelis
+Berupelis
+Uosupelis
+Raišupelis
 Stupelis
+Kuzupelis
+Ožupelis
 Kiūpelis
+Triūpelis
 Arelis
 barelis
 Garelis
@@ -164511,6 +165718,7 @@ Skarelis
 Marelis
 narelis
 nonparelis
+Varelis
 dvarelis
 Dvarelis
 svarelis
@@ -164530,6 +165738,7 @@ bekerelis
 Šerelis
 skverelis
 žvėrelis
+Vingrelis
 klopidogrelis
 Kairelis
 Demirelis
@@ -164547,6 +165756,7 @@ svorelis
 Kiprelis
 Kuprelis
 vikšrelis
+Aušrelis
 Petrelis
 dezogestrelis
 levonorgestrelis
@@ -164558,6 +165768,7 @@ Gaurelis
 Jaurelis
 Laurelis
 Taurelis
+Žiurelis
 Užkurelis
 Murelis
 Purelis
@@ -164591,6 +165802,7 @@ Aukselis
 balselis
 boselis
 droselis
+Suoselis
 Zapselis
 štepselis
 topselis
@@ -164639,7 +165851,9 @@ Veršelis
 viršelis
 Kuršelis
 kaušelis
+Kaušelis
 plaušelis
+Maušelis
 bušelis
 triušelis
 glušelis
@@ -164696,6 +165910,7 @@ tiltelis
 Tiltelis
 pultelis
 samtelis
+Samtelis
 šimtelis
 febantelis
 dantelis
@@ -164748,6 +165963,7 @@ bortelis
 Bortelis
 turtelis
 mastelis
+Vastelis
 skląstelis
 rąstelis
 miestelis
@@ -164774,6 +165990,7 @@ skliaustelis
 plaustelis
 spraustelis
 Justelis
+Paštelis
 raštelis
 kraštelis
 kaištelis
@@ -164782,6 +165999,7 @@ vištelis
 Vištelis
 lakštelis
 Rakštelis
+Šiekštelis
 Šekštelis
 bokštelis
 kuokštelis
@@ -164789,8 +166007,10 @@ paukštelis
 Paukštelis
 šaukštelis
 Šaukštelis
+Vaukštelis
 Lukštelis
 Rukštelis
+Dūkštelis
 Rūkštelis
 kamštelis
 kumštelis
@@ -164798,7 +166018,9 @@ pluoštelis
 pirštelis
 Pirštelis
 kiautelis
+Sriautelis
 jautelis
+Srautelis
 butelis
 Butelis
 didbutelis
@@ -164833,6 +166055,7 @@ levelis
 Lelevelis
 klevelis
 runlevelis
+Nevelis
 Revelis
 Prevelis
 Pudževelis
@@ -164849,6 +166072,7 @@ Krivelis
 Galvelis
 kalvelis
 Kalvelis
+Zalvelis
 skilvelis
 milvelis
 pilvelis
@@ -164856,6 +166080,7 @@ Pilvelis
 Kulvelis
 Kromvelis
 griovelis
+Kriovelis
 Džiovelis
 Kovelis
 lovelis
@@ -164920,6 +166145,7 @@ Kėželis
 Pėželis
 rėželis
 Vėželis
+Greiželis
 dryželis
 kryželis
 Velželis
@@ -164959,7 +166185,10 @@ pralobėlis
 nužvarbėlis
 Jakubėlis
 Jokūbėlis
+Vincėlis
+Nemenčėlis
 išbadėlis
+Šiladėlis
 pavadėlis
 apvadėlis
 ančdėlis
@@ -165036,6 +166265,7 @@ Virgaudėlis
 nenaudėlis
 antspaudėlis
 apsidraudėlis
+Jagudėlis
 nusižudėlis
 apsnūdėlis
 susnūdėlis
@@ -165092,10 +166322,12 @@ nepriaugėlis
 peraugėlis
 suaugėlis
 surūgėlis
+Vazajėlis
 muziejėlis
 išbadėjėlis
 nusidėjėlis
 susidėjėlis
+Daglėjėlis
 įsimylėjėlis
 sustabarėjėlis
 užkietėjėlis
@@ -165110,18 +166342,23 @@ raitojėlis
 rašytojėlis
 rūpintojėlis
 artojėlis
+Vidaujėlis
 apdujėlis
 Kabakėlis
 bardakėlis
+Laumiakėlis
 konjakėlis
 valakėlis
 Valakėlis
 prasilakėlis
 prisiplakėlis
+Varnakėlis
 apakėlis
 Karpakėlis
 patrakėlis
 latakėlis
+Lydekėlis
+Juodekėlis
 niekniekėlis
 melekėlis
 Mekėlis
@@ -165149,6 +166386,7 @@ Henrikėlis
 Stasikėlis
 plėšikėlis
 netikėlis
+Leikštikėlis
 išpuikėlis
 Liudvikėlis
 padykėlis
@@ -165162,12 +166400,14 @@ nevykėlis
 atvykėlis
 pavalkėlis
 Kozamkėlis
+Kuzamkėlis
 išblankėlis
 nešvankėlis
 valdininkėlis
 viršininkėlis
 raštininkėlis
 žuvininkėlis
+Karosninkėlis
 berniokėlis
 pijokėlis
 nemokėlis
@@ -165243,6 +166483,7 @@ atsikėlėlis
 pašėlėlis
 susivėlėlis
 apžėlėlis
+Žibilėlis
 dobilėlis
 kubilėlis
 dagilėlis
@@ -165252,6 +166493,7 @@ atkilėlis
 sukilėlis
 katilėlis
 ratilėlis
+Davilėlis
 Povilėlis
 nusivylėlis
 Aklėlis
@@ -165323,6 +166565,7 @@ gražumėlis
 Danėlis
 chuliganėlis
 uslanėlis
+Samanėlis
 prasimanėlis
 neišmanėlis
 ekranėlis
@@ -165333,6 +166576,7 @@ dubenėlis
 vandenėlis
 rudenėlis
 vargdienėlis
+Pakenėlis
 velenėlis
 liemenėlis
 piemenėlis
@@ -165346,14 +166590,19 @@ pasenėlis
 persenėlis
 nusenėlis
 nusigyvenėlis
+Balėnėlis
 Duvėnėlis
+Tauragnėlis
 stiklainėlis
+Buvainėlis
 slibinėlis
 Albinėlis
+Vedinėlis
 leidinėlis
 skridinėlis
 židinėlis
 baseinėlis
+Vaginėlis
 Lionginėlis
 žirginėlis
 mezginėlis
@@ -165361,47 +166610,62 @@ sakinėlis
 telkinėlis
 tvenkinėlis
 rinkinėlis
+Šeškinėlis
 traukinėlis
 Salinėlis
+Kiaulinėlis
 šulinėlis
+Minėlis
 lagaminėlis
 kaminėlis
+Šaminėlis
 Liminėlis
 nusiminėlis
 Alminėlis
 kirminėlis
 tepinėlis
+Gipinėlis
 lopinėlis
 kaspinėlis
 trupinėlis
 Babrinėlis
+Ešerinėlis
 vėrinėlis
 kūrinėlis
 Žąsinėlis
+Karosinėlis
 rašinėlis
 piešinėlis
 mišinėlis
 Pakiršinėlis
 kiaušinėlis
 katinėlis
+Katinėlis
 patinėlis
 ritinėlis
+Švitinėlis
 šaltinėlis
 žaltinėlis
 antinėlis
 siuntinėlis
 Martinėlis
+Kurtinėlis
+Juostinėlis
 Augustinėlis
 Justinėlis
+Tautinėlis
 avinėlis
 Žilvinėlis
+Kovinėlis
 sąsiuvinėlis
 griežinėlis
 nežinėlis
+Veržinėlis
 Biržinėlis
 maldynėlis
 Juodynėlis
 žodynėlis
+Rūdynėlis
 lazdynėlis
 knygynėlis
 eglynėlis
@@ -165416,15 +166680,18 @@ Laurynėlis
 pušynėlis
 Pušynėlis
 Martynėlis
+Ažynėlis
 beržynėlis
 Beržynėlis
 klebonėlis
 bidonėlis
+Kardonėlis
 raudonėlis
 Leonėlis
 vagonėlis
 ligonėlis
 balionėlis
+Macijonėlis
 sijonėlis
 flakonėlis
 balkonėlis
@@ -165451,6 +166718,8 @@ lavonėlis
 dirvonėlis
 vazonėlis
 vyresnėlis
+Šetekšnėlis
+Vadokšnėlis
 jaunėlis
 Nemunėlis
 Panemunėlis
@@ -165473,6 +166742,7 @@ narūnėlis
 šiaurūnėlis
 raitūnėlis
 gyvūnėlis
+Biržūnėlis
 puslapėlis
 nepritapėlis
 Juozapėlis
@@ -165503,6 +166773,7 @@ nutrupėlis
 Tūrupėlis
 Uosupėlis
 Kristupėlis
+Užupėlis
 kambarėlis
 padarėlis
 vėdarėlis
@@ -165518,6 +166789,7 @@ suskarėlis
 kaparėlis
 Kasparėlis
 pavasarėlis
+Ašarėlis
 daktarėlis
 gintarėlis
 Gintarėlis
@@ -165526,18 +166798,21 @@ Jovarėlis
 šoferėlis
 Kazimierėlis
 popierėlis
+Meškerėlis
 numerėlis
 poterėlis
 išgverėlis
 ežerėlis
 Ežerėlis
 Paežerėlis
+Vykežerėlis
 juodbėrėlis
 pasigėrėlis
 prasigėrėlis
 nusigėrėlis
 kibirėlis
 Užgirėlis
+Mirėlis
 apmirėlis
 numirėlis
 iširėlis
@@ -165581,9 +166856,11 @@ Liminasėlis
 Krasnasėlis
 pasėlis
 debesėlis
+Bradesėlis
 judesėlis
 Rudesėlis
 Netiesėlis
+Žalesėlis
 mėnesėlis
 išdvėsėlis
 nudvėsėlis
@@ -165703,6 +166980,7 @@ Skirmantėlis
 Virmantėlis
 tūkstantėlis
 Šlavantėlis
+Elbentėlis
 Vincentėlis
 procentėlis
 studentėlis
@@ -165715,6 +166993,7 @@ Vigintėlis
 Vygintėlis
 Vykintėlis
 Valintėlis
+Uosintėlis
 Vaidotėlis
 Sudotėlis
 paplotėlis
@@ -165740,6 +167019,7 @@ rūpestėlis
 žurnalistėlis
 komunistėlis
 Aknystėlis
+Arvystėlis
 Aknykstėlis
 rankšluostėlis
 Avinuostėlis
@@ -165749,6 +167029,7 @@ Augustėlis
 kopūstėlis
 pakraštėlis
 laikraštėlis
+Utėlis
 apkiautėlis
 užkiautėlis
 Vytautėlis
@@ -165794,9 +167075,11 @@ tuštutėlis
 mažutėlis
 šviežutėlis
 pasipūtėlis
+Vencavėlis
 parsidavėlis
 Mikalavėlis
 Stanislavėlis
+Savėlis
 Asavėlis
 Vensavėlis
 kareivėlis
@@ -165847,12 +167130,14 @@ išgležėlis
 ištižėlis
 sugrįžėlis
 pasiryžėlis
+Nevaržėlis
 įsiveržėlis
 apdiržėlis
 apkeriaužėlis
 įsilaužėlis
 drabužėlis
 sudužėlis
+Bogužėlis
 sukiužėlis
 sugniužėlis
 brolužėlis
@@ -165882,6 +167167,7 @@ smurglis
 Auglis
 prieauglis
 Mauglis
+Kruglis
 Stuglis
 ūglis
 vilkaūglis
@@ -165891,6 +167177,8 @@ Dailis
 apydailis
 Každailis
 gailis
+Vigailis
+Sangailis
 progailis
 Virgailis
 Surgailis
@@ -165909,6 +167197,7 @@ posmailis
 Tarailis
 brailis
 Brailis
+Indrailis
 Kirailis
 priekvailis
 apykvailis
@@ -165939,6 +167228,7 @@ minoksidilis
 nikorandilis
 bisakodilis
 pusdilis
+Rudilis
 Brazdilis
 plačiaeilis
 trečiaeilis
@@ -165953,6 +167243,7 @@ siauraeilis
 garsaeilis
 Beilis
 Skadeilis
+Kiegeilis
 trieilis
 dvieilis
 Jeilis
@@ -165986,9 +167277,11 @@ durnadagilis
 vagilis
 vingilis
 Vingilis
+Kogilis
 pogilis
 propargilis
 Daugilis
+Gardugilis
 kilis
 kikilis
 Kikilis
@@ -166039,6 +167332,7 @@ Ventspilis
 brašpilis
 endšpilis
 priešpilis
+Višpilis
 Rilis
 amarilis
 sarsaparilis
@@ -166110,6 +167404,7 @@ Samuilis
 Šmuilis
 Vilis
 Anavilis
+Antavilis
 Brazavilis
 Gendvilis
 Gindvilis
@@ -166169,6 +167464,7 @@ Kesylis
 Vosylis
 įšylis
 atšylis
+Tylis
 apytylis
 kartylis
 dvylis
@@ -166201,6 +167497,7 @@ antkaklis
 špaklis
 Heraklis
 miraklis
+Kraklis
 pusaklis
 spektaklis
 monospektaklis
@@ -166442,6 +167739,7 @@ kroviklis
 perkroviklis
 iškroviklis
 dažiklis
+Mažiklis
 griežiklis
 rėžiklis
 brėžiklis
@@ -166492,6 +167790,7 @@ vortinklis
 didžtinklis
 Žvinklis
 sprunklis
+Oklis
 kiboklis
 Vadoklis
 Empedoklis
@@ -166513,10 +167812,12 @@ stūmoklis
 binoklis
 monoklis
 kapoklis
+Ūdroklis
 Ašoklis
 kvatoklis
 Temistoklis
 putoklis
+Dubuoklis
 siūbuoklis
 klaiduoklis
 vaiduoklis
@@ -166597,6 +167898,7 @@ Zibolis
 karambolis
 simbolis
 Sobolis
+Tobolis
 karbolis
 colis
 dvicolis
@@ -166800,6 +168102,7 @@ Jasnapolis
 Krasnapolis
 Rapolis
 Karapolis
+Varapolis
 Gurapolis
 tiloksapolis
 Aktapolis
@@ -167026,6 +168329,7 @@ puolis
 Puolis
 priepuolis
 pašaipuolis
+Kampuolis
 Kumpuolis
 opuolis
 stropuolis
@@ -167234,6 +168538,8 @@ kerpėkšlis
 Berdikšlis
 vartikšlis
 riebokšlis
+Kriokšlis
+Ūdrokšlis
 kerokšlis
 putokšlis
 dirvokšlis
@@ -167244,6 +168550,7 @@ Dolitlis
 Niukastlis
 Pristlis
 Ulis
+Bradaulis
 kubakaulis
 klubakaulis
 drambliakaulis
@@ -167332,6 +168639,7 @@ Tribulis
 žibulis
 stambulis
 Bumbulis
+Dumbulis
 Bobulis
 Drobulis
 Duobulis
@@ -167339,17 +168647,20 @@ Užduobulis
 burbulis
 Burbulis
 Bubulis
+Dubulis
 Padubulis
 Pranculis
 Pečulis
 Bradulis
 Stadulis
 Bedulis
+Giedulis
 Niedulis
 bėdulis
 dėdulis
 Aidulis
 Gaidulis
+Midulis
 Ridulis
 Skridulis
 Židulis
@@ -167365,6 +168676,7 @@ modulis
 hidromodulis
 mikromodulis
 juodulis
+Verdulis
 Kirdulis
 Burdulis
 budulis
@@ -167380,6 +168692,7 @@ Vagulis
 Žvagulis
 Degulis
 nuodėgulis
+Bigulis
 Grigulis
 dvigulis
 Žigulis
@@ -167439,6 +168752,7 @@ Beniulis
 Steniulis
 Veniulis
 Kiniulis
+Marniulis
 Andriulis
 Endriulis
 Indriulis
@@ -167492,6 +168806,7 @@ daugiamolekulis
 Mikulis
 Strikulis
 Binkulis
+Trinkulis
 Kunkulis
 Markulis
 Pažvarkulis
@@ -167504,6 +168819,7 @@ Ruškulis
 Šiautkulis
 kukulis
 didžkukulis
+Gilulis
 Damulis
 Samulis
 Tamulis
@@ -167533,6 +168849,7 @@ epulis
 Trepulis
 Stepulis
 cipulis
+Kumpulis
 Trumpulis
 Liverpulis
 pupulis
@@ -167563,6 +168880,7 @@ Norulis
 storulis
 patrulis
 Petrulis
+Taurulis
 Kurulis
 Turulis
 Jasulis
@@ -167671,6 +168989,7 @@ Vaitakarčmis
 kadmis
 Pakarčemis
 Apidemis
+Epidemis
 Kucakiemis
 Gudakiemis
 Ilgakiemis
@@ -167679,6 +168998,7 @@ Benčiakiemis
 Keliakiemis
 Gailiakiemis
 Biliakiemis
+Piliakiemis
 Alksniakiemis
 Tulpiakiemis
 Vėžiakiemis
@@ -167776,6 +169096,7 @@ dirvožemis
 rusvožemis
 durpžemis
 viduržemis
+Puržemis
 baltžemis
 šaltžemis
 smiltžemis
@@ -167783,6 +169104,7 @@ antžemis
 Jautžemis
 juodadėmis
 Apydėmis
+Skėmis
 poėmis
 sąrėmis
 porėmis
@@ -167850,6 +169172,7 @@ viengimis
 prieklojimis
 penimis
 šunimis
+Darimis
 trimis
 šimis
 pusapskritimis
@@ -168152,6 +169475,7 @@ apyskanis
 Pašukanis
 Ūkanis
 Pelanis
+Žioklanis
 daugiaplanis
 pirmaplanis
 antraplanis
@@ -168182,6 +169506,7 @@ gvaranis
 plačiaekranis
 Pranis
 Šanis
+Kaltanis
 Stanis
 juanis
 Taivanis
@@ -168200,6 +169525,7 @@ laibenis
 garbenis
 Garbenis
 pusdubenis
+Bezdubenis
 Ažubenis
 Macenis
 Skorcenis
@@ -168212,6 +169538,7 @@ Vaidenis
 Eidenis
 Svidenis
 Vydenis
+Maldenis
 Svaldenis
 vandenis
 Vandenis
@@ -168233,8 +169560,10 @@ Glodenis
 Skrodenis
 Juodenis
 tarpdenis
+Pagardenis
 Skardenis
 Erdenis
+Verdenis
 Girdenis
 gordenis
 Skurdenis
@@ -168266,6 +169595,7 @@ Daugenis
 Bugenis
 Mugenis
 Rugenis
+Būgenis
 Vaizgenis
 Prascienis
 darbadienis
@@ -168314,6 +169644,7 @@ galudienis
 Užudienis
 šiųdienis
 nūdienis
+Žagienis
 bugienis
 rugienis
 Rugienis
@@ -168379,7 +169710,10 @@ tujenis
 akenis
 Pakenis
 Šakenis
+Bikenis
+Peikenis
 Vilkenis
+Lenkenis
 Tuskenis
 laiškenis
 tryškenis
@@ -168431,6 +169765,7 @@ kalkakmenis
 laukakmenis
 molakmenis
 vynakmenis
+Piktakmenis
 Tiananmenis
 omenis
 momenis
@@ -168475,6 +169810,7 @@ Krenis
 Orenis
 vikšrenis
 senis
+Besenis
 apysenis
 posenis
 prosenis
@@ -168570,6 +169906,7 @@ Keženis
 Meiženis
 Palyženis
 Pavilbėnis
+Dėnis
 Bugėnis
 kėnis
 Palėnis
@@ -168625,6 +169962,7 @@ ašakainis
 Pilkainis
 lankainis
 nuokainis
+Sarkainis
 tarkainis
 antkainis
 Lūkainis
@@ -168635,13 +169973,16 @@ Apalainis
 Valainis
 apvalainis
 Apvalainis
+Gelainis
 pelainis
+Biglainis
 iškilainis
 Svilainis
 stiklainis
 tinklainis
 kriauklainis
 Mikolainis
+Uolainis
 tešlainis
 atšlainis
 atbulainis
@@ -168671,6 +170012,7 @@ trejetainis
 dvejetainis
 aštuonetainis
 lygiagretainis
+Kretainis
 slėgtainis
 žlėgtainis
 apskritainis
@@ -168705,6 +170047,7 @@ Devainis
 Tėvainis
 Dargvainis
 Bivainis
+Byvainis
 galvainis
 Dovainis
 Židovainis
@@ -168863,6 +170206,7 @@ kalbinis
 garsiakalbinis
 nekalbinis
 tarpkalbinis
+Gulbinis
 bambinis
 jambinis
 įžambinis
@@ -168899,6 +170243,7 @@ darbinis
 nebedarbinis
 nedarbinis
 skvarbinis
+Skvarbinis
 herbinis
 atodirbinis
 virbinis
@@ -169525,6 +170870,7 @@ maskaradinis
 paradinis
 neparadinis
 atabradinis
+Atabradinis
 antegradinis
 retrogradinis
 koloradinis
@@ -169551,6 +170897,7 @@ priedinis
 turbožiedinis
 tarpžiedinis
 ledinis
+Paledinis
 neledinis
 poledinis
 medinis
@@ -169690,6 +171037,7 @@ cetilpiridinis
 chloridinis
 nechloridinis
 fluoridinis
+Stridinis
 juridinis
 nejuridinis
 subsidinis
@@ -169804,6 +171152,7 @@ kelrodinis
 nuorodinis
 elektrodinis
 sodinis
+Pasodinis
 iksodinis
 katodinis
 fotokatodinis
@@ -169879,6 +171228,7 @@ priešliaudinis
 šiaudinis
 Šiaudinis
 nešiaudinis
+Skaudinis
 giliaspaudinis
 įspaudinis
 atspaudinis
@@ -169895,6 +171245,7 @@ ekstrudinis
 amplitudinis
 holivudinis
 neholivudinis
+Bliūdinis
 sąjūdinis
 nesąjūdinis
 plūdinis
@@ -170490,12 +171841,14 @@ stoginis
 atostoginis
 poatostoginis
 uoginis
+Uoginis
 šilauoginis
 Sriuoginis
 žemuoginis
 vynuoginis
 Sruoginis
 marginis
+Marginis
 sarginis
 atsarginis
 neatsarginis
@@ -170568,6 +171921,7 @@ plūginis
 smūginis
 nesmūginis
 išrūginis
+Išrūginis
 mazginis
 pamazginis
 užuomazginis
@@ -170689,6 +172043,7 @@ alavijinis
 galvijinis
 apvijinis
 azijinis
+Gojinis
 kojinis
 irklakojinis
 paranojinis
@@ -170734,6 +172089,7 @@ nelakinis
 portulakinis
 česnakinis
 poakinis
+Pakinis
 parakinis
 neparakinis
 Krakinis
@@ -170746,6 +172102,7 @@ netautosakinis
 šakinis
 Šakinis
 ašakinis
+Ašakinis
 priešakinis
 tarpšakinis
 atšakinis
@@ -170791,6 +172148,7 @@ kartotekinis
 pustekinis
 ištekinis
 Palėkinis
+Šėkinis
 fufaikinis
 laikinis
 nelaikinis
@@ -170854,6 +172212,7 @@ metrikinis
 klasikinis
 neklasikinis
 persikinis
+Puodašikinis
 atikinis
 skatikinis
 praktikinis
@@ -170877,6 +172236,7 @@ bolševikinis
 nebolševikinis
 neobolševikinis
 tilvikinis
+Tilvikinis
 intravezikinis
 perivezikinis
 fizikinis
@@ -170973,6 +172333,7 @@ neįmokinis
 pastarnokinis
 barokinis
 neobarokinis
+Brokinis
 krokinis
 burokinis
 šokinis
@@ -171027,6 +172388,7 @@ priešieškinis
 meškinis
 Meškinis
 šeškinis
+Šeškinis
 laiškinis
 dumblialaiškinis
 ybiškinis
@@ -171051,6 +172413,7 @@ plaukinis
 puslaukinis
 išlaukinis
 raukinis
+Baraukinis
 nepertraukinis
 taukinis
 bukinis
@@ -171099,10 +172462,12 @@ Balinis
 gabalinis
 pabalinis
 sabalinis
+Tabalinis
 riebalinis
 neriebalinis
 žibalinis
 skambalinis
+Skambalinis
 transliumbalinis
 lumbalinis
 globalinis
@@ -171226,6 +172591,7 @@ nevokalinis
 intervokalinis
 fiskalinis
 nefiskalinis
+Malinis
 amalinis
 sąmalinis
 emalinis
@@ -171607,6 +172973,7 @@ intraskilvelinis
 vienskilvelinis
 tarpskilvelinis
 lovelinis
+Dirvelinis
 virvelinis
 dyzelinis
 nedyzelinis
@@ -171625,6 +172992,7 @@ sandėlinis
 priešdėlinis
 nepriešdėlinis
 gėlinis
+Gėlinis
 dilgėlinis
 Mėlinis
 vežimėlinis
@@ -171637,6 +173005,7 @@ antisėlinis
 posėlinis
 priešsėlinis
 antsėlinis
+Šėlinis
 šešėlinis
 nešešėlinis
 vadovėlinis
@@ -171716,6 +173085,7 @@ maksilinis
 fosilinis
 šilinis
 Šilinis
+Pašilinis
 katilinis
 daktilinis
 taktilinis
@@ -171829,6 +173199,7 @@ svyruoklinis
 matuoklinis
 švytuoklinis
 arklinis
+Arklinis
 nearklinis
 karklinis
 Karklinis
@@ -171884,6 +173255,7 @@ nepaskolinis
 neskolinis
 kaukolinis
 molinis
+Molinis
 bemolinis
 priemolinis
 krakmolinis
@@ -171944,6 +173316,7 @@ priepuolinis
 šuolinis
 viksvuolinis
 ąžuolinis
+Ąžuolinis
 neąžuolinis
 volinis
 prievolinis
@@ -172004,6 +173377,7 @@ raukšlinis
 skaitlinis
 aulinis
 kiaulinis
+Kiaulinis
 nekiaulinis
 kaulinis
 Kaulinis
@@ -172145,6 +173519,7 @@ negyvulinis
 supravalvulinis
 menzulinis
 žiežulinis
+Žiežulinis
 gniužulinis
 siūlinis
 kūlinis
@@ -172296,6 +173671,7 @@ portosisteminis
 tarpsisteminis
 emfizeminis
 žeminis
+Pažeminis
 priežeminis
 požeminis
 dirvožeminis
@@ -172339,6 +173715,7 @@ ikirinkiminis
 porinkiminis
 priešrinkiminis
 nepriešrinkiminis
+Paliminis
 kiliminis
 posukiliminis
 pseudoniminis
@@ -172552,6 +173929,7 @@ nekosminis
 aerokosminis
 mikrokosminis
 versminis
+Versminis
 jausminis
 skausminis
 neskausminis
@@ -172851,6 +174229,7 @@ liemeninis
 nemeninis
 sėmeninis
 akmeninis
+Akmeninis
 smulkmeninis
 šelmeninis
 želmeninis
@@ -173364,6 +174743,7 @@ karninis
 sparninis
 pasparninis
 varninis
+Varninis
 žalvarninis
 žarninis
 priežarninis
@@ -173448,6 +174828,7 @@ valproinis
 benzoinis
 paraaminobenzoinis
 kapinis
+Pakapinis
 įkapinis
 antkapinis
 Antkapinis
@@ -173455,6 +174836,7 @@ lapinis
 Lapinis
 puslapinis
 kanapinis
+Kanapinis
 papinis
 parapinis
 neparapinis
@@ -173653,6 +175035,7 @@ tarpgrupinis
 sirupinis
 krupinis
 nuotrupinis
+Bartupinis
 aukštupinis
 užupinis
 lūpinis
@@ -173719,6 +175102,7 @@ uvuliarinis
 karinis
 troakarinis
 vakarinis
+Vakarinis
 nevakarinis
 šiaurvakarinis
 kasvakarinis
@@ -173741,6 +175125,7 @@ pamarinis
 samarinis
 išmarinis
 narinis
+Narinis
 kanarinis
 sąnarinis
 nesąnarinis
@@ -173782,6 +175167,7 @@ ašarinis
 pašarinis
 nepašarinis
 katarinis
+Šatarinis
 vegetarinis
 nevegetarinis
 proletarinis
@@ -173834,6 +175220,7 @@ neavarinis
 pavarinis
 Pavarinis
 sąvarinis
+Padvarinis
 nevarinis
 archyvarinis
 antikvarinis
@@ -173853,6 +175240,7 @@ sidabrinis
 gyvsidabrinis
 negyvsidabrinis
 bebrinis
+Bebrinis
 algebrinis
 cerebrinis
 intracerebrinis
@@ -173883,6 +175271,7 @@ subchondrinis
 mitochondrinis
 pudrinis
 ūdrinis
+Ūdrinis
 kūdrinis
 dispečerinis
 felčerinis
@@ -174086,6 +175475,7 @@ vairinis
 Birinis
 pabirinis
 sibirinis
+Bimbirinis
 girinis
 pagirinis
 Pagirinis
@@ -174303,6 +175693,7 @@ infuzorinis
 iliuzorinis
 mažorinis
 Veprinis
+Kuprinis
 gaisrinis
 negaisrinis
 priešgaisrinis
@@ -174478,8 +175869,10 @@ nestuburinis
 durinis
 ekstradurinis
 subdurinis
+Vėdurinis
 epidurinis
 vidurinis
+Vidurinis
 povidurinis
 skudurinis
 pleurinis
@@ -174526,6 +175919,7 @@ mūrinis
 amūrinis
 nemūrinis
 sūrinis
+Sūrinis
 akupresūrinis
 režisūrinis
 usūrinis
@@ -174589,6 +175983,7 @@ ažūrinis
 manevrinis
 pūzrinis
 Sinis
+Asinis
 fugasinis
 žemkasinis
 karkasinis
@@ -174633,6 +176028,7 @@ profesinis
 neprofesinis
 tiesinis
 netiesinis
+Kviesinis
 šviesinis
 mėnesinis
 kasmėnesinis
@@ -174784,6 +176180,7 @@ nosinis
 raganosinis
 prienosinis
 Rosinis
+Karosinis
 papirosinis
 krosinis
 nekrosinis
@@ -174812,6 +176209,7 @@ negarsinis
 viršgarsinis
 neviršgarsinis
 skersinis
+Skersinis
 imersinis
 persinis
 pampersinis
@@ -174908,6 +176306,7 @@ plyšinis
 ryšinis
 sąryšinis
 šakšinis
+Veikšinis
 Palšinis
 zomšinis
 flanšinis
@@ -175689,7 +177088,9 @@ išvyktinis
 telktinis
 sutelktinis
 vilktinis
+Vilktinis
 lenktinis
+Lenktinis
 rinktinis
 nerinktinis
 pasirinktinis
@@ -175729,6 +177130,7 @@ paltinis
 lietpaltinis
 šaltinis
 Šaltinis
+Pašaltinis
 valtinis
 bazaltinis
 žaltinis
@@ -175792,6 +177194,7 @@ implantinis
 atlantinis
 euroatlantinis
 transatlantinis
+Kamantinis
 semantinis
 polisemantinis
 deimantinis
@@ -175828,6 +177231,7 @@ kvantinis
 bizantinis
 brizantinis
 serbentinis
+Serbentinis
 centinis
 placentinis
 retroplacentinis
@@ -176322,6 +177726,7 @@ neišplėstinis
 krėstinis
 dadaistinis
 judaistinis
+Skaistinis
 maistinis
 nemaistinis
 raistinis
@@ -176354,6 +177759,7 @@ budistinis
 nebudistinis
 talmudistinis
 deistinis
+Leistinis
 įleistinis
 skleistinis
 eseistinis
@@ -176719,6 +178125,7 @@ lakštinis
 Lakštinis
 makštinis
 šiekštinis
+Šiekštinis
 lėkštinis
 pareikštinis
 išreikštinis
@@ -176754,7 +178161,9 @@ barštinis
 karštinis
 tarppirštinis
 šiauštinis
+Lauštinis
 muštinis
+Muštinis
 sumuštinis
 gautinis
 negautinis
@@ -176795,11 +178204,13 @@ martautinis
 goštautinis
 bendrabutinis
 drebutinis
+Trebutinis
 atributinis
 skorbutinis
 viešbutinis
 neviešbutinis
 vidutinis
+Vidutinis
 nevidutinis
 pusvidutinis
 propedeutinis
@@ -176815,6 +178226,7 @@ neabsoliutinis
 parašiutinis
 džiutinis
 likutinis
+Vikutinis
 paskutinis
 nepaskutinis
 priešpaskutinis
@@ -176890,6 +178302,8 @@ drožtinis
 suvožtinis
 varžtinis
 laužtinis
+Smukuinis
+Viluinis
 vinis
 avinis
 Uždavinis
@@ -176902,6 +178316,7 @@ baudžiavinis
 pobaudžiavinis
 javinis
 kavinis
+Kavinis
 lavinis
 alavinis
 autoklavinis
@@ -176915,6 +178330,7 @@ erdvinis
 neerdvinis
 ievinis
 pievinis
+Pievinis
 žievinis
 požievinis
 klevinis
@@ -176952,6 +178368,7 @@ intensyvinis
 ekstensyvinis
 kursyvinis
 diskursyvinis
+Šyvinis
 sedatyvinis
 negatyvinis
 iniciatyvinis
@@ -177062,6 +178479,7 @@ gorbačiovinis
 Seliovinis
 naujovinis
 kovinis
+Kovinis
 nekovinis
 dvikovinis
 rankovinis
@@ -177069,6 +178487,7 @@ lovinis
 palovinis
 Gelovinis
 plovinis
+Paplovinis
 samplovinis
 verslovinis
 movinis
@@ -177461,6 +178880,7 @@ neparalyžinis
 anyžinis
 ryžinis
 kryžinis
+Kryžinis
 sankryžinis
 vyžinis
 Gelžinis
@@ -177497,6 +178917,7 @@ Gegužinis
 gūžinis
 lūžinis
 rupūžinis
+Rupūžinis
 Pajėrubynis
 priešgynis
 Mėlynis
@@ -177537,6 +178958,8 @@ storašaknis
 savašaknis
 bešaknis
 storšaknis
+Drobalieknis
+Žalialieknis
 Juodlieknis
 Kumelieknis
 Užulieknis
@@ -177547,6 +178970,7 @@ skustašiknis
 Tiknis
 Galaverknis
 Juknis
+Luknis
 Paluknis
 Alnis
 balnis
@@ -177638,6 +179062,7 @@ Pamėnkalnis
 Medinkalnis
 Klevinkalnis
 Runkalnis
+Malūnkalnis
 Medžiokalnis
 Pamedžiokalnis
 Užmedžiokalnis
@@ -177653,6 +179078,7 @@ Svirkalnis
 Totorkalnis
 Žiurkalnis
 Paraskalnis
+Druskalnis
 prieškalnis
 Laiškalnis
 Palaiškalnis
@@ -177682,6 +179108,7 @@ Apšukalnis
 Ažukalnis
 Vyžukalnis
 Užukalnis
+Lūkalnis
 Palūkalnis
 Kryžkalnis
 Beržkalnis
@@ -177714,6 +179141,7 @@ ilgavilnis
 švelniavilnis
 ožkavilnis
 plonavilnis
+Pavilnis
 trumpavilnis
 šiltavilnis
 Bulnis
@@ -177828,6 +179256,7 @@ Valionis
 Žvalionis
 Žalionis
 Drublionis
+Kidlionis
 Urbelionis
 Marcelionis
 Gaidelionis
@@ -177968,6 +179397,7 @@ Trijonis
 Audzijonis
 Garjonis
 Jurjonis
+Šventjonis
 Bakonis
 Jakonis
 Pakonis
@@ -178062,6 +179492,7 @@ Misiukonis
 Petiukonis
 Kaziukonis
 Jukonis
+Lukonis
 Balukonis
 Valukonis
 Šimukonis
@@ -178085,6 +179516,7 @@ Pravilonis
 Advilonis
 Povilonis
 klonis
+Klonis
 Dubaklonis
 Juodaklonis
 Mergaklonis
@@ -178092,6 +179524,7 @@ Mergaklonis
 Karšaklonis
 Kartaklonis
 įklonis
+Rokklonis
 Užuklonis
 užklonis
 polonis
@@ -178266,6 +179699,7 @@ duonis
 dykaduonis
 Saladuonis
 Baltaduonis
+Šventaduonis
 lengvaduonis
 beduonis
 Zieduonis
@@ -178282,11 +179716,14 @@ Pavajuonis
 Pavejuonis
 Pakuonis
 palikuonis
+Galuonis
 geluonis
 Paegluonis
 Antegluonis
 Kluonis
+Pacekluonis
 priekluonis
+Viemuonis
 pirmuonis
 Liepuonis
 ropuonis
@@ -178438,7 +179875,10 @@ trižingsnis
 dirgsnis
 Padysnis
 vadaksnis
+Vadaksnis
+Verdeksnis
 sieksnis
+Lyksnis
 Palyksnis
 blyksnis
 dryksnis
@@ -178535,11 +179975,13 @@ gulekšnis
 šaltekšnis
 ožekšnis
 Pavabalkšnis
+Vienavalkšnis
 Pavienovalkšnis
 kulkšnis
 Pavinkšnis
 Garunkšnis
 ledokšnis
+Pakriokšnis
 vėjokšnis
 Vilkokšnis
 balokšnis
@@ -178565,6 +180007,7 @@ Blotnis
 Makartnis
 Igaunis
 Ingaunis
+Briaunis
 daugiabriaunis
 penkiabriaunis
 aštriabriaunis
@@ -178577,6 +180020,7 @@ antbriaunis
 kriaunis
 Antakriaunis
 briedkriaunis
+Juodkriaunis
 Ažukriaunis
 jaunis
 Jaunis
@@ -178585,10 +180029,12 @@ pojaunis
 Meškapjaunis
 Briedpjaunis
 Juodpjaunis
+Striūnpjaunis
 Garspjaunis
 Alaunis
 Galaunis
 šlaunis
+Šlaunis
 Pašlaunis
 antšlaunis
 Spraunis
@@ -178616,6 +180062,7 @@ bandšunis
 vilkšunis
 pusšunis
 paukštšunis
+Stunis
 Bražunis
 Gūnis
 Žagūnis
@@ -178795,7 +180242,9 @@ pokrypis
 nuokrypis
 vienstypis
 nuoalpis
+Karvelpis
 Kilpis
+Pilpis
 švilpis
 Ulpis
 Kulpis
@@ -178832,6 +180281,7 @@ Meškakampis
 Varnakampis
 Jaunakampis
 pakampis
+Narakampis
 Bajorakampis
 Netičkampis
 Gučkampis
@@ -178839,6 +180289,7 @@ bekampis
 Bekampis
 priekampis
 trikampis
+Trikampis
 netrikampis
 įkampis
 septynkampis
@@ -178853,6 +180304,7 @@ Ažukampis
 Užukampis
 Briedžkampis
 užkampis
+Klampis
 pimpis
 Pimpis
 pliumpis
@@ -178901,6 +180353,7 @@ ortarpis
 ilgavarpis
 trivarpis
 žemvarpis
+Kerpis
 šerpis
 šilkaverpis
 šilkverpis
@@ -178916,177 +180369,497 @@ Kurpis
 antkurpis
 jaspis
 Upis
+Kliaupis
 Pakliaupis
 Striaupis
 Naujaupis
 Pamiškaupis
+Karklaupis
 Senaupis
+Jonaupis
+Varnaupis
+Bernaupis
 Paupis
 Lukštaraupis
 Traupis
 Straupis
+Grybupis
+Skalbupis
 Duobupis
+Baubupis
+Dubupis
+Lubupis
+Pocupis
+Švarcupis
+Bičupis
+Vičupis
+Karčupis
+Gedupis
+Briedupis
+Žiedupis
+Medupis
+Pelėdupis
+Svėdupis
+Gaidupis
+Didupis
+Kreidupis
+Vidupis
+Trydupis
+Vydupis
+Žydupis
+Maldupis
 Saldupis
 Geldupis
 Mildupis
+Suldupis
+Gelandupis
+Grindupis
+Skrodupis
+Sodupis
 Juodupis
 Pajuodupis
 Skardupis
 Skerdupis
+Verdupis
+Smirdupis
+Urdupis
 Skriaudupis
+Raudupis
+Graudupis
+Skraudupis
+Spudupis
+Rudupis
 Skrudupis
+Būdupis
 Užbūdupis
 Rūdupis
+Prūdupis
+Lazdupis
+Strazdupis
+Gvaizdupis
+Žiegždupis
 Gargždupis
+Žvirgždupis
 gupis
+Ragupis
+Degupis
 Padegupis
+Diegupis
+Kunigupis
+Žvygupis
+Stalgupis
 Žvalgupis
+Smilgupis
+Spangupis
+Telingupis
+Ringupis
+Žiogupis
+Logupis
 Rogupis
 Margupis
+Sargupis
 Mergupis
+Virgupis
+Jurgupis
 Daugupis
 Padaugupis
+Reizgupis
 Pareizgupis
+Načiupis
+Deičiupis
+Peičiupis
 Žilvičiupis
+Grivančiupis
+Levenčiupis
 Bočiupis
 Karčiupis
 Pirčiupis
+Drūčiupis
 Lėliupis
 Sėliupis
+Moliupis
+Aukštuoliupis
+Varliupis
+Lašiupis
+Nadžiupis
+Briedžiupis
 Gaidžiupis
+Didžiupis
+Kodžiupis
 Kuodžiupis
 Gudžiupis
+Vėžiupis
+Jaujupis
+Kraujupis
 Ledakupis
+Medakupis
 Šakupis
+Mickupis
+Mockupis
+Juodkupis
+Čekupis
 Čiekupis
+Liekupis
+Vaitiekupis
+Gadeikupis
+Valeikupis
+Vaineikupis
+Noreikupis
+Gikupis
 Alkupis
 Paalkupis
+Malkupis
+Valkupis
+Mielkupis
 Pelkupis
 Vilkupis
+Dulkupis
+Cinkupis
+Burliokupis
+Lokupis
+Rokupis
+Prokupis
+Luokupis
+Puokupis
+Smarkupis
+Šarkupis
+Starkupis
+Urkupis
+Žiurkupis
 Druskupis
 Šeškupis
+Poškupis
+Stoškupis
 Ratkupis
+Vitkupis
+Daukupis
+Laukupis
+Plaukupis
+Vaičiukupis
+Šukupis
 Ažukupis
+Ožkupis
+Balupis
+Galupis
+Kalupis
 Pakalupis
 Sakalupis
+Ožkalupis
+Malupis
+Žemalupis
+Tinalupis
+Salupis
 Pasalupis
+Skroblupis
 Obelupis
+Duobelupis
+Kisielupis
+Kumelupis
+Tyrelupis
+Pirtelupis
+Karvelupis
+Gėlupis
+Vėgėlupis
+Mėlupis
 Eglupis
 Ėglupis
+Žioglupis
+Dobilupis
 Gilupis
+Kilupis
 Pilupis
+Šilupis
+Žilupis
+Karklupis
+Olupis
 Molupis
 Pamolupis
+Šolupis
+Tolupis
+Ąžuolupis
 Aržuolupis
+Skarlupis
+Varlupis
+Paslupis
+Kiaulupis
+Kidulupis
 Drulupis
+Pievulupis
 Kūlupis
+Drūlupis
+Lumupis
+Samanupis
+Šaltanupis
+Plienupis
+Šienupis
+Kulenupis
+Akmenupis
 senupis
+Senupis
+Lėnupis
+Balėnupis
+Gavėnupis
 Gervėnupis
 Dainupis
+Medinupis
+Treinupis
+Ginupis
+Trinupis
+Katinupis
+Pentinupis
 Sparvinupis
+Skalbynupis
 Lazdynupis
+Lynupis
+Eglynupis
+Krynupis
 Skrynupis
+Neknupis
+Puknupis
+Alnupis
 Balnupis
+Kalnupis
 Užkalnupis
 Kelnupis
+Velnupis
+Onupis
+Bagdonupis
 Raudonupis
 Jonupis
 Stonupis
+Karnupis
+Skarnupis
 Varnupis
 Šernupis
+Dirnupis
+Girnupis
+Svirnupis
 Pasvirnupis
+Žirnupis
+Urnupis
+Gurnupis
+Alksnupis
 Elksnupis
+Versnupis
+Viekšnupis
 Paviekšnupis
 Vinkšnupis
+Šerkšnupis
+Viukšnupis
 Daunupis
+Kiaunupis
 Šunupis
 Vijūnupis
 Brūnupis
+Kirkšnoupis
+Kapupis
+Lapupis
 Liepupis
 klampupis
+Klampupis
 tarpupis
 Tarpupis
+Rupis
+Karupis
 Varupis
+Dvarupis
+Dabrupis
+Sidabrupis
+Lendrupis
 Ūdrupis
 Paberupis
+Gerupis
+Kerupis
 Pakerupis
 Nerupis
+Šerupis
+Verupis
+Tverupis
+Ežerupis
 Paežerupis
+Ėrupis
+Gėrupis
+Vėrupis
+Žvėrupis
 Vingrupis
 pogrupis
+Girupis
 Pagirupis
+Sirupis
+Neivirupis
 apyrupis
+Tyrupis
+Dorupis
+Norupis
+Duorupis
+Mekšrupis
 Vikšrupis
+Aušrupis
 Taurupis
 vidurupis
+Nurupis
 Dūrupis
 Jūrupis
+Pūrupis
 Sūrupis
 Tūrupis
+Nasupis
+Degesupis
+Kvesupis
 Gaisupis
+Graisupis
+Vaisupis
+Kuisupis
+Auksupis
 Alsupis
+Balsupis
 Pilsupis
 Uosupis
+Dirsupis
+Kusupis
+Blusupis
+Pusupis
+Ūsupis
 Lašupis
+Vąšupis
 Senšešupis
 Gėšupis
+Daugšupis
 Raišupis
 Vaišupis
 Mieleišupis
+Kališupis
+Lašišupis
+Lyšupis
 Palyšupis
+Kamšupis
+Ošupis
 Tamošupis
+Rupšupis
+Paršupis
+Geršupis
 Giršupis
 Viršupis
 Kuršupis
+Liaušupis
+Šiaušupis
+Lokaušupis
+Kernušupis
+Kūšupis
+Gatupis
+Katupis
 Patupis
 Padratupis
+Statupis
 vištatupis
+Pietupis
+Kvietupis
 Šėtupis
+Rūgtupis
+Žemaitupis
+Vaitupis
+Bitupis
+Glitupis
+Mitupis
 Alytupis
+Plytupis
+Antytupis
+Vilktupis
+Drūktupis
 Baltupis
+Maltupis
 šaltupis
 Šaltupis
 Pašaltupis
+Taltupis
+Miltupis
+Šiltupis
 kūltupis
+Kutantupis
 Serbentupis
 Lentupis
 Šventupis
 Žegintupis
+Čiotupis
 Jotupis
 Bartupis
 Pabartupis
 Kartupis
+Pakartupis
 Sartupis
 Tartupis
 Kertupis
 Smertupis
+Sertupis
 Pasertupis
 Gastupis
 Mastupis
+Rastupis
+Pestupis
 Skaistupis
+Paraistupis
+Daugistupis
+Kristupis
+Postupis
+Skerstupis
 Girstupis
+Mustupis
 Beštupis
+Mištupis
+Vištupis
+Rakštupis
 Šiekštupis
 Pašiekštupis
+Aukštupis
+Paukštupis
+Barštupis
+Narštupis
 Berštupis
+Tuštupis
+Jautupis
 Plautupis
 Tautupis
+Tvirbutupis
 Pelutupis
+Klutupis
+Klanutupis
+Drūtupis
 Šūtupis
+Beržtupis
+Ravupis
 Dievupis
+Pievupis
+Rievupis
+Gervupis
+Mazupis
 Gražupis
 Kražupis
+Rubežupis
+Miežupis
+Griežupis
+Geležupis
 Vėžupis
 Pavėžupis
+Ižupis
+Gaižupis
+Graižupis
+Mižupis
+Čyžupis
 Vyžupis
 Gelžupis
+Milžupis
+Ožupis
+Vožupis
 Beržupis
 Biržupis
 užupis
 Užupis
+Šliaužupis
 Laužupis
 Graužupis
 Gužupis
+Družupis
+Lūžupis
 palūpis
 vambralūpis
 storalūpis
@@ -179232,6 +181005,7 @@ pushektaris
 Viktaris
 Valtaris
 Gintaris
+Vaikštaris
 Šliautaris
 varis
 Varis
@@ -179267,6 +181041,7 @@ Gegiedždvaris
 Uždvaris
 žalvaris
 raudonvaris
+Jovaris
 pussvaris
 apyšvaris
 Lentvaris
@@ -179282,6 +181057,7 @@ fenilgyvsidabris
 etilgyvsidabris
 metilgyvsidabris
 Fabris
+Vebris
 kolibris
 ekslibris
 žambris
@@ -179315,6 +181091,7 @@ Pajudris
 sūdris
 Žiezdris
 Pažiezdris
+Žiegždris
 Bredberis
 Skeberis
 Veberis
@@ -179814,6 +181591,7 @@ prodiuseris
 kiauliašeris
 vilkašeris
 dispašeris
+Ešeris
 Fišeris
 mikšeris
 košeris
@@ -180035,8 +181813,13 @@ mauzeris
 Mauzeris
 brauzeris
 lūzeris
+Ilgažeris
 komivojažeris
 Naujažeris
+Balažeris
+Aklažeris
+Mindražeris
+Kreivažeris
 Džeris
 menedžeris
 tyneidžeris
@@ -180045,27 +181828,48 @@ Selindžeris
 Berindžeris
 Kisindžeris
 Rodžeris
+Aklaežeris
 Paežeris
+Riebežeris
+Pėčežeris
+Vinčežeris
 Marčežeris
+Pirčežeris
+Laukščežeris
+Švendežeris
 Juodežeris
 Gudežeris
+Ilgežeris
 Mergežeris
 Lūgežeris
+Krakežeris
 Trakežeris
 Pūčkežeris
 Vikežeris
+Vykežeris
+Vilkežeris
+Markežeris
 Miškežeris
 Lieležeris
 Keležeris
+Egležeris
+Šiležeris
+Nyležeris
 akležeris
 Akležeris
+Varležeris
+Verležeris
+Kurmežeris
 Laumežeris
 senežeris
 Vainežeris
+Šikinežeris
 Lynežeris
 Kalnežeris
+Velnežeris
 tarpežeris
 Girežeris
+Petrežeris
 Jurežeris
 Paršežeris
 Katežeris
@@ -180076,14 +181880,23 @@ Baltežeris
 Antežeris
 Šventežeris
 Raistežeris
+Pūstežeris
 tarpuežeris
 Užuežeris
+Gervežeris
+Veizežeris
+Buizežeris
 Vėžežeris
+Gyžežeris
 Kikižeris
 melanžeris
+Linžeris
 plunžeris
 Gliožeris
+Možeris
+Užuožeris
 Galvožeris
+Graužeris
 Klevžeris
 bėris
 Bėris
@@ -180106,6 +181919,7 @@ trižagris
 dvižagris
 Vygris
 Vengris
+Vingris
 žiogris
 Kugris
 airis
@@ -180178,6 +181992,7 @@ koziris
 yris
 byris
 Anadyris
+Gyris
 dviskyris
 poskyris
 atskyris
@@ -180353,6 +182168,7 @@ Dyburis
 pagumburis
 pogumburis
 vienburis
+Duoburis
 Šliuburis
 bestuburis
 nebestuburis
@@ -180372,6 +182188,7 @@ antduris
 užduris
 smaguris
 Smaguris
+Lunguris
 kiuris
 šiuris
 kuris
@@ -180428,6 +182245,7 @@ tarpmūris
 užmūris
 puspūris
 sūris
+Sūris
 Misūris
 apysūris
 posūris
@@ -180441,6 +182259,7 @@ ranktūris
 bestruktūris
 daugiakultūris
 Stūris
+Užris
 nelabasis
 Velbasis
 Juodasis
@@ -180450,6 +182269,7 @@ Agasis
 Ilgasis
 nelaimingasis
 mirtingasis
+Žaliasis
 dešiniausiasis
 Rūdakasis
 ilgakasis
@@ -180459,6 +182279,7 @@ molkasis
 Molkasis
 geltonkasis
 negeltonkasis
+Matokasis
 Užuperkasis
 mielasis
 trečiaklasis
@@ -181159,6 +182980,7 @@ apydrąsis
 žąsis
 debesis
 Debesis
+Burbesis
 Ubesis
 daugiaprocesis
 Papajiesis
@@ -181245,6 +183067,7 @@ Tbilisis
 užkulisis
 misis
 bekompromisis
+Vilpisis
 puskiparisis
 kuisis
 Kuisis
@@ -181259,6 +183082,7 @@ kairysis
 sysis
 dirbantysis
 pėstysis
+Aksis
 taksis
 chemotaksis
 Interleksis
@@ -181308,6 +183132,7 @@ prietamsis
 apytamsis
 potamsis
 pustamsis
+Dumsis
 Patumsis
 Nansis
 Fransis
@@ -181375,8 +183200,10 @@ ausis
 ilgaausis
 smailiaausis
 bobausis
+Dubausis
 gausis
 apygausis
+Peliausis
 Keniausis
 apyausis
 Smukausis
@@ -181400,6 +183227,7 @@ tarpuausis
 užausis
 Galadusis
 neįgalusis
+Gilusis
 Ramusis
 daugiapusis
 įvairiapusis
@@ -181464,6 +183292,7 @@ Viešis
 Lekešis
 Kemešis
 Lemešis
+Dūmešis
 pelanešis
 Kenešis
 lauknešis
@@ -181538,6 +183367,7 @@ klišis
 Tolišis
 Pribuišis
 Tribuišis
+Liuišis
 Tikuišis
 Giluišis
 Noruišis
@@ -181591,6 +183421,7 @@ pusparšis
 keršis
 Keršis
 juodkeršis
+Šienėperšis
 veršis
 Antaveršis
 įniršis
@@ -181603,10 +183434,12 @@ batviršis
 kietviršis
 antviršis
 kuršis
+Dubaušis
 kiaušis
 skystakiaušis
 minkštakiaušis
 bekiaušis
+Vilkiaušis
 vištkiaušis
 kriaušis
 pakriaušis
@@ -181639,6 +183472,7 @@ Daniušis
 Maniušis
 Beniušis
 Deniušis
+Kambriušis
 Andriušis
 triušis
 Šiušis
@@ -181663,6 +183497,7 @@ Vainušis
 Sinušis
 Jonušis
 pušis
+Apušis
 Laukiapušis
 Kvietkapušis
 Epušis
@@ -181681,6 +183516,7 @@ Martušis
 pardadūšis
 Pakadūšis
 Viliūšis
+Šiūšis
 kūšis
 lūšis
 Lūšis
@@ -181695,6 +183531,8 @@ Raudonpamūšis
 Geltonpamūšis
 Baltpamūšis
 Pramūšis
+Jaučimūšis
+Bajormūšis
 protmūšis
 rūšis
 trečiarūšis
@@ -182303,6 +184141,7 @@ bevietis
 Dievietis
 vievietis
 kijevietis
+Žagvietis
 trivietis
 dvivietis
 Šakvietis
@@ -182357,6 +184196,7 @@ reketis
 Reketis
 Verketis
 Virketis
+Rešketis
 Parešketis
 Rėšketis
 Baršketis
@@ -182878,6 +184718,7 @@ Krakaitis
 Prakaitis
 Sakaitis
 Kasakaitis
+Intakaitis
 Kazakaitis
 Žakaitis
 Zubkaitis
@@ -182897,6 +184738,7 @@ Pričkaitis
 puodkaitis
 Čekaitis
 Lydekaitis
+Liekaitis
 Pliekaitis
 Vaitiekaitis
 Motiekaitis
@@ -183012,6 +184854,7 @@ Vaškaitis
 Meškaitis
 Peškaitis
 Šeškaitis
+Paneikiškaitis
 Poniškaitis
 Griškaitis
 Poškaitis
@@ -183138,6 +184981,8 @@ Brūvelaitis
 Mazelaitis
 Enzelaitis
 Mieželaitis
+Bėlaitis
+Gėlaitis
 Dangėlaitis
 viešpatėlaitis
 baltytėlaitis
@@ -183149,6 +184994,7 @@ baltutėlaitis
 tuštutėlaitis
 mažutėlaitis
 Eglaitis
+Gieglaitis
 Žėglaitis
 jogailaitis
 Jogailaitis
@@ -183283,6 +185129,7 @@ Maksimaitis
 Zimaitis
 vežimaitis
 Jokymaitis
+Žilmaitis
 Adomaitis
 Manomaitis
 Abromaitis
@@ -183357,6 +185204,8 @@ Kristinaitis
 Augustinaitis
 Kraštinaitis
 Sravinaitis
+Seliovinaitis
+Srovinaitis
 Litvinaitis
 Kežinaitis
 Kėžinaitis
@@ -183401,6 +185250,7 @@ Steponaitis
 Baronaitis
 Žaronaitis
 Petronaitis
+Vyžuonaitis
 Ivonaitis
 tarnaitis
 Varnaitis
@@ -183460,6 +185310,7 @@ Kaupaitis
 Viskupaitis
 Vyskupaitis
 Trilupaitis
+Kumpupaitis
 Juozupaitis
 caraitis
 Kvedaraitis
@@ -183568,6 +185419,7 @@ Masaitis
 Tarasaitis
 Zarasaitis
 Ambrasaitis
+Krasaitis
 Stasaitis
 Vasaitis
 Navasaitis
@@ -183714,6 +185566,8 @@ Martutaitis
 Kęstutaitis
 Mažutaitis
 Liūtaitis
+Gilūtaitis
+Gavaitis
 Pagavaitis
 Javaitis
 Navaitis
@@ -183753,6 +185607,7 @@ Pustovaitis
 Dervaitis
 Kirvaitis
 Širvaitis
+Nasvaitis
 Latvaitis
 Litvaitis
 Unguvaitis
@@ -183769,6 +185624,7 @@ Lizaitis
 Lozaitis
 Ambrozaitis
 Juozaitis
+Skirzaitis
 Buzaitis
 Guzaitis
 Juzaitis
@@ -183778,6 +185634,7 @@ Ližaitis
 Šližaitis
 Rožaitis
 Brožaitis
+Gruožaitis
 Varžaitis
 Viržaitis
 Drabužaitis
@@ -183997,6 +185854,7 @@ traukytis
 ūkytis
 rūkytis
 lytis
+Lytis
 dalytis
 skandalytis
 daugialytis
@@ -184109,6 +185967,7 @@ tąsytis
 knaisytis
 taisytis
 vaisytis
+Uosytis
 klausytis
 rausytis
 pašytis
@@ -184229,6 +186088,7 @@ Kelmavytis
 Budvytis
 Judvytis
 Būdvytis
+Dievytis
 Padievytis
 blaivytis
 maivytis
@@ -184268,6 +186128,7 @@ daužytis
 čiaužytis
 gniaužytis
 laužytis
+Vadaktis
 juodakaktis
 plačiakaktis
 plikakaktis
@@ -184400,6 +186261,7 @@ suktis
 dūktis
 niūktis
 plūktis
+Drūktis
 baltis
 Baltis
 Pabaltis
@@ -184469,6 +186331,7 @@ gultis
 kultis
 pultis
 prapultis
+Dupultis
 rutultis
 antgamtis
 ramtis
@@ -184546,6 +186409,7 @@ visažinantis
 nevisažinantis
 pantis
 rantis
+Narantis
 Pažnarantis
 įkrantis
 atkrantis
@@ -185284,6 +187148,7 @@ tvylotis
 klotis
 sausaklotis
 šmėklotis
+Karklotis
 plotis
 lygiaplotis
 įvairiaplotis
@@ -185301,6 +187166,7 @@ Paramotis
 žiemotis
 nuomotis
 grūmotis
+Žiuržmotis
 Pažiuržmotis
 garbanotis
 strazdanotis
@@ -185334,6 +187200,7 @@ kapotis
 lapotis
 kilpotis
 klampotis
+Kumpotis
 kanopotis
 kuopotis
 kabarotis
@@ -185344,6 +187211,7 @@ Pavarotis
 kerotis
 Kerotis
 sklerotis
+Nerotis
 Panerotis
 grotis
 dorotis
@@ -185545,6 +187413,7 @@ alkūniuotis
 gūbriuotis
 ėriuotis
 spyriuotis
+Apšriuotis
 buriuotis
 vinguriuotis
 sūkuriuotis
@@ -186133,6 +188002,7 @@ smertis
 nertis
 pertis
 šertis
+Motertis
 vertis
 lygiavertis
 nelygiavertis
@@ -186217,6 +188087,7 @@ rastis
 Žydabrastis
 Vilkabrastis
 Vinkšnabrastis
+Juodbrastis
 Šventybrastis
 Raudonbrastis
 Dobrastis
@@ -186246,6 +188117,7 @@ dobstis
 prieglobstis
 bestis
 Rūdabestis
+Molbestis
 destis
 Nigestis
 skiestis
@@ -186282,6 +188154,7 @@ atmokestis
 užmokestis
 lūkestis
 lestis
+Lestis
 gailestis
 mestis
 rūpestis
@@ -186289,6 +188162,7 @@ Debrestis
 krestis
 vestis
 įvestis
+Nepervestis
 išvestis
 kęstis
 blęstis
@@ -186302,6 +188176,7 @@ tęstis
 skėstis
 klėstis
 plėstis
+Debrėstis
 krėstis
 sėstis
 smaigstis
@@ -186312,7 +188187,9 @@ kaistis
 akikaistis
 skaistis
 Skaistis
+Paskaistis
 Ašlaistis
+Bitlaistis
 Bobaraistis
 Dubaraistis
 Juodaraistis
@@ -186342,6 +188219,7 @@ Novaraistis
 Gervaraistis
 Ašvaraistis
 Buzaraistis
+Laužaraistis
 Juodraistis
 Pajuodraistis
 Laukraistis
@@ -186360,12 +188238,14 @@ apykeistis
 leistis
 paleistis
 skleistis
+Varleistis
 speistis
 teistis
 veistis
 šveistis
 žeistis
 sklistis
+Rėdimistis
 knistis
 spistis
 ristis
@@ -186398,6 +188278,7 @@ antslenkstis
 užslenkstis
 antinkstis
 tvokstis
+Alaukstis
 bukstis
 Palūkstis
 belstis
@@ -186449,6 +188330,7 @@ kūlvirstis
 austis
 baustis
 skliaustis
+Skliaustis
 kniaustis
 griaustis
 skriaustis
@@ -186472,6 +188354,7 @@ Augustis
 skustis
 pustis
 skrustis
+Šustis
 Užšustis
 siųstis
 skųstis
@@ -186583,6 +188466,7 @@ storalakštis
 ielakštis
 makštis
 rakštis
+Rakštis
 Aukrakštis
 Ažušiekštis
 Šekštis
@@ -186598,11 +188482,15 @@ Nemeikštis
 reikštis
 naujakrikštis
 Luodykštis
+Dringykštis
 Ligajykštis
+Vėlykštis
 pošlykštis
+Taramykštis
 pirmykštis
 nebepirmykštis
 Anykštis
+Samanykštis
 šiandienykštis
 tenykštis
 netenykštis
@@ -186617,13 +188505,16 @@ dabarnykštis
 pernykštis
 užpernykštis
 Dysnykštis
+Nemunykštis
 dabarykštis
 vakarykštis
 užvakarykštis
 Baluošykštis
 rytykštis
 Smalvykštis
+Želvykštis
 švykštis
+Vienavalkštis
 ankštis
 garankštis
 krankštis
@@ -186709,6 +188600,7 @@ Drobūkštis
 žmogiūkštis
 vaikiūkštis
 vilkiūkštis
+Kaliūkštis
 Mikaliūkštis
 žvirbliūkštis
 Meliūkštis
@@ -186725,6 +188617,7 @@ namiūkštis
 Aniūkštis
 romaniūkštis
 velniūkštis
+Velniūkštis
 varniūkštis
 berniūkštis
 šerniūkštis
@@ -186793,6 +188686,7 @@ tuštis
 apytuštis
 pustuštis
 nepustuštis
+Paglūštis
 autis
 grybautis
 badautis
@@ -186857,9 +188751,11 @@ brautis
 bendrautis
 teirautis
 krautis
+Vorautis
 smėliasrautis
 posrautis
 meistrautis
+Kesautis
 smalsautis
 šautis
 pranašautis
@@ -186927,6 +188823,7 @@ Girdutis
 gaudutis
 Gaudutis
 Skriaudutis
+Maudutis
 dudutis
 Dudutis
 skudutis
@@ -186944,6 +188841,7 @@ Ligutis
 Grigutis
 Sigutis
 Žigutis
+Lygutis
 Žygutis
 dalgutis
 Ilgutis
@@ -186995,6 +188893,7 @@ likutis
 Mikutis
 Pikutis
 klierikutis
+Grikutis
 tikutis
 Tikutis
 zuikutis
@@ -187005,6 +188904,7 @@ lenkutis
 Lenkutis
 menkutis
 pusbonkutis
+Monkutis
 juokutis
 Markutis
 Kirkutis
@@ -187020,6 +188920,7 @@ braškutis
 traškutis
 taškutis
 meškutis
+Meškutis
 treškutis
 šeškutis
 Šeškutis
@@ -187072,6 +188973,7 @@ Meilutis
 Gilutis
 Milutis
 Vilutis
+Aklutis
 kuklutis
 Tolutis
 šlamutis
@@ -187105,6 +189007,7 @@ pinutis
 lieknutis
 Kalnutis
 švelnutis
+Vilnutis
 Pavilnutis
 Jonutis
 plonutis
@@ -187125,6 +189028,7 @@ pleputis
 Šeputis
 liputis
 kamputis
+Klamputis
 Pumputis
 trumputis
 varputis
@@ -187187,6 +189091,7 @@ Lesutis
 Teisutis
 Auksutis
 Smalsutis
+Vensutis
 Narsutis
 Klausutis
 Nausutis
@@ -187210,6 +189115,7 @@ nekaltutis
 šiltutis
 Gintutis
 Kontutis
+Skaptutis
 bastutis
 paprastutis
 Kęstutis
@@ -187217,6 +189123,7 @@ Skaistutis
 vaistutis
 Geistutis
 Kristutis
+Vystutis
 Liakstutis
 Lekstutis
 Raštutis
@@ -187249,9 +189156,11 @@ Senaūtis
 būtis
 nebūtis
 Pagirgždūtis
+Bogūtis
 liūtis
 Baliūtis
 paliūtis
+Smailiūtis
 kliūtis
 Šimoniūtis
 griūtis
@@ -187262,6 +189171,7 @@ pojūtis
 pjūtis
 papjūtis
 rugpjūtis
+Gilūtis
 pūtis
 kiaurapūtis
 užpūtis
@@ -187269,6 +189179,7 @@ ožiarūtis
 drūtis
 apydrūtis
 krūtis
+Krūtis
 užkrūtis
 žūtis
 pražūtis
@@ -187328,9 +189239,14 @@ Malavis
 Pasamavis
 vienanavis
 trinavis
+Melnyčravis
+Spadravis
+Didravis
 Gudravis
 Uždravis
 gravis
+Blusravis
+Didžravis
 tarpusavis
 apyerdvis
 poerdvis
@@ -187348,11 +189264,14 @@ papievis
 Papievis
 Dvarapievis
 Lašapievis
+Daržapievis
+Klyčpievis
 Špitolpievis
 tarppievis
 Kumšpievis
 vidupievis
 tarpupievis
+Vėžpievis
 užpievis
 Užurievis
 Vievis
@@ -187364,6 +189283,7 @@ Paklevis
 Šlevis
 Nevis
 Trutnevis
+Cibrevis
 Grevis
 Kaževis
 Pudževis
@@ -187560,6 +189480,7 @@ nevienspalvis
 raudonspalvis
 geltonspalvis
 atspalvis
+Salvis
 šalvis
 Šalvis
 Svalvis
@@ -187576,7 +189497,11 @@ storpilvis
 antpilvis
 žilvis
 dovis
+Cukoliovis
+Juodgriovis
+Cudgriovis
 antgriovis
+Ciugriovis
 Užugriovis
 užgriovis
 bendraatsakovis
@@ -187592,6 +189517,7 @@ mėslovis
 Puslovis
 linarovis
 drovis
+Žižmiagrovis
 savikrovis
 garasrovis
 antsrovis
@@ -187643,6 +189569,7 @@ kryžgatvis
 užgatvis
 latvis
 Latvis
+Pietvis
 trigraižtvis
 čiabuvis
 senbuvis
@@ -187664,6 +189591,7 @@ Pūdžiuvis
 linkuvis
 Palaukuvis
 Pageluvis
+Lieluvis
 baltabruvis
 geltonbruvis
 šviesbruvis
@@ -187684,6 +189612,7 @@ paleistuvis
 pusleistuvis
 grūstuvis
 muštuvis
+Kutuvis
 žuvis
 Bežuvis
 liežuvis
@@ -187746,6 +189675,7 @@ mafijozis
 disprozis
 niektauzis
 kuzis
+Striungiabrūzis
 Grabažis
 Panebažis
 Mieldažis
@@ -187818,6 +189748,7 @@ plokštvežis
 srutvežis
 medgręžis
 bėžis
+Mėžis
 Nemėžis
 Paymėžis
 Urnėžis
@@ -187835,6 +189766,10 @@ tarpuvėžis
 šiknalaižis
 puodlaižis
 dangoraižis
+Meižis
+Raudonmeižis
+Varnaližis
+Nižis
 Kritižis
 Pakritižis
 Muižis
@@ -187858,11 +189793,13 @@ skersdryžis
 Ilgavyžis
 Piktavyžis
 Devyžis
+Balžis
 Gelžis
 Velžis
 karvamilžis
 primilžis
 išmilžis
+Katmilžis
 tulžis
 ilgaamžis
 neilgaamžis
@@ -187877,6 +189814,7 @@ vienamžis
 viduramžis
 pusamžis
 Božis
+Ringožis
 varložis
 mažmožis
 grožis
@@ -187889,6 +189827,7 @@ Nedėldaržis
 diendaržis
 vyndaržis
 bandodaržis
+Masdaržis
 Kataržis
 Beržis
 paberžis
@@ -187908,6 +189847,7 @@ babaužis
 Pagriaužis
 Zagriaužis
 šiaudalaužis
+Vėtralaužis
 ledlaužis
 bangolaužis
 Užlaužis
@@ -187937,11 +189877,14 @@ Stabužis
 Raibužis
 Albužis
 Drobužis
+Duobužis
 Dubužis
 Andužis
 Bagužis
 gegužis
 Gegužis
+Ringužis
+Dargužis
 draugužis
 kiužis
 žiužis
@@ -187953,6 +189896,7 @@ Balužis
 Valužis
 Belužis
 Gelužis
+Gėlužis
 meilužis
 Gilužis
 Šilagilužis
@@ -188024,6 +189968,7 @@ Klimbys
 Gumbys
 Lumbys
 Klumbys
+Grumbys
 Žumbys
 Globys
 žemgrobys
@@ -188096,6 +190041,7 @@ Sličys
 Tričys
 Vičys
 Padurpinyčys
+Pamelnyčys
 Pagronyčys
 Balčys
 Kalčys
@@ -188143,6 +190089,7 @@ Kedys
 paledys
 Medys
 Pamedys
+Tiltmedys
 Šedys
 keliavedys
 vaikavedys
@@ -188151,6 +190098,7 @@ jaunavedys
 laivavedys
 Raivedys
 Kvedys
+Viekvedys
 ūkvedys
 kelvedys
 barvedys
@@ -188217,6 +190165,7 @@ Skeberdys
 Meškerdys
 Girdys
 paširdys
+Baudys
 Paprabaudys
 šungaudys
 paukštgaudys
@@ -188263,6 +190212,7 @@ Gverždys
 dagys
 Dagys
 kadagys
+Žendagys
 Gagys
 Magys
 Nagys
@@ -188272,6 +190222,7 @@ Stačiaragys
 Trumpragys
 Saltragys
 Stragys
+Gūragys
 Ažagys
 Čegys
 Degys
@@ -188324,6 +190275,7 @@ Bungys
 Kungys
 Lungys
 Klungys
+Rungys
 Drungys
 Strungys
 Stungys
@@ -188378,6 +190330,7 @@ Pabaltijys
 Pajotijys
 Pagojys
 pakojys
+Pakojys
 Laukojys
 Paperlojys
 Kamojys
@@ -188388,8 +190341,10 @@ Pavidaujys
 Padrujys
 paakys
 Bakys
+Gumbakys
 Žumbakys
 Juodakys
+Laumiakys
 Jakys
 Lakys
 Smalakys
@@ -188417,9 +190372,11 @@ Batakys
 vilktakys
 Baltakys
 peltakys
+Santakys
 Labotakys
 Bastakys
 verstakys
+Ištakys
 Jackys
 Račkys
 Pečkys
@@ -188437,6 +190394,7 @@ pėdsekys
 Versekys
 Paaptekys
 Žekys
+Pasėkys
 Pajuodikys
 Pleikys
 Gikys
@@ -188477,6 +190435,7 @@ Pavašuokys
 Knapkys
 Pupkys
 Šarkys
+Derkys
 Mierkys
 Merkys
 Pamerkys
@@ -188544,6 +190503,7 @@ Lukys
 Plukys
 pasnukys
 Pukys
+Drukys
 Šukys
 Pašukys
 Tukys
@@ -188554,6 +190514,7 @@ Balys
 pabalys
 Pabalys
 Sabalys
+Vabalys
 Pajuodbalys
 Skaistbalys
 Gražbalys
@@ -188627,6 +190588,7 @@ Lialys
 eiliakalys
 kakalys
 ginklakalys
+Pakalys
 atpakalys
 Žagrakalys
 auksakalys
@@ -188636,6 +190598,7 @@ akmenkalys
 varkalys
 Varkalys
 Perkalys
+Pamalys
 šūdmalys
 Smalys
 Palys
@@ -188666,6 +190629,7 @@ kamblys
 dramblys
 demblys
 kremblys
+Kremblys
 zvemblys
 Zemblys
 zvimblys
@@ -188679,6 +190643,7 @@ Skroblys
 Soblys
 Šoblys
 Duoblys
+Skarblys
 Stirblys
 Žvirblys
 burblys
@@ -188711,6 +190676,7 @@ Pelys
 Tepelys
 Trumpelys
 Surpelys
+Paupelys
 Keselys
 Kveselys
 Uoselys
@@ -188718,11 +190684,13 @@ Metelys
 Siautelys
 Dvelys
 Šėvelys
+Rūvelys
 Andzelys
 Bėlys
 padėlys
 Pandėlys
 perdėlys
+Gėlys
 lėlys
 smėlys
 Špėlys
@@ -188761,6 +190729,9 @@ Bilys
 Dilys
 Gilys
 Vingilys
+Bikilys
+Voškilys
+Milys
 papilys
 Papilys
 Rilys
@@ -188784,6 +190755,7 @@ Sylys
 aklys
 Aklys
 Kaklys
+Keklys
 Pakeklys
 meklys
 Reklys
@@ -188801,6 +190773,7 @@ Brinklys
 Žvinklys
 krioklys
 Krioklys
+Kroklys
 šoklys
 arklys
 Karklys
@@ -188835,6 +190808,7 @@ Bruklys
 suklys
 Šuklys
 Žuklys
+Asiūklys
 rūklys
 brūklys
 trūklys
@@ -188856,6 +190830,7 @@ obuolys
 Užobuolys
 branduolys
 Kuolys
+Luolys
 kamuolys
 gurvuolys
 Žuolys
@@ -188898,6 +190873,7 @@ Ruplys
 Kruplys
 Parlys
 varlys
+Varlys
 Pavarlys
 svarlys
 Švarlys
@@ -189048,6 +191024,7 @@ tvaikulys
 nykulys
 smilkulys
 tvinkulys
+Kunkulys
 sunkulys
 kriokulys
 dvokulys
@@ -189085,6 +191062,7 @@ gurulys
 kosulys
 šypsulys
 dusulys
+Šašulys
 nešulys
 krešulys
 kyšulys
@@ -189146,6 +191124,7 @@ vėžlys
 Švagžlys
 Kregžlys
 Kėgžlys
+Kriogžlys
 Švogžlys
 Žiugžlys
 Pugžlys
@@ -189165,6 +191144,7 @@ Samys
 Bučmys
 žiemys
 Žiemys
+Pažiemys
 žemys
 Žemys
 pažemys
@@ -189203,7 +191183,10 @@ Slanys
 Manys
 Kamanys
 Pakamanys
+Pasamanys
+Siemanys
 Pranys
+Tranys
 Patranys
 Kšanys
 Stanys
@@ -189235,6 +191218,7 @@ sodmenys
 audmenys
 Piemenys
 sėmenys
+Žeimenys
 Pažeimenys
 Linkmenys
 Merkmenys
@@ -189265,6 +191249,7 @@ Pavarėnys
 Blagnys
 Kragnys
 pagegnys
+Bedugnys
 Ainys
 Dainys
 Šiudainys
@@ -189273,11 +191258,13 @@ Pilakainys
 Benekainys
 Linkainys
 Žukainys
+Lainys
 Palainys
 veidmainys
 Jaglimainys
 Nainys
 Geranainys
+Palapainys
 rainys
 Rainys
 Grainys
@@ -189339,6 +191326,7 @@ bandinys
 užlandinys
 sprendinys
 grindinys
+Skodinys
 rodinys
 sodinys
 juodinys
@@ -189395,6 +191383,7 @@ Sriuoginys
 Sruoginys
 voginys
 marginys
+Varginys
 spirginys
 žirginys
 auginys
@@ -189415,10 +191404,12 @@ klojinys
 naujinys
 plakinys
 rakinys
+Krakinys
 sakinys
 šakinys
 siekinys
 tiekinys
+Lėkinys
 taikinys
 teikinys
 veikinys
@@ -189443,6 +191434,7 @@ pirkinys
 išpirkinys
 prėskinys
 ieškinys
+Brėškinys
 reiškinys
 troškinys
 traukinys
@@ -189510,7 +191502,9 @@ bėrinys
 nėrinys
 vėrinys
 svėrinys
+Pažvėrinys
 Grinys
+Vigirinys
 virinys
 tyrinys
 gurinys
@@ -189562,6 +191556,7 @@ keitinys
 ritinys
 Švitinys
 Pašvitinys
+Žaltinys
 veltinys
 sultinys
 tremtinys
@@ -189627,6 +191622,7 @@ brėžinys
 Paižinys
 raižinys
 linoraižinys
+Bižinys
 grįžinys
 dryžinys
 Šiožinys
@@ -189667,6 +191663,7 @@ Stuknys
 Balnys
 Lapkalnys
 Padruskalnys
+Tralnys
 Salnys
 Elnys
 rankpelnys
@@ -190227,12 +192224,15 @@ Vaišnys
 Voišnys
 Rakšnys
 Dekšnys
+Šekšnys
 Vaikšnys
 Plikšnys
 šikšnys
 Šikšnys
 Valkšnys
+Vienavalkšnys
 Šerkšnys
+Kirkšnys
 Gurkšnys
 Bukšnys
 Pavardukšnys
@@ -190254,7 +192254,9 @@ Pakriaunys
 Jaunys
 pajaunys
 pjaunys
+Pjaunys
 Papjaunys
+Šaunys
 Taunys
 Zaunys
 Bunys
@@ -190263,6 +192265,7 @@ Lunys
 Punys
 šunys
 Ciūnys
+Paliūnys
 Padauniūnys
 Pastriūnys
 trūnys
@@ -190294,89 +192297,143 @@ Kampys
 Pakampys
 Kumpys
 Rumpys
+Daulinpys
 Šiopys
 Šopys
 Guopys
 Kruopys
 Šuopys
 Kirpys
+Gorpys
 Šiurpys
 Kaupys
 paupys
 Paupys
 raupys
 Raupys
+Kačupys
 Pažiedupys
 vidupys
+Trydupys
 Juodupys
 Pajuodupys
+Skardupys
+Skriaudupys
 Rudupys
 Rūdupys
 Ragupys
 Paragupys
 Algupys
+Dargupys
+Vargupys
 Daugupys
+Pečiupys
+Žalčiupys
+Grinčiupys
 Karčiupys
 Marčiupys
 Sėliupys
 Kiauliupys
+Velniupys
 Striupys
 Gaidžiupys
+Pamakupys
+Tekupys
+Likupys
 Alkupys
+Valkupys
 Vilkupys
+Lenkupys
+Kriokupys
+Surkupys
+Lėškupys
+Toškupys
+Barškupys
 Ratkupys
 Laukupys
+Ožkupys
 kailialupys
 varlialupys
 odlupys
 Velupys
 Eglupys
+Gailupys
 Pagilupys
 šunlupys
 Molupys
 Patolupys
+Užlupys
 žemupys
+Danupys
+Genupys
 Padainupys
+Vainupys
 Žeinupys
+Šlynupys
 Paskrynupys
 Pakalnupys
+Švelnupys
+Jonupys
 Varnupys
 Šernupys
+Vinkšnupys
+Putnupys
 Liūnupys
 Lapupys
+Liepupys
 Pabarupys
+Vėdrupys
 Mendrupys
 Audrupys
 Ūdrupys
 Berupys
+Kerupys
+Bėrupys
 Žvairupys
 Pavikšrupys
 Taurupys
 Šiūrupys
+Kriausupys
 Panausupys
 Ūsupys
 Pašešupys
 Pamaišupys
 Raišupys
 Paraišupys
+Vikšupys
+Rimšupys
 Veršupys
 Pagatupys
 Šaltupys
+Veltupys
 kultupys
 Šventupys
 Pašventupys
 Smertupys
 Gestupys
 Piestupys
+Skaistupys
+Pagraistupys
 Gristupys
+Lankstupys
+Pilstupys
 Leštupys
 Meištupys
+Šiekštupys
 aukštupys
+Narštupys
+Beržtupys
+Pievupys
 Pavyžupys
+Punžupys
 Daržupys
 Beržupys
+Biržupys
 Graužupys
 Pagraužupys
+Gužupys
+Striūpys
+Klūpys
 Arys
 Barys
 kambarys
@@ -190407,6 +192464,7 @@ pamarys
 Pamarys
 keimarys
 narys
+Papanarys
 sąnarys
 Šėparys
 Pauparys
@@ -190494,6 +192552,8 @@ Veiverys
 Voverys
 Šverys
 Pažerys
+Duobžerys
+Juodžerys
 Ežerys
 Paežerys
 Kėrys
@@ -190596,6 +192656,7 @@ Dyburys
 knyburys
 stimburys
 Stimburys
+Dumburys
 gumburys
 Stumburys
 kauburys
@@ -190636,6 +192697,7 @@ sturys
 Sturys
 Uturys
 būrys
+Pagūrys
 Stūrys
 Basys
 Valbasys
@@ -190652,7 +192714,9 @@ kalnakasys
 auksakasys
 duobkasys
 rūdkasys
+Rūdkasys
 molkasys
+Molkasys
 žemkasys
 durpkasys
 Lasys
@@ -190720,6 +192784,7 @@ dūzgesys
 džeržgesys
 Pajiesys
 Liesys
+Viesys
 šnekesys
 pašnekesys
 rėkesys
@@ -190752,6 +192817,7 @@ lūkesys
 Lesys
 vabzdžialesys
 lalesys
+Žalesys
 grūdlesys
 Žvelesys
 Eglesys
@@ -190811,6 +192877,7 @@ Gausys
 nuodėmklausys
 Galadusys
 Padusys
+Degusys
 Jusys
 Pažusys
 Paūsys
@@ -190830,6 +192897,7 @@ Stašys
 Kvašys
 Gabšys
 Slabšys
+Padrobšys
 Barbšys
 Urbšys
 Liubšys
@@ -190931,6 +192999,7 @@ skylmušys
 obuolmušys
 sviestmušys
 Jonušys
+Apušys
 Papušys
 Grušys
 kalbakrušys
@@ -190965,6 +193034,7 @@ retys
 Paneretys
 svetys
 dėtys
+Gėtys
 atmėtys
 kaminkrėtys
 Nopaitys
@@ -190978,6 +193048,7 @@ lapkritys
 Apskritys
 Kuitys
 nytys
+Knytys
 rytys
 Rytys
 parytys
@@ -190991,6 +193062,7 @@ Kuktys
 Baltys
 Pabaltys
 Kaltys
+Paltys
 Šaltys
 Valtys
 žaltys
@@ -191020,6 +193092,7 @@ Palaukščiotys
 Skiotys
 žiotys
 Jotys
+Karotys
 Kerotys
 paprotys
 Bartys
@@ -191071,6 +193144,8 @@ Rakštys
 Šiekštys
 Lekštys
 Rekštys
+Šekštys
+Šėkštys
 Baikštys
 nykštys
 Šmulkštys
@@ -191082,6 +193157,7 @@ Palukštys
 Rūkštys
 Kumštys
 Šnapštys
+Kepštys
 Barštys
 Žiautys
 Nautys
@@ -191111,6 +193187,7 @@ Pamavys
 Navys
 Dravys
 Pasandravys
+Jurgravys
 Palatavys
 Radvys
 Pievys
@@ -191143,6 +193220,7 @@ Pragalvys
 pakalvys
 Skalvys
 Spalvys
+Zalvys
 Elvys
 želvys
 Želvys
@@ -191173,10 +193251,12 @@ Pagaršvys
 Pašušvys
 pagatvys
 Latvys
+Meduvys
 batsiuvys
 Padotnuvys
 miegpuvys
 juodbruvys
+Prašuvys
 Pašešuvys
 Pamituvys
 Žuvys
@@ -191210,6 +193290,7 @@ Bražys
 Gražys
 Tažys
 Stažys
+Aukštažys
 važys
 paatogrąžys
 Kadžys
@@ -191217,6 +193298,7 @@ Vidžys
 Undžys
 Budžys
 ežys
+Ežys
 paežys
 Liežys
 Miežys
@@ -191274,6 +193356,7 @@ Velžys
 tulžys
 ožys
 Božys
+Ringožys
 Gliožys
 Ložys
 Buožys
@@ -191289,6 +193372,7 @@ streiklaužys
 tvarklaužys
 Graužys
 plunksnagraužys
+Pagraužys
 bužys
 Bužys
 Albužys
@@ -191792,6 +193876,7 @@ bledstvos
 Bagatstvos
 Beržtvos
 Vaduvos
+Sietuvos
 Matuizos
 Motūzos
 nuodrožos
@@ -191924,6 +194009,7 @@ skubus
 neskubus
 grubus
 negrubus
+Tubus
 Acus
 Šicus
 Focus
@@ -191934,6 +194020,7 @@ Niedus
 medus
 ėdus
 neėdus
+Mėdus
 pasėdus
 aidus
 užgaidus
@@ -192001,6 +194088,7 @@ nepavydus
 pamaldus
 nepamaldus
 saldus
+Saldus
 nebesaldus
 nesaldus
 valdus
@@ -192112,6 +194200,7 @@ pajėgus
 nebepajėgus
 nepajėgus
 nuojėgus
+Lėgus
 daigus
 nebedaigus
 nedaigus
@@ -192378,6 +194467,7 @@ Skričius
 Tričius
 Dziuričius
 Snitičius
+Piguičius
 Vičius
 Alabavičius
 Rabavičius
@@ -195117,6 +197207,7 @@ Milančius
 Mančius
 Žymančius
 Stančius
+Ivančius
 ražančius
 rožančius
 Enčius
@@ -195133,6 +197224,7 @@ Levenčius
 Švenčius
 Ženčius
 Inčius
+Dabinčius
 bobinčius
 Garbinčius
 Činčius
@@ -195146,7 +197238,9 @@ Ozolinčius
 mokslinčius
 išminčius
 Pinčius
+Žvėrinčius
 karšinčius
+Stinčius
 Končius
 Vilkončius
 Milončius
@@ -195176,6 +197270,7 @@ svoločius
 Svisločius
 garbanočius
 Kapočius
+Karpočius
 Ročius
 Skamaročius
 Naročius
@@ -195184,6 +197279,7 @@ kupročius
 ūsočius
 piniguočius
 kailiniuočius
+Akuniuočius
 šukuočius
 šluočius
 gauruočius
@@ -195214,9 +197310,11 @@ turčius
 Negasčius
 klasčius
 Rasčius
+Knyvasčius
 Lesčius
 Krisčius
 skysčius
+Deksčius
 valsčius
 Gusčius
 Jusčius
@@ -195232,6 +197330,7 @@ tovariščius
 Viščius
 Radyščius
 Dvarykščius
+Strankščius
 šaukščius
 Šaukščius
 Šiukščius
@@ -195247,6 +197346,7 @@ Juščius
 Puščius
 Aučius
 Gaučius
+Dangaučius
 Liaučius
 Karaliaučius
 Muliaučius
@@ -195389,6 +197489,7 @@ Vėlius
 Eglius
 Deglius
 Prieglius
+Ėglius
 Prėglius
 miglius
 Miglius
@@ -195517,6 +197618,7 @@ Klanius
 Slanius
 Manius
 samanius
+Samanius
 Nemanius
 Varanius
 Pranius
@@ -195633,6 +197735,7 @@ klumpius
 Karpius
 kurpius
 Kurpius
+Upius
 Pupius
 Abarius
 Darius
@@ -196344,6 +198447,7 @@ Grišius
 Katišius
 Zatišius
 Baltišius
+Šventišius
 Bartišius
 Martišius
 Kelevišius
@@ -196378,7 +198482,9 @@ Nekrošius
 Petrošius
 Lapšius
 paviršius
+Kriaušius
 Kaušius
+Kraušius
 glušius
 Blūšius
 pilvius
@@ -196390,6 +198496,7 @@ pizius
 gandrapizius
 rizius
 buizius
+Skirzius
 pliurzius
 murzius
 Būzius
@@ -196447,11 +198554,13 @@ Skardžius
 Vardžius
 kerdžius
 skerdžius
+Skerdžius
 Girdžius
 Skirdžius
 smirdžius
 pirdžius
 skurdžius
+Skriaudžius
 Skaudžius
 naudžius
 Naudžius
@@ -196867,6 +198976,7 @@ gojus
 Gojus
 Pagojus
 Ilgojus
+Bliauzgojus
 Trubeckojus
 Ruckojus
 Lukojus
@@ -196892,12 +199002,14 @@ vasarojus
 herojus
 antiherojus
 superherojus
+Orojus
 hemorojus
 Šojus
 tojus
 Svitojus
 rytojus
 Tolstojus
+Sustojus
 pavojus
 nepavojus
 Sudvojus
@@ -198481,6 +200593,7 @@ prievartus
 apyvartus
 neapyvartus
 Kertus
+Užkertus
 inertus
 nirtus
 kurtus
@@ -198761,6 +200874,7 @@ negražus
 važus
 pravažus
 pagiežus
+Vėžus
 ižus
 aižus
 čaižus
