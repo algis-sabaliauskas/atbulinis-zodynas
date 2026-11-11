@@ -7462,6 +7462,7 @@ egzistencialistiškėlesniąja
 egzistencija
 egzistuoja
 egzogamija
+egzoterija
 egzotropija
 eidinėja
 eiguliauja
@@ -8041,6 +8042,7 @@ fechtuotoja
 federacija
 federalizacija
 fejerija
+fekalija
 feminizacija
 fenestracija
 fenilketonurija
@@ -8154,6 +8156,7 @@ fitotoksiškesniąja
 fitotoksiškiausiąja
 fitotoksiškąja
 fitotoksiškėlesniąja
+fizikizacija
 fiziologija
 fizionomija
 fizioterapija
@@ -13749,6 +13752,7 @@ koaguliuosiančiąja
 koaguliuosimąja
 koaguliuotinąja
 koaguliuotąja
+koagulologija
 koaksialesniąja
 koaksialiausiąja
 koaksialiąja
@@ -14132,6 +14136,7 @@ konstrikcija
 konstrukcija
 konstruoja
 konstruotoja
+konsubstancija
 konsultacija
 konsultuoja
 kontaktiškesniąja
@@ -28564,6 +28569,7 @@ perdeleguosimąja
 perdeleguotinąja
 perdeleguotąja
 perdirbinėja
+perdirbėja
 perdirdavusiąja
 perdiriamąja
 perdiriančiąja
@@ -35488,6 +35494,7 @@ solidarizuosiančiąja
 solidarizuosimąja
 solidarizuotinąja
 solidarizuotąja
+solifliukcija
 solsticija
 solvatacija
 somalietiškąja
@@ -39905,6 +39912,7 @@ telekonferencija
 telemetrija
 teleologija
 telepatija
+telepatologija
 teleportacija
 teleportuoja
 televizija
@@ -80234,6 +80242,7 @@ dėslia
 dėsningiausia
 dūkia
 dūlia
+dūminyčia
 dūzgia
 dūšia
 džentelmeniškiausia
@@ -101928,6 +101937,7 @@ matoma
 mačijama
 mačydama
 mačysima
+mašinograma
 mažuma
 mecenuodama
 mecenuojama
@@ -101975,6 +101985,7 @@ mikroaneurizma
 mikrofilmuodama
 mikrofilmuojama
 mikrofilmuosima
+mikroforma
 mikroprograma
 mikroschema
 mikrosistema
@@ -115636,6 +115647,7 @@ braška
 brika
 britaniška
 britiška
+brička
 broliška
 brolžudiška
 bruka
@@ -116240,6 +116252,7 @@ iššika
 iššneka
 iššoka
 jamaikietiška
+japonistika
 japoniška
 jaunatviška
 jaunuoliška
@@ -116374,6 +116387,7 @@ klajokliška
 klajūniška
 klasika
 klasiška
+klaupka
 kleboniška
 kleka
 klemka
@@ -117327,6 +117341,7 @@ numirėliška
 numizmatika
 numunka
 nuobodoka
+nuodriska
 nuolaika
 nuolanka
 nuolinka
@@ -117338,6 +117353,7 @@ nuosmauka
 nuostabybiška
 nuotaika
 nuotaka
+nuoteka
 nuotrauka
 nuotuoka
 nuotvanka
@@ -120952,6 +120968,7 @@ glunda
 gnyda
 goda
 gonada
+govėda
 gramzda
 greitašauda
 grinda
@@ -123316,6 +123333,7 @@ konklava
 korektyva
 kova
 kraujosruva
+kraujosrūva
 kreiva
 krova
 krušliava
@@ -125243,6 +125261,7 @@ kamša
 kemša
 kerplėša
 kerša
+kimša
 kiša
 kliša
 kraujomaiša
@@ -126004,6 +126023,7 @@ dasipisa
 delsa
 dispensa
 drąsa
+dvasa
 esa
 gausa
 glosa

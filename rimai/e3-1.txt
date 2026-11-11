@@ -42957,6 +42957,7 @@ aukštybė
 aulakilpė
 aulininkė
 aulinė
+aulė
 aureolinė
 aureolė
 auselė
@@ -43084,6 +43085,7 @@ azotinė
 ašakainė
 ašakienė
 ašakinė
+ašakėlė
 ašarinė
 ašarytė
 ašarė
@@ -43931,6 +43933,7 @@ bolševikiškėlesnė
 bolševikė
 bombelė
 bombikė
+bombiukė
 bombytė
 bomžė
 boninė
@@ -44264,6 +44267,7 @@ chimeriškėlesnė
 chirurginė
 chirurgė
 chitininė
+chlamidijozė
 chlamidinė
 chlapūškė
 chloratinė
@@ -45695,6 +45699,7 @@ eilė
 eilėraštinė
 eismininkė
 eišiškietė
+eižė
 ekchimozė
 eketė
 ekipuotė
@@ -46569,6 +46574,7 @@ galvelė
 galvidė
 galvijininkystė
 galvijinė
+galvikė
 galvinė
 galvutė
 galvytė
@@ -47204,6 +47210,7 @@ grumzdė
 gruntinė
 grupelė
 grupinė
+grupiokė
 grupuotė
 grupė
 grutė
@@ -48446,6 +48453,7 @@ išnuomovė
 išnė
 išnėrė
 išorinė
+išorybė
 išorė
 išpaikėlė
 išpaišė
@@ -49364,6 +49372,7 @@ kaminkrėtystė
 kaminkrėtė
 kaminšluostė
 kamparinė
+kampelė
 kampilobakteriozė
 kampininkė
 kampinė
@@ -49813,6 +49822,7 @@ kelvedė
 kelvietė
 kempininė
 kempinligė
+kempinytė
 kempinė
 kempinėlė
 kempė
@@ -49968,6 +49978,7 @@ kiaušinienė
 kiaušininė
 kiaušiniškesnė
 kiaušiniškėlesnė
+kibererdvė
 kibernetinė
 kibirkštinė
 kibirkštėlė
@@ -50088,6 +50099,7 @@ kitašalė
 kitokesnė
 kitokybė
 kitokėlesnė
+kitybė
 kiurdė
 kiurkė
 kiuvetė
@@ -50698,6 +50710,7 @@ kranialinė
 kranininkė
 kraniofaringinė
 kraniosinostozė
+kranklė
 krankė
 krankštė
 krantinė
@@ -50970,6 +50983,7 @@ kunigaikštiškėlesnė
 kunigaikštystė
 kunigaikštytė
 kunigystė
+kunigė
 kuoduotė
 kuodė
 kuokelinė
@@ -51591,6 +51605,7 @@ literatūrologė
 litinė
 litodinaminė
 litofilinė
+litogenezė
 litogeninė
 litografinė
 litografė
@@ -52164,6 +52179,7 @@ medinašė
 medininkė
 medinė
 meditacinė
+mediumė
 medjuostė
 medkirtė
 medkojė
@@ -56598,6 +56614,7 @@ neįkyresnė
 neįkyrėlesnė
 neįmanesnė
 neįmanomesnė
+neįmanomybė
 neįmanomėlesnė
 neįmantresnė
 neįmantrėlesnė
@@ -56849,6 +56866,7 @@ normalinė
 normalė
 normanė
 normatyvinė
+normavalandė
 normelė
 norminė
 normochrominė
@@ -59350,6 +59368,7 @@ patvenkė
 patvindė
 patvirkėlė
 patvorinė
+patvorė
 patvėrė
 patyriminė
 patyrė
@@ -60451,6 +60470,7 @@ plebėjiškesnė
 plebėjiškėlesnė
 pleikė
 pleiskanė
+pleiskanėlė
 pleiskė
 pleištinė
 pleištiškesnė
@@ -60770,6 +60790,7 @@ pompinė
 ponaginė
 poniabudė
 poniatkė
+ponitėlė
 poniutė
 ponpalaikė
 pontoninė
@@ -60820,6 +60841,7 @@ poretė
 porevoliucinė
 porezekcinė
 poringė
+porininkė
 porinkiminė
 porinė
 pornografinė
@@ -62544,6 +62566,7 @@ pusdygė
 pusdykumė
 pusdykė
 pusdžiūvė
+puselipsė
 puselė
 pusfinalinė
 pusformė
@@ -63875,6 +63898,7 @@ sekliašaknė
 seklė
 sekmadieninė
 sekrecinė
+sekretorienė
 sekretorė
 seksistinė
 seksologinė
@@ -66732,6 +66756,7 @@ tekstolitinė
 tekstologinė
 tekstualinė
 tekstūrinė
+tektogenezė
 tektoninė
 tekšė
 teleangiektazinė
@@ -67050,6 +67075,7 @@ tižė
 tobulybė
 tocharė
 toiterjerė
+tokelė
 toksikologinė
 toksikologiškesnė
 toksikologiškėlesnė
@@ -67710,6 +67736,7 @@ uosynė
 uošvienė
 uošvynė
 uošvė
+upeivystė
 upeivė
 upelė
 upininkystė
@@ -68522,6 +68549,7 @@ vairalazdė
 vairasvirtė
 vairininkė
 vairinė
+vairolazdė
 vaisgraužė
 vaisienė
 vaisininkystė
@@ -68954,6 +68982,7 @@ viduramžė
 vidurietė
 vidurinė
 vidurkinė
+vidurybė
 viduržeminė
 vidusodė
 vidusuolė
@@ -69259,6 +69288,7 @@ vilninė
 vilniškė
 vilnonė
 vilnūnė
+vilutė
 vimdė
 vincentietė
 vindikacinė
@@ -69365,6 +69395,7 @@ visagalybė
 visagalė
 visaginietė
 visaliaudinė
+visaparinė
 visapusė
 visaregė
 visasąjunginė
@@ -69434,6 +69465,7 @@ vištukė
 vištvagė
 vištytiškė
 vištytė
+viščiukidė
 vodkė
 vogtinė
 vogė
@@ -69577,6 +69609,7 @@ ypatybė
 yrininkė
 yrė
 yzgė
+zacirkytė
 zagatovkė
 zaglūškė
 zajebatelskesnė
@@ -73620,6 +73653,7 @@ zūzė
 škurkė
 šlaistė
 šlaitinė
+šlaitkraštė
 šlakinė
 šlakstyklė
 šlakstė
@@ -74982,6 +75016,7 @@ zūzė
 žagė
 žaibinė
 žaidiminė
+žaidynė
 žaidė
 žaislininkė
 žaislinė
@@ -75154,6 +75189,7 @@ zūzė
 žiemažydė
 žiemgališkesnė
 žiemgališkėlesnė
+žiemgalė
 žiemietė
 žieminė
 žiemkentė
