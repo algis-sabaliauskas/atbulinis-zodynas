@@ -2,7 +2,7 @@
 <html lang="lt"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Atbulinis lietuvių kalbos žodynas – žodžiai nuo galo</title>
-<meta name="description" content="Nemokamas atbulinis (atgalinis, atvirkštinis) lietuvių kalbos žodynas: per 235 tūkst. žodžių, surikiuotų nuo galo. Ieškokite žodžių pagal galūnę ar priesagą – rimams, kryžiažodžiams, žodžių darybai.">
+<meta name="description" content="Nemokamas atbulinis (atgalinis, atvirkštinis) lietuvių kalbos žodynas: per 240 tūkst. žodžių, surikiuotų nuo galo. Ieškokite žodžių pagal galūnę ar priesagą – rimams, kryžiažodžiams, žodžių darybai.">
 <link rel="canonical" href="https://atbulinis.lt/">
 <link rel="alternate" hreflang="lt" href="https://atbulinis.lt/">
 <link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/">
@@ -12,7 +12,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="lt_LT">
 <meta property="og:title" content="Atbulinis lietuvių kalbos žodynas">
-<meta property="og:description" content="per 235 tūkst. lietuvių kalbos žodžių, surikiuotų nuo galo. Paieška pagal galūnę.">
+<meta property="og:description" content="per 240 tūkst. lietuvių kalbos žodžių, surikiuotų nuo galo. Paieška pagal galūnę.">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Atbulinis lietuvių kalbos žodynas","alternateName":["Atgalinis lietuvių kalbos žodynas","Atgalinis lietuvių kalbos žodynas","Atvirkštinis lietuvių kalbos žodynas","Inversinis lietuvių kalbos žodynas","Lithuanian reverse dictionary"],"description":"Lietuvių kalbos žodžių sąrašas, surikiuotas nuo žodžio galo (atbulinis žodynas), su paieška pagal galūnę.","inLanguage":"lt","url":"https://atbulinis.lt/","creator":{"@type":"Person","name":"Algimantas Sabaliauskas"},"isBasedOn":["https://github.com/ispell-lt/ispell-lt","https://universaldependencies.org/","https://unimorph.github.io/"],"license":"https://creativecommons.org/licenses/by-sa/4.0/","keywords":["atbulinis žodynas","atgalinis žodynas","atvirkštinis žodynas","inversinis žodynas","lietuvių kalba","galūnės","rimai","kryžiažodžiai"]}</script>
 <style>
 @font-face{font-family:"Source Serif 4";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/source-serif-4-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
@@ -200,7 +200,7 @@ main{padding:2px 16px 24px}
 #out .rh{column-span:all;font:700 .8rem var(--ui);letter-spacing:.07em;text-transform:uppercase;color:var(--mut);margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule)}#out .rh:first-child{margin-top:0}
 #out .rh.nr{color:var(--acc);margin-top:28px}#out .rh small{font:400 .85rem var(--ui);letter-spacing:0;text-transform:none;color:var(--mut);margin-left:.6em}
 
-#ikind{font:italic .92rem var(--serif);color:var(--mut);margin:2px 0 0}#ikind:empty{display:none}
+#ikind{font:italic .92rem var(--serif);color:var(--mut);margin:2px 0 0}#ikind:empty{display:none}#isrc{font:.8rem var(--sans,sans-serif);color:var(--mut);margin:2px 0 0}#isrc:empty{display:none}
 
 #imorf{font:.92rem var(--ui);color:var(--mut);margin:4px 0 0}#imorf b{font:600 1.02rem var(--serif);color:var(--fg);letter-spacing:.02em}#infobox #imorf a{all:unset;display:inline;color:var(--acc);font:.82rem var(--ui);text-decoration:underline;text-underline-offset:2px;cursor:pointer}#infobox #imorf a::after,#infobox #imorf a::before{content:none;display:none}#infobox #imorf a:focus-visible{outline:2px solid var(--acc)}
 
@@ -218,7 +218,7 @@ main{padding:2px 16px 24px}
 </div></div>
 <div class="filters"><label class="chk" id="sklab" hidden>rimas iš <select id="sk" aria-label="Kiek skiemenų rimuoti"><option value="1">1 skiemens</option><option value="2" selected>2 skiemenų</option><option value="3">3 skiemenų</option></select></label>
 <label class="chk" id="poslab"><span class="ln">kalbos dalis</span> <select id="pos" aria-label="Kalbos dalis"><option value="">visos</option><option value="1">daiktavardžiai</option><option value="2">būdvardžiai</option><option value="4">veiksmažodžiai</option><option value="8">kitos</option></select></label>
-<label class="chk"><span class="ln">dažnumas</span> <select id="fr" aria-label="Dažnumas"><option value="">visi žodžiai</option><option value="1">vartojami</option><option value="2">tik dažni</option></select></label>
+<label class="chk"><span class="ln">dažnumas</span> <select id="fr" aria-label="Dažnumas"><option value="">visi žodžiai</option><option value="1">vartojami</option><option value="2">tik dažni</option></select></label><label class="chk" id="srclab"><span class="ln">šaltinis</span> <select id="src" aria-label="šaltinis"><option value="">visi</option><option value="56">LKI kartotekos</option><option value="4">A. Juškos žodynas</option><option value="2">Vanago hidronimai</option><option value="1">UETK (vandenys)</option><option value="3">šnekamoji kalba</option></select></label>
 <label class="chk"><span class="ln">ilgis</span> <select id="len" aria-label="ilgis"><option value="">bet kokio ilgio</option></select></label>
 <span class="cbg"><label class="chk"><input type="checkbox" id="common" checked> bendriniai</label><label class="chk"><span class="ln"><span class="lg">tikriniai</span></span> <select id="prop" aria-label="Tikriniai vardai"><option value="">visi</option><option value="1">vardai</option><option value="2">pavardės</option><option value="4">vietovardžiai</option><option value="240">vandenvardžiai</option><option value="8">kiti</option><option value="0">nerodyti</option></select></label></span></div>
 <div class="chips" id="chips">Pavyzdžiai: <button type="button" data-m="end" data-q="tuvas"><i>Baigiasi</i><span>tuvas</span></button><button type="button" data-m="end" data-q="ininkas"><i>Baigiasi</i><span>ininkas</span></button><button type="button" data-m="rim" data-q="meilė"><i>Rimai</i><span>meilė</span></button><button type="button" data-m="pat" data-q="?a?as"><i>Šablonas</i><span>?a?as</span></button><button type="button" data-m="ana" data-q="sakalas"><i>Anagramos</i><span>sakalas</span></button></div>
@@ -227,7 +227,7 @@ main{padding:2px 16px 24px}
 <div class="stat"><div class="l"><span id="count" aria-live="polite"></span><span id="rk"></span><span class="tip" id="tip"></span></div><div class="l"><span id="copied"></span><button id="copy" type="button">Kopijuoti<span class="full">&nbsp;sąrašą</span></button></div></div>
 <main><noscript><p>Paieškai reikia įjungti JavaScript. Visą žodyną galite atsisiųsti: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><p class="cap" id="cap" hidden></p><button id="more" hidden>Rodyti daugiau</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
-<div class="ihead"><div><h3 id="iw"></h3><p id="ikind"></p><p id="imorf" hidden></p></div><button id="iclose" type="button" aria-label="Uždaryti" title="Uždaryti">×</button></div>
+<div class="ihead"><div><h3 id="iw"></h3><p id="ikind"></p><p id="isrc"></p><p id="imorf" hidden></p></div><button id="iclose" type="button" aria-label="Uždaryti" title="Uždaryti">×</button></div>
 <div class="grp" id="desc" hidden><h4>Aprašas laisvuosiuose žodynuose</h4><div id="dbody" aria-live="polite"></div></div>
 <div class="grp"><h4>Reikšmė</h4><div class="links"><a id="l-en" target="_blank" rel="noopener">Wiktionary (anglų k.)<small>Dažnai su skyreliu „Etymology“ – žodžio kilme</small></a><a id="l-lt" target="_blank" rel="noopener">Vikižodynas (lietuvių k.)<small>Reikšmės, formos, vertimai</small></a><a id="l-lkz" target="_blank" rel="noopener">Lietuvių kalbos žodynas (LKŽ)<small>Reikšmės, tarmių ir senųjų raštų pavyzdžiai</small></a></div></div><div class="grp"><h4>Vertimas į anglų kalbą</h4><div class="links"><a id="l-gl" target="_blank" rel="noopener">Glosbe (lietuvių–anglų)<small>Vertimai į anglų kalbą su pavyzdžiais</small></a><a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Vertimas į anglų kalbą – tinka ir žodžių formoms</small></a></div></div><div class="grp"><h4>Kilmė</h4><div class="links"><a id="l-et" target="_blank" rel="noopener">VU etimologinio žodyno duomenų bazė<small>Žodžio kilmė</small></a><a id="l-bg" target="_blank" rel="noopener">K. Būgos etimologinio žodyno kartoteka<small>Rankraštinės kortelės apie žodžio kilmę</small></a></div></div>
 <span id="cpmsg"></span>
@@ -253,8 +253,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/apie.html">Apie žodyną</a> · <a href="/apie.html#saltiniai">Šaltiniai</a> · <a href="/apie.html#licencijos">Licencijos</a></p>
 <p class="meta">Žodynas sudarytas iš atvirų duomenų: ispell-lt, VDU „Semantika2“, VDU morfemikos žodyno (autorių leidimu), UETK, Registrų centro ir kt. Lankomumas skaičiuojamas anonimiškai su <a href="https://www.goatcounter.com/">GoatCounter</a> – be slapukų ir be asmens duomenų.</p>
 </footer>
-<script src="/zodziai.js?v=20261114j"></script>
-<script src="/meta.js?v=20261114j"></script>
+<script src="/zodziai.js?v=20261114l"></script>
+<script src="/meta.js?v=20261114l"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -264,6 +264,8 @@ const WT=new Uint16Array(W.length);if(!window.WT){const ps=document.getElementBy
 if(window.WH){for(let i=0;i<W.length;i++){const h=parseInt(window.WH[i],32);if(h)WT[i]|=h<<4;}}else{const o=document.querySelector('#prop option[value="240"]');if(o)o.disabled=true;}
 const KN={1:"vardas",2:"pavardė",4:"vietovardis",8:"tikrinis vardas"},PN={1:"daiktavardis",2:"būdvardis",4:"veiksmažodis"};
 let PT=null,WI=null;function ptMap(){if(!PT){PT=new Map();for(let i=0;i<W.length;i++)if(P[i])PT.set(W[i],WT[i]);}return PT;}
+const WS=window.WS||"",WVP=window.WVP||{},SN={"1": "Upių, ežerų ir tvenkinių kadastras (UETK)", "2": "A. Vanagas, „Lietuvių hidronimų etimologinis žodynas“ (1981)", "3": "šnekamosios kalbos dažnių sąrašai (subtitrai)", "4": "A. Juška, „Lietuvių kalbos žodynas“ (1904, 1922)", "5": "LKI Lietuvių kalbos žodyno kartotekos", "6": "LKI Lietuvių kalbos žodyno kartotekos (moteriškoji forma)"};if(!window.WS){const o=document.getElementById("srclab");if(o)o.hidden=true;}
+function srcTxt(i,w){const a=[];const c=i!=null?WS[i]:"";if(c&&c!=="0"&&c!=="2")a.push(SN[c]);if(WVP[w]||c==="2")a.push(SN[2]+(WVP[w]?", p. "+WVP[w]:""));return a.length?"Šaltinis: "+a.join("; "):"";}
 function wIdx(w){if(!WI){WI=new Map();W.forEach((x,i)=>WI.set(x,i));}return WI.get(w);}
 const HN={16:"upė",32:"kanalas",64:"ežeras",128:"tvenkinys"};
 function kindTxt(i){if(i==null)return"";if(P[i]){const b=WT[i];if(b&240){const h=[16,32,64,128].filter(k=>b&k).map(k=>HN[k]).join(", ");return[...[1,2,8].filter(k=>b&k).map(k=>KN[k]),b&256?"vietovardis (gyvenvietė), taip pat "+h:"vandenvardis ("+h+")"].join(", ");}return[1,2,4,8].filter(k=>b&k).map(k=>KN[k]).join(", ");}const b=MV[i]&15;return[1,2,4].filter(k=>b&k).map(k=>PN[k]).join(", ");}
@@ -293,7 +295,7 @@ function cSim(a,b){if(a===b)return 2;if(a.length===1&&b.length===1&&CC.some(g=>g
 function sylTxt(n){const a=n%10,b=n%100;return n+" "+(a===1&&b!==11?"skiemuo":(b>=10&&b<=20)||a===0?"skiemenų":"skiemenys");}
 let RX=0;
 async function runRim(q,len,c,p,ff){
-  const TV=+$("prop").value||0;
+  const TV=+$("prop").value||0;const sf=$("src").value;
   const tok=++rimTok,n=+$("sk").value||2;const key=rimKey(q,n);
   if(!q){res=[];RW=null;$("help").innerHTML="<span>"+HELP.rim+"</span>";render();return;}
   $("count").textContent="Ieškoma rimų…";
@@ -303,7 +305,7 @@ async function runRim(q,len,c,p,ff){
   if(tok!==rimTok)return;
   const items=[],near=[],seen=new Set(),qsj=qs.join("|");
   for(const d of data)for(let i=0;i<d.w.length;i++){const l=d.l[i];if(l===ql||seen.has(l))continue;if(len&&l.length!==len)continue;
-    const pr=d.w[i][0]!==l[0];if(pr?!p:(!c||TV))continue;if(pr&&TV&&!((ptMap().get(d.w[i])||0)&TV))continue;const fq=fm.get(l)||0;if(ff&&fq<ff)continue;
+    const pr=d.w[i][0]!==l[0];if(pr?!p:(!c||TV))continue;if(pr&&TV&&!((ptMap().get(d.w[i])||0)&TV))continue;if(sf&&!sf.includes(WS[wIdx(d.w[i])]))continue;const fq=fm.get(l)||0;if(ff&&fq<ff)continue;
     if(l.endsWith(key)){seen.add(l);let k=key.length;while(k<l.length&&k<ql.length&&l[l.length-1-k]===ql[ql.length-1-k])k++;
       const same=l.endsWith(ql);items.push([d.w[i],pr,same?-1:k,l,sylN(l),fq,0]);continue;}
     if(n<2||!l.endsWith(finRaw))continue;
@@ -332,7 +334,7 @@ function patRe(q){return new RegExp("^"+q.replace(/[.+^${}()|[\]\\]/g,"\\$&").re
 function anaFn(q){const need={};let wild=0;for(const c of q){if(c==="?")wild++;else need[c]=(need[c]||0)+1;}
   return l=>{if(l.length>q.length)return false;const h={};let miss=0;for(const c of l){h[c]=(h[c]||0)+1;if(h[c]>(need[c]||0))miss++;}return miss<=wild;};}
 function run(){
-  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,pv=$("prop").value,p=pv!=="0",tv=+pv||0,len=+LS.value||0,pf=+$("pos").value||0,ff=+$("fr").value||0;
+  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,pv=$("prop").value,p=pv!=="0",tv=+pv||0,len=+LS.value||0,pf=+$("pos").value||0,ff=+$("fr").value||0,sf=$("src").value;
   $("chips").hidden=!!q;$("rk").innerHTML="";
   $("help").innerHTML="<span>"+HELP[mode]+"</span>";$("help").hidden=!!q&&(mode==="end"||mode==="start"||mode==="any");$("q").placeholder=PH[mode];
   $("sklab").hidden=mode!=="rim";$("poslab").hidden=mode==="rim";
@@ -346,7 +348,7 @@ function run(){
     if(P[i]?(!p||(tv&&!(WT[i]&tv))):(!c||tv))continue;
     const l=L[i];
     if(len&&l.length!==len)continue;
-    if(pf&&!(MV[i]&pf))continue;if(ff&&(MV[i]>>4)<ff)continue;
+    if(sf&&!sf.includes(WS[i]))continue;if(pf&&!(MV[i]&pf))continue;if(ff&&(MV[i]>>4)<ff)continue;
     if(test&&!test(l))continue;
     res.push(i);
   }
@@ -357,11 +359,11 @@ function run(){
   shown=STEP;render();
 }
 function saveUrl(q,len){try{const u=new URLSearchParams();if(q)u.set("q",q);if(mode!=="end")u.set("m",mode);if(len)u.set("ilgis",len);if(mode==="rim"&&$("sk").value!=="2")u.set("sk",$("sk").value);
-  if(!$("common").checked)u.set("bendriniai","ne");if($("prop").value)u.set("tk",$("prop").value);if($("pos").value&&mode!=="rim")u.set("kd",$("pos").value);if($("fr").value)u.set("dazn",$("fr").value);
+  if(!$("common").checked)u.set("bendriniai","ne");if($("prop").value)u.set("tk",$("prop").value);if($("pos").value&&mode!=="rim")u.set("kd",$("pos").value);if($("fr").value)u.set("dazn",$("fr").value);if($("src").value)u.set("sal",$("src").value);
   const s=u.toString();history.replaceState(null,"",location.pathname+(s?"?"+s:""));const ls=$("langsw");if(ls)ls.href=LANGALT+(s?"?"+s:"");}catch(e){}}
 function loadUrl(){try{const u=new URLSearchParams(location.search);if(u.get("q"))$("q").value=u.get("q");
   const m=u.get("m");if(m&&HELP[m])mode=m;const l=u.get("ilgis");if(l)LS.value=l;const k=u.get("sk");if(k)$("sk").value=k;
-  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("prop").value="0";if(u.get("tk"))$("prop").value=u.get("tk");if(u.get("kd"))$("pos").value=u.get("kd");if(u.get("dazn"))$("fr").value=u.get("dazn");setMode();}catch(e){}}
+  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("prop").value="0";if(u.get("tk"))$("prop").value=u.get("tk");if(u.get("kd"))$("pos").value=u.get("kd");if(u.get("dazn"))$("fr").value=u.get("dazn");if(u.get("sal"))$("src").value=u.get("sal");setMode();}catch(e){}}
 function hl(i,q){
   const w=W[i],l=L[i];if(!q||mode==="pat"||mode==="ana")return w;
   let s=mode==="end"?w.length-q.length:mode==="start"?0:l.indexOf(q);
@@ -402,9 +404,9 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Ieškoma Vikižodyne ir Wiktionary…",none:"Laisvuosiuose žodynuose šio žodžio aprašo nėra – žr. šaltinius žemiau.",from:"Šaltinis:",order:[{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas",ety:"Kilmė:"},{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary (anglų k.)",ety:"Kilmė (angl.):"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261114j").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261114l").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morfemos: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Lietuvių kalbos morfemikos duomenų bazė";a.title="Šaltinis: VDU Lietuvių kalbos morfemikos duomenų bazė";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
-function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
+function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);$("isrc").textContent=srcTxt(ii,cur);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
@@ -425,7 +427,7 @@ $("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
 
 let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120);});
-$("common").onchange=run;$("pos").onchange=run;$("fr").onchange=run;$("prop").onchange=run;LS.onchange=run;$("sk").onchange=run;
+$("common").onchange=run;$("pos").onchange=run;$("fr").onchange=run;$("src").onchange=run;$("prop").onchange=run;LS.onchange=run;$("sk").onchange=run;
 $("copy").onclick=async()=>{
   try{await navigator.clipboard.writeText(RW?RW.map(x=>x[0]).join("\n"):res.map(i=>W[i]).join("\n"));$("copied").textContent="Nukopijuota ("+res.length.toLocaleString("lt-LT")+")";}
   catch(e){$("copied").textContent="Nepavyko nukopijuoti";}

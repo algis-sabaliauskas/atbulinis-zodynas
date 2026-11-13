@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Lithuanian Reverse Dictionary – search Lithuanian words by ending</title>
-<meta name="description" content="Free Lithuanian reverse dictionary: over 235,000 Lithuanian words sorted from the end. Search by ending or suffix, find rhymes, solve crosswords, explore word formation and etymology.">
+<meta name="description" content="Free Lithuanian reverse dictionary: over 240,000 Lithuanian words sorted from the end. Search by ending or suffix, find rhymes, solve crosswords, explore word formation and etymology.">
 <link rel="canonical" href="https://atbulinis.lt/en/">
 <link rel="alternate" hreflang="lt" href="https://atbulinis.lt/">
 <link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/">
@@ -13,7 +13,7 @@
 <meta property="og:locale" content="en_GB">
 <meta property="og:locale:alternate" content="lt_LT">
 <meta property="og:title" content="Lithuanian Reverse Dictionary">
-<meta property="og:description" content="over 235,000 Lithuanian words sorted from the end. Search by ending.">
+<meta property="og:description" content="over 240,000 Lithuanian words sorted from the end. Search by ending.">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Lithuanian Reverse Dictionary","alternateName":["Atbulinis lietuvių kalbos žodynas","Lithuanian a tergo dictionary"],"description":"A list of Lithuanian words sorted from the end of the word (reverse dictionary), with search by ending, rhymes, patterns and anagrams.","inLanguage":"lt","url":"https://atbulinis.lt/en/","creator":{"@type":"Person","name":"Algimantas Sabaliauskas"},"isBasedOn":["https://github.com/ispell-lt/ispell-lt","https://universaldependencies.org/","https://unimorph.github.io/"],"license":"https://creativecommons.org/licenses/by-sa/4.0/","keywords":["Lithuanian reverse dictionary","Lithuanian language","Lithuanian rhymes","Lithuanian word endings","Lithuanian crossword","atbulinis žodynas"]}</script>
 <style>
 @font-face{font-family:"Source Serif 4";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/source-serif-4-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
@@ -201,7 +201,7 @@ main{padding:2px 16px 24px}
 #out .rh{column-span:all;font:700 .8rem var(--ui);letter-spacing:.07em;text-transform:uppercase;color:var(--mut);margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--rule)}#out .rh:first-child{margin-top:0}
 #out .rh.nr{color:var(--acc);margin-top:28px}#out .rh small{font:400 .85rem var(--ui);letter-spacing:0;text-transform:none;color:var(--mut);margin-left:.6em}
 
-#ikind{font:italic .92rem var(--serif);color:var(--mut);margin:2px 0 0}#ikind:empty{display:none}
+#ikind{font:italic .92rem var(--serif);color:var(--mut);margin:2px 0 0}#ikind:empty{display:none}#isrc{font:.8rem var(--sans,sans-serif);color:var(--mut);margin:2px 0 0}#isrc:empty{display:none}
 
 #imorf{font:.92rem var(--ui);color:var(--mut);margin:4px 0 0}#imorf b{font:600 1.02rem var(--serif);color:var(--fg);letter-spacing:.02em}#infobox #imorf a{all:unset;display:inline;color:var(--acc);font:.82rem var(--ui);text-decoration:underline;text-underline-offset:2px;cursor:pointer}#infobox #imorf a::after,#infobox #imorf a::before{content:none;display:none}#infobox #imorf a:focus-visible{outline:2px solid var(--acc)}
 </style></head><body>
@@ -217,7 +217,7 @@ main{padding:2px 16px 24px}
 </div></div>
 <div class="filters"><label class="chk" id="sklab" hidden>rhyme on <select id="sk" aria-label="How many syllables to rhyme"><option value="1">1 syllable</option><option value="2" selected>2 syllables</option><option value="3">3 syllables</option></select></label>
 <label class="chk" id="poslab"><span class="ln">part of speech</span> <select id="pos" aria-label="Part of speech"><option value="">all</option><option value="1">nouns</option><option value="2">adjectives</option><option value="4">verbs</option><option value="8">other</option></select></label>
-<label class="chk"><span class="ln">frequency</span> <select id="fr" aria-label="Frequency"><option value="">all words</option><option value="1">in use</option><option value="2">common only</option></select></label>
+<label class="chk"><span class="ln">frequency</span> <select id="fr" aria-label="Frequency"><option value="">all words</option><option value="1">in use</option><option value="2">common only</option></select></label><label class="chk" id="srclab"><span class="ln">source</span> <select id="src" aria-label="source"><option value="">all</option><option value="56">LKI card files</option><option value="4">A. Juška dictionary</option><option value="2">Vanagas hydronyms</option><option value="1">UETK (waters)</option><option value="3">spoken language</option></select></label>
 <label class="chk"><span class="ln">length</span> <select id="len" aria-label="length"><option value="">any length</option></select></label>
 <span class="cbg"><label class="chk"><input type="checkbox" id="common" checked> common words</label><label class="chk"><span class="ln"><span class="lg">proper names</span></span> <select id="prop" aria-label="Proper names"><option value="">all</option><option value="1">first names</option><option value="2">surnames</option><option value="4">place names</option><option value="240">hydronyms</option><option value="8">other</option><option value="0">hide</option></select></label></span></div>
 <div class="chips" id="chips">Try: <button type="button" data-m="end" data-q="tuvas"><i>Ends with</i><span>tuvas</span></button><button type="button" data-m="end" data-q="ininkas"><i>Ends with</i><span>ininkas</span></button><button type="button" data-m="rim" data-q="meilė"><i>Rhymes</i><span>meilė</span></button><button type="button" data-m="pat" data-q="?a?as"><i>Pattern</i><span>?a?as</span></button><button type="button" data-m="ana" data-q="sakalas"><i>Anagrams</i><span>sakalas</span></button></div>
@@ -226,7 +226,7 @@ main{padding:2px 16px 24px}
 <div class="stat"><div class="l"><span id="count" aria-live="polite"></span><span id="rk"></span><span class="tip" id="tip"></span></div><div class="l"><span id="copied"></span><button id="copy" type="button">Copy<span class="full">&nbsp;list</span></button></div></div>
 <main><noscript><p>Search requires JavaScript. You can download the full dictionary: <a href="/Atbulinis_lietuviu_zodynas.pdf">PDF</a>, <a href="/atbulinis.txt">TXT</a>.</p></noscript><div class="cols" id="out"></div><p class="cap" id="cap" hidden></p><button id="more" hidden>Show more</button></main>
 <div id="info" hidden role="dialog" aria-modal="true" aria-labelledby="iw"><div id="infobox">
-<div class="ihead"><div><h3 id="iw"></h3><p id="ikind"></p><p id="imorf" hidden></p></div><button id="iclose" type="button" aria-label="Close" title="Close">×</button></div>
+<div class="ihead"><div><h3 id="iw"></h3><p id="ikind"></p><p id="isrc"></p><p id="imorf" hidden></p></div><button id="iclose" type="button" aria-label="Close" title="Close">×</button></div>
 <div class="grp" id="desc" hidden><h4>From open dictionaries</h4><div id="dbody" aria-live="polite"></div></div>
 <div class="grp"><h4>Translation</h4><div class="links"><a id="l-gl" target="_blank" rel="noopener">Glosbe (Lithuanian–English)<small>English translations with example sentences</small></a><a id="l-gt" target="_blank" rel="noopener">Google Translate<small>Quick English translation – works for inflected forms too</small></a></div></div><div class="grp"><h4>Meaning</h4><div class="links"><a id="l-en" target="_blank" rel="noopener">Wiktionary (English)<small>Often includes an Etymology section</small></a><a id="l-lt" target="_blank" rel="noopener">Vikižodynas (Lithuanian Wiktionary)<small>Meanings, forms, translations – in Lithuanian</small></a><a id="l-lkz" target="_blank" rel="noopener">Academic Dictionary of Lithuanian (LKŽ)<small>Meanings, dialect and historical examples – in Lithuanian</small></a></div></div><div class="grp"><h4>Etymology</h4><div class="links"><a id="l-et" target="_blank" rel="noopener">Vilnius University etymological database<small>Etymology of Lithuanian words – in Lithuanian</small></a><a id="l-bg" target="_blank" rel="noopener">Kazimieras Būga’s etymological card index<small>Handwritten etymology cards (scanned)</small></a></div></div>
 <span id="cpmsg"></span>
@@ -251,8 +251,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/en/apie.html">About</a> · <a href="/en/apie.html#saltiniai">Sources</a> · <a href="/en/apie.html#licencijos">Licences</a></p>
 <p class="meta">Built from open data: ispell-lt, VDU Semantika2, the VDU morphemics dictionary (with permission), UETK, the Centre of Registers and others. Visits are counted anonymously with <a href="https://www.goatcounter.com/">GoatCounter</a> – no cookies, no personal data.</p>
 </footer>
-<script src="/zodziai.js?v=20261114j"></script>
-<script src="/meta.js?v=20261114j"></script>
+<script src="/zodziai.js?v=20261114l"></script>
+<script src="/meta.js?v=20261114l"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -262,6 +262,8 @@ const WT=new Uint16Array(W.length);if(!window.WT){const ps=document.getElementBy
 if(window.WH){for(let i=0;i<W.length;i++){const h=parseInt(window.WH[i],32);if(h)WT[i]|=h<<4;}}else{const o=document.querySelector('#prop option[value="240"]');if(o)o.disabled=true;}
 const KN={1:"first name",2:"surname",4:"place name",8:"proper name"},PN={1:"noun",2:"adjective",4:"verb"};
 let PT=null,WI=null;function ptMap(){if(!PT){PT=new Map();for(let i=0;i<W.length;i++)if(P[i])PT.set(W[i],WT[i]);}return PT;}
+const WS=window.WS||"",WVP=window.WVP||{},SN={"1": "Register of rivers, lakes and ponds (UETK)", "2": "A. Vanagas, Etymological dictionary of Lithuanian hydronyms (1981)", "3": "spoken-language frequency lists (subtitles)", "4": "A. Juška, Dictionary of Lithuanian (1904, 1922)", "5": "Lithuanian Language Institute dictionary card files", "6": "Lithuanian Language Institute card files (feminine form)"};if(!window.WS){const o=document.getElementById("srclab");if(o)o.hidden=true;}
+function srcTxt(i,w){const a=[];const c=i!=null?WS[i]:"";if(c&&c!=="0"&&c!=="2")a.push(SN[c]);if(WVP[w]||c==="2")a.push(SN[2]+(WVP[w]?", p. "+WVP[w]:""));return a.length?"Source: "+a.join("; "):"";}
 function wIdx(w){if(!WI){WI=new Map();W.forEach((x,i)=>WI.set(x,i));}return WI.get(w);}
 const HN={16:"river",32:"canal",64:"lake",128:"pond"};
 function kindTxt(i){if(i==null)return"";if(P[i]){const b=WT[i];if(b&240){const h=[16,32,64,128].filter(k=>b&k).map(k=>HN[k]).join(", ");return[...[1,2,8].filter(k=>b&k).map(k=>KN[k]),b&256?"place name (settlement), also a "+h:"hydronym ("+h+")"].join(", ");}return[1,2,4,8].filter(k=>b&k).map(k=>KN[k]).join(", ");}const b=MV[i]&15;return[1,2,4].filter(k=>b&k).map(k=>PN[k]).join(", ");}
@@ -291,7 +293,7 @@ function cSim(a,b){if(a===b)return 2;if(a.length===1&&b.length===1&&CC.some(g=>g
 function sylTxt(n){return n+(n===1?" syllable":" syllables");}
 let RX=0;
 async function runRim(q,len,c,p,ff){
-  const TV=+$("prop").value||0;
+  const TV=+$("prop").value||0;const sf=$("src").value;
   const tok=++rimTok,n=+$("sk").value||2;const key=rimKey(q,n);
   if(!q){res=[];RW=null;$("help").innerHTML="<span>"+HELP.rim+"</span>";render();return;}
   $("count").textContent="Searching for rhymes…";
@@ -301,7 +303,7 @@ async function runRim(q,len,c,p,ff){
   if(tok!==rimTok)return;
   const items=[],near=[],seen=new Set(),qsj=qs.join("|");
   for(const d of data)for(let i=0;i<d.w.length;i++){const l=d.l[i];if(l===ql||seen.has(l))continue;if(len&&l.length!==len)continue;
-    const pr=d.w[i][0]!==l[0];if(pr?!p:(!c||TV))continue;if(pr&&TV&&!((ptMap().get(d.w[i])||0)&TV))continue;const fq=fm.get(l)||0;if(ff&&fq<ff)continue;
+    const pr=d.w[i][0]!==l[0];if(pr?!p:(!c||TV))continue;if(pr&&TV&&!((ptMap().get(d.w[i])||0)&TV))continue;if(sf&&!sf.includes(WS[wIdx(d.w[i])]))continue;const fq=fm.get(l)||0;if(ff&&fq<ff)continue;
     if(l.endsWith(key)){seen.add(l);let k=key.length;while(k<l.length&&k<ql.length&&l[l.length-1-k]===ql[ql.length-1-k])k++;
       const same=l.endsWith(ql);items.push([d.w[i],pr,same?-1:k,l,sylN(l),fq,0]);continue;}
     if(n<2||!l.endsWith(finRaw))continue;
@@ -330,7 +332,7 @@ function patRe(q){return new RegExp("^"+q.replace(/[.+^${}()|[\]\\]/g,"\\$&").re
 function anaFn(q){const need={};let wild=0;for(const c of q){if(c==="?")wild++;else need[c]=(need[c]||0)+1;}
   return l=>{if(l.length>q.length)return false;const h={};let miss=0;for(const c of l){h[c]=(h[c]||0)+1;if(h[c]>(need[c]||0))miss++;}return miss<=wild;};}
 function run(){
-  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,pv=$("prop").value,p=pv!=="0",tv=+pv||0,len=+LS.value||0,pf=+$("pos").value||0,ff=+$("fr").value||0;
+  const q=$("q").value.trim().toLowerCase().replace(/\s+/g,""),c=$("common").checked,pv=$("prop").value,p=pv!=="0",tv=+pv||0,len=+LS.value||0,pf=+$("pos").value||0,ff=+$("fr").value||0,sf=$("src").value;
   $("chips").hidden=!!q;$("rk").innerHTML="";
   $("help").innerHTML="<span>"+HELP[mode]+"</span>";$("help").hidden=!!q&&(mode==="end"||mode==="start"||mode==="any");$("q").placeholder=PH[mode];
   $("sklab").hidden=mode!=="rim";$("poslab").hidden=mode==="rim";
@@ -344,7 +346,7 @@ function run(){
     if(P[i]?(!p||(tv&&!(WT[i]&tv))):(!c||tv))continue;
     const l=L[i];
     if(len&&l.length!==len)continue;
-    if(pf&&!(MV[i]&pf))continue;if(ff&&(MV[i]>>4)<ff)continue;
+    if(sf&&!sf.includes(WS[i]))continue;if(pf&&!(MV[i]&pf))continue;if(ff&&(MV[i]>>4)<ff)continue;
     if(test&&!test(l))continue;
     res.push(i);
   }
@@ -355,11 +357,11 @@ function run(){
   shown=STEP;render();
 }
 function saveUrl(q,len){try{const u=new URLSearchParams();if(q)u.set("q",q);if(mode!=="end")u.set("m",mode);if(len)u.set("ilgis",len);if(mode==="rim"&&$("sk").value!=="2")u.set("sk",$("sk").value);
-  if(!$("common").checked)u.set("bendriniai","ne");if($("prop").value)u.set("tk",$("prop").value);if($("pos").value&&mode!=="rim")u.set("kd",$("pos").value);if($("fr").value)u.set("dazn",$("fr").value);
+  if(!$("common").checked)u.set("bendriniai","ne");if($("prop").value)u.set("tk",$("prop").value);if($("pos").value&&mode!=="rim")u.set("kd",$("pos").value);if($("fr").value)u.set("dazn",$("fr").value);if($("src").value)u.set("sal",$("src").value);
   const s=u.toString();history.replaceState(null,"",location.pathname+(s?"?"+s:""));const ls=$("langsw");if(ls)ls.href=LANGALT+(s?"?"+s:"");}catch(e){}}
 function loadUrl(){try{const u=new URLSearchParams(location.search);if(u.get("q"))$("q").value=u.get("q");
   const m=u.get("m");if(m&&HELP[m])mode=m;const l=u.get("ilgis");if(l)LS.value=l;const k=u.get("sk");if(k)$("sk").value=k;
-  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("prop").value="0";if(u.get("tk"))$("prop").value=u.get("tk");if(u.get("kd"))$("pos").value=u.get("kd");if(u.get("dazn"))$("fr").value=u.get("dazn");setMode();}catch(e){}}
+  if(u.get("bendriniai")==="ne")$("common").checked=false;if(u.get("tikriniai")==="ne")$("prop").value="0";if(u.get("tk"))$("prop").value=u.get("tk");if(u.get("kd"))$("pos").value=u.get("kd");if(u.get("dazn"))$("fr").value=u.get("dazn");if(u.get("sal"))$("src").value=u.get("sal");setMode();}catch(e){}}
 function hl(i,q){
   const w=W[i],l=L[i];if(!q||mode==="pat"||mode==="ana")return w;
   let s=mode==="end"?w.length-q.length:mode==="start"?0:l.indexOf(q);
@@ -399,9 +401,9 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Looking up Wiktionary…",none:"No entry for this word in the open dictionaries – see the sources below.",from:"Source:",order:[{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary",ety:"Etymology:"},{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas (Lithuanian)",ety:"Kilmė:"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261114j").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261114l").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morphemes: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Database of Lithuanian Morphemics";a.title="Source: VDU Database of Lithuanian Morphemics";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
-function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
+function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);$("isrc").textContent=srcTxt(ii,cur);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
   $("l-en").href="https://en.wiktionary.org/wiki/"+e+"#Lithuanian";
   $("l-lt").href="https://lt.wiktionary.org/wiki/"+e;
@@ -422,7 +424,7 @@ $("info").addEventListener("click",e=>{if(e.target.id==="info")closeInfo();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("info").hidden)closeInfo();});
 
 let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120);});
-$("common").onchange=run;$("pos").onchange=run;$("fr").onchange=run;$("prop").onchange=run;LS.onchange=run;$("sk").onchange=run;
+$("common").onchange=run;$("pos").onchange=run;$("fr").onchange=run;$("src").onchange=run;$("prop").onchange=run;LS.onchange=run;$("sk").onchange=run;
 $("copy").onclick=async()=>{
   try{await navigator.clipboard.writeText(RW?RW.map(x=>x[0]).join("\n"):res.map(i=>W[i]).join("\n"));$("copied").textContent="Copied ("+res.length.toLocaleString("en-GB")+")";}
   catch(e){$("copied").textContent="Could not copy";}
