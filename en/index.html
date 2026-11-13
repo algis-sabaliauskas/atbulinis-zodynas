@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Lithuanian Reverse Dictionary – search Lithuanian words by ending</title>
-<meta name="description" content="Free Lithuanian reverse dictionary: over 200,000 Lithuanian words sorted from the end. Search by ending or suffix, find rhymes, solve crosswords, explore word formation and etymology.">
+<meta name="description" content="Free Lithuanian reverse dictionary: over 235,000 Lithuanian words sorted from the end. Search by ending or suffix, find rhymes, solve crosswords, explore word formation and etymology.">
 <link rel="canonical" href="https://atbulinis.lt/en/">
 <link rel="alternate" hreflang="lt" href="https://atbulinis.lt/">
 <link rel="alternate" hreflang="en" href="https://atbulinis.lt/en/">
@@ -13,7 +13,7 @@
 <meta property="og:locale" content="en_GB">
 <meta property="og:locale:alternate" content="lt_LT">
 <meta property="og:title" content="Lithuanian Reverse Dictionary">
-<meta property="og:description" content="over 200,000 Lithuanian words sorted from the end. Search by ending.">
+<meta property="og:description" content="over 235,000 Lithuanian words sorted from the end. Search by ending.">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Lithuanian Reverse Dictionary","alternateName":["Atbulinis lietuvių kalbos žodynas","Lithuanian a tergo dictionary"],"description":"A list of Lithuanian words sorted from the end of the word (reverse dictionary), with search by ending, rhymes, patterns and anagrams.","inLanguage":"lt","url":"https://atbulinis.lt/en/","creator":{"@type":"Person","name":"Algimantas Sabaliauskas"},"isBasedOn":["https://github.com/ispell-lt/ispell-lt","https://universaldependencies.org/","https://unimorph.github.io/"],"license":"https://creativecommons.org/licenses/by-sa/4.0/","keywords":["Lithuanian reverse dictionary","Lithuanian language","Lithuanian rhymes","Lithuanian word endings","Lithuanian crossword","atbulinis žodynas"]}</script>
 <style>
 @font-face{font-family:"Source Serif 4";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/source-serif-4-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
@@ -251,8 +251,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/en/apie.html">About</a> · <a href="/en/apie.html#saltiniai">Sources</a> · <a href="/en/apie.html#licencijos">Licences</a></p>
 <p class="meta">Built from open data: ispell-lt, VDU Semantika2, the VDU morphemics dictionary (with permission), UETK, the Centre of Registers and others. Visits are counted anonymously with <a href="https://www.goatcounter.com/">GoatCounter</a> – no cookies, no personal data.</p>
 </footer>
-<script src="/zodziai.js?v=20261113i"></script>
-<script src="/meta.js?v=20261113i"></script>
+<script src="/zodziai.js?v=20261114j"></script>
+<script src="/meta.js?v=20261114j"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -399,7 +399,7 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Looking up Wiktionary…",none:"No entry for this word in the open dictionaries – see the sources below.",from:"Source:",order:[{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary",ety:"Etymology:"},{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas (Lithuanian)",ety:"Kilmė:"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261113i").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261114j").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morphemes: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Database of Lithuanian Morphemics";a.title="Source: VDU Database of Lithuanian Morphemics";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
 function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
