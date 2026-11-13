@@ -251,8 +251,8 @@ main{padding:2px 16px 24px}
 <p class="fl"><a href="/en/apie.html">About</a> · <a href="/en/apie.html#saltiniai">Sources</a> · <a href="/en/apie.html#licencijos">Licences</a></p>
 <p class="meta">Built from open data: ispell-lt, VDU Semantika2, the VDU morphemics dictionary (with permission), UETK, the Centre of Registers and others. Visits are counted anonymously with <a href="https://www.goatcounter.com/">GoatCounter</a> – no cookies, no personal data.</p>
 </footer>
-<script src="/zodziai.js?v=20261111g"></script>
-<script src="/meta.js?v=20261111g"></script>
+<script src="/zodziai.js?v=20261113i"></script>
+<script src="/meta.js?v=20261113i"></script>
 <script>
 const W=window.W;
 const L=W.map(w=>w.toLowerCase());
@@ -399,7 +399,7 @@ let res=DC.get(w);if(!res){res=await Promise.all(DT.order.map(s=>wkGet(s.host,w,
 res.forEach((r,i)=>{if(!r)return;any=true;const s=DT.order[i],d=el("div","dsrc");if(r.defs.length){const ol=el("ol");r.defs.slice(0,4).forEach(t=>ol.append(el("li",null,cut(t,220))));d.append(ol)}if(r.ety.length){const p=el("p","dety");p.append(el("b",null,s.ety+" "),cut(r.ety[0],320));d.append(p)}const f=el("p","dfrom"),a=el("a",null,s.name);a.href=r.url;a.target="_blank";a.rel="noopener";f.append(DT.from+" ",a,", CC BY-SA");d.append(f);box.append(d)});
 if(!any)box.replaceChildren(el("p","dmsg",DT.none))}
 const DT={load:"Looking up Wiktionary…",none:"No entry for this word in the open dictionaries – see the sources below.",from:"Source:",order:[{host:"en.wiktionary.org",fn:wkEn,name:"Wiktionary",ety:"Etymology:"},{host:"lt.wiktionary.org",fn:wkLt,name:"Vikižodynas (Lithuanian)",ety:"Kilmė:"}]};
-let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261111g").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
+let MORF=null;function morfLoad(){if(!MORF)MORF=fetch("/morfemos.json?v=20261113i").then(r=>r.ok?r.json():{}).catch(()=>({}));return MORF;}
 async function showMorf(w){const el=$("imorf");el.hidden=true;const m=await morfLoad();const s=m[w]||m[w.toLowerCase()];if(cur!==w||!s)return;el.innerHTML="";const b=document.createElement("span");b.className="ml";b.textContent="Morphemes: ";const v=document.createElement("b");v.textContent=s.replace(/-/g,"\u2011");const a=document.createElement("a");a.href="https://sitti.vdu.lt/morfema/";a.target="_blank";a.rel="noopener";a.textContent="VDU Database of Lithuanian Morphemics";a.title="Source: VDU Database of Lithuanian Morphemics";el.append(b,v,document.createTextNode(" · "),a);el.hidden=false;}
 function openInfo(i,word){lastFocus=document.activeElement&&document.activeElement.classList.contains("w")?document.activeElement:null;cur=word||W[i];$("iw").textContent=cur;{const ii=(i!=null&&i>=0&&W[i]===cur)?i:wIdx(cur);$("ikind").textContent=kindTxt(ii);}showMorf(cur);{const qq=$("q").value.trim().toLowerCase(),k=RW?rkey:(mode==="end"?qq:"");if(k&&cur.toLowerCase().endsWith(k)){const p=cur.length-k.length;$("iw").innerHTML=cur.slice(0,p)+"<b>"+cur.slice(p)+"</b>";}}$("cpmsg").textContent="";loadDesc(cur);
   const e=encodeURIComponent(cur);
