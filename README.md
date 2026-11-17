@@ -1,6 +1,6 @@
 # Atbulinis lietuvių kalbos žodynas
 
-303 971 lietuvių kalbos žodžių (bendrinių ir tikrinių vardų), surikiuotų nuo žodžio galo pagal lietuvių abėcėlę, su paieška pagal galūnę.
+303 980 lietuvių kalbos žodžių (bendrinių ir tikrinių vardų), surikiuotų nuo žodžio galo pagal lietuvių abėcėlę, su paieška pagal galūnę.
 
 Sudarė **Algimantas Sabaliauskas**, 2026.
 
@@ -28,7 +28,7 @@ Sudarė **Algimantas Sabaliauskas**, 2026.
 - **Upių, ežerų ir tvenkinių kadastras (UETK)** (Aplinkos apsaugos agentūra, atvirieji duomenys) – per 2 100 upių, kanalų, ežerų ir tvenkinių vardų.
 - **A. Vanago „Lietuvių hidronimų etimologinis žodynas“** (1981) – apie 950 upių ir ežerų vardų (tik vardai, patikrinti pagal knygą).
 - **LKI Vietovardžių, surinktų iš gyvosios kalbos, kartoteka** (CLARIN-LT, CC BY-SA 4.0) – apie 46 000 vietovardžių.
-- **V. Juškevičiaus „Karaliaučiaus srities vietovardžiai“** (https://townames.github.io/Karaliauciaus-srities-vietovardziai/start.html) – apie 4 000 Mažosios Lietuvos vietovardžių ir vandenvardžių (tik lietuviški vardai; autoriaus leidimu, CC BY-SA 4.0).
+- **V. Juškevičiaus „Karaliaučiaus srities vietovardžiai“** (https://vietovardziai.lt) – apie 4 000 Mažosios Lietuvos vietovardžių ir vandenvardžių (tik lietuviški vardai; autoriaus leidimu, CC BY-SA 4.0).
 - **Lietuvių kalbos institutas: „Lietuvių kalbos žodyno“ Pagrindinė ir Papildymų kartotekos** (CLARIN-LT, 2026, https://hdl.handle.net/20.500.11821/102; CC BY-SA 4.0) – per 30 600 žodžių apie 6 500 kortelėse nurodytų moteriškųjų formų ir apie 11 700 vedinių iš kortelių poantraščių.
 - **A. Juškos „Литовскій словарь“** (1904, 1922; viešasis domenas) – apie 2 070 tarminių ir retų žodžių (E–K), patikrintų pagal knygą.
 - **FrequencyWords** (OpenSubtitles) ir **wordfreq** (CC BY-SA 4.0) – šnekamosios kalbos, žargono ir naujųjų skolinių žodžiai.

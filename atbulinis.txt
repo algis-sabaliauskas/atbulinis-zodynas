@@ -184,6 +184,7 @@ braižyba
 drožyba
 alba
 Alba
+Balba
 dalba
 Padalba
 Galba
@@ -1125,6 +1126,7 @@ Sigulda
 kiukiulda
 Kulda
 mulda
+Kūlda
 Pagramda
 savitramda
 samda
@@ -2747,7 +2749,6 @@ ypačia
 račia
 Šačia
 stačia
-Bilderviečia
 Poerškečia
 puspečia
 pogrečia
@@ -3762,6 +3763,7 @@ dirofilaria
 maria
 Kamaria
 Saria
+Pasaria
 Pisaria
 mendria
 Siberia
@@ -11414,7 +11416,6 @@ Pavolenka
 Varlenka
 Orlenka
 Maslenka
-Paslenka
 Paulenka
 Pogulenka
 Pahulenka
@@ -16170,6 +16171,7 @@ Doryma
 tyma
 vyma
 žyma
+Žyma
 pažyma
 pussekma
 alma
@@ -17098,7 +17100,6 @@ peikena
 Palikena
 zuikena
 vilkena
-Vilkena
 rankena
 renkena
 linkena
@@ -17559,6 +17560,7 @@ raina
 Karaina
 makaraina
 Ukraina
+Uosaina
 Tusaina
 Vaina
 Gedvaina
@@ -18876,7 +18878,6 @@ Kuna
 škuna
 Laluna
 Agluna
-Zigmuna
 komuna
 Liepuna
 runa
@@ -20761,7 +20762,6 @@ glemesa
 Remesa
 promesa
 Inesa
-Kukernesa
 Pesa
 Velpesa
 Teresa
@@ -21809,6 +21809,7 @@ užskaita
 iškaita
 atkaita
 Balaita
+Šlaita
 maita
 raita
 Paraita
@@ -22010,6 +22011,7 @@ apkalta
 malta
 Malta
 Pamalta
+Palta
 šalta
 gvalta
 Elta
@@ -23192,7 +23194,6 @@ Vorkuta
 apskuta
 išskuta
 Oiluta
-Pakluta
 pluta
 Šluta
 nūluta
@@ -23519,6 +23520,7 @@ loskava
 Truskava
 Raškava
 Maraškava
+Meškava
 miškava
 Riškava
 Roškava
@@ -23555,7 +23557,6 @@ Mikelava
 Veselava
 Jagėlava
 Pagėlava
-Angėlava
 Mikėlava
 Karmėlava
 pusžėlava
@@ -24607,7 +24608,6 @@ Varekuva
 Rėkuva
 Plikuva
 Vikuva
-Malkuva
 Valkuva
 Lankuva
 Linkuva
@@ -26238,7 +26238,6 @@ Albė
 Balbė
 Dalbė
 Padalbė
-Galbė
 Pagalbė
 prasčiakalbė
 daugiakalbė
@@ -26706,7 +26705,6 @@ Kampuočė
 Nendruočė
 Pakapčė
 Pokapčė
-Skapčė
 Pabarčė
 Čibarčė
 pusgarčė
@@ -26779,6 +26777,7 @@ Vadė
 Ilgavadė
 Margavadė
 Eivadė
+Bervadė
 Geržadė
 Giržadė
 Charibdė
@@ -26854,7 +26853,6 @@ Popamedė
 Pasausamedė
 Ratamedė
 Papiktamedė
-Diemedė
 Pykmedė
 Pailmedė
 Molmedė
@@ -27194,7 +27192,6 @@ Ažužydė
 Jakdė
 Aldė
 Pabaldė
-Galdė
 angliaskaldė
 malkaskaldė
 akmenskaldė
@@ -27257,6 +27254,7 @@ Arvaldė
 Barvaldė
 Varvaldė
 Imbervaldė
+Jogervaldė
 Ankervaldė
 Ežervaldė
 Kūnradėsvaldė
@@ -27311,7 +27309,6 @@ makštikandė
 Landė
 balandė
 Balandė
-Galandė
 normavalandė
 ampervalandė
 kilovatvalandė
@@ -27675,6 +27672,7 @@ vynspaudė
 raudė
 Raudė
 Paraudė
+Graudė
 Augraudė
 Karalraudė
 plėstaspraudė
@@ -27702,7 +27700,6 @@ Vilkbudė
 Mikalbudė
 Kuopelbudė
 Milbudė
-Berbudė
 Norbudė
 Kuorbudė
 Laksbudė
@@ -29396,7 +29393,7 @@ sūnaikė
 paikė
 puspaikė
 Raikė
-Kameraikė
+Kamaraikė
 graikė
 pussaikė
 vaikė
@@ -29778,6 +29775,7 @@ Kampikė
 Pempikė
 Triumpikė
 pumpikė
+Pumpikė
 trumpikė
 pritrumpikė
 lopikė
@@ -30378,7 +30376,6 @@ Pliklankė
 mėlynlankė
 Pjaunlankė
 Polankė
-Plankė
 Lieplankė
 Liplankė
 Pemplankė
@@ -33662,6 +33659,7 @@ uteniškė
 Buteniškė
 Kuteniškė
 Veniškė
+Draveniškė
 Ieveniškė
 Lengveniškė
 Gerveniškė
@@ -37419,6 +37417,7 @@ normalė
 Purmalė
 mėsmalė
 Laumalė
+Naumalė
 Lygumalė
 mumalė
 kūmalė
@@ -39939,6 +39938,7 @@ išgverėlė
 Ežerėlė
 Paežerėlė
 Poežerėlė
+Antežerėlė
 pasigėrėlė
 prasigėrėlė
 prisigėrėlė
@@ -42010,7 +42010,6 @@ Perkulė
 Virkulė
 Paburkulė
 Kurkulė
-Kryviskulė
 mulė
 mamulė
 ramulė
@@ -42099,6 +42098,7 @@ klauzulė
 mažulė
 žiežulė
 Pažiežulė
+Mižulė
 dryžulė
 gryžulė
 gaužulė
@@ -42220,6 +42220,7 @@ Dačkiemė
 Žaldkiemė
 Visekiemė
 šalikiemė
+Benkiemė
 Tolminkiemė
 Darkiemė
 prieškiemė
@@ -62239,7 +62240,6 @@ Brūžienė
 praujenė
 Pakenė
 manekenė
-Alkenė
 kalkenė
 Pelkenė
 Lankenė
@@ -62596,6 +62596,7 @@ Dainė
 šokoladainė
 ledainė
 Medainė
+Sydainė
 Skuldainė
 Grandainė
 Verdainė
@@ -62653,6 +62654,7 @@ tėvynainė
 Lauknainė
 šonainė
 duonainė
+Bornainė
 vyšnainė
 proainė
 painė
@@ -65074,7 +65076,6 @@ kilminė
 Kilminė
 iškilminė
 Tolminė
-Kuolminė
 Tulminė
 ominė
 Adominė
@@ -67989,7 +67990,6 @@ puspuodynė
 gruodynė
 suodynė
 Palabardynė
-Skerdynė
 Paskerdynė
 Perdynė
 Eigirdynė
@@ -69054,6 +69054,7 @@ Dumblynė
 Padumblynė
 Skroblynė
 Paskroblynė
+Bublynė
 Rublynė
 Madlynė
 Zabelynė
@@ -69320,6 +69321,7 @@ uolynė
 obuolynė
 Obuolynė
 Raguolynė
+Muolynė
 Samuolynė
 Prapuolynė
 ąžuolynė
@@ -69378,7 +69380,6 @@ kriaukšlynė
 Petlynė
 Murtlynė
 Pjaulynė
-Maulynė
 Naulynė
 Paulynė
 Raulynė
@@ -69478,6 +69479,7 @@ Kelmynė
 Pakelmynė
 Pokelmynė
 Pakilmynė
+Kulmynė
 omynė
 Adomynė
 Rodomynė
@@ -70690,6 +70692,7 @@ tirštynė
 muštynė
 Ottynė
 Mickiautynė
+Šliautynė
 Jautynė
 pjautynė
 plautynė
@@ -71022,6 +71025,7 @@ Buzakalnė
 Mižakalnė
 Pabijuckalnė
 Pagečkalnė
+Pelėdkalnė
 Pajuodkalnė
 priekalnė
 Priekalnė
@@ -74437,7 +74441,6 @@ mėšlamusė
 mamusė
 minamusė
 Pamusė
-Pagramusė
 Antamusė
 briedmusė
 žiedmusė
@@ -74771,6 +74774,7 @@ išviršė
 Uršė
 šiuršė
 kuršė
+Tautšė
 Penutšė
 Baltutšė
 Pagaušė
@@ -75659,7 +75663,6 @@ Mikėvietė
 žagvietė
 Degvietė
 žygvietė
-Saugvietė
 dvivietė
 prekyvietė
 Šakvietė
@@ -75677,6 +75680,7 @@ maskvietė
 Černauskvietė
 Kaukvietė
 Samuolaukvietė
+Saukvietė
 Kačiukvietė
 Rūkvietė
 Malvietė
@@ -75689,7 +75693,6 @@ Butelvietė
 Daržinėlvietė
 Pilvietė
 Šilvietė
-Vašvilvietė
 Vaišvilvietė
 Maskolvietė
 Šaulvietė
@@ -81990,7 +81993,6 @@ Turlaitė
 šlaitė
 našlaitė
 pašlaitė
-Pašlaitė
 Bešlaitė
 Paišlaitė
 Šišlaitė
@@ -86599,6 +86601,7 @@ Avižaitė
 Čyžaitė
 Blyžaitė
 Dryžaitė
+Vyžaitė
 Velžaitė
 Bilžaitė
 Glemžaitė
@@ -91801,6 +91804,7 @@ Kitrytė
 Spitrytė
 notrytė
 Šveistrytė
+Kaustrytė
 Skutrytė
 Putrytė
 Gaurytė
@@ -94773,7 +94777,7 @@ Bartė
 Pabartė
 Eibartė
 Pukibartė
-Žibartė
+Zibartė
 Kybartė
 Lybartė
 Žybartė
@@ -96937,6 +96941,7 @@ Kalamutė
 mamutė
 Ramutė
 Gramutė
+Pagramutė
 Gemutė
 schemutė
 Kaimutė
@@ -101507,7 +101512,6 @@ radiošienpjovė
 skerspjovė
 lentpjovė
 naujovė
-Kovė
 kumščiakovė
 daugiakovė
 penkiakovė
@@ -102882,7 +102886,6 @@ uždaržė
 Kataržė
 Varžė
 mažavaržė
-Švaržė
 priešvaržė
 gretvaržė
 Beržė
@@ -103311,7 +103314,6 @@ Kikladai
 Pladai
 Gauladai
 Čiuladai
-Abradai
 Ilgabradai
 Vilbradai
 Sporadai
@@ -103548,7 +103550,6 @@ Maugirdai
 Niskirdai
 makabordai
 Dauskurdai
-Barsdai
 Gailbaudai
 Daudai
 prieaudai
@@ -104205,7 +104206,6 @@ pražambiai
 prožambiai
 Padembiai
 Gumbiai
-Skumbiai
 Rumbiai
 Bobiai
 Pudobiai
@@ -104536,6 +104536,7 @@ Nestonviečiai
 Laskoviečiai
 Sarviečiai
 Dvarviečiai
+Bilderviečiai
 Gerviečiai
 Totorviečiai
 Misviečiai
@@ -105005,6 +105006,7 @@ Padvaraičiai
 Pivaraičiai
 Giedraičiai
 Piedraičiai
+Vedraičiai
 Budraičiai
 Judraičiai
 Ederaičiai
@@ -105128,7 +105130,6 @@ Drąsutaičiai
 Būtaičiai
 Vaičiai
 Gavaičiai
-Būdvaičiai
 Dievaičiai
 Pievaičiai
 Kaneivaičiai
@@ -105681,6 +105682,7 @@ Nevočiai
 Puvočiai
 Padapčiai
 Kapčiai
+Skapčiai
 poslapčiai
 klepčiai
 Repčiai
@@ -106422,6 +106424,7 @@ regzčiai
 Grąžčiai
 Kalnagrąžčiai
 Pasugediai
+Būdviediai
 Saldiai
 Delfiai
 Dagiai
@@ -106639,6 +106642,7 @@ Rengiai
 Narengiai
 Stabingiai
 Stebingiai
+Stobingiai
 Dubingiai
 Medingiai
 Naudingiai
@@ -108692,6 +108696,7 @@ Plieniškiai
 Paprieniškiai
 Pavieniškiai
 Krakeniškiai
+Linkeniškiai
 Pukeniškiai
 Pūkeniškiai
 Peleniškiai
@@ -108888,7 +108893,6 @@ Pabijoniškiai
 Pijoniškiai
 Cintijoniškiai
 Greitjoniškiai
-Linkoniškiai
 Paškoniškiai
 Maloniškiai
 Kamoniškiai
@@ -109950,6 +109954,7 @@ Plaukiai
 Laplaukiai
 Paplaukiai
 lipaplaukiai
+Juodplaukiai
 Lieplaukiai
 Neplaukiai
 Kriplaukiai
@@ -109995,7 +110000,7 @@ Puslaukiai
 Prūslaukiai
 Mešlaukiai
 Meišlaukiai
-Gervišlaukiai
+Genšlaukiai
 Viršlaukiai
 Bušlaukiai
 Patlaukiai
@@ -110030,6 +110035,7 @@ Mažlaukiai
 Ąžlaukiai
 Juodžlaukiai
 Žvyrgžlaukiai
+Miližlaukiai
 Milžlaukiai
 Varžlaukiai
 Beržlaukiai
@@ -110734,6 +110740,7 @@ Gaideliai
 Naideliai
 Žaideliai
 dideliai
+Kideliai
 Žydeliai
 Dandeliai
 Mendeliai
@@ -110967,6 +110974,7 @@ Posmeliai
 Pagriaumeliai
 Laumeliai
 Lygumeliai
+Kumeliai
 Dūmeliai
 Pakrūmeliai
 Tūmeliai
@@ -110983,7 +110991,6 @@ Laugneliai
 Dugneliai
 Lougneliai
 Daineliai
-Klaineliai
 Maineliai
 Traineliai
 Čineliai
@@ -111185,6 +111192,7 @@ Meteliai
 Klėteliai
 Laiteliai
 Mernaiteliai
+Paiteliai
 Vaiteliai
 Veiteliai
 Paziteliai
@@ -112587,7 +112595,6 @@ Kirstšuliai
 Čebatuliai
 Platuliai
 Matuliai
-Patuliai
 Ratuliai
 Kaituliai
 rituliai
@@ -112667,6 +112674,7 @@ Pakiemiai
 Andrakiemiai
 Pustakiemiai
 Telyčkiemiai
+Sudkiemiai
 Galkiemiai
 Karalkiemiai
 Mielkiemiai
@@ -112781,7 +112789,7 @@ Laumiai
 Mumiai
 ūmiai
 dūmiai
-Smatadūmiai
+Smaladūmiai
 neūmiai
 Krūmiai
 Plačiakrūmiai
@@ -113077,6 +113085,7 @@ Vailainiai
 Šilainiai
 Patilainiai
 Vilainiai
+Klainiai
 Barklainiai
 Berklainiai
 Kolainiai
@@ -113098,6 +113107,7 @@ Kapainiai
 Palapainiai
 nepainiai
 Valpainiai
+Sulpainiai
 Trumpainiai
 Kruopainiai
 Ūpainiai
@@ -113883,7 +113893,6 @@ Rūdyniai
 Prūdyniai
 Lazdyniai
 Palazdyniai
-Degyniai
 Priešgyniai
 Lauskyniai
 Nauskyniai
@@ -113972,7 +113981,6 @@ Buzakalniai
 Rožakalniai
 Žečkalniai
 Pučkalniai
-Pelėdkalniai
 Gracidkalniai
 Pilekalniai
 Lelėkalniai
@@ -114681,6 +114689,7 @@ ragasnapiai
 plokščiasnapiai
 Ūdrapiai
 trapiai
+Auksapiai
 Liūdtapiai
 Vapiai
 Liepiai
@@ -114706,7 +114715,6 @@ nepašaipiai
 Skleipiai
 Osipiai
 Uosipiai
-Augstipiai
 Puipiai
 Palypiai
 Dvilypiai
@@ -115116,6 +115124,7 @@ roputstambriai
 Pavembriai
 Stimbriai
 Dumbriai
+Skumbriai
 Stumbriai
 dobriai
 Žiobriai
@@ -115182,7 +115191,6 @@ Kinderiai
 Poderiai
 Dauderiai
 Pliūderiai
-Šeferiai
 Lackageriai
 Lageriai
 Legeriai
@@ -115868,7 +115876,6 @@ tikriausiai
 Vyžiausiai
 blausiai
 neblausiai
-Klausiai
 Miklausiai
 Rausiai
 Parausiai
@@ -116293,6 +116300,7 @@ Pamūšiai
 Jaučmūšiai
 Pagrūšiai
 Norūšiai
+Būdvietiai
 Lėlaitiai
 Javitiai
 Dadaviai
@@ -116358,6 +116366,7 @@ Deiviai
 Šleiviai
 Kreiviai
 Pakreiviai
+Kiviai
 Paginiviai
 Pašiviai
 Gyviai
@@ -116612,7 +116621,6 @@ apygražiai
 Kražiai
 Paukštažiai
 Saulėgrąžiai
-Krebžiai
 pusbadžiai
 Kadžiai
 Pladžiai
@@ -116676,6 +116684,7 @@ Nuomedžiai
 popiermedžiai
 Labatmedžiai
 Naumedžiai
+Dievmedžiai
 Užmedžiai
 Šedžiai
 Meškavedžiai
@@ -116737,6 +116746,7 @@ Traidžiai
 Saidžiai
 Vaidžiai
 didžiai
+Didžiai
 Padidžiai
 išdidžiai
 neišdidžiai
@@ -117009,7 +117019,6 @@ Rudžiai
 Jarudžiai
 Parudžiai
 Grudžiai
-Skrudžiai
 Žudžiai
 Mockabūdžiai
 Maskabūdžiai
@@ -117199,6 +117208,7 @@ Latožiai
 Piktožiai
 Buožiai
 Ruožiai
+Krapžiai
 Naujadaržiai
 Butkadaržiai
 Galadaržiai
@@ -117525,7 +117535,7 @@ Stojai
 Pabuojai
 Duojai
 Paguojai
-Kirkuojai
+Rinkuojai
 Pupuojai
 Kertuojai
 Aukštuojai
@@ -117626,9 +117636,9 @@ Tarakai
 Matarakai
 Motarakai
 Abrakai
-Skambrakai
 Čeberakai
 Materakai
+Skamrakai
 Trakai
 Batrakai
 Galatrakai
@@ -117961,7 +117971,6 @@ Nevėžnikai
 Šlapikai
 kitapikai
 Kumpikai
-Pumpikai
 tropikai
 subtropikai
 Verpikai
@@ -117987,7 +117996,6 @@ Petrikai
 Šetrikai
 Pėtrikai
 Siaurikai
-Jurikai
 sikai
 Pasikai
 Siesikai
@@ -118181,7 +118189,6 @@ Dubeninkai
 Lieninkai
 Paalieninkai
 Saleninkai
-Peleninkai
 Zemeninkai
 Akmeninkai
 Salseninkai
@@ -118203,6 +118210,7 @@ Lubininkai
 Dūbininkai
 Klecininkai
 Plecininkai
+Spicininkai
 Salcininkai
 Marcininkai
 Mečininkai
@@ -118216,7 +118224,6 @@ Medininkai
 Pauliamedininkai
 Gaidininkai
 Laidininkai
-Pavaidininkai
 Eidininkai
 maldininkai
 Grendininkai
@@ -118312,7 +118319,6 @@ Lermininkai
 Apširmininkai
 Versmininkai
 kūmininkai
-Karžanininkai
 Benininkai
 Stenininkai
 Kalnininkai
@@ -118334,17 +118340,17 @@ Ropininkai
 Varpininkai
 Raupininkai
 Vyskupininkai
+Varininkai
 Dvarininkai
 Padvarininkai
 Kalvarininkai
 Dabrininkai
 Bebrininkai
 Mierininkai
-Sterininkai
 Ežerininkai
 Mėrininkai
 Girininkai
-Stirininkai
+Styrininkai
 porininkai
 Šatrininkai
 Mūrininkai
@@ -118366,6 +118372,7 @@ Natininkai
 Ratininkai
 Sietininkai
 Raitininkai
+Pavaitininkai
 Bitininkai
 Vytininkai
 Buktininkai
@@ -118504,6 +118511,7 @@ Guntauninkai
 Kertauninkai
 Pastauninkai
 Lažauninkai
+Karžauninkai
 Panemuninkai
 Pervazninkai
 Pabezninkai
@@ -120995,6 +121003,7 @@ piaulai
 pjaulai
 kraulai
 Gabulai
+Vabulai
 riebulai
 Bumbulai
 drumbulai
@@ -121960,7 +121969,6 @@ Umėnai
 Daumėnai
 Laumėnai
 Draumėnai
-Bumėnai
 Maldanėnai
 Janėnai
 Spanėnai
@@ -122061,6 +122069,7 @@ Būdupėnai
 Antbūdupėnai
 Papūdupėnai
 Prūdupėnai
+Vanagupėnai
 Ragupėnai
 Žvigupėnai
 Daugupėnai
@@ -122082,8 +122091,9 @@ Karklupėnai
 Molupėnai
 Kūlupėnai
 Klanupėnai
-Stanupėnai
+Stonupėnai
 Alksnupėnai
+Kirsnupėnai
 Virsnupėnai
 Vinkšnupėnai
 Pupėnai
@@ -122099,7 +122109,6 @@ Baltupėnai
 Protupėnai
 Kartupėnai
 Barstupėnai
-Kerstupėnai
 Šiekštupėnai
 Antšiekštupėnai
 Aukštupėnai
@@ -122463,7 +122472,6 @@ Galginai
 pražanginai
 praženginai
 Marginai
-Spirginai
 Jurginai
 Visginai
 Liausginai
@@ -122526,7 +122534,6 @@ Rūdminai
 Jagminai
 Jogminai
 Liminai
-Kulminai
 Tulminai
 Skominai
 Arminai
@@ -122781,6 +122788,7 @@ Dagynai
 Kadagynai
 Makagynai
 Baragynai
+Degynai
 Daigynai
 Smilgynai
 Vargynai
@@ -122857,6 +122865,7 @@ kunkulynai
 Kūlynai
 Kaimynai
 Kelmynai
+Kulmynai
 Surmynai
 Peraumynai
 gardumynai
@@ -122934,6 +122943,7 @@ Paltynai
 Žaltynai
 Smiltynai
 Bukantynai
+Zigmantynai
 Irmantynai
 Jasmantynai
 Šaršantynai
@@ -122955,7 +122965,6 @@ Pieštynai
 šabakštynai
 piekštynai
 Rikštynai
-Šliautynai
 Svardavynai
 Kalavynai
 Navynai
@@ -123127,6 +123136,7 @@ nesilpnai
 Darnai
 marnai
 Matarnai
+Varnai
 Bernai
 Kernai
 Lamernai
@@ -123918,7 +123928,7 @@ Pilipai
 Plipai
 Knipai
 Šipai
-Anstipai
+Antstipai
 Puipai
 prakypai
 įkypai
@@ -124269,9 +124279,9 @@ Bazorai
 Stieprai
 Ožkeprai
 Dunėprai
+Kamprai
 Pakauprai
 nasrai
-Kampsrai
 Pikšrai
 Pykšrai
 Tatrai
@@ -124462,7 +124472,6 @@ Aisai
 Gaisai
 Pailgaisai
 Jaisai
-Laisai
 maisai
 Rimaisai
 Kilbisai
@@ -124734,7 +124743,6 @@ Gudavietai
 Loskavietai
 Pravietai
 Mocvietai
-Būdvietai
 Dėdėvietai
 Dangvietai
 Telkvietai
@@ -174179,7 +174187,6 @@ Kirchhofas
 Miulenhofas
 Zamenhofas
 Katarinenhofas
-Justinenhofas
 Renhofas
 Loisenhofas
 Dorotenhofas
@@ -179673,6 +179680,7 @@ Mašarnikas
 Mišarnikas
 Myšarnikas
 Mušarnikas
+Varnikas
 Bernikas
 Kacernikas
 Černikas
@@ -211392,6 +211400,7 @@ darginas
 Darginas
 glarginas
 lizerginas
+Spirginas
 Morginas
 Churginas
 jurginas
@@ -213316,6 +213325,7 @@ dumblynas
 Dumblynas
 skroblynas
 Madlynas
+Krabelynas
 obelynas
 Obelynas
 medelynas
@@ -225224,6 +225234,7 @@ Lygutas
 Gelgutas
 Ilgutas
 mangutas
+Romansgutas
 ketgutas
 Vaizgutas
 žgutas
@@ -228234,7 +228245,6 @@ Pelakės
 Medolakės
 Lapakės
 Krakės
-Trakės
 Patrakės
 Lavatrakės
 Osakės
@@ -232782,7 +232792,6 @@ prausynės
 Pelišynės
 Pakamšynės
 Repšynės
-Plaušynės
 mušynės
 Pušynės
 Papušynės
@@ -233203,7 +233212,6 @@ Retuosės
 izohipsės
 Kuopsės
 liaupsės
-Dirsės
 Pursės
 Galiausės
 Pakriausės
@@ -233388,6 +233396,7 @@ Lendruotės
 Laužuotės
 Ravotės
 dabartės
+Liubartės
 Papartės
 Vartės
 Lapiavartės
@@ -243713,7 +243722,6 @@ Niuklaukis
 Paluklaukis
 Ruklaukis
 Ripellaukis
-Kaullaukis
 Mukullaukis
 Miemlaukis
 Memlaukis
@@ -243848,7 +243856,6 @@ keturlaukis
 Saslaukis
 Drąslaukis
 Česlaukis
-Geslaukis
 Mieslaukis
 Švieslaukis
 Peslaukis
@@ -243873,6 +243880,7 @@ Pabrėšlaukis
 išlaukis
 Išlaukis
 Vaišlaukis
+Gervišlaukis
 Mekšlaukis
 Kėkšlaukis
 Daukšlaukis
@@ -243923,6 +243931,7 @@ Norutlaukis
 Mižūtlaukis
 aulaukis
 Aulaukis
+Kaulaukis
 Naulaukis
 Vidulaukis
 Magasiulaukis
@@ -247790,6 +247799,7 @@ laivelis
 Geivelis
 Kivelis
 Krivelis
+Šivelis
 Živelis
 įvelis
 Galvelis
@@ -252686,13 +252696,11 @@ Vidkiemis
 Žydkiemis
 Puodkiemis
 Nebudkiemis
-Sūdkiemis
 Bekiemis
 priekiemis
 Rėklekiemis
 Tutlekiemis
 Vapekiemis
-Tutekiemis
 Vazgaikiemis
 Sudeikiemis
 Domeikiemis
@@ -252749,7 +252757,6 @@ Darkiemis
 Biednarkiemis
 Valtarkiemis
 Starkiemis
-Valterkiemis
 Nemirkiemis
 Totorkiemis
 Storkiemis
@@ -252768,7 +252775,6 @@ Mineiškiemis
 Trakiškiemis
 Liškiemis
 Bališkiemis
-Kraupiškiemis
 Pryškiemis
 Parškiemis
 Andriuškiemis
@@ -252982,6 +252988,7 @@ Triskaimis
 Bloskaimis
 puskaimis
 Vardeliškaimis
+Puškaimis
 Augtkaimis
 Sitkaimis
 Mainytkaimis
@@ -252994,12 +253001,10 @@ Bartkaimis
 Burtkaimis
 Pasiutkaimis
 Kutkaimis
-Putkaimis
 Pasutkaimis
 Nebūtkaimis
 Aukaimis
 Naukaimis
-Kukaimis
 galukaimis
 Rupūžkaimis
 Laimis
@@ -261037,6 +261042,7 @@ pabirinis
 sibirinis
 Bimbirinis
 nuobirinis
+Cirinis
 porfirinis
 girinis
 pagirinis
@@ -266553,6 +266559,7 @@ Parakankalnis
 Balankalnis
 Kamankalnis
 Rankalnis
+Sankalnis
 Dzvankalnis
 Rugenkalnis
 Pautienkalnis
@@ -269688,6 +269695,7 @@ Pyupis
 Jaujupis
 Pajaujupis
 Kraujupis
+Akupis
 Dakupis
 Ledakupis
 Medakupis
@@ -289054,6 +289062,7 @@ Bagdanonys
 Janonys
 Simanonys
 Kelmanonys
+Gurenonys
 Gavėnonys
 Padugnonys
 Dovainonys
